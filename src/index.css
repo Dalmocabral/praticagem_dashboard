@@ -211,25 +211,36 @@ body {
 }
 
 /* Mobile Responsiveness */
+/* Mobile Responsiveness */
 @media (max-width: 768px) {
   .dashboard {
     padding: 10px;
+    max-width: 100vw;
+    overflow-x: hidden;
   }
   
   .header {
     flex-direction: column;
     align-items: flex-start;
-    gap: 15px;
+    gap: 10px;
+    padding: 10px 0;
+  }
+  
+  .logo h1 {
+    font-size: 1.5rem;
   }
   
   .meta {
     text-align: left;
     width: 100%;
+    font-size: 0.8rem;
   }
 
+  /* Compact Card Style */
   .navios-table, .navios-table tbody, .navios-table tr, .navios-table td {
     display: block;
     width: 100%;
+    box-sizing: border-box; /* Prevent padding from causing overflow */
   }
 
   .navios-table thead {
@@ -237,45 +248,76 @@ body {
   }
 
   .navios-table tr {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     background: var(--card-bg);
     border: 1px solid #334155;
-    border-radius: 12px;
-    padding: 15px;
+    border-radius: 8px;
+    padding: 10px; /* Reduced padding */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
   }
 
   .navios-table td {
-    padding: 8px 0;
+    padding: 4px 0; /* Reduced vertical padding */
     border-bottom: 1px solid rgba(255,255,255,0.05);
     display: flex;
     justify-content: space-between;
     align-items: center;
     text-align: right;
+    font-size: 0.9rem;
+    min-height: 28px;
   }
 
   .navios-table td:last-child {
     border-bottom: none;
+    padding-bottom: 0;
   }
 
   .navios-table td::before {
     content: attr(data-label);
     font-weight: 600;
     color: var(--text-secondary);
-    font-size: 0.85rem;
+    font-size: 0.8rem; /* Smaller label */
     text-align: left;
-    margin-right: 15px;
+    margin-right: 10px;
+    flex-shrink: 0;
   }
 
   /* Specific adjustments for mobile view content */
   .col-data, .col-navio {
     justify-content: flex-start !important;
+    text-align: left;
+    align-items: flex-start !important;
   }
   
-  .data-cell, .navio-text {
-    align-items: flex-end; /* Align right on mobile */
+  .col-navio {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+    background: rgba(255,255,255,0.03);
+    margin: 5px -10px; /* Full width highlighted strip */
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    border-top: 1px solid rgba(255,255,255,0.05);
+    border-bottom: 1px solid rgba(255,255,255,0.05);
   }
-  
+
   .navio-info {
-    flex-direction: row-reverse; /* Swap icon and text direction */
+    flex-direction: row; /* Keep icon left on mobile for better look in this layout */
+    width: 100%;
+    justify-content: flex-start;
+  }
+  
+  .navio-text {
+    align-items: flex-start;
+    text-align: left;
+  }
+  
+  .data-cell {
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+  }
+  
+  .navio-table td[data-label="Data / Hora"] {
+      justify-content: flex-start;
   }
 }
