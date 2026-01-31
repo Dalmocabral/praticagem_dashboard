@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/01/2026 12:43",
+  "ultima_atualizacao": "31/01/2026 12:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -247,21 +247,6 @@
     },
     {
       "data": "02/02",
-      "hora": "04:30",
-      "navio": "CMA CGM VERACRUZ",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9418377",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-02T04:30:00"
-    },
-    {
-      "data": "02/02",
       "hora": "05:30",
       "navio": "MSC ALBANY",
       "calado": "12,60",
@@ -364,6 +349,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-02T13:00:00"
+    },
+    {
+      "data": "02/02",
+      "hora": "15:00",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-02T15:00:00"
     },
     {
       "data": "03/02",
@@ -942,6 +942,69 @@
       "navio_multi": "MSC MUGE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "01/02 04:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_fim": "02/02 15:00",
+      "navio_multi": "MSC ALBANY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/02 05:30"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_fim": "02/02 15:00",
+      "navio_multi": "MSC ALBANY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/02 05:30"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_fim": "02/02 15:00",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "02/02 07:30"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_fim": "02/02 15:00",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "02/02 07:30"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_fim": "02/02 15:00",
+      "navio_multi": "MSC CARLOTTA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/02 11:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_fim": "02/02 15:00",
+      "navio_multi": "MSC CARLOTTA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/02 11:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_fim": "02/02 15:00",
+      "navio_multi": "LOG-IN RESILIENTE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "02/02 13:00"
     },
     {
       "navio_rio": "CLEAROCEAN MELODY",
