@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "31/01/2026 10:08",
+  "ultima_atualizacao": "31/01/2026 10:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "31/01",
-      "hora": "08:30",
-      "navio": "MSC MUGE",
-      "calado": "11,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9978949",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-01-31T08:30:00"
-    },
-    {
-      "data": "31/01",
-      "hora": "08:30",
-      "navio": "MSC MUGE",
-      "calado": "11,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9978949",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-01-31T08:30:00"
-    },
     {
       "data": "31/01",
       "hora": "12:30",
@@ -52,7 +22,7 @@
     },
     {
       "data": "31/01",
-      "hora": "18:00",
+      "hora": "17:30",
       "navio": "MSC ELODIE",
       "calado": "13,50",
       "manobra": "E",
@@ -63,11 +33,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-01-31T18:00:00"
+      "timestamp": "2026-01-31T17:30:00"
     },
     {
       "data": "31/01",
-      "hora": "18:00",
+      "hora": "17:30",
       "navio": "MSC ELODIE",
       "calado": "13,50",
       "manobra": "E",
@@ -78,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-01-31T18:00:00"
+      "timestamp": "2026-01-31T17:30:00"
     },
     {
       "data": "31/01",
@@ -939,21 +909,21 @@
   "conflitos": [
     {
       "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "31/01 12:30",
       "manobra_rio_fim": "31/01 23:00",
       "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/01 18:00"
+      "manobra_multi_data_hora": "31/01 17:30"
     },
     {
       "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "31/01 12:30",
       "manobra_rio_fim": "31/01 23:00",
       "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/01 18:00"
+      "manobra_multi_data_hora": "31/01 17:30"
     },
     {
       "navio_rio": "MALIAKOS",
