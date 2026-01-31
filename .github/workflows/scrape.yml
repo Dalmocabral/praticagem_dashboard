@@ -1,4 +1,4 @@
-name: Live Scraper
+name: Scrape and Deploy
 
 on:
   push:
@@ -6,15 +6,24 @@ on:
       - main
   schedule:
     - cron: '*/5 * * * *'  # Runs every 5 minutes
-  workflow_dispatch:      # Allows manual run from Actions tab
+  workflow_dispatch:      # Allows manual run
+
+# Permissions required for committing data and deploying to pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
+  # Job 1: Scrape Data
   scrape-and-update:
     runs-on: ubuntu-latest
-    
-    permissions:
-      contents: write  # Critical for committing changes
-
+    outputs:
+      data_changed: ${{ steps.git-check.outputs.changes }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -37,10 +46,47 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/data.json
-          git diff --staged --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+          # Check if data.json changed
+          if git diff --staged --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit and Push
         if: steps.git-check.outputs.changes == 'true'
         run: |
           git commit -m "data: update navios.json [skip ci]"
           git push
+
+  # Job 2: Build and Deploy (Runs always after scraper, or if data changed)
+  build-and-deploy:
+    needs: scrape-and-update
+    # Clean check: Run if manual dispatch, push to main, OR if scraper found changes.
+    # Actually, we want to run ALWAYS to ensure site is up, but most importantly after data update.
+    # The 'needs' ensures it runs after scraper finishes (and pushes).
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (Latest Code)
+        uses: actions/checkout@v4
+        with:
+            ref: main # Ensure we pull the LATEST commit (potentially from scraper)
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
