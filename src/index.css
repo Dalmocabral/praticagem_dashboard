@@ -211,134 +211,159 @@ body {
 }
 
 /* Mobile Responsiveness */
-/* Mobile Responsiveness */
+/* Mobile Responsiveness - Redesign Request */
 @media (max-width: 768px) {
+  html, body {
+    overflow-x: hidden;
+    width: 100%;
+  }
+
   .dashboard {
-    padding: 10px;
-    max-width: 100vw;
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
     overflow-x: hidden;
   }
   
   .header {
     flex-direction: column;
-    align-items: flex-start;
-    gap: 10px;
-    padding: 10px 0;
+    align-items: center; /* Center align header */
+    gap: 8px;
+    padding: 5px 0;
+    text-align: center;
   }
   
   .logo h1 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
   
   .meta {
-    text-align: left;
+    text-align: center;
     width: 100%;
-    font-size: 0.8rem;
+    font-size: 0.75rem;
   }
 
-  /* Compact Card Style */
-  .navios-table, .navios-table tbody, .navios-table tr, .navios-table td {
+  /* RESET TABLE DISPLAY */
+  .navios-table, .navios-table tbody {
     display: block;
     width: 100%;
-    box-sizing: border-box; /* Prevent padding from causing overflow */
   }
 
   .navios-table thead {
     display: none;
   }
 
+  /* CARD LAYOUT - GRID */
   .navios-table tr {
-    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* 2 Columns */
+    gap: 8px;
+    margin-bottom: 12px;
     background: var(--card-bg);
     border: 1px solid #334155;
-    border-radius: 8px;
-    padding: 10px; /* Reduced padding */
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    position: relative;
   }
 
-  .navios-table td {
-    padding: 4px 0; /* Reduced vertical padding */
-    border-bottom: 1px solid rgba(255,255,255,0.05);
+  /* 1. SHIP INFO - Full Width Header */
+  .navios-table td.col-navio {
+    grid-column: 1 / -1; /* Span all columns */
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    padding-bottom: 8px;
+    margin-bottom: 5px;
+    width: 100%;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    text-align: right;
-    font-size: 0.9rem;
-    min-height: 28px;
-  }
-
-  .navios-table td:last-child {
-    border-bottom: none;
-    padding-bottom: 0;
-  }
-
-  .navios-table td::before {
-    content: attr(data-label);
-    font-weight: 600;
-    color: var(--text-secondary);
-    font-size: 0.8rem; /* Smaller label */
-    text-align: left;
-    margin-right: 10px;
-    flex-shrink: 0;
-  }
-
-  /* Specific adjustments for mobile view content */
-  .col-data, .col-navio {
-    justify-content: flex-start !important;
-    text-align: left;
-    align-items: flex-start !important;
-  }
-  
-  .col-navio {
-    padding-top: 8px !important;
-    padding-bottom: 8px !important;
-    background: rgba(255,255,255,0.03);
-    margin: 5px -10px; /* Full width highlighted strip */
-    padding-left: 10px !important;
-    padding-right: 10px !important;
-    border-top: 1px solid rgba(255,255,255,0.05);
-    border-bottom: 1px solid rgba(255,255,255,0.05);
+    justify-content: flex-start;
   }
 
   .navio-info {
-    flex-direction: row; 
-    width: 100%;
-    justify-content: flex-start;
+    flex-direction: row;
     align-items: center;
+    width: 100%;
   }
 
   .navio-icon-sm {
-    width: 24px;
-    height: 24px;
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
   }
   
   .navio-text {
+    display: flex;
+    flex-direction: column;
     align-items: flex-start;
-    text-align: left;
   }
 
   .navio-name {
-    font-size: 0.95rem;
+    font-size: 1.1rem;
+    font-weight: 800;
+    color: #fff;
+    word-break: break-word; /* Prevent overflow */
   }
   
-  .data-cell {
-    flex-direction: row;
-    gap: 8px;
-    align-items: center;
-  }
-  
-  /* Fix visibility of values */
-  .navios-table td span, 
-  .navios-table td div {
-    z-index: 1;
+  .navio-type, .navio-imo {
+    font-size: 0.7rem;
+    opacity: 0.8;
   }
 
-  /* Force right alignment for values on mobile */
+  /* 2. DATA CELLS - Compact Grid Items */
   .navios-table td {
-     text-align: right;
+    display: flex;
+    flex-direction: column; /* Label on top of value */
+    align-items: flex-start;
+    padding: 0;
+    border: none;
+  }
+
+  /* Hide original labels we added via pseudo-elements if we want a cleaner look,
+     OR style them as tiny super-script labels */
+  .navios-table td::before {
+    content: attr(data-label);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    color: var(--text-secondary);
+    margin-bottom: 2px;
+    font-weight: 700;
+  }
+
+  /* Values styling */
+  .navios-table td span, .data-cell {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #e2e8f0;
   }
   
-  .navios-table td[data-label="Data / Hora"] {
-      justify-content: flex-start;
+  /* Badge Adjustments for Mobile */
+  .badge-manobra {
+    font-size: 0.75rem;
+    padding: 2px 6px;
   }
+  
+  /* 3. STATUS - Full Width Footer if needed, or just fit in grid */
+  .navios-table td[data-label="Status"] {
+    grid-column: 1 / -1;
+    margin-top: 5px;
+    align-items: center; /* Center status */
+    background: rgba(0,0,0,0.2);
+    padding: 4px;
+    border-radius: 4px;
+  }
+  
+  .navios-table td[data-label="Status"]::before {
+    display: none; /* Hide label for status bar */
+  }
+
+  /* Hide elements that might look duplicated or needed specific tweaks */
+  .col-data {
+    order: -1; /* Maybe put date at top? Or keep in grid. Let's keep in grid position 1 */
+  }
+  
+  /* Force specific order if needed: 
+     Ship (Header)
+     Date | Manobra
+     Berco | Calado
+     Status (Footer)
+  */
 }
