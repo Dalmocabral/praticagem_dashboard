@@ -1,3 +1,5 @@
+
+import { Github, Linkedin } from 'lucide-react';
 import { useEffect, useState } from 'react';
 
 function App() {
@@ -117,6 +119,20 @@ function App() {
           </table>
         </div>
       </main>
+
+      <footer className="footer">
+        <p>Desenvolvido por <strong>Dalmo dos Santos Cabral</strong></p>
+        <div className="social-links">
+          <a href="https://github.com/Dalmocabral" target="_blank" rel="noopener noreferrer" className="social-btn">
+            <Github size={20} />
+            <span>GitHub</span>
+          </a>
+          <a href="https://www.linkedin.com/in/dalmo-cabral-062374131/" target="_blank" rel="noopener noreferrer" className="social-btn">
+            <Linkedin size={20} />
+            <span>LinkedIn</span>
+          </a>
+        </div>
+      </footer>
     </div>
   );
 }
