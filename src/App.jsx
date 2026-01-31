@@ -9,7 +9,8 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('./data.json');
+        // Adiciona timestamp para evitar cache do navegador
+        const response = await fetch(`./data.json?t=${new Date().getTime()}`);
         if (!response.ok) {
           throw new Error('Aguardando sincronização de dados...');
         }
