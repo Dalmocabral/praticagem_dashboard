@@ -210,147 +210,6 @@ body {
   text-align: center;
 }
 
-/* Mobile Responsiveness */
-/* Mobile Responsiveness - Compact List View (User Request) */
-@media (max-width: 768px) {
-  html, body { overflow-x: hidden; width: 100%; }
-
-  .dashboard {
-    padding: 0;
-    width: 100%;
-    box-sizing: border-box;
-  }
-  
-  .header {
-    padding: 10px;
-    background: #0f172a;
-    border-bottom: 1px solid #334155;
-    margin-bottom: 0;
-  }
-
-  .navios-table {
-    display: block;
-    width: 100%;
-    border-collapse: collapse;
-  }
-
-  .navios-table thead { display: none; }
-  .navios-table tbody { display: block; width: 100%; }
-
-  /* ROW DESIGN - Ultra Compact */
-  .navios-table tr {
-    display: flex;
-    flex-wrap: nowrap;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 5px; /* Minimal side padding */
-    border-bottom: 1px solid rgba(255,255,255,0.1);
-    background: transparent;
-    gap: 5px; /* Reduced gap */
-  }
-
-  .navios-table tr:nth-child(even) {
-    background: rgba(255,255,255,0.02);
-  }
-
-  /* Hidden Columns */
-  .col-calado, .col-status, .navios-table td[data-label="Status"], .navios-table td::before, .navio-type, .navio-imo, .navio-icon-sm {
-    display: none !important;
-  }
-
-  /* 1. DATA (Left) - Smallest possible */
-  .col-data {
-    width: 35px; /* Reduced width */
-    flex-shrink: 0;
-    font-size: 0.7rem; /* Smaller font */
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    color: var(--text-secondary);
-    padding: 0;
-  }
-  
-  .col-data .data-cell {
-    flex-direction: column;
-    gap: 0px;
-  }
-  
-  .col-data .hora {
-    color: #fff;
-    font-size: 0.8rem; /* Highlight time */
-    font-weight: 700;
-  }
-
-  /* 2. NAVIO (Middle) - Flexible */
-  .col-navio {
-    flex-grow: 1;
-    width: 0;
-    padding: 0 4px;
-    border: none !important;
-    margin: 0 !important;
-    display: flex;
-    align-items: center;
-  }
-
-  .navio-info {
-    flex-direction: row;
-    align-items: center;
-    width: 100%;
-  }
-
-  .navio-text {
-    align-items: flex-start;
-    width: 100%;
-  }
-
-  .navio-name {
-    font-size: 0.85rem; /* Reduced from 0.95 (fit more text) */
-    font-weight: 700;
-    color: #fff;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    width: 100%;
-    display: block;
-  }
-
-  /* 3. MANOBRA & BERÇO (Right) */
-  .col-manobra {
-    width: auto;
-    flex-shrink: 0;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-  }
-
-  .badge-manobra {
-    font-size: 0.65rem; /* Smaller badge */
-    padding: 2px 4px;
-    min-width: 50px;
-    text-align: center;
-  }
-
-  .col-berco {
-    width: 40px; /* Reduced width */
-    flex-shrink: 0;
-    text-align: right;
-    font-size: 0.75rem;
-    font-weight: 600;
-    color: var(--highlight);
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    padding: 0;
-  }
-  
-  .navios-table td {
-    border: none;
-    box-shadow: none;
-  }
-}
-
 /* Footer Styling */
 .footer {
   text-align: center;
@@ -392,7 +251,403 @@ body {
 }
 
 .social-btn:hover {
-  background: var(--highlight);
-  border-color: var(--highlight);
+  background: var(--accent);
+  border-color: var(--accent);
   transform: translateY(-2px);
+}
+
+/* ============================================
+   MOBILE RESPONSIVENESS - COMPACTO E SEM SCROLL
+   ============================================ */
+@media (max-width: 768px) {
+  html, body { 
+    overflow-x: hidden; 
+    width: 100%; 
+  }
+
+  .dashboard {
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .header {
+    padding: 12px 15px;
+    background: linear-gradient(180deg, rgba(30, 41, 59, 0.9) 0%, rgba(15, 23, 42, 0.7) 100%);
+    border-bottom: 1px solid #334155;
+    margin-bottom: 0;
+    gap: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .logo h1 {
+    font-size: 1.2rem;
+    margin: 0;
+  }
+
+  .badge {
+    padding: 2px 5px;
+    font-size: 0.6rem;
+  }
+
+  .meta {
+    width: 100%;
+    text-align: left;
+  }
+
+  .meta p {
+    margin: 0;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+  }
+
+  .status-barra {
+    display: flex;
+    width: 100%;
+    font-size: 0.75rem;
+    padding: 6px 10px;
+    margin-top: 5px;
+  }
+
+  .main-content {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+
+  /* TABELA MOBILE - TRANSFORMAÇÃO EM CARDS COMPACTOS */
+  .table-container {
+    overflow: visible;
+    background: transparent;
+    border: none;
+    border-radius: 0;
+  }
+
+  .navios-table {
+    display: block;
+    width: 100%;
+    border-collapse: collapse;
+    min-width: unset;
+  }
+
+  .navios-table thead { 
+    display: none; 
+  }
+
+  .navios-table tbody { 
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+  }
+
+  /* LINHA DA TABELA VIRA CARD */
+  .navios-table tr {
+    display: flex;
+    flex-direction: column;
+    background: var(--card-bg);
+    border: 1px solid #334155;
+    border-radius: 8px;
+    padding: 0;
+    margin: 0;
+    border-bottom: none;
+  }
+
+  .navios-table tr:hover {
+    background: rgba(30, 41, 59, 0.8);
+    border-color: var(--accent);
+  }
+
+  /* CÉLULA DA TABELA VIRA LINHA DO CARD */
+  .navios-table td {
+    padding: 0;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 12px;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    font-size: 0.85rem;
+  }
+
+  .navios-table td:last-child {
+    border-bottom: none;
+  }
+
+  .navios-table td::before {
+    content: attr(data-label);
+    font-weight: 600;
+    color: var(--text-secondary);
+    min-width: 90px;
+    font-size: 0.75rem;
+  }
+
+  /* COLUNA DATA */
+  .col-data {
+    padding: 10px 12px !important;
+    background: rgba(59, 130, 246, 0.1);
+    border-radius: 6px 6px 0 0;
+    border-bottom: 1px solid rgba(255,255,255,0.05) !important;
+  }
+
+  .col-data::before {
+    display: none;
+  }
+
+  .data-cell {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
+  }
+
+  .data-cell span:first-child {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+  }
+
+  .data-cell .hora {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--accent);
+  }
+
+  /* COLUNA NAVIO */
+  .col-navio {
+    padding: 10px 12px !important;
+    border-bottom: 1px solid rgba(255,255,255,0.05) !important;
+  }
+
+  .col-navio::before {
+    display: none;
+  }
+
+  .navio-info {
+    width: 100%;
+    gap: 10px;
+  }
+
+  .navio-icon-sm {
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
+  }
+
+  .navio-text {
+    width: 100%;
+    gap: 2px;
+  }
+
+  .navio-name {
+    font-size: 0.9rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .navio-type {
+    font-size: 0.7rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .navio-imo {
+    font-size: 0.65rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  /* COLUNA MANOBRA */
+  .navios-table td[data-label="Manobra"] {
+    padding: 8px 12px !important;
+    border-bottom: 1px solid rgba(255,255,255,0.05) !important;
+  }
+
+  .navios-table td[data-label="Manobra"]::before {
+    content: "Manobra";
+  }
+
+  .badge-manobra {
+    font-size: 0.7rem;
+    padding: 3px 8px;
+  }
+
+  /* COLUNA BERÇO */
+  .navios-table td[data-label="Berço"] {
+    padding: 8px 12px !important;
+    border-bottom: 1px solid rgba(255,255,255,0.05) !important;
+  }
+
+  .navios-table td[data-label="Berço"]::before {
+    content: "Berço";
+  }
+
+  .value-text {
+    font-weight: 600;
+  }
+
+  /* COLUNA CALADO */
+  .navios-table td[data-label="Calado"] {
+    padding: 8px 12px !important;
+    border-bottom: 1px solid rgba(255,255,255,0.05) !important;
+  }
+
+  .navios-table td[data-label="Calado"]::before {
+    content: "Calado";
+  }
+
+  /* COLUNA STATUS */
+  .navios-table td[data-label="Status"] {
+    padding: 10px 12px !important;
+    border-radius: 0 0 6px 6px;
+    border-bottom: none !important;
+  }
+
+  .navios-table td[data-label="Status"]::before {
+    content: "Status";
+  }
+
+  .alert-badge {
+    font-size: 0.65rem;
+    padding: 3px 6px;
+    width: auto;
+  }
+
+  .status-text {
+    font-size: 0.8rem;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+
+  .no-data {
+    padding: 40px 20px;
+    text-align: center;
+    font-size: 0.95rem;
+  }
+
+  .footer {
+    padding: 15px 12px;
+    margin-top: auto;
+    font-size: 0.8rem;
+  }
+
+  .footer p {
+    margin-bottom: 10px;
+  }
+
+  .social-links {
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .social-btn {
+    font-size: 0.75rem;
+    padding: 6px 12px;
+    gap: 5px;
+  }
+
+  .social-btn svg {
+    width: 14px;
+    height: 14px;
+  }
+}
+
+/* EXTRA SMALL DEVICES */
+@media (max-width: 480px) {
+  .logo h1 {
+    font-size: 1rem;
+  }
+
+  .header {
+    padding: 10px 12px;
+  }
+
+  .meta p {
+    font-size: 0.7rem;
+  }
+
+  .status-barra {
+    font-size: 0.7rem;
+    padding: 5px 8px;
+  }
+
+  .main-content {
+    padding: 8px;
+  }
+
+  .navios-table tbody {
+    gap: 6px;
+  }
+
+  .navios-table tr {
+    border-radius: 6px;
+  }
+
+  .navios-table td {
+    padding: 6px 10px !important;
+    font-size: 0.8rem;
+  }
+
+  .navios-table td::before {
+    min-width: 70px;
+    font-size: 0.7rem;
+  }
+
+  .col-data {
+    padding: 8px 10px !important;
+  }
+
+  .data-cell span:first-child {
+    font-size: 0.7rem;
+  }
+
+  .data-cell .hora {
+    font-size: 0.85rem;
+  }
+
+  .navio-icon-sm {
+    width: 32px;
+    height: 32px;
+  }
+
+  .navio-name {
+    font-size: 0.85rem;
+  }
+
+  .navio-type {
+    font-size: 0.65rem;
+  }
+
+  .badge-manobra {
+    font-size: 0.65rem;
+    padding: 2px 6px;
+  }
+
+  .value-text {
+    font-size: 0.8rem;
+  }
+
+  .alert-badge {
+    font-size: 0.6rem;
+    padding: 2px 5px;
+  }
+
+  .footer {
+    padding: 12px 10px;
+    font-size: 0.75rem;
+  }
+
+  .social-btn {
+    font-size: 0.7rem;
+    padding: 5px 10px;
+  }
 }
