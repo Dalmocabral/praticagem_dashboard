@@ -211,71 +211,86 @@ body {
 }
 
 /* Mobile Responsiveness */
-/* Mobile Responsiveness - Redesign Request */
+/* Mobile Responsiveness - Compact List View (User Request) */
 @media (max-width: 768px) {
-  html, body {
-    overflow-x: hidden;
-    width: 100%;
-  }
+  html, body { overflow-x: hidden; width: 100%; }
 
   .dashboard {
-    padding: 8px;
+    padding: 0;
     width: 100%;
     box-sizing: border-box;
-    overflow-x: hidden;
   }
   
   .header {
-    flex-direction: column;
-    align-items: center; /* Center align header */
-    gap: 8px;
-    padding: 5px 0;
-    text-align: center;
-  }
-  
-  .logo h1 {
-    font-size: 1.4rem;
-  }
-  
-  .meta {
-    text-align: center;
-    width: 100%;
-    font-size: 0.75rem;
+    padding: 10px;
+    background: #0f172a;
+    border-bottom: 1px solid #334155;
+    margin-bottom: 0;
   }
 
-  /* RESET TABLE DISPLAY */
-  .navios-table, .navios-table tbody {
+  .navios-table {
     display: block;
     width: 100%;
+    border-collapse: collapse;
   }
 
-  .navios-table thead {
-    display: none;
-  }
+  .navios-table thead { display: none; }
+  .navios-table tbody { display: block; width: 100%; }
 
-  /* CARD LAYOUT - GRID */
+  /* ROW DESIGN - Ultra Compact */
   .navios-table tr {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* 2 Columns */
-    gap: 8px;
-    margin-bottom: 12px;
-    background: var(--card-bg);
-    border: 1px solid #334155;
-    border-radius: 10px;
-    padding: 10px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
-    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 5px; /* Minimal side padding */
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    background: transparent;
+    gap: 5px; /* Reduced gap */
   }
 
-  /* 1. SHIP INFO - Full Width Header */
-  .navios-table td.col-navio {
-    grid-column: 1 / -1; /* Span all columns */
-    border-bottom: 1px solid rgba(255,255,255,0.1);
-    padding-bottom: 8px;
-    margin-bottom: 5px;
-    width: 100%;
+  .navios-table tr:nth-child(even) {
+    background: rgba(255,255,255,0.02);
+  }
+
+  /* Hidden Columns */
+  .col-calado, .col-status, .navios-table td[data-label="Status"], .navios-table td::before, .navio-type, .navio-imo, .navio-icon-sm {
+    display: none !important;
+  }
+
+  /* 1. DATA (Left) - Smallest possible */
+  .col-data {
+    width: 35px; /* Reduced width */
+    flex-shrink: 0;
+    font-size: 0.7rem; /* Smaller font */
     display: flex;
-    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: var(--text-secondary);
+    padding: 0;
+  }
+  
+  .col-data .data-cell {
+    flex-direction: column;
+    gap: 0px;
+  }
+  
+  .col-data .hora {
+    color: #fff;
+    font-size: 0.8rem; /* Highlight time */
+    font-weight: 700;
+  }
+
+  /* 2. NAVIO (Middle) - Flexible */
+  .col-navio {
+    flex-grow: 1;
+    width: 0;
+    padding: 0 4px;
+    border: none !important;
+    margin: 0 !important;
+    display: flex;
+    align-items: center;
   }
 
   .navio-info {
@@ -284,86 +299,54 @@ body {
     width: 100%;
   }
 
-  .navio-icon-sm {
-    width: 32px;
-    height: 32px;
-    margin-right: 10px;
-  }
-  
   .navio-text {
-    display: flex;
-    flex-direction: column;
     align-items: flex-start;
+    width: 100%;
   }
 
   .navio-name {
-    font-size: 1.1rem;
-    font-weight: 800;
-    color: #fff;
-    word-break: break-word; /* Prevent overflow */
-  }
-  
-  .navio-type, .navio-imo {
-    font-size: 0.7rem;
-    opacity: 0.8;
-  }
-
-  /* 2. DATA CELLS - Compact Grid Items */
-  .navios-table td {
-    display: flex;
-    flex-direction: column; /* Label on top of value */
-    align-items: flex-start;
-    padding: 0;
-    border: none;
-  }
-
-  /* Hide original labels we added via pseudo-elements if we want a cleaner look,
-     OR style them as tiny super-script labels */
-  .navios-table td::before {
-    content: attr(data-label);
-    font-size: 0.65rem;
-    text-transform: uppercase;
-    color: var(--text-secondary);
-    margin-bottom: 2px;
+    font-size: 0.85rem; /* Reduced from 0.95 (fit more text) */
     font-weight: 700;
+    color: #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+    display: block;
   }
 
-  /* Values styling */
-  .navios-table td span, .data-cell {
-    font-size: 0.9rem;
-    font-weight: 500;
-    color: #e2e8f0;
+  /* 3. MANOBRA & BERÇO (Right) */
+  .col-manobra {
+    width: auto;
+    flex-shrink: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
   }
-  
-  /* Badge Adjustments for Mobile */
+
   .badge-manobra {
-    font-size: 0.75rem;
-    padding: 2px 6px;
-  }
-  
-  /* 3. STATUS - Full Width Footer if needed, or just fit in grid */
-  .navios-table td[data-label="Status"] {
-    grid-column: 1 / -1;
-    margin-top: 5px;
-    align-items: center; /* Center status */
-    background: rgba(0,0,0,0.2);
-    padding: 4px;
-    border-radius: 4px;
-  }
-  
-  .navios-table td[data-label="Status"]::before {
-    display: none; /* Hide label for status bar */
+    font-size: 0.65rem; /* Smaller badge */
+    padding: 2px 4px;
+    min-width: 50px;
+    text-align: center;
   }
 
-  /* Hide elements that might look duplicated or needed specific tweaks */
-  .col-data {
-    order: -1; /* Maybe put date at top? Or keep in grid. Let's keep in grid position 1 */
+  .col-berco {
+    width: 40px; /* Reduced width */
+    flex-shrink: 0;
+    text-align: right;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--highlight);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0;
   }
   
-  /* Force specific order if needed: 
-     Ship (Header)
-     Date | Manobra
-     Berco | Calado
-     Status (Footer)
-  */
+  .navios-table td {
+    border: none;
+    box-shadow: none;
+  }
 }
