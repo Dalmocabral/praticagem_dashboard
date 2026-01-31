@@ -92,8 +92,12 @@ function App() {
                         {navio.manobra === 'E' ? 'Entrada' : navio.manobra === 'S' ? 'Saída' : 'Mudança'}
                     </span>
                   </td>
-                  <td data-label="Berço">{navio.beco}</td>
-                  <td data-label="Calado">{navio.calado}m</td>
+                  <td data-label="Berço">
+                    <span className="value-text">{navio.beco}</span>
+                  </td>
+                  <td data-label="Calado">
+                    <span className="value-text">{navio.calado}m</span>
+                  </td>
                   <td data-label="Status">
                     {navio.alerta ? (
                         <span className="alert-badge">{navio.alerta.replace('_', ' ').toUpperCase()}</span>

@@ -301,14 +301,24 @@ body {
   }
 
   .navio-info {
-    flex-direction: row; /* Keep icon left on mobile for better look in this layout */
+    flex-direction: row; 
     width: 100%;
     justify-content: flex-start;
+    align-items: center;
+  }
+
+  .navio-icon-sm {
+    width: 24px;
+    height: 24px;
   }
   
   .navio-text {
     align-items: flex-start;
     text-align: left;
+  }
+
+  .navio-name {
+    font-size: 0.95rem;
   }
   
   .data-cell {
@@ -317,7 +327,18 @@ body {
     align-items: center;
   }
   
-  .navio-table td[data-label="Data / Hora"] {
+  /* Fix visibility of values */
+  .navios-table td span, 
+  .navios-table td div {
+    z-index: 1;
+  }
+
+  /* Force right alignment for values on mobile */
+  .navios-table td {
+     text-align: right;
+  }
+  
+  .navios-table td[data-label="Data / Hora"] {
       justify-content: flex-start;
   }
 }
