@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/01/2026 12:18",
+  "ultima_atualizacao": "31/01/2026 12:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -217,7 +217,7 @@
     },
     {
       "data": "01/02",
-      "hora": "12:30",
+      "hora": "18:00",
       "navio": "CMA CGM VERACRUZ",
       "calado": "10,00",
       "manobra": "E",
@@ -228,7 +228,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-01T12:30:00"
+      "timestamp": "2026-02-01T18:00:00"
     },
     {
       "data": "01/02",
