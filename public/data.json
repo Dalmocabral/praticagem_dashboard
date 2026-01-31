@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/01/2026 18:00",
+  "ultima_atualizacao": "31/01/2026 18:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -202,9 +202,9 @@
     },
     {
       "data": "01/02",
-      "hora": "18:00",
+      "hora": "17:00",
       "navio": "CMA CGM VERACRUZ",
-      "calado": "10,00",
+      "calado": "11,90",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -213,7 +213,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-01T18:00:00"
+      "timestamp": "2026-02-01T17:00:00"
     },
     {
       "data": "01/02",
@@ -913,7 +913,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_inicio": "01/02 17:00",
       "manobra_rio_fim": "02/02 15:00",
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "S",
@@ -922,7 +922,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_inicio": "01/02 17:00",
       "manobra_rio_fim": "02/02 15:00",
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "S",
@@ -931,7 +931,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_inicio": "01/02 17:00",
       "manobra_rio_fim": "02/02 15:00",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "E",
@@ -940,7 +940,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_inicio": "01/02 17:00",
       "manobra_rio_fim": "02/02 15:00",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "E",
@@ -949,7 +949,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_inicio": "01/02 17:00",
       "manobra_rio_fim": "02/02 15:00",
       "navio_multi": "MSC CARLOTTA",
       "manobra_multi_tipo": "S",
@@ -958,7 +958,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_inicio": "01/02 17:00",
       "manobra_rio_fim": "02/02 15:00",
       "navio_multi": "MSC CARLOTTA",
       "manobra_multi_tipo": "S",
@@ -967,7 +967,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/02 18:00",
+      "manobra_rio_inicio": "01/02 17:00",
       "manobra_rio_fim": "02/02 15:00",
       "navio_multi": "LOG-IN RESILIENTE",
       "manobra_multi_tipo": "E",
