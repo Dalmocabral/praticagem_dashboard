@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/01/2026 09:14",
+  "ultima_atualizacao": "31/01/2026 10:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -37,7 +37,7 @@
     },
     {
       "data": "31/01",
-      "hora": "13:30",
+      "hora": "12:30",
       "navio": "APL NEW JERSEY",
       "calado": "12,90",
       "manobra": "E",
@@ -46,9 +46,9 @@
       "imo": "9350020",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
-      "timestamp": "2026-01-31T13:30:00"
+      "timestamp": "2026-01-31T12:30:00"
     },
     {
       "data": "31/01",
@@ -96,19 +96,49 @@
       "timestamp": "2026-01-31T21:00:00"
     },
     {
-      "data": "01/02",
-      "hora": "02:00",
+      "data": "31/01",
+      "hora": "23:00",
       "navio": "APL NEW JERSEY",
       "calado": "12,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9350020",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-01T02:00:00"
+      "timestamp": "2026-01-31T23:00:00"
+    },
+    {
+      "data": "01/02",
+      "hora": "04:00",
+      "navio": "MSC MUGE",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978949",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-01T04:00:00"
+    },
+    {
+      "data": "01/02",
+      "hora": "04:00",
+      "navio": "MSC MUGE",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978949",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-01T04:00:00"
     },
     {
       "data": "01/02",
@@ -127,43 +157,13 @@
     },
     {
       "data": "01/02",
-      "hora": "06:00",
-      "navio": "MSC ELODIE",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-01T06:00:00"
-    },
-    {
-      "data": "01/02",
-      "hora": "06:00",
-      "navio": "MSC ELODIE",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-01T06:00:00"
-    },
-    {
-      "data": "01/02",
       "hora": "07:00",
-      "navio": "MSC MUGE",
-      "calado": "10,00",
+      "navio": "MSC ELODIE",
+      "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9978949",
+      "imo": "9704972",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -173,12 +173,12 @@
     {
       "data": "01/02",
       "hora": "07:00",
-      "navio": "MSC MUGE",
-      "calado": "10,00",
+      "navio": "MSC ELODIE",
+      "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9978949",
+      "imo": "9704972",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -939,21 +939,39 @@
   "conflitos": [
     {
       "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/01 13:30",
-      "manobra_rio_fim": "01/02 02:00",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/01 12:30",
+      "manobra_rio_fim": "31/01 23:00",
       "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "31/01 18:00"
     },
     {
       "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/01 13:30",
-      "manobra_rio_fim": "01/02 02:00",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/01 12:30",
+      "manobra_rio_fim": "31/01 23:00",
       "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "31/01 18:00"
+    },
+    {
+      "navio_rio": "MALIAKOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/01 21:00",
+      "manobra_rio_fim": "01/02 05:00",
+      "navio_multi": "MSC MUGE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/02 04:00"
+    },
+    {
+      "navio_rio": "MALIAKOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/01 21:00",
+      "manobra_rio_fim": "01/02 05:00",
+      "navio_multi": "MSC MUGE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/02 04:00"
     },
     {
       "navio_rio": "CLEAROCEAN MELODY",
