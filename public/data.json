@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/02/2026 00:20",
+  "ultima_atualizacao": "01/02/2026 02:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -9,7 +9,7 @@
       "data": "01/02",
       "hora": "01:00",
       "navio": "MSC MUGE",
-      "calado": "10,10",
+      "calado": "10,20",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -24,7 +24,7 @@
       "data": "01/02",
       "hora": "01:00",
       "navio": "MSC MUGE",
-      "calado": "10,10",
+      "calado": "10,20",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9464247",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-02-01T05:00:00"
     },
@@ -61,7 +61,7 @@
       "imo": "9350020",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-02-01T06:00:00"
     },
