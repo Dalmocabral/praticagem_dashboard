@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/02/2026 12:36",
+  "ultima_atualizacao": "01/02/2026 12:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -144,7 +144,7 @@
       "data": "02/02",
       "hora": "09:00",
       "navio": "MAERSK FRANKFURT",
-      "calado": "12,10",
+      "calado": "12,90",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
