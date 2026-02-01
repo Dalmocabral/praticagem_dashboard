@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/02/2026 08:51",
+  "ultima_atualizacao": "01/02/2026 09:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -19,36 +19,6 @@
       "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-02-01T06:30:00"
-    },
-    {
-      "data": "01/02",
-      "hora": "08:00",
-      "navio": "MSC ELODIE",
-      "calado": "14,20",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-01T08:00:00"
-    },
-    {
-      "data": "01/02",
-      "hora": "08:00",
-      "navio": "MSC ELODIE",
-      "calado": "14,20",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-01T08:00:00"
     },
     {
       "data": "01/02",
@@ -234,7 +204,7 @@
       "data": "02/02",
       "hora": "11:00",
       "navio": "MSC CARLOTTA",
-      "calado": "12,60",
+      "calado": "14,00",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -249,7 +219,7 @@
       "data": "02/02",
       "hora": "11:00",
       "navio": "MSC CARLOTTA",
-      "calado": "12,60",
+      "calado": "14,00",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
