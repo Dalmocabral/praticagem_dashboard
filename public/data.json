@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/02/2026 03:09",
+  "ultima_atualizacao": "01/02/2026 04:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,37 +7,7 @@
   "navios": [
     {
       "data": "01/02",
-      "hora": "01:00",
-      "navio": "MSC MUGE",
-      "calado": "10,20",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9978949",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-01T01:00:00"
-    },
-    {
-      "data": "01/02",
-      "hora": "05:00",
-      "navio": "MALIAKOS",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9464247",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-01T05:00:00"
-    },
-    {
-      "data": "01/02",
-      "hora": "06:00",
+      "hora": "05:30",
       "navio": "APL NEW JERSEY",
       "calado": "13,00",
       "manobra": "S",
@@ -48,11 +18,26 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-02-01T06:00:00"
+      "timestamp": "2026-02-01T05:30:00"
     },
     {
       "data": "01/02",
-      "hora": "07:00",
+      "hora": "06:30",
+      "navio": "MALIAKOS",
+      "calado": "9,24",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9464247",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "rio",
+      "timestamp": "2026-02-01T06:30:00"
+    },
+    {
+      "data": "01/02",
+      "hora": "07:30",
       "navio": "MSC ELODIE",
       "calado": "14,20",
       "manobra": "S",
@@ -63,11 +48,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-02-01T07:00:00"
+      "timestamp": "2026-02-01T07:30:00"
     },
     {
       "data": "01/02",
-      "hora": "07:00",
+      "hora": "07:30",
       "navio": "MSC ELODIE",
       "calado": "14,20",
       "manobra": "S",
@@ -78,11 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-02-01T07:00:00"
+      "timestamp": "2026-02-01T07:30:00"
     },
     {
       "data": "01/02",
-      "hora": "09:00",
+      "hora": "09:30",
       "navio": "MSC CARLOTTA",
       "calado": "14,70",
       "manobra": "E",
@@ -93,11 +78,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-01T09:00:00"
+      "timestamp": "2026-02-01T09:30:00"
     },
     {
       "data": "01/02",
-      "hora": "09:00",
+      "hora": "09:30",
       "navio": "MSC CARLOTTA",
       "calado": "14,70",
       "manobra": "E",
@@ -108,11 +93,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-01T09:00:00"
+      "timestamp": "2026-02-01T09:30:00"
     },
     {
       "data": "01/02",
-      "hora": "10:30",
+      "hora": "11:00",
       "navio": "MSC ALBANY",
       "calado": "13,80",
       "manobra": "E",
@@ -123,11 +108,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-01T10:30:00"
+      "timestamp": "2026-02-01T11:00:00"
     },
     {
       "data": "01/02",
-      "hora": "10:30",
+      "hora": "11:00",
       "navio": "MSC ALBANY",
       "calado": "13,80",
       "manobra": "E",
@@ -138,7 +123,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-01T10:30:00"
+      "timestamp": "2026-02-01T11:00:00"
     },
     {
       "data": "01/02",
