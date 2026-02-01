@@ -1,12 +1,11 @@
 
-import { Github, Linkedin } from 'lucide-react';
+import { Github, Linkedin, Map } from 'lucide-react';
 import { useEffect, useState } from 'react';
 
 function App() {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [filter, setFilter] = useState('todos');
 
   useEffect(() => {
     const fetchData = async () => {
@@ -34,12 +33,12 @@ function App() {
   if (error) return <div className="error">{error} <br/> <small>Verifique se o Scraper rodou.</small></div>;
   if (!data) return null;
 
-  const { navios, barra_info, conflitos, ultima_atualizacao } = data;
+  const { navios, barra_info, ultima_atualizacao } = data;
 
-  // Filter strictly for 'rio' as requested
+  // Filtra apenas para o terminal 'rio'
   const filteredNavios = navios.filter(n => n.terminal === 'rio');
 
-  // Sort navios: Hoje, Futuro, Passado
+  // Ordena navios pelo timestamp
   filteredNavios.sort((a, b) => new Date(a.timestamp) - new Date(b.timestamp));
 
   return (
@@ -68,7 +67,7 @@ function App() {
                 <th>Manobra</th>
                 <th>Berço</th>
                 <th>Calado</th>
-                <th>Status</th>
+                <th className="text-center">Live Traffic</th>
               </tr>
             </thead>
             <tbody>
@@ -101,11 +100,20 @@ function App() {
                   <td data-label="Calado">
                     <span className="value-text">{navio.calado}m</span>
                   </td>
-                  <td data-label="Status">
-                    {navio.alerta ? (
-                        <span className="alert-badge">{navio.alerta.replace('_', ' ').toUpperCase()}</span>
+                  <td data-label="Live Traffic" className="col-traffic">
+                    {navio.imo ? (
+                      <a 
+                        href={`https://www.marinetraffic.com/en/ais/details/ships/imo:${navio.imo}`} 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                        className="traffic-link"
+                        title="Ver no MarineTraffic"
+                      >
+                        <Map size={20} className="map-icon" />
+                        <span className="map-text">Ver Mapa</span>
+                      </a>
                     ) : (
-                        <span className="status-text">{navio.status}</span>
+                      <span className="no-imo">-</span>
                     )}
                   </td>
                 </tr>
