@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/02/2026 05:55",
+  "ultima_atualizacao": "01/02/2026 06:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -37,7 +37,7 @@
     },
     {
       "data": "01/02",
-      "hora": "07:30",
+      "hora": "08:00",
       "navio": "MSC ELODIE",
       "calado": "14,20",
       "manobra": "S",
@@ -48,11 +48,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-02-01T07:30:00"
+      "timestamp": "2026-02-01T08:00:00"
     },
     {
       "data": "01/02",
-      "hora": "07:30",
+      "hora": "08:00",
       "navio": "MSC ELODIE",
       "calado": "14,20",
       "manobra": "S",
@@ -63,11 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-02-01T07:30:00"
+      "timestamp": "2026-02-01T08:00:00"
     },
     {
       "data": "01/02",
-      "hora": "09:30",
+      "hora": "10:00",
       "navio": "MSC CARLOTTA",
       "calado": "14,70",
       "manobra": "E",
@@ -78,11 +78,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "entrada_antecipada",
       "terminal": "multi",
-      "timestamp": "2026-02-01T09:30:00"
+      "timestamp": "2026-02-01T10:00:00"
     },
     {
       "data": "01/02",
-      "hora": "09:30",
+      "hora": "10:00",
       "navio": "MSC CARLOTTA",
       "calado": "14,70",
       "manobra": "E",
@@ -93,11 +93,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "entrada_antecipada",
       "terminal": "multi",
-      "timestamp": "2026-02-01T09:30:00"
+      "timestamp": "2026-02-01T10:00:00"
     },
     {
       "data": "01/02",
-      "hora": "11:00",
+      "hora": "11:30",
       "navio": "MSC ALBANY",
       "calado": "13,80",
       "manobra": "E",
@@ -108,11 +108,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-01T11:00:00"
+      "timestamp": "2026-02-01T11:30:00"
     },
     {
       "data": "01/02",
-      "hora": "11:00",
+      "hora": "11:30",
       "navio": "MSC ALBANY",
       "calado": "13,80",
       "manobra": "E",
@@ -123,7 +123,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-01T11:00:00"
+      "timestamp": "2026-02-01T11:30:00"
     },
     {
       "data": "01/02",
