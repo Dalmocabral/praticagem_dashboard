@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "01/02/2026 06:58",
+  "ultima_atualizacao": "01/02/2026 07:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "01/02",
-      "hora": "05:30",
-      "navio": "APL NEW JERSEY",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9350020",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-01T05:30:00"
-    },
     {
       "data": "01/02",
       "hora": "06:30",
@@ -76,7 +61,7 @@
       "imo": "9756731",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-01T10:00:00"
     },
@@ -91,7 +76,7 @@
       "imo": "9756731",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-01T10:00:00"
     },
@@ -106,7 +91,7 @@
       "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-02-01T11:30:00"
     },
@@ -121,7 +106,7 @@
       "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-02-01T11:30:00"
     },
@@ -232,6 +217,21 @@
     },
     {
       "data": "02/02",
+      "hora": "09:00",
+      "navio": "MAERSK FRANKFURT",
+      "calado": "12,10",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9969065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-02T09:00:00"
+    },
+    {
+      "data": "02/02",
       "hora": "11:00",
       "navio": "MSC CARLOTTA",
       "calado": "12,60",
@@ -274,6 +274,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-02T13:00:00"
+    },
+    {
+      "data": "03/02",
+      "hora": "01:00",
+      "navio": "MAERSK FRANKFURT",
+      "calado": "12,10",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9969065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-03T01:00:00"
     },
     {
       "data": "03/02",
@@ -876,6 +891,33 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "01/02 22:00",
       "manobra_rio_fim": "03/02 04:00",
+      "navio_multi": "LOG-IN RESILIENTE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "02/02 13:00"
+    },
+    {
+      "navio_rio": "MAERSK FRANKFURT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/02 09:00",
+      "manobra_rio_fim": "03/02 01:00",
+      "navio_multi": "MSC CARLOTTA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/02 11:00"
+    },
+    {
+      "navio_rio": "MAERSK FRANKFURT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/02 09:00",
+      "manobra_rio_fim": "03/02 01:00",
+      "navio_multi": "MSC CARLOTTA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/02 11:00"
+    },
+    {
+      "navio_rio": "MAERSK FRANKFURT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/02 09:00",
+      "manobra_rio_fim": "03/02 01:00",
       "navio_multi": "LOG-IN RESILIENTE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "02/02 13:00"
