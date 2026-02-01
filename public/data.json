@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/02/2026 14:57",
+  "ultima_atualizacao": "01/02/2026 15:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -54,7 +54,7 @@
       "data": "02/02",
       "hora": "05:30",
       "navio": "MSC ALBANY",
-      "calado": "12,60",
+      "calado": "15,10",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -69,7 +69,7 @@
       "data": "02/02",
       "hora": "05:30",
       "navio": "MSC ALBANY",
-      "calado": "12,60",
+      "calado": "15,10",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
