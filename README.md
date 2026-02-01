@@ -20,7 +20,19 @@ O sistema funciona em um ciclo automatizado de 3 etapas:
 
 ---
 
-## 🚀 Tecnologias
+## � Aplicativo Móvel (App)
+
+Este projeto é um **PWA (Progressive Web App)**, ou seja, pode ser instalado no celular como um aplicativo nativo (sem precisar de Play Store).
+
+**Como Instalar:**
+1.  Acesse o site no navegador do celular (Chrome ou Safari).
+2.  **Android:** Toque em "Adicionar à Tela de Início" no aviso que aparecer (ou no menu do Chrome).
+3.  **iPhone (iOS):** Toque no botão "Compartilhar" e escolha "Adicionar à Tela de Início".
+4.  O ícone do app aparecerá na sua tela inicial e abrirá em tela cheia.
+
+---
+
+## �🚀 Tecnologias
 
 -   **Frontend:** React (Vite), CSS Puro (Moderno/Responsivo), Lucide React (Ícones).
 -   **Backend/Bot:** Python 3.9, BeautifulSoup4 (Web Scraping).
