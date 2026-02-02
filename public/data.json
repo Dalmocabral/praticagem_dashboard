@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "02/02/2026 03:58",
+  "ultima_atualizacao": "02/02/2026 04:55",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "02/02",
-      "hora": "02:30",
-      "navio": "CMA CGM VERACRUZ",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9418377",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-02T02:30:00"
-    },
     {
       "data": "02/02",
       "hora": "09:00",
