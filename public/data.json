@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/02/2026 08:02",
+  "ultima_atualizacao": "02/02/2026 08:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -52,7 +52,7 @@
     },
     {
       "data": "02/02",
-      "hora": "12:30",
+      "hora": "11:30",
       "navio": "MSC ALBANY",
       "calado": "15,10",
       "manobra": "S",
@@ -61,13 +61,13 @@
       "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-02-02T12:30:00"
+      "timestamp": "2026-02-02T11:30:00"
     },
     {
       "data": "02/02",
-      "hora": "12:30",
+      "hora": "11:30",
       "navio": "MSC ALBANY",
       "calado": "15,10",
       "manobra": "S",
@@ -76,9 +76,9 @@
       "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-02-02T12:30:00"
+      "timestamp": "2026-02-02T11:30:00"
     },
     {
       "data": "02/02",
@@ -707,7 +707,7 @@
       "manobra_rio_fim": "02/02 21:00",
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/02 12:30"
+      "manobra_multi_data_hora": "02/02 11:30"
     },
     {
       "navio_rio": "MAERSK FRANKFURT",
@@ -716,7 +716,7 @@
       "manobra_rio_fim": "02/02 21:00",
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/02 12:30"
+      "manobra_multi_data_hora": "02/02 11:30"
     },
     {
       "navio_rio": "MAERSK FRANKFURT",
