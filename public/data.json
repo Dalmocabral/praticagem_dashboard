@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/02/2026 08:47",
+  "ultima_atualizacao": "02/02/2026 09:27",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -22,36 +22,6 @@
     },
     {
       "data": "02/02",
-      "hora": "11:00",
-      "navio": "MSC CARLOTTA",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9756731",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-02T11:00:00"
-    },
-    {
-      "data": "02/02",
-      "hora": "11:00",
-      "navio": "MSC CARLOTTA",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9756731",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-02T11:00:00"
-    },
-    {
-      "data": "02/02",
       "hora": "11:30",
       "navio": "MSC ALBANY",
       "calado": "15,10",
@@ -82,7 +52,37 @@
     },
     {
       "data": "02/02",
-      "hora": "15:00",
+      "hora": "14:30",
+      "navio": "MSC CARLOTTA",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9756731",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-02T14:30:00"
+    },
+    {
+      "data": "02/02",
+      "hora": "14:30",
+      "navio": "MSC CARLOTTA",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9756731",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-02T14:30:00"
+    },
+    {
+      "data": "02/02",
+      "hora": "16:30",
       "navio": "MSC AMALFI",
       "calado": "10,60",
       "manobra": "E",
@@ -93,11 +93,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-02T15:00:00"
+      "timestamp": "2026-02-02T16:30:00"
     },
     {
       "data": "02/02",
-      "hora": "15:00",
+      "hora": "16:30",
       "navio": "MSC AMALFI",
       "calado": "10,60",
       "manobra": "E",
@@ -108,11 +108,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-02T15:00:00"
+      "timestamp": "2026-02-02T16:30:00"
     },
     {
       "data": "02/02",
-      "hora": "17:00",
+      "hora": "18:00",
       "navio": "LOG-IN RESILIENTE",
       "calado": "8,30",
       "manobra": "E",
@@ -123,7 +123,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-02T17:00:00"
+      "timestamp": "2026-02-02T18:00:00"
     },
     {
       "data": "02/02",
@@ -687,24 +687,6 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "02/02 09:00",
       "manobra_rio_fim": "02/02 21:00",
-      "navio_multi": "MSC CARLOTTA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/02 11:00"
-    },
-    {
-      "navio_rio": "MAERSK FRANKFURT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/02 09:00",
-      "manobra_rio_fim": "02/02 21:00",
-      "navio_multi": "MSC CARLOTTA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/02 11:00"
-    },
-    {
-      "navio_rio": "MAERSK FRANKFURT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/02 09:00",
-      "manobra_rio_fim": "02/02 21:00",
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/02 11:30"
@@ -723,18 +705,36 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "02/02 09:00",
       "manobra_rio_fim": "02/02 21:00",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/02 15:00"
+      "navio_multi": "MSC CARLOTTA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/02 14:30"
     },
     {
       "navio_rio": "MAERSK FRANKFURT",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "02/02 09:00",
       "manobra_rio_fim": "02/02 21:00",
+      "navio_multi": "MSC CARLOTTA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/02 14:30"
+    },
+    {
+      "navio_rio": "MAERSK FRANKFURT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/02 09:00",
+      "manobra_rio_fim": "02/02 21:00",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/02 15:00"
+      "manobra_multi_data_hora": "02/02 16:30"
+    },
+    {
+      "navio_rio": "MAERSK FRANKFURT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/02 09:00",
+      "manobra_rio_fim": "02/02 21:00",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "02/02 16:30"
     },
     {
       "navio_rio": "MAERSK FRANKFURT",
@@ -743,7 +743,7 @@
       "manobra_rio_fim": "02/02 21:00",
       "navio_multi": "LOG-IN RESILIENTE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/02 17:00"
+      "manobra_multi_data_hora": "02/02 18:00"
     },
     {
       "navio_rio": "CMA CGM MISSISSIPPI",
