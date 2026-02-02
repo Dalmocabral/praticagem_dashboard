@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/02/2026 12:59",
+  "ultima_atualizacao": "02/02/2026 13:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -76,7 +76,7 @@
       "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-02T16:00:00"
     },
@@ -91,7 +91,7 @@
       "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-02T16:00:00"
     },
@@ -106,24 +106,9 @@
       "imo": "9327669",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-02-02T17:30:00"
-    },
-    {
-      "data": "02/02",
-      "hora": "21:00",
-      "navio": "MAERSK FRANKFURT",
-      "calado": "12,10",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9969065",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-02T21:00:00"
     },
     {
       "data": "03/02",
@@ -139,6 +124,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-03T04:00:00"
+    },
+    {
+      "data": "03/02",
+      "hora": "05:30",
+      "navio": "MAERSK FRANKFURT",
+      "calado": "12,90",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9969065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-03T05:30:00"
     },
     {
       "data": "03/02",
