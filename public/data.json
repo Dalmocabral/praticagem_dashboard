@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "02/02/2026 13:57",
+  "ultima_atualizacao": "02/02/2026 14:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "02/02",
-      "hora": "11:30",
-      "navio": "MSC ALBANY",
-      "calado": "15,10",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9619438",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-02T11:30:00"
-    },
-    {
-      "data": "02/02",
-      "hora": "11:30",
-      "navio": "MSC ALBANY",
-      "calado": "15,10",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9619438",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-02T11:30:00"
-    },
     {
       "data": "02/02",
       "hora": "14:00",
@@ -106,24 +76,24 @@
       "imo": "9327669",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-02T17:30:00"
     },
     {
-      "data": "03/02",
-      "hora": "04:00",
+      "data": "02/02",
+      "hora": "19:30",
       "navio": "CLEAROCEAN MELODY",
-      "calado": "7,00",
+      "calado": "8,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9849265",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-03T04:00:00"
+      "timestamp": "2026-02-02T19:30:00"
     },
     {
       "data": "03/02",
