@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/02/2026 10:51",
+  "ultima_atualizacao": "03/02/2026 11:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -94,6 +94,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-05T14:00:00"
+    },
+    {
+      "data": "06/02",
+      "hora": "05:00",
+      "navio": "MSC AGADIR",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9619464",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-06T05:00:00"
     },
     {
       "data": "06/02",
