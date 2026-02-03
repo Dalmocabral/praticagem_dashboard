@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/02/2026 11:41",
+  "ultima_atualizacao": "03/02/2026 12:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -22,7 +22,7 @@
     },
     {
       "data": "04/02",
-      "hora": "06:00",
+      "hora": "04:00",
       "navio": "LOG-IN RESILIENTE",
       "calado": "8,30",
       "manobra": "S",
@@ -31,6 +31,21 @@
       "imo": "9327669",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-04T04:00:00"
+    },
+    {
+      "data": "04/02",
+      "hora": "06:00",
+      "navio": "UAL FORTITUDE",
+      "calado": "6,40",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9402079",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-04T06:00:00"
@@ -94,6 +109,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-05T14:00:00"
+    },
+    {
+      "data": "05/02",
+      "hora": "16:00",
+      "navio": "UAL FORTITUDE",
+      "calado": "6,30",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9402079",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-05T16:00:00"
     },
     {
       "data": "06/02",
