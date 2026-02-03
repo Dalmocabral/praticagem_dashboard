@@ -77,6 +77,12 @@ def get_all_navios_manobras():
                 if not any(berco in becos for berco in BERCOS_INCLUIR_TODOS):
                     continue
 
+                # Deduplication check
+                maneuver_key = (navio_nome, data_hora, manobra)
+                if maneuver_key in seen_maneuvers:
+                    continue
+                seen_maneuvers.add(maneuver_key)
+
                 current_terminal = None
                 if "TECONTPROLONG" in becos or "TECONT1" in becos:
                     current_terminal = "rio"
