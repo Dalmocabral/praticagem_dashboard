@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/02/2026 09:41",
+  "ultima_atualizacao": "03/02/2026 10:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -9,7 +9,7 @@
       "data": "03/02",
       "hora": "11:00",
       "navio": "MSC AMALFI",
-      "calado": "10,75",
+      "calado": "10,70",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -52,33 +52,33 @@
     },
     {
       "data": "05/02",
-      "hora": "09:00",
+      "hora": "06:00",
+      "navio": "MSC AGADIR",
+      "calado": "13,10",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9619464",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-05T06:00:00"
+    },
+    {
+      "data": "05/02",
+      "hora": "08:00",
       "navio": "XIAMEN EXPRESS",
       "calado": "10,40",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-05T09:00:00"
-    },
-    {
-      "data": "05/02",
-      "hora": "12:00",
-      "navio": "MSC ANTONELLA",
-      "calado": "13,40",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9702273",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-05T12:00:00"
+      "timestamp": "2026-02-05T08:00:00"
     },
     {
       "data": "05/02",
@@ -101,7 +101,7 @@
       "navio": "XIAMEN EXPRESS",
       "calado": "12,30",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
@@ -112,7 +112,22 @@
     },
     {
       "data": "06/02",
-      "hora": "15:30",
+      "hora": "08:00",
+      "navio": "MSC ANTONELLA",
+      "calado": "13,40",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9702273",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-06T08:00:00"
+    },
+    {
+      "data": "07/02",
+      "hora": "06:00",
       "navio": "MSC ANTONELLA",
       "calado": "12,60",
       "manobra": "S",
@@ -123,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-06T15:30:00"
+      "timestamp": "2026-02-07T06:00:00"
     },
     {
       "data": "10/02",
@@ -171,6 +186,36 @@
       "timestamp": "2026-02-11T12:00:00"
     },
     {
+      "data": "11/02",
+      "hora": "16:30",
+      "navio": "EUROPE",
+      "calado": "11,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9285988",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-11T16:30:00"
+    },
+    {
+      "data": "12/02",
+      "hora": "07:00",
+      "navio": "EUROPE",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9285988",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-12T07:00:00"
+    },
+    {
       "data": "12/02",
       "hora": "08:00",
       "navio": "KOTA EMBUN",
@@ -184,6 +229,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-12T08:00:00"
+    },
+    {
+      "data": "15/02",
+      "hora": "06:00",
+      "navio": "MSC INSA",
+      "calado": "11,80",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1016666",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-15T06:00:00"
+    },
+    {
+      "data": "16/02",
+      "hora": "06:00",
+      "navio": "MSC INSA",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1016666",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-16T06:00:00"
     },
     {
       "data": "17/02",
@@ -246,6 +321,36 @@
       "timestamp": "2026-02-19T16:00:00"
     },
     {
+      "data": "21/02",
+      "hora": "06:00",
+      "navio": "MSC FIRENZE",
+      "calado": "15,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978987",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-21T06:00:00"
+    },
+    {
+      "data": "22/02",
+      "hora": "06:00",
+      "navio": "MSC FIRENZE",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978987",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-22T06:00:00"
+    },
+    {
       "data": "24/02",
       "hora": "06:30",
       "navio": "COSCO SHIPPING URUGUAY",
@@ -282,18 +387,36 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "04/02 16:00",
       "manobra_rio_fim": "05/02 14:00",
-      "navio_multi": "XIAMEN EXPRESS",
+      "navio_multi": "MSC AGADIR",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/02 09:00"
+      "manobra_multi_data_hora": "05/02 06:00"
     },
     {
       "navio_rio": "CMA CGM MISSISSIPPI",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "04/02 16:00",
       "manobra_rio_fim": "05/02 14:00",
-      "navio_multi": "MSC ANTONELLA",
+      "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/02 12:00"
+      "manobra_multi_data_hora": "05/02 08:00"
+    },
+    {
+      "navio_rio": "KOTA EMBUN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/02 12:00",
+      "manobra_rio_fim": "12/02 08:00",
+      "navio_multi": "EUROPE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "11/02 16:30"
+    },
+    {
+      "navio_rio": "KOTA EMBUN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "11/02 12:00",
+      "manobra_rio_fim": "12/02 08:00",
+      "navio_multi": "EUROPE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "12/02 07:00"
     }
   ]
 }
