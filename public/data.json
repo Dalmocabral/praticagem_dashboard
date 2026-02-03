@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/02/2026 05:52",
+  "ultima_atualizacao": "03/02/2026 06:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "03/02",
       "hora": "14:00",
       "navio": "MSC AMALFI",
-      "calado": "12,60",
+      "calado": "10,75",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
