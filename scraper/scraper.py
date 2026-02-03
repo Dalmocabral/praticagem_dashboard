@@ -55,6 +55,7 @@ def get_all_navios_manobras():
         return []
 
     navios_manobras = []
+    seen_maneuvers = set()
     main_table = soup.find("table", class_="tbManobrasArea")
     if not main_table:
         print("Tabela principal de manobras não encontrada.", file=sys.stderr)
