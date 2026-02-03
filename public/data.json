@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/02/2026 07:25",
+  "ultima_atualizacao": "03/02/2026 08:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "03/02",
-      "hora": "14:00",
+      "hora": "11:30",
       "navio": "MSC AMALFI",
       "calado": "10,75",
       "manobra": "S",
@@ -16,9 +16,9 @@
       "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-02-03T14:00:00"
+      "timestamp": "2026-02-03T11:30:00"
     },
     {
       "data": "04/02",
