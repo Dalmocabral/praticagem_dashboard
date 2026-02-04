@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/02/2026 12:04",
+  "ultima_atualizacao": "04/02/2026 12:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "04/02",
       "hora": "16:00",
       "navio": "CMA CGM MISSISSIPPI",
-      "calado": "14,00",
+      "calado": "13,80",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
