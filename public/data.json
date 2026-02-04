@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/02/2026 01:00",
+  "ultima_atualizacao": "04/02/2026 02:14",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -9,7 +9,7 @@
       "data": "04/02",
       "hora": "04:00",
       "navio": "LOG-IN RESILIENTE",
-      "calado": "8,30",
+      "calado": "9,30",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9402079",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-02-04T06:00:00"
     },
