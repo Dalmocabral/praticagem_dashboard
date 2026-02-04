@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "04/02/2026 14:02",
+  "ultima_atualizacao": "04/02/2026 15:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "04/02",
-      "hora": "10:00",
-      "navio": "GREEN GUANGZHOU",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "1095014",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-02-04T10:00:00"
-    },
     {
       "data": "04/02",
       "hora": "16:00",
@@ -487,24 +472,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "GREEN GUANGZHOU",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/02 10:00",
-      "manobra_rio_fim": "05/02 12:00",
-      "navio_multi": "MSC VANCOUVER",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/02 08:00"
-    },
-    {
-      "navio_rio": "GREEN GUANGZHOU",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/02 10:00",
-      "manobra_rio_fim": "05/02 12:00",
-      "navio_multi": "XIAMEN EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/02 09:30"
-    },
     {
       "navio_rio": "CMA CGM MISSISSIPPI",
       "manobra_rio_afetada": "S",
