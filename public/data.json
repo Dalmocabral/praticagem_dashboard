@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/02/2026 16:50",
+  "ultima_atualizacao": "04/02/2026 17:27",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -157,6 +157,21 @@
     },
     {
       "data": "06/02",
+      "hora": "11:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "7,90",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-06T11:30:00"
+    },
+    {
+      "data": "06/02",
       "hora": "19:00",
       "navio": "MSC AGADIR",
       "calado": "12,60",
@@ -199,6 +214,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-06T23:00:00"
+    },
+    {
+      "data": "07/02",
+      "hora": "00:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-07T00:00:00"
     },
     {
       "data": "07/02",
@@ -489,6 +519,24 @@
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "05/02 09:30"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "06/02 11:30",
+      "manobra_rio_fim": "07/02 00:00",
+      "navio_multi": "MSC AGADIR",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "06/02 19:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "06/02 11:30",
+      "manobra_rio_fim": "07/02 00:00",
+      "navio_multi": "MSC LEILA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "06/02 21:00"
     }
   ]
 }
