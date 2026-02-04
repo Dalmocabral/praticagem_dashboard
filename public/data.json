@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/02/2026 03:06",
+  "ultima_atualizacao": "04/02/2026 04:10",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "04/02",
       "hora": "06:00",
       "navio": "UAL FORTITUDE",
-      "calado": "6,40",
+      "calado": "6,80",
       "manobra": "E",
       "beco": "TECONT4",
       "status": "hoje",
