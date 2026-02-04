@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/02/2026 16:04",
+  "ultima_atualizacao": "04/02/2026 16:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -69,7 +69,7 @@
       "data": "05/02",
       "hora": "13:00",
       "navio": "CMA CGM MISSISSIPPI",
-      "calado": "13,50",
+      "calado": "13,20",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -229,6 +229,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-07T08:00:00"
+    },
+    {
+      "data": "07/02",
+      "hora": "10:00",
+      "navio": "CARDIFF",
+      "calado": "13,85",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9629457",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-07T10:00:00"
+    },
+    {
+      "data": "08/02",
+      "hora": "05:30",
+      "navio": "CARDIFF",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9629457",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-08T05:30:00"
     },
     {
       "data": "10/02",
