@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/02/2026 19:02",
+  "ultima_atualizacao": "04/02/2026 19:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -22,28 +22,28 @@
     },
     {
       "data": "05/02",
-      "hora": "08:00",
-      "navio": "MSC VANCOUVER",
-      "calado": "12,40",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9285691",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-05T08:00:00"
-    },
-    {
-      "data": "05/02",
-      "hora": "09:30",
+      "hora": "07:00",
       "navio": "XIAMEN EXPRESS",
       "calado": "10,40",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9630420",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-05T07:00:00"
+    },
+    {
+      "data": "05/02",
+      "hora": "09:30",
+      "navio": "MSC VANCOUVER",
+      "calado": "12,40",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9285691",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -220,7 +220,7 @@
       "hora": "00:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,00",
-      "manobra": "S",
+      "manobra": "M",
       "beco": "TECONT1",
       "status": "futuro",
       "imo": "9351799",
@@ -229,6 +229,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-07T00:00:00"
+    },
+    {
+      "data": "07/02",
+      "hora": "05:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,20",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-07T05:00:00"
     },
     {
       "data": "07/02",
@@ -507,22 +522,22 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "04/02 16:00",
       "manobra_rio_fim": "05/02 11:30",
-      "navio_multi": "MSC VANCOUVER",
+      "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/02 08:00"
+      "manobra_multi_data_hora": "05/02 07:00"
     },
     {
       "navio_rio": "CMA CGM MISSISSIPPI",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "04/02 16:00",
       "manobra_rio_fim": "05/02 11:30",
-      "navio_multi": "XIAMEN EXPRESS",
+      "navio_multi": "MSC VANCOUVER",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "05/02 09:30"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "06/02 11:30",
       "manobra_rio_fim": "07/02 00:00",
       "navio_multi": "MSC AGADIR",
@@ -531,7 +546,7 @@
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "06/02 11:30",
       "manobra_rio_fim": "07/02 00:00",
       "navio_multi": "MSC LEILA",
