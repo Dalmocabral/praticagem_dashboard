@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/02/2026 18:02",
+  "ultima_atualizacao": "04/02/2026 18:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -26,7 +26,7 @@
       "navio": "MSC VANCOUVER",
       "calado": "12,40",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9285691",
       "tipo_navio": "CONTAINER SHIP",
@@ -41,7 +41,7 @@
       "navio": "XIAMEN EXPRESS",
       "calado": "10,40",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
@@ -52,22 +52,7 @@
     },
     {
       "data": "05/02",
-      "hora": "12:00",
-      "navio": "GREEN GUANGZHOU",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "1095014",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-05T12:00:00"
-    },
-    {
-      "data": "05/02",
-      "hora": "13:00",
+      "hora": "11:30",
       "navio": "CMA CGM MISSISSIPPI",
       "calado": "13,20",
       "manobra": "S",
@@ -78,11 +63,26 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-05T13:00:00"
+      "timestamp": "2026-02-05T11:30:00"
     },
     {
       "data": "05/02",
-      "hora": "16:00",
+      "hora": "16:30",
+      "navio": "GREEN GUANGZHOU",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "1095014",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-05T16:30:00"
+    },
+    {
+      "data": "05/02",
+      "hora": "17:30",
       "navio": "UAL FORTITUDE",
       "calado": "6,30",
       "manobra": "S",
@@ -93,7 +93,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-05T16:00:00"
+      "timestamp": "2026-02-05T17:30:00"
     },
     {
       "data": "06/02",
@@ -101,7 +101,7 @@
       "navio": "MSC VANCOUVER",
       "calado": "12,40",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9285691",
       "tipo_navio": "CONTAINER SHIP",
@@ -116,7 +116,7 @@
       "navio": "XIAMEN EXPRESS",
       "calado": "12,30",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
@@ -506,7 +506,7 @@
       "navio_rio": "CMA CGM MISSISSIPPI",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "04/02 16:00",
-      "manobra_rio_fim": "05/02 13:00",
+      "manobra_rio_fim": "05/02 11:30",
       "navio_multi": "MSC VANCOUVER",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "05/02 08:00"
@@ -515,7 +515,7 @@
       "navio_rio": "CMA CGM MISSISSIPPI",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "04/02 16:00",
-      "manobra_rio_fim": "05/02 13:00",
+      "manobra_rio_fim": "05/02 11:30",
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "05/02 09:30"
