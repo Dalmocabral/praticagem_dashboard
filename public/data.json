@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/02/2026 15:00",
+  "ultima_atualizacao": "04/02/2026 16:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -276,36 +276,6 @@
       "timestamp": "2026-02-11T12:00:00"
     },
     {
-      "data": "11/02",
-      "hora": "16:30",
-      "navio": "EUROPE",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9285988",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-11T16:30:00"
-    },
-    {
-      "data": "12/02",
-      "hora": "07:00",
-      "navio": "EUROPE",
-      "calado": "11,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9285988",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-12T07:00:00"
-    },
-    {
       "data": "12/02",
       "hora": "08:00",
       "navio": "KOTA EMBUN",
@@ -489,24 +459,6 @@
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "05/02 09:30"
-    },
-    {
-      "navio_rio": "KOTA EMBUN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "11/02 12:00",
-      "manobra_rio_fim": "12/02 08:00",
-      "navio_multi": "EUROPE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "11/02 16:30"
-    },
-    {
-      "navio_rio": "KOTA EMBUN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/02 12:00",
-      "manobra_rio_fim": "12/02 08:00",
-      "navio_multi": "EUROPE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/02 07:00"
     }
   ]
 }
