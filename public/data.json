@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/02/2026 09:33",
+  "ultima_atualizacao": "05/02/2026 10:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -37,22 +37,22 @@
     },
     {
       "data": "05/02",
-      "hora": "16:30",
-      "navio": "GREEN GUANGZHOU",
-      "calado": "14,50",
+      "hora": "18:30",
+      "navio": "XIAMEN EXPRESS",
+      "calado": "12,30",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONT3",
       "status": "hoje",
-      "imo": "1095014",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9630420",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-05T16:30:00"
+      "terminal": "multi",
+      "timestamp": "2026-02-05T18:30:00"
     },
     {
       "data": "05/02",
-      "hora": "17:30",
+      "hora": "19:30",
       "navio": "UAL FORTITUDE",
       "calado": "6,30",
       "manobra": "S",
@@ -63,11 +63,26 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-05T17:30:00"
+      "timestamp": "2026-02-05T19:30:00"
     },
     {
       "data": "06/02",
-      "hora": "05:00",
+      "hora": "01:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "7,90",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-06T01:00:00"
+    },
+    {
+      "data": "06/02",
+      "hora": "03:30",
       "navio": "MSC VANCOUVER",
       "calado": "12,40",
       "manobra": "S",
@@ -78,26 +93,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-06T05:00:00"
+      "timestamp": "2026-02-06T03:30:00"
     },
     {
       "data": "06/02",
       "hora": "06:00",
-      "navio": "XIAMEN EXPRESS",
-      "calado": "12,30",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9630420",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-06T06:00:00"
-    },
-    {
-      "data": "06/02",
-      "hora": "08:00",
       "navio": "MSC ANTONELLA",
       "calado": "13,40",
       "manobra": "E",
@@ -108,11 +108,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-06T08:00:00"
+      "timestamp": "2026-02-06T06:00:00"
     },
     {
       "data": "06/02",
-      "hora": "09:30",
+      "hora": "07:30",
       "navio": "MSC AGADIR",
       "calado": "13,10",
       "manobra": "E",
@@ -123,22 +123,52 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
+      "timestamp": "2026-02-06T07:30:00"
+    },
+    {
+      "data": "06/02",
+      "hora": "09:30",
+      "navio": "GREEN GUANGZHOU",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "1095014",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
       "timestamp": "2026-02-06T09:30:00"
     },
     {
       "data": "06/02",
-      "hora": "13:30",
+      "hora": "11:30",
       "navio": "LOG-IN PANTANAL",
-      "calado": "7,90",
-      "manobra": "E",
-      "beco": "TECONT1",
+      "calado": "8,00",
+      "manobra": "M",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-06T13:30:00"
+      "timestamp": "2026-02-06T11:30:00"
+    },
+    {
+      "data": "06/02",
+      "hora": "15:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,20",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-06T15:00:00"
     },
     {
       "data": "06/02",
@@ -172,33 +202,18 @@
     },
     {
       "data": "07/02",
-      "hora": "01:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,00",
-      "manobra": "M",
-      "beco": "TECONT1",
+      "hora": "02:00",
+      "navio": "MAERSK EVERGLADES",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9351799",
+      "imo": "9928205",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-07T01:00:00"
-    },
-    {
-      "data": "07/02",
-      "hora": "04:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,20",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "futuro",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-07T04:00:00"
+      "timestamp": "2026-02-07T02:00:00"
     },
     {
       "data": "07/02",
@@ -244,6 +259,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-07T10:00:00"
+    },
+    {
+      "data": "07/02",
+      "hora": "13:00",
+      "navio": "MAERSK EVERGLADES",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9928205",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-07T13:00:00"
     },
     {
       "data": "08/02",
@@ -292,9 +322,9 @@
     },
     {
       "data": "11/02",
-      "hora": "12:00",
+      "hora": "11:00",
       "navio": "KOTA EMBUN",
-      "calado": "14,50",
+      "calado": "14,70",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -303,7 +333,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-11T12:00:00"
+      "timestamp": "2026-02-11T11:00:00"
     },
     {
       "data": "12/02",
@@ -475,20 +505,47 @@
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/02 13:30",
-      "manobra_rio_fim": "07/02 01:00",
-      "navio_multi": "MSC AGADIR",
+      "manobra_rio_inicio": "06/02 01:00",
+      "manobra_rio_fim": "06/02 11:30",
+      "navio_multi": "MSC VANCOUVER",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/02 19:00"
+      "manobra_multi_data_hora": "06/02 03:30"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/02 13:30",
-      "manobra_rio_fim": "07/02 01:00",
-      "navio_multi": "MSC LEILA",
+      "manobra_rio_inicio": "06/02 01:00",
+      "manobra_rio_fim": "06/02 11:30",
+      "navio_multi": "MSC ANTONELLA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/02 21:00"
+      "manobra_multi_data_hora": "06/02 06:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "06/02 01:00",
+      "manobra_rio_fim": "06/02 11:30",
+      "navio_multi": "MSC AGADIR",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "06/02 07:30"
+    },
+    {
+      "navio_rio": "MAERSK EVERGLADES",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/02 02:00",
+      "manobra_rio_fim": "07/02 13:00",
+      "navio_multi": "MSC ANTONELLA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/02 06:00"
+    },
+    {
+      "navio_rio": "MAERSK EVERGLADES",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "07/02 02:00",
+      "manobra_rio_fim": "07/02 13:00",
+      "navio_multi": "MSC LEILA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/02 08:00"
     }
   ]
 }
