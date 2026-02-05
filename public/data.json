@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/02/2026 13:11",
+  "ultima_atualizacao": "05/02/2026 14:11",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,22 +7,7 @@
   "navios": [
     {
       "data": "05/02",
-      "hora": "11:30",
-      "navio": "CMA CGM MISSISSIPPI",
-      "calado": "13,20",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9679907",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-05T11:30:00"
-    },
-    {
-      "data": "05/02",
-      "hora": "18:30",
+      "hora": "16:30",
       "navio": "XIAMEN EXPRESS",
       "calado": "12,30",
       "manobra": "S",
@@ -31,9 +16,9 @@
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-02-05T18:30:00"
+      "timestamp": "2026-02-05T16:30:00"
     },
     {
       "data": "05/02",
