@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "05/02/2026 10:50",
+  "ultima_atualizacao": "05/02/2026 11:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "05/02",
-      "hora": "09:30",
-      "navio": "MSC VANCOUVER",
-      "calado": "12,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9285691",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-02-05T09:30:00"
-    },
     {
       "data": "05/02",
       "hora": "11:30",
@@ -82,7 +67,7 @@
     },
     {
       "data": "06/02",
-      "hora": "03:30",
+      "hora": "04:00",
       "navio": "MSC VANCOUVER",
       "calado": "12,40",
       "manobra": "S",
@@ -93,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-06T03:30:00"
+      "timestamp": "2026-02-06T04:00:00"
     },
     {
       "data": "06/02",
@@ -202,9 +187,9 @@
     },
     {
       "data": "07/02",
-      "hora": "02:00",
+      "hora": "04:00",
       "navio": "MAERSK EVERGLADES",
-      "calado": "11,00",
+      "calado": "9,40",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -213,7 +198,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-07T02:00:00"
+      "timestamp": "2026-02-07T04:00:00"
     },
     {
       "data": "07/02",
@@ -509,7 +494,7 @@
       "manobra_rio_fim": "06/02 11:30",
       "navio_multi": "MSC VANCOUVER",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/02 03:30"
+      "manobra_multi_data_hora": "06/02 04:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -532,7 +517,7 @@
     {
       "navio_rio": "MAERSK EVERGLADES",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/02 02:00",
+      "manobra_rio_inicio": "07/02 04:00",
       "manobra_rio_fim": "07/02 13:00",
       "navio_multi": "MSC ANTONELLA",
       "manobra_multi_tipo": "S",
@@ -540,8 +525,8 @@
     },
     {
       "navio_rio": "MAERSK EVERGLADES",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/02 02:00",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/02 04:00",
       "manobra_rio_fim": "07/02 13:00",
       "navio_multi": "MSC LEILA",
       "manobra_multi_tipo": "S",
