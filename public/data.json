@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/02/2026 16:50",
+  "ultima_atualizacao": "05/02/2026 17:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -97,7 +97,7 @@
     },
     {
       "data": "06/02",
-      "hora": "11:30",
+      "hora": "12:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,00",
       "manobra": "M",
@@ -108,11 +108,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-06T11:30:00"
+      "timestamp": "2026-02-06T12:00:00"
     },
     {
       "data": "06/02",
-      "hora": "13:30",
+      "hora": "14:00",
       "navio": "MSC AGADIR",
       "calado": "13,10",
       "manobra": "E",
@@ -123,11 +123,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-06T13:30:00"
+      "timestamp": "2026-02-06T14:00:00"
     },
     {
       "data": "06/02",
-      "hora": "15:30",
+      "hora": "16:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,20",
       "manobra": "S",
@@ -138,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-06T15:30:00"
+      "timestamp": "2026-02-06T16:00:00"
     },
     {
       "data": "06/02",
@@ -304,6 +304,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-08T16:30:00"
+    },
+    {
+      "data": "09/02",
+      "hora": "07:00",
+      "navio": "TRISTAR NATASHA",
+      "calado": "6,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9721748",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-09T07:00:00"
     },
     {
       "data": "09/02",
@@ -536,7 +551,7 @@
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "06/02 01:00",
-      "manobra_rio_fim": "06/02 11:30",
+      "manobra_rio_fim": "06/02 12:00",
       "navio_multi": "MSC VANCOUVER",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "06/02 04:00"
@@ -545,7 +560,7 @@
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "06/02 01:00",
-      "manobra_rio_fim": "06/02 11:30",
+      "manobra_rio_fim": "06/02 12:00",
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "06/02 06:00"
@@ -554,7 +569,7 @@
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "06/02 01:00",
-      "manobra_rio_fim": "06/02 11:30",
+      "manobra_rio_fim": "06/02 12:00",
       "navio_multi": "MSC ANTONELLA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "06/02 07:30"
