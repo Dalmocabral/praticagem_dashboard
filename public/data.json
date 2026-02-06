@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "06/02/2026 05:07",
+  "ultima_atualizacao": "06/02/2026 06:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "06/02",
-      "hora": "04:00",
-      "navio": "MSC VANCOUVER",
-      "calado": "12,45",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9285691",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-06T04:00:00"
-    },
     {
       "data": "06/02",
       "hora": "06:00",
@@ -39,7 +24,7 @@
       "data": "06/02",
       "hora": "08:00",
       "navio": "MSC ANTONELLA",
-      "calado": "13,40",
+      "calado": "13,30",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -61,7 +46,7 @@
       "imo": "1095014",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-02-06T10:00:00"
     },
