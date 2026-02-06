@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/02/2026 14:51",
+  "ultima_atualizacao": "06/02/2026 15:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "06/02",
       "hora": "16:30",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,20",
+      "calado": "8,10",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "hoje",
@@ -217,7 +217,7 @@
     },
     {
       "data": "09/02",
-      "hora": "07:00",
+      "hora": "04:00",
       "navio": "TRISTAR NATASHA",
       "calado": "6,00",
       "manobra": "S",
@@ -228,7 +228,7 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-09T07:00:00"
+      "timestamp": "2026-02-09T04:00:00"
     },
     {
       "data": "10/02",
