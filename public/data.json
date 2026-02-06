@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/02/2026 20:59",
+  "ultima_atualizacao": "05/02/2026 23:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -12,11 +12,11 @@
       "calado": "7,90",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-02-06T01:00:00"
     },
@@ -27,7 +27,7 @@
       "calado": "12,40",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9285691",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -42,7 +42,7 @@
       "calado": "12,30",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,7 +57,7 @@
       "calado": "13,40",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9702273",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -72,7 +72,7 @@
       "calado": "14,50",
       "manobra": "S",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "1095014",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
@@ -87,7 +87,7 @@
       "calado": "8,00",
       "manobra": "M",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -102,7 +102,7 @@
       "calado": "13,10",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9619464",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -117,7 +117,7 @@
       "calado": "8,20",
       "manobra": "S",
       "beco": "TECONT4",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -126,8 +126,8 @@
       "timestamp": "2026-02-06T16:00:00"
     },
     {
-      "data": "06/02",
-      "hora": "19:00",
+      "data": "07/02",
+      "hora": "02:00",
       "navio": "MSC AGADIR",
       "calado": "12,60",
       "manobra": "S",
@@ -138,22 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-06T19:00:00"
-    },
-    {
-      "data": "06/02",
-      "hora": "21:00",
-      "navio": "MSC LEILA",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "1016654",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-06T21:00:00"
+      "timestamp": "2026-02-07T02:00:00"
     },
     {
       "data": "07/02",
@@ -190,7 +175,7 @@
       "hora": "08:00",
       "navio": "MSC LEILA",
       "calado": "12,60",
-      "manobra": "S",
+      "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
       "imo": "1016654",
@@ -244,6 +229,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-07T15:00:00"
+    },
+    {
+      "data": "07/02",
+      "hora": "23:00",
+      "navio": "MSC LEILA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1016654",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-07T23:00:00"
     },
     {
       "data": "08/02",
@@ -574,7 +574,7 @@
       "manobra_rio_inicio": "07/02 04:00",
       "manobra_rio_fim": "07/02 13:00",
       "navio_multi": "MSC LEILA",
-      "manobra_multi_tipo": "S",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "07/02 08:00"
     },
     {
@@ -585,6 +585,15 @@
       "navio_multi": "MSC CHLOE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "07/02 15:00"
+    },
+    {
+      "navio_rio": "CARDIFF",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "07/02 10:00",
+      "manobra_rio_fim": "08/02 05:30",
+      "navio_multi": "MSC LEILA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/02 23:00"
     }
   ]
 }
