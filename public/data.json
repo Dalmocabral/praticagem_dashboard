@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/02/2026 02:43",
+  "ultima_atualizacao": "06/02/2026 03:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -9,7 +9,7 @@
       "data": "06/02",
       "hora": "04:00",
       "navio": "MSC VANCOUVER",
-      "calado": "12,40",
+      "calado": "12,45",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-06T06:00:00"
     },
