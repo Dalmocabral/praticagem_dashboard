@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/02/2026 16:59",
+  "ultima_atualizacao": "06/02/2026 17:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -114,7 +114,7 @@
       "data": "07/02",
       "hora": "12:00",
       "navio": "CARDIFF",
-      "calado": "13,50",
+      "calado": "13,70",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
@@ -217,6 +217,21 @@
     },
     {
       "data": "08/02",
+      "hora": "12:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,80",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-08T12:00:00"
+    },
+    {
+      "data": "08/02",
       "hora": "14:30",
       "navio": "LOG-IN DISCOVERY",
       "calado": "7,80",
@@ -244,6 +259,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-08T16:30:00"
+    },
+    {
+      "data": "08/02",
+      "hora": "22:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,80",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-08T22:00:00"
     },
     {
       "data": "09/02",
@@ -499,6 +529,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-25T07:00:00"
+    },
+    {
+      "data": "25/02",
+      "hora": "14:00",
+      "navio": "COSCO SHIPPING RHINE",
+      "calado": "12,70",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9731951",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-25T14:00:00"
+    },
+    {
+      "data": "26/02",
+      "hora": "07:00",
+      "navio": "COSCO SHIPPING RHINE",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9731951",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-26T07:00:00"
     }
   ],
   "conflitos": [
@@ -564,6 +624,24 @@
       "navio_multi": "MSC CHLOE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "08/02 08:00"
+    },
+    {
+      "navio_rio": "MERCOSUL FORTALEZA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "08/02 12:00",
+      "manobra_rio_fim": "08/02 22:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "08/02 14:30"
+    },
+    {
+      "navio_rio": "MERCOSUL FORTALEZA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "08/02 12:00",
+      "manobra_rio_fim": "08/02 22:00",
+      "navio_multi": "MSC CHLOE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "08/02 16:30"
     }
   ]
 }
