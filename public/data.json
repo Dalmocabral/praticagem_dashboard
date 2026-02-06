@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/02/2026 16:29",
+  "ultima_atualizacao": "06/02/2026 16:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -112,7 +112,7 @@
     },
     {
       "data": "07/02",
-      "hora": "10:00",
+      "hora": "12:00",
       "navio": "CARDIFF",
       "calado": "13,50",
       "manobra": "S",
@@ -123,7 +123,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-07T10:00:00"
+      "timestamp": "2026-02-07T12:00:00"
     },
     {
       "data": "07/02",
@@ -156,6 +156,21 @@
       "timestamp": "2026-02-07T15:00:00"
     },
     {
+      "data": "07/02",
+      "hora": "22:00",
+      "navio": "NAVIOS VERMILION",
+      "calado": "12,25",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-07T22:00:00"
+    },
+    {
       "data": "08/02",
       "hora": "06:00",
       "navio": "MSC LEILA",
@@ -184,6 +199,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-08T08:00:00"
+    },
+    {
+      "data": "08/02",
+      "hora": "10:00",
+      "navio": "NAVIOS VERMILION",
+      "calado": "12,30",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-08T10:00:00"
     },
     {
       "data": "08/02",
@@ -247,7 +277,7 @@
     },
     {
       "data": "10/02",
-      "hora": "06:00",
+      "hora": "07:00",
       "navio": "CMA CGM AMAZONIA",
       "calado": "14,50",
       "manobra": "S",
@@ -258,11 +288,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-10T06:00:00"
+      "timestamp": "2026-02-10T07:00:00"
     },
     {
       "data": "10/02",
-      "hora": "08:00",
+      "hora": "09:00",
       "navio": "COSCO SHIPPING MEXICO",
       "calado": "14,20",
       "manobra": "E",
@@ -273,7 +303,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-10T08:00:00"
+      "timestamp": "2026-02-10T09:00:00"
     },
     {
       "data": "11/02",
@@ -476,7 +506,7 @@
       "navio_rio": "CARDIFF",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "06/02 23:00",
-      "manobra_rio_fim": "07/02 10:00",
+      "manobra_rio_fim": "07/02 12:00",
       "navio_multi": "MSC AGADIR",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/02 01:00"
@@ -485,7 +515,7 @@
       "navio_rio": "CARDIFF",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "06/02 23:00",
-      "manobra_rio_fim": "07/02 10:00",
+      "manobra_rio_fim": "07/02 12:00",
       "navio_multi": "MSC LEILA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "07/02 06:00"
@@ -494,7 +524,7 @@
       "navio_rio": "CARDIFF",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "06/02 23:00",
-      "manobra_rio_fim": "07/02 10:00",
+      "manobra_rio_fim": "07/02 12:00",
       "navio_multi": "MSC ANTONELLA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/02 08:00"
@@ -516,6 +546,24 @@
       "navio_multi": "MSC ANTONELLA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/02 08:00"
+    },
+    {
+      "navio_rio": "NAVIOS VERMILION",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "07/02 22:00",
+      "manobra_rio_fim": "08/02 10:00",
+      "navio_multi": "MSC LEILA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "08/02 06:00"
+    },
+    {
+      "navio_rio": "NAVIOS VERMILION",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "07/02 22:00",
+      "manobra_rio_fim": "08/02 10:00",
+      "navio_multi": "MSC CHLOE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "08/02 08:00"
     }
   ]
 }
