@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/02/2026 18:18",
+  "ultima_atualizacao": "06/02/2026 18:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -279,7 +279,7 @@
       "data": "09/02",
       "hora": "06:00",
       "navio": "CMA CGM AMAZONIA",
-      "calado": "13,90",
+      "calado": "14,50",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -294,7 +294,7 @@
       "data": "10/02",
       "hora": "07:00",
       "navio": "CMA CGM AMAZONIA",
-      "calado": "14,50",
+      "calado": "15,20",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
