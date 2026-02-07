@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/02/2026 01:23",
+  "ultima_atualizacao": "07/02/2026 02:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -31,7 +31,7 @@
       "imo": "9619464",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-02-07T06:00:00"
     },
@@ -67,7 +67,22 @@
     },
     {
       "data": "07/02",
-      "hora": "13:00",
+      "hora": "12:00",
+      "navio": "CARDIFF",
+      "calado": "13,90",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9629457",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-07T12:00:00"
+    },
+    {
+      "data": "07/02",
+      "hora": "14:00",
       "navio": "MAERSK EVERGLADES",
       "calado": "10,50",
       "manobra": "S",
@@ -78,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-07T13:00:00"
+      "timestamp": "2026-02-07T14:00:00"
     },
     {
       "data": "07/02",
@@ -94,6 +109,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-07T16:00:00"
+    },
+    {
+      "data": "07/02",
+      "hora": "23:00",
+      "navio": "CARDIFF",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9629457",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-07T23:00:00"
     },
     {
       "data": "08/02",
@@ -476,7 +506,7 @@
       "navio_rio": "MAERSK EVERGLADES",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "07/02 04:00",
-      "manobra_rio_fim": "07/02 13:00",
+      "manobra_rio_fim": "07/02 14:00",
       "navio_multi": "MSC AGADIR",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/02 06:00"
@@ -485,10 +515,19 @@
       "navio_rio": "MAERSK EVERGLADES",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "07/02 04:00",
-      "manobra_rio_fim": "07/02 13:00",
+      "manobra_rio_fim": "07/02 14:00",
       "navio_multi": "MSC LEILA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "07/02 08:00"
+    },
+    {
+      "navio_rio": "CARDIFF",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/02 12:00",
+      "manobra_rio_fim": "07/02 23:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "07/02 16:00"
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
