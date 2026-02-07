@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/02/2026 07:20",
+  "ultima_atualizacao": "07/02/2026 07:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -19,21 +19,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-02-07T04:00:00"
-    },
-    {
-      "data": "07/02",
-      "hora": "06:00",
-      "navio": "MSC AGADIR",
-      "calado": "13,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9619464",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-07T06:00:00"
     },
     {
       "data": "07/02",
@@ -111,21 +96,6 @@
       "timestamp": "2026-02-07T17:00:00"
     },
     {
-      "data": "07/02",
-      "hora": "23:00",
-      "navio": "CARDIFF",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9629457",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-07T23:00:00"
-    },
-    {
       "data": "08/02",
       "hora": "06:00",
       "navio": "MSC LEILA",
@@ -154,6 +124,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-08T08:00:00"
+    },
+    {
+      "data": "08/02",
+      "hora": "10:00",
+      "navio": "CARDIFF",
+      "calado": "13,40",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9629457",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-08T10:00:00"
     },
     {
       "data": "08/02",
@@ -507,15 +492,6 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "07/02 04:00",
       "manobra_rio_fim": "07/02 14:00",
-      "navio_multi": "MSC AGADIR",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/02 06:00"
-    },
-    {
-      "navio_rio": "MAERSK EVERGLADES",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/02 04:00",
-      "manobra_rio_fim": "07/02 14:00",
       "navio_multi": "MSC LEILA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "07/02 08:00"
@@ -524,10 +500,28 @@
       "navio_rio": "CARDIFF",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "07/02 12:00",
-      "manobra_rio_fim": "07/02 23:00",
+      "manobra_rio_fim": "08/02 10:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "07/02 17:00"
+    },
+    {
+      "navio_rio": "CARDIFF",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "07/02 12:00",
+      "manobra_rio_fim": "08/02 10:00",
+      "navio_multi": "MSC LEILA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "08/02 06:00"
+    },
+    {
+      "navio_rio": "CARDIFF",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "07/02 12:00",
+      "manobra_rio_fim": "08/02 10:00",
+      "navio_multi": "MSC CHLOE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "08/02 08:00"
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
