@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/02/2026 06:50",
+  "ultima_atualizacao": "07/02/2026 07:20",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -61,7 +61,7 @@
       "imo": "9702273",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-07T10:00:00"
     },
@@ -97,7 +97,7 @@
     },
     {
       "data": "07/02",
-      "hora": "16:00",
+      "hora": "17:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "7,80",
       "manobra": "E",
@@ -108,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-07T16:00:00"
+      "timestamp": "2026-02-07T17:00:00"
     },
     {
       "data": "07/02",
@@ -527,7 +527,7 @@
       "manobra_rio_fim": "07/02 23:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/02 16:00"
+      "manobra_multi_data_hora": "07/02 17:00"
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
