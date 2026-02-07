@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/02/2026 14:41",
+  "ultima_atualizacao": "07/02/2026 14:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -244,6 +244,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-09T12:00:00"
+    },
+    {
+      "data": "09/02",
+      "hora": "14:00",
+      "navio": "LOG-IN RESILIENTE",
+      "calado": "8,50",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9327669",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-09T14:00:00"
     },
     {
       "data": "10/02",
@@ -564,6 +579,15 @@
       "navio_multi": "MSC DAMLA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "09/02 12:00"
+    },
+    {
+      "navio_rio": "CMA CGM AMAZONIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "09/02 06:00",
+      "manobra_rio_fim": "10/02 07:00",
+      "navio_multi": "LOG-IN RESILIENTE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "09/02 14:00"
     }
   ]
 }
