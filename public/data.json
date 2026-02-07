@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/02/2026 08:18",
+  "ultima_atualizacao": "07/02/2026 08:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -39,7 +39,7 @@
       "data": "07/02",
       "hora": "10:00",
       "navio": "MSC ANTONELLA",
-      "calado": "12,60",
+      "calado": "12,00",
       "manobra": "M",
       "beco": "TECONT3",
       "status": "hoje",
