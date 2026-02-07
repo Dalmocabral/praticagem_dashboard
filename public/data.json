@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/02/2026 08:41",
+  "ultima_atualizacao": "07/02/2026 08:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -199,21 +199,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-08T22:00:00"
-    },
-    {
-      "data": "09/02",
-      "hora": "04:00",
-      "navio": "TRISTAR NATASHA",
-      "calado": "6,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9721748",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-09T04:00:00"
     },
     {
       "data": "09/02",
