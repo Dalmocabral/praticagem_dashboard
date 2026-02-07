@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/02/2026 18:58",
+  "ultima_atualizacao": "07/02/2026 19:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -19,21 +19,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-02-07T12:00:00"
-    },
-    {
-      "data": "07/02",
-      "hora": "17:00",
-      "navio": "MSC LEILA",
-      "calado": "13,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1016654",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-07T17:00:00"
     },
     {
       "data": "07/02",
@@ -517,15 +502,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CARDIFF",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/02 12:00",
-      "manobra_rio_fim": "08/02 01:00",
-      "navio_multi": "MSC LEILA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/02 17:00"
-    },
     {
       "navio_rio": "CARDIFF",
       "manobra_rio_afetada": "S",
