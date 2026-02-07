@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "07/02/2026 12:34",
+  "ultima_atualizacao": "07/02/2026 12:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "07/02",
-      "hora": "04:00",
-      "navio": "MAERSK EVERGLADES",
-      "calado": "9,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9928205",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-02-07T04:00:00"
-    },
-    {
-      "data": "07/02",
-      "hora": "10:00",
-      "navio": "MSC ANTONELLA",
-      "calado": "12,00",
-      "manobra": "M",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9702273",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-07T10:00:00"
-    },
     {
       "data": "07/02",
       "hora": "12:00",
