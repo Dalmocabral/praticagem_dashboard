@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/02/2026 18:02",
+  "ultima_atualizacao": "07/02/2026 18:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -19,21 +19,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-02-07T12:00:00"
-    },
-    {
-      "data": "07/02",
-      "hora": "14:00",
-      "navio": "MAERSK EVERGLADES",
-      "calado": "9,60",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9928205",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-07T14:00:00"
     },
     {
       "data": "07/02",
