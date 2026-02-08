@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/02/2026 02:42",
+  "ultima_atualizacao": "08/02/2026 03:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -9,14 +9,14 @@
       "data": "08/02",
       "hora": "06:00",
       "navio": "MSC CHLOE",
-      "calado": "14,10",
+      "calado": "13,95",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9720483",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-08T06:00:00"
     },
