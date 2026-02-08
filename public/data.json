@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/02/2026 08:43",
+  "ultima_atualizacao": "08/02/2026 08:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -214,6 +214,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-10T09:00:00"
+    },
+    {
+      "data": "10/02",
+      "hora": "11:00",
+      "navio": "MAERSK KARUN",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9624299",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-10T11:00:00"
+    },
+    {
+      "data": "11/02",
+      "hora": "06:00",
+      "navio": "MAERSK KARUN",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9624299",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-11T06:00:00"
     },
     {
       "data": "11/02",
@@ -504,6 +534,24 @@
       "navio_multi": "LOG-IN RESILIENTE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/02 06:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/02 09:00",
+      "manobra_rio_fim": "11/02 09:00",
+      "navio_multi": "MAERSK KARUN",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/02 11:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "10/02 09:00",
+      "manobra_rio_fim": "11/02 09:00",
+      "navio_multi": "MAERSK KARUN",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "11/02 06:00"
     }
   ]
 }
