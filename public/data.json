@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/02/2026 12:37",
+  "ultima_atualizacao": "08/02/2026 12:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -85,7 +85,7 @@
       "hora": "04:00",
       "navio": "TRISTAR NATASHA",
       "calado": "6,00",
-      "manobra": "S",
+      "manobra": "M",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9721748",
