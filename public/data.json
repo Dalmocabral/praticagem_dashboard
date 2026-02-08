@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/02/2026 17:57",
+  "ultima_atualizacao": "08/02/2026 18:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -69,7 +69,7 @@
       "data": "09/02",
       "hora": "06:00",
       "navio": "CMA CGM AMAZONIA",
-      "calado": "14,50",
+      "calado": "13,90",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -141,6 +141,21 @@
       "timestamp": "2026-02-09T14:00:00"
     },
     {
+      "data": "09/02",
+      "hora": "19:00",
+      "navio": "WIELAND",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9654464",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-09T19:00:00"
+    },
+    {
       "data": "10/02",
       "hora": "06:00",
       "navio": "LOG-IN RESILIENTE",
@@ -159,7 +174,7 @@
       "data": "10/02",
       "hora": "07:00",
       "navio": "CMA CGM AMAZONIA",
-      "calado": "15,20",
+      "calado": "14,70",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -199,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-10T11:00:00"
+    },
+    {
+      "data": "10/02",
+      "hora": "13:00",
+      "navio": "WIELAND",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9654464",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-10T13:00:00"
     },
     {
       "data": "11/02",
@@ -516,6 +546,24 @@
       "navio_multi": "LOG-IN RESILIENTE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/02 06:00"
+    },
+    {
+      "navio_rio": "WIELAND",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/02 19:00",
+      "manobra_rio_fim": "10/02 13:00",
+      "navio_multi": "LOG-IN RESILIENTE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/02 06:00"
+    },
+    {
+      "navio_rio": "WIELAND",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/02 19:00",
+      "manobra_rio_fim": "10/02 13:00",
+      "navio_multi": "MAERSK KARUN",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/02 11:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
