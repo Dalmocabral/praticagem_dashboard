@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/02/2026 10:10",
+  "ultima_atualizacao": "08/02/2026 10:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -9,7 +9,7 @@
       "data": "08/02",
       "hora": "12:00",
       "navio": "MERCOSUL FORTALEZA",
-      "calado": "10,80",
+      "calado": "11,00",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-02-08T14:30:00"
     },
@@ -52,7 +52,7 @@
     },
     {
       "data": "08/02",
-      "hora": "23:00",
+      "hora": "23:30",
       "navio": "MERCOSUL FORTALEZA",
       "calado": "10,80",
       "manobra": "S",
@@ -63,11 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-08T23:00:00"
+      "timestamp": "2026-02-08T23:30:00"
     },
     {
       "data": "09/02",
-      "hora": "01:00",
+      "hora": "01:30",
       "navio": "NAVIOS VERMILION",
       "calado": "12,25",
       "manobra": "E",
@@ -78,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-09T01:00:00"
+      "timestamp": "2026-02-09T01:30:00"
     },
     {
       "data": "09/02",
@@ -506,7 +506,7 @@
       "navio_rio": "MERCOSUL FORTALEZA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "08/02 12:00",
-      "manobra_rio_fim": "08/02 23:00",
+      "manobra_rio_fim": "08/02 23:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "08/02 14:30"
@@ -515,7 +515,7 @@
       "navio_rio": "MERCOSUL FORTALEZA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "08/02 12:00",
-      "manobra_rio_fim": "08/02 23:00",
+      "manobra_rio_fim": "08/02 23:30",
       "navio_multi": "MSC DAMLA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "08/02 16:30"
@@ -523,7 +523,7 @@
     {
       "navio_rio": "NAVIOS VERMILION",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/02 01:00",
+      "manobra_rio_inicio": "09/02 01:30",
       "manobra_rio_fim": "09/02 10:00",
       "navio_multi": "MSC CHLOE",
       "manobra_multi_tipo": "S",
