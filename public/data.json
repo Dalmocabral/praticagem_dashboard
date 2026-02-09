@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/02/2026 04:43",
+  "ultima_atualizacao": "09/02/2026 05:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -19,21 +19,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-02-09T01:30:00"
-    },
-    {
-      "data": "09/02",
-      "hora": "04:00",
-      "navio": "TRISTAR NATASHA",
-      "calado": "7,20",
-      "manobra": "M",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9721748",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-09T04:00:00"
     },
     {
       "data": "09/02",
@@ -61,13 +46,13 @@
       "imo": "9720483",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-09T08:00:00"
     },
     {
       "data": "09/02",
-      "hora": "10:00",
+      "hora": "11:00",
       "navio": "NAVIOS VERMILION",
       "calado": "12,30",
       "manobra": "S",
@@ -78,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-09T10:00:00"
+      "timestamp": "2026-02-09T11:00:00"
     },
     {
       "data": "09/02",
@@ -476,7 +461,7 @@
       "navio_rio": "NAVIOS VERMILION",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "09/02 01:30",
-      "manobra_rio_fim": "09/02 10:00",
+      "manobra_rio_fim": "09/02 11:00",
       "navio_multi": "MSC CHLOE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "09/02 08:00"
