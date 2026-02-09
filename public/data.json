@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/02/2026 10:57",
+  "ultima_atualizacao": "09/02/2026 12:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -46,7 +46,7 @@
       "imo": "9324837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-02-09T14:00:00"
     },
@@ -61,7 +61,7 @@
       "imo": "9654464",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-02-09T16:00:00"
     },
@@ -157,9 +157,9 @@
     },
     {
       "data": "10/02",
-      "hora": "13:00",
+      "hora": "11:00",
       "navio": "WIELAND",
-      "calado": "12,50",
+      "calado": "12,79",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
@@ -168,7 +168,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-10T13:00:00"
+      "timestamp": "2026-02-10T11:00:00"
     },
     {
       "data": "11/02",
@@ -476,7 +476,7 @@
       "navio_rio": "WIELAND",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "09/02 16:00",
-      "manobra_rio_fim": "10/02 13:00",
+      "manobra_rio_fim": "10/02 11:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "09/02 17:30"
@@ -485,7 +485,7 @@
       "navio_rio": "WIELAND",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "09/02 16:00",
-      "manobra_rio_fim": "10/02 13:00",
+      "manobra_rio_fim": "10/02 11:00",
       "navio_multi": "LOG-IN RESILIENTE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "09/02 23:00"
@@ -494,7 +494,7 @@
       "navio_rio": "WIELAND",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "09/02 16:00",
-      "manobra_rio_fim": "10/02 13:00",
+      "manobra_rio_fim": "10/02 11:00",
       "navio_multi": "MSC LOS ANGELES",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "10/02 04:00"
@@ -503,7 +503,7 @@
       "navio_rio": "WIELAND",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "09/02 16:00",
-      "manobra_rio_fim": "10/02 13:00",
+      "manobra_rio_fim": "10/02 11:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/02 06:00"
