@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "09/02/2026 00:48",
+  "ultima_atualizacao": "09/02/2026 02:22",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "08/02",
-      "hora": "23:30",
-      "navio": "MERCOSUL FORTALEZA",
-      "calado": "10,70",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9784661",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-08T23:30:00"
-    },
     {
       "data": "09/02",
       "hora": "01:30",
@@ -46,7 +31,7 @@
       "imo": "9721748",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-02-09T04:00:00"
     },
@@ -61,7 +46,7 @@
       "imo": "9938298",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-02-09T06:00:00"
     },
