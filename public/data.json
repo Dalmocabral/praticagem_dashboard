@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/02/2026 09:32",
+  "ultima_atualizacao": "09/02/2026 10:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "09/02",
-      "hora": "08:00",
-      "navio": "MSC CHLOE",
-      "calado": "14,20",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9720483",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-09T08:00:00"
-    },
-    {
-      "data": "09/02",
       "hora": "11:00",
       "navio": "LOG-IN RESILIENTE",
-      "calado": "8,50",
+      "calado": "8,70",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -46,7 +31,7 @@
       "imo": "9250983",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-09T13:00:00"
     },
@@ -54,14 +39,14 @@
       "data": "09/02",
       "hora": "14:00",
       "navio": "NAVIOS VERMILION",
-      "calado": "12,30",
+      "calado": "12,50",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9324837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-02-09T14:00:00"
     },
@@ -86,7 +71,7 @@
       "navio": "MAERSK KARUN",
       "calado": "13,00",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "hoje",
       "imo": "9624299",
       "tipo_navio": "CONTAINER SHIP",
@@ -112,11 +97,26 @@
     },
     {
       "data": "10/02",
+      "hora": "04:00",
+      "navio": "MSC LOS ANGELES",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9327798",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-10T04:00:00"
+    },
+    {
+      "data": "10/02",
       "hora": "06:00",
       "navio": "MAERSK KARUN",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9624299",
       "tipo_navio": "CONTAINER SHIP",
@@ -169,6 +169,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-10T13:00:00"
+    },
+    {
+      "data": "11/02",
+      "hora": "08:00",
+      "navio": "MSC LOS ANGELES",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9327798",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-11T08:00:00"
     },
     {
       "data": "11/02",
@@ -480,9 +495,27 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "09/02 16:00",
       "manobra_rio_fim": "10/02 13:00",
+      "navio_multi": "MSC LOS ANGELES",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/02 04:00"
+    },
+    {
+      "navio_rio": "WIELAND",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/02 16:00",
+      "manobra_rio_fim": "10/02 13:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/02 06:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "10/02 09:00",
+      "manobra_rio_fim": "11/02 09:00",
+      "navio_multi": "MSC LOS ANGELES",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "11/02 08:00"
     },
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
