@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/02/2026 02:22",
+  "ultima_atualizacao": "09/02/2026 03:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "09/02",
       "hora": "04:00",
       "navio": "TRISTAR NATASHA",
-      "calado": "6,00",
+      "calado": "7,20",
       "manobra": "M",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9938298",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-02-09T06:00:00"
     },
