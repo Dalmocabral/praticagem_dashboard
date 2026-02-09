@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/02/2026 17:23",
+  "ultima_atualizacao": "09/02/2026 18:06",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -98,36 +98,6 @@
     {
       "data": "10/02",
       "hora": "07:00",
-      "navio": "CMA CGM AMAZONIA",
-      "calado": "14,70",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9938298",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-10T07:00:00"
-    },
-    {
-      "data": "10/02",
-      "hora": "09:00",
-      "navio": "COSCO SHIPPING MEXICO",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9945863",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-10T09:00:00"
-    },
-    {
-      "data": "10/02",
-      "hora": "11:00",
       "navio": "WIELAND",
       "calado": "12,79",
       "manobra": "S",
@@ -138,7 +108,37 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-10T11:00:00"
+      "timestamp": "2026-02-10T07:00:00"
+    },
+    {
+      "data": "10/02",
+      "hora": "08:00",
+      "navio": "CMA CGM AMAZONIA",
+      "calado": "14,70",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938298",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-10T08:00:00"
+    },
+    {
+      "data": "10/02",
+      "hora": "10:00",
+      "navio": "COSCO SHIPPING MEXICO",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945863",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-10T10:00:00"
     },
     {
       "data": "11/02",
@@ -446,7 +446,7 @@
       "navio_rio": "WIELAND",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "09/02 16:00",
-      "manobra_rio_fim": "10/02 11:00",
+      "manobra_rio_fim": "10/02 07:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "09/02 17:30"
@@ -455,7 +455,7 @@
       "navio_rio": "WIELAND",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "09/02 16:00",
-      "manobra_rio_fim": "10/02 11:00",
+      "manobra_rio_fim": "10/02 07:00",
       "navio_multi": "LOG-IN RESILIENTE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "09/02 23:00"
@@ -464,7 +464,7 @@
       "navio_rio": "WIELAND",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "09/02 16:00",
-      "manobra_rio_fim": "10/02 11:00",
+      "manobra_rio_fim": "10/02 07:00",
       "navio_multi": "MSC LOS ANGELES",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "10/02 04:00"
@@ -473,7 +473,7 @@
       "navio_rio": "WIELAND",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "09/02 16:00",
-      "manobra_rio_fim": "10/02 11:00",
+      "manobra_rio_fim": "10/02 07:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/02 06:00"
@@ -481,7 +481,7 @@
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/02 09:00",
+      "manobra_rio_inicio": "10/02 10:00",
       "manobra_rio_fim": "11/02 09:00",
       "navio_multi": "MSC LOS ANGELES",
       "manobra_multi_tipo": "S",
