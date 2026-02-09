@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "09/02/2026 18:55",
+  "ultima_atualizacao": "09/02/2026 19:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "09/02",
-      "hora": "17:30",
-      "navio": "MAERSK KARUN",
-      "calado": "13,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9624299",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-02-09T17:30:00"
-    },
     {
       "data": "10/02",
       "hora": "02:00",
