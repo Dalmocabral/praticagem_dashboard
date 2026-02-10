@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/02/2026 21:02",
+  "ultima_atualizacao": "10/02/2026 00:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "10/02",
-      "hora": "02:00",
+      "hora": "05:00",
       "navio": "LOG-IN RESILIENTE",
       "calado": "8,50",
       "manobra": "S",
@@ -18,22 +18,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-10T02:00:00"
-    },
-    {
-      "data": "10/02",
-      "hora": "04:00",
-      "navio": "MSC LOS ANGELES",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9327798",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-10T04:00:00"
+      "timestamp": "2026-02-10T05:00:00"
     },
     {
       "data": "10/02",
@@ -96,6 +81,21 @@
       "timestamp": "2026-02-10T10:00:00"
     },
     {
+      "data": "10/02",
+      "hora": "12:00",
+      "navio": "MSC LOS ANGELES",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9327798",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-10T12:00:00"
+    },
+    {
       "data": "11/02",
       "hora": "08:00",
       "navio": "MSC LOS ANGELES",
@@ -139,6 +139,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-11T11:00:00"
+    },
+    {
+      "data": "11/02",
+      "hora": "13:00",
+      "navio": "MSC HORTENSE",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978951",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-11T13:00:00"
+    },
+    {
+      "data": "12/02",
+      "hora": "06:30",
+      "navio": "MSC HORTENSE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978951",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-12T06:30:00"
     },
     {
       "data": "12/02",
@@ -399,12 +429,39 @@
   "conflitos": [
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/02 10:00",
+      "manobra_rio_fim": "11/02 09:00",
+      "navio_multi": "MSC LOS ANGELES",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/02 12:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "10/02 10:00",
       "manobra_rio_fim": "11/02 09:00",
       "navio_multi": "MSC LOS ANGELES",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "11/02 08:00"
+    },
+    {
+      "navio_rio": "KOTA EMBUN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/02 11:00",
+      "manobra_rio_fim": "12/02 08:00",
+      "navio_multi": "MSC HORTENSE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "11/02 13:00"
+    },
+    {
+      "navio_rio": "KOTA EMBUN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "11/02 11:00",
+      "manobra_rio_fim": "12/02 08:00",
+      "navio_multi": "MSC HORTENSE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "12/02 06:30"
     },
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
