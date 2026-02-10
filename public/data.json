@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/02/2026 02:18",
+  "ultima_atualizacao": "10/02/2026 03:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -22,22 +22,7 @@
     },
     {
       "data": "10/02",
-      "hora": "06:00",
-      "navio": "MAERSK KARUN",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9624299",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-02-10T06:00:00"
-    },
-    {
-      "data": "10/02",
-      "hora": "07:00",
+      "hora": "08:00",
       "navio": "WIELAND",
       "calado": "12,79",
       "manobra": "S",
@@ -48,11 +33,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-10T07:00:00"
+      "timestamp": "2026-02-10T08:00:00"
     },
     {
       "data": "10/02",
-      "hora": "08:00",
+      "hora": "09:00",
       "navio": "CMA CGM AMAZONIA",
       "calado": "14,70",
       "manobra": "S",
@@ -63,21 +48,21 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-10T08:00:00"
+      "timestamp": "2026-02-10T09:00:00"
     },
     {
       "data": "10/02",
       "hora": "10:00",
-      "navio": "COSCO SHIPPING MEXICO",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "navio": "MAERSK KARUN",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT2",
       "status": "hoje",
-      "imo": "9945863",
+      "imo": "9624299",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "rio",
+      "terminal": "multi",
       "timestamp": "2026-02-10T10:00:00"
     },
     {
@@ -94,6 +79,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-10T12:00:00"
+    },
+    {
+      "data": "10/02",
+      "hora": "13:30",
+      "navio": "COSCO SHIPPING MEXICO",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9945863",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-10T13:30:00"
     },
     {
       "data": "11/02",
@@ -429,17 +429,8 @@
   "conflitos": [
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/02 10:00",
-      "manobra_rio_fim": "11/02 09:00",
-      "navio_multi": "MSC LOS ANGELES",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/02 12:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/02 10:00",
+      "manobra_rio_inicio": "10/02 13:30",
       "manobra_rio_fim": "11/02 09:00",
       "navio_multi": "MSC LOS ANGELES",
       "manobra_multi_tipo": "S",
