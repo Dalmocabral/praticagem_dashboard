@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/02/2026 05:34",
+  "ultima_atualizacao": "10/02/2026 06:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -38,6 +38,21 @@
     {
       "data": "10/02",
       "hora": "09:00",
+      "navio": "MAERSK KARUN",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9624299",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
+      "timestamp": "2026-02-10T09:00:00"
+    },
+    {
+      "data": "10/02",
+      "hora": "10:00",
       "navio": "CMA CGM AMAZONIA",
       "calado": "14,70",
       "manobra": "S",
@@ -48,21 +63,6 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_futura",
       "terminal": "rio",
-      "timestamp": "2026-02-10T09:00:00"
-    },
-    {
-      "data": "10/02",
-      "hora": "10:00",
-      "navio": "MAERSK KARUN",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9624299",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
       "timestamp": "2026-02-10T10:00:00"
     },
     {
