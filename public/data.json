@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/02/2026 20:54",
+  "ultima_atualizacao": "10/02/2026 23:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,18 +7,18 @@
   "navios": [
     {
       "data": "11/02",
-      "hora": "08:00",
+      "hora": "04:00",
       "navio": "MSC LOS ANGELES",
-      "calado": "9,00",
+      "calado": "9,10",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9327798",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-11T08:00:00"
+      "timestamp": "2026-02-11T04:00:00"
     },
     {
       "data": "11/02",
@@ -27,7 +27,7 @@
       "calado": "14,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9945863",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -42,7 +42,7 @@
       "calado": "14,70",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9968865",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,7 +57,7 @@
       "calado": "13,50",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9978951",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -72,7 +72,7 @@
       "calado": "12,60",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9605231",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
