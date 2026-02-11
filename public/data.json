@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "11/02/2026 09:00",
+  "ultima_atualizacao": "11/02/2026 10:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "11/02",
-      "hora": "08:00",
-      "navio": "MSC LOS ANGELES",
-      "calado": "9,80",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9327798",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-11T08:00:00"
-    },
     {
       "data": "11/02",
       "hora": "09:00",
@@ -66,6 +51,21 @@
       "timestamp": "2026-02-11T16:30:00"
     },
     {
+      "data": "11/02",
+      "hora": "20:30",
+      "navio": "MSC DAKAR X",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9605231",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-11T20:30:00"
+    },
+    {
       "data": "12/02",
       "hora": "06:00",
       "navio": "MSC HORTENSE",
@@ -84,7 +84,7 @@
       "data": "12/02",
       "hora": "08:00",
       "navio": "KOTA EMBUN",
-      "calado": "13,50",
+      "calado": "14,10",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -112,18 +112,18 @@
     },
     {
       "data": "12/02",
-      "hora": "12:30",
+      "hora": "13:00",
       "navio": "MSC DAKAR X",
-      "calado": "13,20",
-      "manobra": "E",
-      "beco": "TECONT3",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9605231",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-12T12:30:00"
+      "timestamp": "2026-02-12T13:00:00"
     },
     {
       "data": "12/02",
@@ -139,21 +139,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-12T16:30:00"
-    },
-    {
-      "data": "12/02",
-      "hora": "22:00",
-      "navio": "MSC DAKAR X",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9605231",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-12T22:00:00"
     },
     {
       "data": "13/02",
@@ -513,6 +498,15 @@
     },
     {
       "navio_rio": "KOTA EMBUN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/02 11:00",
+      "manobra_rio_fim": "12/02 08:00",
+      "navio_multi": "MSC DAKAR X",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "11/02 20:30"
+    },
+    {
+      "navio_rio": "KOTA EMBUN",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "11/02 11:00",
       "manobra_rio_fim": "12/02 08:00",
@@ -526,8 +520,8 @@
       "manobra_rio_inicio": "12/02 11:00",
       "manobra_rio_fim": "13/02 04:00",
       "navio_multi": "MSC DAKAR X",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/02 12:30"
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "12/02 13:00"
     },
     {
       "navio_rio": "SPYROS V",
@@ -537,15 +531,6 @@
       "navio_multi": "GRANDE BUENOS AIRES",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "12/02 16:30"
-    },
-    {
-      "navio_rio": "SPYROS V",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/02 11:00",
-      "manobra_rio_fim": "13/02 04:00",
-      "navio_multi": "MSC DAKAR X",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/02 22:00"
     },
     {
       "navio_rio": "SPYROS V",
