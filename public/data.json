@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/02/2026 01:54",
+  "ultima_atualizacao": "11/02/2026 03:10",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "11/02",
-      "hora": "04:00",
+      "hora": "08:00",
       "navio": "MSC LOS ANGELES",
       "calado": "9,10",
       "manobra": "S",
@@ -16,9 +16,9 @@
       "imo": "9327798",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
+      "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-11T04:00:00"
+      "timestamp": "2026-02-11T08:00:00"
     },
     {
       "data": "11/02",
