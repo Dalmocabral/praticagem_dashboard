@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/02/2026 06:05",
+  "ultima_atualizacao": "11/02/2026 07:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -9,7 +9,7 @@
       "data": "11/02",
       "hora": "08:00",
       "navio": "MSC LOS ANGELES",
-      "calado": "9,10",
+      "calado": "9,80",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9968865",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-02-11T11:00:00"
     },
