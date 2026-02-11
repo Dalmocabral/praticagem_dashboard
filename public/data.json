@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/02/2026 11:44",
+  "ultima_atualizacao": "11/02/2026 12:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -46,7 +46,7 @@
       "imo": "9978951",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-02-11T16:30:00"
     },
@@ -232,6 +232,21 @@
     },
     {
       "data": "14/02",
+      "hora": "08:00",
+      "navio": "VICTORIA HIGHWAY",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9827255",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-14T08:00:00"
+    },
+    {
+      "data": "14/02",
       "hora": "11:30",
       "navio": "TRISTAR NATASHA",
       "calado": "6,00",
@@ -244,6 +259,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-14T11:30:00"
+    },
+    {
+      "data": "15/02",
+      "hora": "04:00",
+      "navio": "VICTORIA HIGHWAY",
+      "calado": "8,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9827255",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-15T04:00:00"
     },
     {
       "data": "15/02",
