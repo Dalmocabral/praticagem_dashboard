@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/02/2026 16:45",
+  "ultima_atualizacao": "11/02/2026 17:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -111,6 +111,21 @@
       "timestamp": "2026-02-12T16:30:00"
     },
     {
+      "data": "12/02",
+      "hora": "19:00",
+      "navio": "SPYROS V",
+      "calado": "11,30",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9453365",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-12T19:00:00"
+    },
+    {
       "data": "13/02",
       "hora": "00:00",
       "navio": "MSC DOMITILLE",
@@ -124,21 +139,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-13T00:00:00"
-    },
-    {
-      "data": "13/02",
-      "hora": "04:00",
-      "navio": "SPYROS V",
-      "calado": "11,30",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9453365",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-13T04:00:00"
     },
     {
       "data": "13/02",
@@ -491,16 +491,16 @@
       "navio_rio": "SPYROS V",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "12/02 04:00",
-      "manobra_rio_fim": "13/02 04:00",
+      "manobra_rio_fim": "12/02 19:00",
       "navio_multi": "MSC HORTENSE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "12/02 06:00"
     },
     {
       "navio_rio": "SPYROS V",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "12/02 04:00",
-      "manobra_rio_fim": "13/02 04:00",
+      "manobra_rio_fim": "12/02 19:00",
       "navio_multi": "MSC DAKAR X",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "12/02 13:00"
@@ -509,19 +509,10 @@
       "navio_rio": "SPYROS V",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "12/02 04:00",
-      "manobra_rio_fim": "13/02 04:00",
+      "manobra_rio_fim": "12/02 19:00",
       "navio_multi": "GRANDE BUENOS AIRES",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "12/02 16:30"
-    },
-    {
-      "navio_rio": "SPYROS V",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/02 04:00",
-      "manobra_rio_fim": "13/02 04:00",
-      "navio_multi": "MSC DOMITILLE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/02 00:00"
     },
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
