@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/02/2026 23:42",
+  "ultima_atualizacao": "11/02/2026 01:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -16,7 +16,7 @@
       "imo": "9327798",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-11T04:00:00"
     },
@@ -52,9 +52,9 @@
     },
     {
       "data": "11/02",
-      "hora": "13:00",
+      "hora": "16:30",
       "navio": "MSC HORTENSE",
-      "calado": "13,50",
+      "calado": "13,30",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -63,11 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-11T13:00:00"
+      "timestamp": "2026-02-11T16:30:00"
     },
     {
       "data": "11/02",
-      "hora": "17:00",
+      "hora": "18:30",
       "navio": "MSC DAKAR X",
       "calado": "12,60",
       "manobra": "E",
@@ -78,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-11T17:00:00"
+      "timestamp": "2026-02-11T18:30:00"
     },
     {
       "data": "12/02",
@@ -479,7 +479,7 @@
       "manobra_rio_fim": "12/02 08:00",
       "navio_multi": "MSC HORTENSE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "11/02 13:00"
+      "manobra_multi_data_hora": "11/02 16:30"
     },
     {
       "navio_rio": "KOTA EMBUN",
@@ -488,7 +488,7 @@
       "manobra_rio_fim": "12/02 08:00",
       "navio_multi": "MSC DAKAR X",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "11/02 17:00"
+      "manobra_multi_data_hora": "11/02 18:30"
     },
     {
       "navio_rio": "KOTA EMBUN",
