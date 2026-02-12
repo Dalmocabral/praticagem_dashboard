@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/02/2026 06:06",
+  "ultima_atualizacao": "12/02/2026 07:06",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "12/02",
-      "hora": "08:00",
+      "hora": "09:00",
       "navio": "MSC HORTENSE",
       "calado": "12,60",
       "manobra": "S",
@@ -18,7 +18,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-02-12T08:00:00"
+      "timestamp": "2026-02-12T09:00:00"
     },
     {
       "data": "12/02",
@@ -31,13 +31,13 @@
       "imo": "9968865",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-02-12T10:30:00"
     },
     {
       "data": "12/02",
-      "hora": "13:00",
+      "hora": "17:00",
       "navio": "MSC DAKAR X",
       "calado": "12,80",
       "manobra": "S",
@@ -48,22 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-12T13:00:00"
-    },
-    {
-      "data": "12/02",
-      "hora": "16:30",
-      "navio": "GRANDE BUENOS AIRES",
-      "calado": "9,50",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9253210",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-12T16:30:00"
+      "timestamp": "2026-02-12T17:00:00"
     },
     {
       "data": "12/02",
@@ -79,6 +64,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-12T19:00:00"
+    },
+    {
+      "data": "12/02",
+      "hora": "21:00",
+      "navio": "GRANDE BUENOS AIRES",
+      "calado": "9,70",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9253210",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-12T21:00:00"
     },
     {
       "data": "13/02",
