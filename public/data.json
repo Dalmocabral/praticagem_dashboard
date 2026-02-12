@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/02/2026 14:44",
+  "ultima_atualizacao": "12/02/2026 15:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -61,7 +61,7 @@
       "imo": "9453365",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-02-12T19:00:00"
     },
@@ -97,28 +97,13 @@
     },
     {
       "data": "13/02",
-      "hora": "06:00",
+      "hora": "13:00",
       "navio": "MSC DOMITILLE",
       "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9720201",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-13T06:00:00"
-    },
-    {
-      "data": "13/02",
-      "hora": "13:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "8,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -139,6 +124,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-13T15:00:00"
+    },
+    {
+      "data": "13/02",
+      "hora": "17:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,20",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-13T17:00:00"
     },
     {
       "data": "13/02",
@@ -517,6 +517,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/02 15:00",
+      "manobra_rio_fim": "14/02 00:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/02 17:00"
+    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
