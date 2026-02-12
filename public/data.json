@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/02/2026 15:40",
+  "ultima_atualizacao": "12/02/2026 16:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -22,24 +22,9 @@
     },
     {
       "data": "12/02",
-      "hora": "10:30",
-      "navio": "KOTA EMBUN",
-      "calado": "14,10",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9968865",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-12T10:30:00"
-    },
-    {
-      "data": "12/02",
       "hora": "17:00",
       "navio": "MSC DAKAR X",
-      "calado": "12,80",
+      "calado": "12,90",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -61,7 +46,7 @@
       "imo": "9453365",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-02-12T19:00:00"
     },
