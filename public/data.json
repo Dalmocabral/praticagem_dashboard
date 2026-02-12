@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/02/2026 02:12",
+  "ultima_atualizacao": "12/02/2026 03:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -9,7 +9,7 @@
       "data": "12/02",
       "hora": "04:00",
       "navio": "SPYROS V",
-      "calado": "11,40",
+      "calado": "11,30",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9978951",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-12T06:00:00"
     },
