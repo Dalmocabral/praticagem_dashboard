@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/02/2026 07:06",
+  "ultima_atualizacao": "12/02/2026 08:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -9,7 +9,7 @@
       "data": "12/02",
       "hora": "09:00",
       "navio": "MSC HORTENSE",
-      "calado": "12,60",
+      "calado": "13,90",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9968865",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-02-12T10:30:00"
     },
