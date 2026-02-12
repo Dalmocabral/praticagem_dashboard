@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/02/2026 11:37",
+  "ultima_atualizacao": "12/02/2026 12:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -81,19 +81,19 @@
       "timestamp": "2026-02-12T21:00:00"
     },
     {
-      "data": "13/02",
-      "hora": "00:00",
+      "data": "12/02",
+      "hora": "22:30",
       "navio": "MSC DOMITILLE",
       "calado": "10,60",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9720201",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-13T00:00:00"
+      "timestamp": "2026-02-12T22:30:00"
     },
     {
       "data": "13/02",
