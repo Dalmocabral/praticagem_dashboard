@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/02/2026 12:34",
+  "ultima_atualizacao": "12/02/2026 13:11",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -46,7 +46,7 @@
       "imo": "9605231",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-02-12T17:00:00"
     },
@@ -261,6 +261,21 @@
       "timestamp": "2026-02-14T12:30:00"
     },
     {
+      "data": "14/02",
+      "hora": "21:30",
+      "navio": "MSC INSA",
+      "calado": "11,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1016666",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-14T21:30:00"
+    },
+    {
       "data": "15/02",
       "hora": "04:00",
       "navio": "VICTORIA HIGHWAY",
@@ -274,21 +289,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-15T04:00:00"
-    },
-    {
-      "data": "15/02",
-      "hora": "06:00",
-      "navio": "MSC INSA",
-      "calado": "11,80",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-15T06:00:00"
     },
     {
       "data": "15/02",
