@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "12/02/2026 05:07",
+  "ultima_atualizacao": "12/02/2026 06:06",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "12/02",
-      "hora": "04:00",
-      "navio": "SPYROS V",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9453365",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-02-12T04:00:00"
-    },
     {
       "data": "12/02",
       "hora": "08:00",
@@ -54,7 +39,7 @@
       "data": "12/02",
       "hora": "13:00",
       "navio": "MSC DAKAR X",
-      "calado": "12,60",
+      "calado": "12,80",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -532,33 +517,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "SPYROS V",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/02 04:00",
-      "manobra_rio_fim": "12/02 19:00",
-      "navio_multi": "MSC HORTENSE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/02 08:00"
-    },
-    {
-      "navio_rio": "SPYROS V",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/02 04:00",
-      "manobra_rio_fim": "12/02 19:00",
-      "navio_multi": "MSC DAKAR X",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/02 13:00"
-    },
-    {
-      "navio_rio": "SPYROS V",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/02 04:00",
-      "manobra_rio_fim": "12/02 19:00",
-      "navio_multi": "GRANDE BUENOS AIRES",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/02 16:30"
-    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
