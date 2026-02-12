@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/02/2026 03:17",
+  "ultima_atualizacao": "12/02/2026 04:32",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -22,7 +22,7 @@
     },
     {
       "data": "12/02",
-      "hora": "06:00",
+      "hora": "08:00",
       "navio": "MSC HORTENSE",
       "calado": "12,60",
       "manobra": "S",
@@ -31,9 +31,9 @@
       "imo": "9978951",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
+      "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-02-12T06:00:00"
+      "timestamp": "2026-02-12T08:00:00"
     },
     {
       "data": "12/02",
@@ -539,7 +539,7 @@
       "manobra_rio_fim": "12/02 19:00",
       "navio_multi": "MSC HORTENSE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/02 06:00"
+      "manobra_multi_data_hora": "12/02 08:00"
     },
     {
       "navio_rio": "SPYROS V",
