@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/02/2026 19:52",
+  "ultima_atualizacao": "12/02/2026 20:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -34,21 +34,6 @@
       "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-12T17:00:00"
-    },
-    {
-      "data": "12/02",
-      "hora": "19:00",
-      "navio": "SPYROS V",
-      "calado": "11,40",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9453365",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-12T19:00:00"
     },
     {
       "data": "12/02",
@@ -99,7 +84,7 @@
       "data": "13/02",
       "hora": "15:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,40",
+      "calado": "9,40",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -499,6 +484,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-26T07:00:00"
+    },
+    {
+      "data": "03/03",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING PERU",
+      "calado": "14,40",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945875",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-03T08:00:00"
+    },
+    {
+      "data": "04/03",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING PERU",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945875",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-04T08:00:00"
     }
   ],
   "conflitos": [
