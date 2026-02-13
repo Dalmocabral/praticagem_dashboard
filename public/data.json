@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/02/2026 12:05",
+  "ultima_atualizacao": "13/02/2026 12:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -31,7 +31,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-02-13T15:30:00"
     },
@@ -187,7 +187,7 @@
     },
     {
       "data": "14/02",
-      "hora": "21:30",
+      "hora": "20:00",
       "navio": "MSC INSA",
       "calado": "11,60",
       "manobra": "E",
@@ -198,7 +198,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-14T21:30:00"
+      "timestamp": "2026-02-14T20:00:00"
     },
     {
       "data": "14/02",
@@ -232,21 +232,6 @@
     },
     {
       "data": "15/02",
-      "hora": "08:30",
-      "navio": "MSC GABRIELLA",
-      "calado": "14,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9978975",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-15T08:30:00"
-    },
-    {
-      "data": "15/02",
       "hora": "15:00",
       "navio": "MSC INSA",
       "calado": "14,00",
@@ -261,19 +246,34 @@
       "timestamp": "2026-02-15T15:00:00"
     },
     {
-      "data": "16/02",
-      "hora": "07:00",
+      "data": "15/02",
+      "hora": "17:00",
       "navio": "MSC GABRIELLA",
       "calado": "14,80",
-      "manobra": "S",
-      "beco": "TECONT2",
+      "manobra": "E",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9978975",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-16T07:00:00"
+      "timestamp": "2026-02-15T17:00:00"
+    },
+    {
+      "data": "16/02",
+      "hora": "14:00",
+      "navio": "MSC GABRIELLA",
+      "calado": "14,80",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978975",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-16T14:00:00"
     },
     {
       "data": "17/02",
@@ -569,7 +569,7 @@
       "manobra_rio_fim": "14/02 23:30",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/02 21:30"
+      "manobra_multi_data_hora": "14/02 20:00"
     },
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
