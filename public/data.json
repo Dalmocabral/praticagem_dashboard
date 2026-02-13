@@ -1,28 +1,28 @@
 {
-  "ultima_atualizacao": "13/02/2026 19:22",
+  "ultima_atualizacao": "13/02/2026 19:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
     {
-      "data": "14/02",
-      "hora": "00:00",
+      "data": "13/02",
+      "hora": "23:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,40",
       "manobra": "M",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
-      "timestamp": "2026-02-14T00:00:00"
+      "timestamp": "2026-02-13T23:00:00"
     },
     {
       "data": "14/02",
-      "hora": "02:00",
+      "hora": "01:00",
       "navio": "SWANSEA",
       "calado": "12,50",
       "manobra": "E",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-14T02:00:00"
+      "timestamp": "2026-02-14T01:00:00"
     },
     {
       "data": "14/02",
@@ -535,7 +535,7 @@
     {
       "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/02 02:00",
+      "manobra_rio_inicio": "14/02 01:00",
       "manobra_rio_fim": "14/02 15:30",
       "navio_multi": "GRANDE BUENOS AIRES",
       "manobra_multi_tipo": "S",
@@ -544,7 +544,7 @@
     {
       "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/02 02:00",
+      "manobra_rio_inicio": "14/02 01:00",
       "manobra_rio_fim": "14/02 15:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
@@ -553,7 +553,7 @@
     {
       "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/02 02:00",
+      "manobra_rio_inicio": "14/02 01:00",
       "manobra_rio_fim": "14/02 15:30",
       "navio_multi": "VICTORIA HIGHWAY",
       "manobra_multi_tipo": "E",
@@ -562,7 +562,7 @@
     {
       "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/02 02:00",
+      "manobra_rio_inicio": "14/02 01:00",
       "manobra_rio_fim": "14/02 15:30",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
