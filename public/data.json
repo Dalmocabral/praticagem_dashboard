@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/02/2026 11:13",
+  "ultima_atualizacao": "13/02/2026 12:05",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "13/02",
-      "hora": "13:00",
+      "hora": "13:30",
       "navio": "MSC DOMITILLE",
       "calado": "12,60",
       "manobra": "S",
@@ -18,11 +18,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-02-13T13:00:00"
+      "timestamp": "2026-02-13T13:30:00"
     },
     {
       "data": "13/02",
-      "hora": "15:00",
+      "hora": "15:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,40",
       "manobra": "E",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "entrada_antecipada",
       "terminal": "rio",
-      "timestamp": "2026-02-13T15:00:00"
+      "timestamp": "2026-02-13T15:30:00"
     },
     {
       "data": "13/02",
@@ -246,8 +246,8 @@
       "timestamp": "2026-02-15T08:30:00"
     },
     {
-      "data": "16/02",
-      "hora": "06:00",
+      "data": "15/02",
+      "hora": "15:00",
       "navio": "MSC INSA",
       "calado": "14,00",
       "manobra": "S",
@@ -258,7 +258,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-16T06:00:00"
+      "timestamp": "2026-02-15T15:00:00"
     },
     {
       "data": "16/02",
@@ -456,6 +456,36 @@
       "timestamp": "2026-02-26T07:00:00"
     },
     {
+      "data": "26/02",
+      "hora": "22:00",
+      "navio": "CZECH",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9723241",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-26T22:00:00"
+    },
+    {
+      "data": "27/02",
+      "hora": "16:00",
+      "navio": "CZECH",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9723241",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-27T16:00:00"
+    },
+    {
       "data": "03/03",
       "hora": "08:00",
       "navio": "COSCO SHIPPING PERU",
@@ -490,7 +520,7 @@
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/02 15:00",
+      "manobra_rio_inicio": "13/02 15:30",
       "manobra_rio_fim": "14/02 00:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
