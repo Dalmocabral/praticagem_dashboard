@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/02/2026 06:58",
+  "ultima_atualizacao": "13/02/2026 07:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -51,21 +51,6 @@
       "timestamp": "2026-02-13T17:00:00"
     },
     {
-      "data": "13/02",
-      "hora": "19:00",
-      "navio": "GRANDE BUENOS AIRES",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9253210",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-13T19:00:00"
-    },
-    {
       "data": "14/02",
       "hora": "00:00",
       "navio": "LOG-IN PANTANAL",
@@ -94,6 +79,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-14T02:00:00"
+    },
+    {
+      "data": "14/02",
+      "hora": "04:00",
+      "navio": "GRANDE BUENOS AIRES",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9253210",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-14T04:00:00"
     },
     {
       "data": "14/02",
@@ -497,13 +497,13 @@
       "manobra_multi_data_hora": "13/02 17:00"
     },
     {
-      "navio_rio": "LOG-IN PANTANAL",
+      "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/02 15:00",
-      "manobra_rio_fim": "14/02 00:00",
+      "manobra_rio_inicio": "14/02 02:00",
+      "manobra_rio_fim": "14/02 15:30",
       "navio_multi": "GRANDE BUENOS AIRES",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/02 19:00"
+      "manobra_multi_data_hora": "14/02 04:00"
     },
     {
       "navio_rio": "SWANSEA",
