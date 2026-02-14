@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/02/2026 16:58",
+  "ultima_atualizacao": "14/02/2026 17:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "14/02",
       "hora": "19:30",
       "navio": "MSC INSA",
-      "calado": "11,60",
+      "calado": "11,50",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
