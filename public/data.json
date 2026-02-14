@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/02/2026 14:13",
+  "ultima_atualizacao": "14/02/2026 14:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -61,7 +61,7 @@
       "imo": "9827255",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-14T17:30:00"
     },
