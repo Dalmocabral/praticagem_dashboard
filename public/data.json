@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "13/02/2026 23:50",
+  "ultima_atualizacao": "14/02/2026 01:27",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "13/02",
-      "hora": "23:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,50",
-      "manobra": "M",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-13T23:00:00"
-    },
     {
       "data": "14/02",
       "hora": "01:00",
@@ -46,28 +31,13 @@
       "imo": "9721748",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-02-14T04:00:00"
     },
     {
       "data": "14/02",
-      "hora": "05:00",
-      "navio": "GRANDE BUENOS AIRES",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9253210",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-14T05:00:00"
-    },
-    {
-      "data": "14/02",
-      "hora": "06:00",
+      "hora": "08:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,40",
       "manobra": "S",
@@ -78,26 +48,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-14T06:00:00"
-    },
-    {
-      "data": "14/02",
-      "hora": "08:00",
-      "navio": "VICTORIA HIGHWAY",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9827255",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
       "timestamp": "2026-02-14T08:00:00"
     },
     {
       "data": "14/02",
-      "hora": "10:00",
+      "hora": "09:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,20",
       "manobra": "S",
@@ -106,6 +61,21 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-14T09:00:00"
+    },
+    {
+      "data": "14/02",
+      "hora": "10:00",
+      "navio": "GRANDE BUENOS AIRES",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9253210",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-14T10:00:00"
@@ -124,6 +94,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-14T12:00:00"
+    },
+    {
+      "data": "14/02",
+      "hora": "13:30",
+      "navio": "VICTORIA HIGHWAY",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9827255",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-14T13:30:00"
     },
     {
       "data": "14/02",
@@ -537,26 +522,8 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "14/02 01:00",
       "manobra_rio_fim": "14/02 15:30",
-      "navio_multi": "GRANDE BUENOS AIRES",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/02 05:00"
-    },
-    {
-      "navio_rio": "SWANSEA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/02 01:00",
-      "manobra_rio_fim": "14/02 15:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/02 06:00"
-    },
-    {
-      "navio_rio": "SWANSEA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/02 01:00",
-      "manobra_rio_fim": "14/02 15:30",
-      "navio_multi": "VICTORIA HIGHWAY",
-      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "14/02 08:00"
     },
     {
@@ -566,7 +533,34 @@
       "manobra_rio_fim": "14/02 15:30",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/02 09:00"
+    },
+    {
+      "navio_rio": "SWANSEA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/02 01:00",
+      "manobra_rio_fim": "14/02 15:30",
+      "navio_multi": "GRANDE BUENOS AIRES",
+      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/02 10:00"
+    },
+    {
+      "navio_rio": "SWANSEA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/02 01:00",
+      "manobra_rio_fim": "14/02 15:30",
+      "navio_multi": "VICTORIA HIGHWAY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/02 13:30"
+    },
+    {
+      "navio_rio": "SEASPAN EMPIRE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/02 12:00",
+      "manobra_rio_fim": "14/02 22:00",
+      "navio_multi": "VICTORIA HIGHWAY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/02 13:30"
     },
     {
       "navio_rio": "SEASPAN EMPIRE",
