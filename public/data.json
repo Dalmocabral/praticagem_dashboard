@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/02/2026 11:04",
+  "ultima_atualizacao": "14/02/2026 11:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -46,7 +46,7 @@
       "imo": "9253210",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-14T14:30:00"
     },
@@ -157,6 +157,21 @@
     },
     {
       "data": "16/02",
+      "hora": "06:00",
+      "navio": "MAERSK FREEPORT",
+      "calado": "9,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9991202",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-16T06:00:00"
+    },
+    {
+      "data": "16/02",
       "hora": "14:00",
       "navio": "MSC GABRIELLA",
       "calado": "14,80",
@@ -169,6 +184,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-16T14:00:00"
+    },
+    {
+      "data": "16/02",
+      "hora": "16:00",
+      "navio": "MAERSK FREEPORT",
+      "calado": "9,60",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9991202",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-16T16:00:00"
     },
     {
       "data": "16/02",
@@ -585,6 +615,15 @@
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "19/02 06:00"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/02 06:00",
+      "manobra_rio_fim": "16/02 16:00",
+      "navio_multi": "MSC GABRIELLA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/02 14:00"
     },
     {
       "navio_rio": "CMA CGM BELEM",
