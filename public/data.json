@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/02/2026 08:33",
+  "ultima_atualizacao": "14/02/2026 08:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -37,7 +37,7 @@
     },
     {
       "data": "14/02",
-      "hora": "12:00",
+      "hora": "11:00",
       "navio": "SEASPAN EMPIRE",
       "calado": "10,80",
       "manobra": "E",
@@ -46,13 +46,13 @@
       "imo": "9407160",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
-      "timestamp": "2026-02-14T12:00:00"
+      "timestamp": "2026-02-14T11:00:00"
     },
     {
       "data": "14/02",
-      "hora": "14:00",
+      "hora": "14:30",
       "navio": "GRANDE BUENOS AIRES",
       "calado": "9,00",
       "manobra": "S",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-14T14:00:00"
+      "timestamp": "2026-02-14T14:30:00"
     },
     {
       "data": "14/02",
@@ -97,7 +97,7 @@
     },
     {
       "data": "14/02",
-      "hora": "20:00",
+      "hora": "19:30",
       "navio": "MSC INSA",
       "calado": "11,60",
       "manobra": "E",
@@ -108,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-14T20:00:00"
+      "timestamp": "2026-02-14T19:30:00"
     },
     {
       "data": "14/02",
@@ -490,16 +490,16 @@
     {
       "navio_rio": "SEASPAN EMPIRE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/02 12:00",
+      "manobra_rio_inicio": "14/02 11:00",
       "manobra_rio_fim": "14/02 22:00",
       "navio_multi": "GRANDE BUENOS AIRES",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/02 14:00"
+      "manobra_multi_data_hora": "14/02 14:30"
     },
     {
       "navio_rio": "SEASPAN EMPIRE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/02 12:00",
+      "manobra_rio_inicio": "14/02 11:00",
       "manobra_rio_fim": "14/02 22:00",
       "navio_multi": "VICTORIA HIGHWAY",
       "manobra_multi_tipo": "E",
@@ -508,11 +508,11 @@
     {
       "navio_rio": "SEASPAN EMPIRE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/02 12:00",
+      "manobra_rio_inicio": "14/02 11:00",
       "manobra_rio_fim": "14/02 22:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/02 20:00"
+      "manobra_multi_data_hora": "14/02 19:30"
     },
     {
       "navio_rio": "UAL FORTITUDE",
