@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "14/02/2026 14:45",
+  "ultima_atualizacao": "14/02/2026 15:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "14/02",
-      "hora": "11:30",
-      "navio": "SEASPAN EMPIRE",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9407160",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-02-14T11:30:00"
-    },
     {
       "data": "14/02",
       "hora": "13:30",
@@ -517,33 +502,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "SEASPAN EMPIRE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/02 11:30",
-      "manobra_rio_fim": "14/02 22:00",
-      "navio_multi": "GRANDE BUENOS AIRES",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/02 14:30"
-    },
-    {
-      "navio_rio": "SEASPAN EMPIRE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/02 11:30",
-      "manobra_rio_fim": "14/02 22:00",
-      "navio_multi": "VICTORIA HIGHWAY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/02 17:30"
-    },
-    {
-      "navio_rio": "SEASPAN EMPIRE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/02 11:30",
-      "manobra_rio_fim": "14/02 22:00",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/02 19:30"
-    },
     {
       "navio_rio": "UAL FORTITUDE",
       "manobra_rio_afetada": "E",
