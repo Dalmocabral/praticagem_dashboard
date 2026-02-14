@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/02/2026 07:37",
+  "ultima_atualizacao": "14/02/2026 08:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "14/02",
       "hora": "09:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,20",
+      "calado": "9,40",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9407160",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-02-14T12:00:00"
     },
