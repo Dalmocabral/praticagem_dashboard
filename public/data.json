@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/02/2026 13:46",
+  "ultima_atualizacao": "15/02/2026 14:14",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -49,21 +49,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-16T07:30:00"
-    },
-    {
-      "data": "16/02",
-      "hora": "12:00",
-      "navio": "MAERSK CHAMBAL",
-      "calado": "12,40",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9525376",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-16T12:00:00"
     },
     {
       "data": "16/02",
@@ -124,21 +109,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-17T07:00:00"
-    },
-    {
-      "data": "17/02",
-      "hora": "09:00",
-      "navio": "MAERSK CHAMBAL",
-      "calado": "12,40",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9525376",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-17T09:00:00"
     },
     {
       "data": "17/02",
@@ -432,27 +402,9 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "16/02 07:30",
       "manobra_rio_fim": "16/02 16:00",
-      "navio_multi": "MAERSK CHAMBAL",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/02 12:00"
-    },
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/02 07:30",
-      "manobra_rio_fim": "16/02 16:00",
       "navio_multi": "MSC GABRIELLA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/02 14:00"
-    },
-    {
-      "navio_rio": "CMA CGM BELEM",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/02 07:00",
-      "manobra_rio_fim": "18/02 07:00",
-      "navio_multi": "MAERSK CHAMBAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/02 09:00"
     },
     {
       "navio_rio": "CMA CGM BELEM",
