@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/02/2026 16:34",
+  "ultima_atualizacao": "15/02/2026 16:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "15/02",
-      "hora": "16:00",
+      "hora": "19:00",
       "navio": "VICTORIA HIGHWAY",
       "calado": "7,80",
       "manobra": "S",
@@ -18,7 +18,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-02-15T16:00:00"
+      "timestamp": "2026-02-15T19:00:00"
     },
     {
       "data": "16/02",
