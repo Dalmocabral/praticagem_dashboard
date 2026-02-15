@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/02/2026 04:26",
+  "ultima_atualizacao": "15/02/2026 04:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "15/02",
-      "hora": "12:00",
+      "hora": "09:00",
       "navio": "MSC INSA",
       "calado": "10,90",
       "manobra": "S",
@@ -18,7 +18,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-15T12:00:00"
+      "timestamp": "2026-02-15T09:00:00"
     },
     {
       "data": "15/02",
