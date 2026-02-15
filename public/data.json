@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/02/2026 09:42",
+  "ultima_atualizacao": "15/02/2026 10:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -31,13 +31,13 @@
       "imo": "9978975",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-02-15T14:00:00"
     },
     {
       "data": "15/02",
-      "hora": "16:00",
+      "hora": "18:00",
       "navio": "VICTORIA HIGHWAY",
       "calado": "8,00",
       "manobra": "S",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-15T16:00:00"
+      "timestamp": "2026-02-15T18:00:00"
     },
     {
       "data": "16/02",
