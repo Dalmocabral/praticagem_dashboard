@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/02/2026 12:43",
+  "ultima_atualizacao": "15/02/2026 13:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -22,7 +22,7 @@
     },
     {
       "data": "15/02",
-      "hora": "18:00",
+      "hora": "16:00",
       "navio": "VICTORIA HIGHWAY",
       "calado": "8,00",
       "manobra": "S",
@@ -31,9 +31,9 @@
       "imo": "9827255",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-02-15T18:00:00"
+      "timestamp": "2026-02-15T16:00:00"
     },
     {
       "data": "16/02",
@@ -49,6 +49,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-16T06:00:00"
+    },
+    {
+      "data": "16/02",
+      "hora": "12:00",
+      "navio": "MAERSK CHAMBAL",
+      "calado": "12,40",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9525376",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-16T12:00:00"
     },
     {
       "data": "16/02",
@@ -397,6 +412,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/02 06:00",
+      "manobra_rio_fim": "16/02 16:00",
+      "navio_multi": "MAERSK CHAMBAL",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/02 12:00"
+    },
     {
       "navio_rio": "MAERSK FREEPORT",
       "manobra_rio_afetada": "S",
