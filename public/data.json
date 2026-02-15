@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "15/02/2026 01:47",
+  "ultima_atualizacao": "15/02/2026 02:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "15/02",
-      "hora": "01:30",
-      "navio": "UAL FORTITUDE",
-      "calado": "6,65",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9402079",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-02-15T01:30:00"
-    },
     {
       "data": "15/02",
       "hora": "12:00",
@@ -427,78 +412,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/02 01:30",
-      "manobra_rio_fim": "19/02 23:00",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/02 12:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/02 01:30",
-      "manobra_rio_fim": "19/02 23:00",
-      "navio_multi": "MSC GABRIELLA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/02 14:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/02 01:30",
-      "manobra_rio_fim": "19/02 23:00",
-      "navio_multi": "VICTORIA HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/02 16:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/02 01:30",
-      "manobra_rio_fim": "19/02 23:00",
-      "navio_multi": "MSC GABRIELLA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/02 14:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/02 01:30",
-      "manobra_rio_fim": "19/02 23:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/02 20:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/02 01:30",
-      "manobra_rio_fim": "19/02 23:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/02 16:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/02 01:30",
-      "manobra_rio_fim": "19/02 23:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/02 09:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/02 01:30",
-      "manobra_rio_fim": "19/02 23:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/02 06:00"
-    },
     {
       "navio_rio": "MAERSK FREEPORT",
       "manobra_rio_afetada": "S",
