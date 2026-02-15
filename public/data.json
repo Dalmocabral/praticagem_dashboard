@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "14/02/2026 20:54",
+  "ultima_atualizacao": "14/02/2026 23:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "14/02",
-      "hora": "19:30",
-      "navio": "MSC INSA",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-02-14T19:30:00"
-    },
-    {
-      "data": "14/02",
-      "hora": "22:00",
-      "navio": "SEASPAN EMPIRE",
-      "calado": "10,90",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9407160",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-14T22:00:00"
-    },
     {
       "data": "15/02",
       "hora": "01:30",
@@ -42,24 +12,39 @@
       "calado": "6,90",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9402079",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-02-15T01:30:00"
     },
     {
       "data": "15/02",
-      "hora": "14:00",
-      "navio": "VICTORIA HIGHWAY",
-      "calado": "8,00",
+      "hora": "12:00",
+      "navio": "MSC INSA",
+      "calado": "10,90",
       "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9827255",
-      "tipo_navio": "VEHICLES CARRIER",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "1016666",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-15T12:00:00"
+    },
+    {
+      "data": "15/02",
+      "hora": "14:00",
+      "navio": "MSC GABRIELLA",
+      "calado": "14,90",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9978975",
+      "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
@@ -67,33 +52,18 @@
     },
     {
       "data": "15/02",
-      "hora": "15:00",
-      "navio": "MSC INSA",
-      "calado": "14,00",
+      "hora": "16:00",
+      "navio": "VICTORIA HIGHWAY",
+      "calado": "8,00",
       "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9827255",
+      "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-15T15:00:00"
-    },
-    {
-      "data": "15/02",
-      "hora": "17:00",
-      "navio": "MSC GABRIELLA",
-      "calado": "14,80",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9978975",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-15T17:00:00"
+      "timestamp": "2026-02-15T16:00:00"
     },
     {
       "data": "16/02",
@@ -462,18 +432,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "15/02 01:30",
       "manobra_rio_fim": "19/02 23:00",
-      "navio_multi": "VICTORIA HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/02 14:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/02 01:30",
-      "manobra_rio_fim": "19/02 23:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/02 15:00"
+      "manobra_multi_data_hora": "15/02 12:00"
     },
     {
       "navio_rio": "UAL FORTITUDE",
@@ -482,7 +443,16 @@
       "manobra_rio_fim": "19/02 23:00",
       "navio_multi": "MSC GABRIELLA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/02 17:00"
+      "manobra_multi_data_hora": "15/02 14:00"
+    },
+    {
+      "navio_rio": "UAL FORTITUDE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/02 01:30",
+      "manobra_rio_fim": "19/02 23:00",
+      "navio_multi": "VICTORIA HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/02 16:00"
     },
     {
       "navio_rio": "UAL FORTITUDE",
