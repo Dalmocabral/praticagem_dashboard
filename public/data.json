@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/02/2026 13:05",
+  "ultima_atualizacao": "16/02/2026 14:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -31,9 +31,24 @@
       "imo": "9991202",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-02-16T17:00:00"
+    },
+    {
+      "data": "16/02",
+      "hora": "20:00",
+      "navio": "MERCOSUL GUARUJA",
+      "calado": "8,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9539494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-16T20:00:00"
     },
     {
       "data": "17/02",
@@ -49,6 +64,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-17T00:30:00"
+    },
+    {
+      "data": "17/02",
+      "hora": "05:00",
+      "navio": "MERCOSUL GUARUJA",
+      "calado": "8,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9539494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-17T05:00:00"
     },
     {
       "data": "17/02",
@@ -442,6 +472,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "MERCOSUL GUARUJA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/02 20:00",
+      "manobra_rio_fim": "17/02 05:00",
+      "navio_multi": "COPIAPO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "17/02 00:30"
+    },
     {
       "navio_rio": "CMA CGM BELEM",
       "manobra_rio_afetada": "E",
