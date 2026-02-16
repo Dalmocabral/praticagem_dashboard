@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/02/2026 11:28",
+  "ultima_atualizacao": "16/02/2026 12:22",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -22,7 +22,7 @@
     },
     {
       "data": "16/02",
-      "hora": "18:00",
+      "hora": "17:00",
       "navio": "MAERSK FREEPORT",
       "calado": "13,00",
       "manobra": "S",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-16T18:00:00"
+      "timestamp": "2026-02-16T17:00:00"
     },
     {
       "data": "17/02",
