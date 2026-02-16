@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/02/2026 15:42",
+  "ultima_atualizacao": "16/02/2026 16:23",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "16/02",
       "hora": "17:00",
       "navio": "MAERSK FREEPORT",
-      "calado": "12,90",
+      "calado": "12,85",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-02-16T20:00:00"
     },
