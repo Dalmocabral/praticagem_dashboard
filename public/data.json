@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/02/2026 14:52",
+  "ultima_atualizacao": "16/02/2026 15:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "16/02",
       "hora": "17:00",
       "navio": "MAERSK FREEPORT",
-      "calado": "13,00",
+      "calado": "12,90",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -99,7 +99,7 @@
       "data": "17/02",
       "hora": "08:30",
       "navio": "MAERSK CHAMBAL",
-      "calado": "14,40",
+      "calado": "14,50",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
