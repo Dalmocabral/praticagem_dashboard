@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/02/2026 18:00",
+  "ultima_atualizacao": "16/02/2026 18:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -19,21 +19,6 @@
       "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-16T10:00:00"
-    },
-    {
-      "data": "16/02",
-      "hora": "17:00",
-      "navio": "MAERSK FREEPORT",
-      "calado": "12,85",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9991202",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-16T17:00:00"
     },
     {
       "data": "16/02",
