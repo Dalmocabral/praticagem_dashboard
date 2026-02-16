@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/02/2026 04:34",
+  "ultima_atualizacao": "16/02/2026 05:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -22,7 +22,7 @@
     },
     {
       "data": "16/02",
-      "hora": "14:00",
+      "hora": "10:00",
       "navio": "MSC GABRIELLA",
       "calado": "13,40",
       "manobra": "S",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-16T14:00:00"
+      "timestamp": "2026-02-16T10:00:00"
     },
     {
       "data": "16/02",
@@ -399,12 +399,12 @@
   "conflitos": [
     {
       "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "16/02 07:30",
       "manobra_rio_fim": "16/02 16:00",
       "navio_multi": "MSC GABRIELLA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/02 14:00"
+      "manobra_multi_data_hora": "16/02 10:00"
     },
     {
       "navio_rio": "CMA CGM BELEM",
