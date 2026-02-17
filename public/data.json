@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/02/2026 06:03",
+  "ultima_atualizacao": "17/02/2026 07:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -16,7 +16,7 @@
       "imo": "9525376",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-17T09:30:00"
     },
@@ -31,7 +31,7 @@
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-02-17T11:00:00"
     },
