@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/02/2026 19:47",
+  "ultima_atualizacao": "17/02/2026 20:16",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -99,7 +99,7 @@
       "data": "18/02",
       "hora": "17:30",
       "navio": "MSC AMALFI",
-      "calado": "14,20",
+      "calado": "14,05",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -144,7 +144,7 @@
       "data": "19/02",
       "hora": "09:00",
       "navio": "COSCO SHIPPING DANUBE",
-      "calado": "13,00",
+      "calado": "12,20",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
