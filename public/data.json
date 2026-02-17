@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/02/2026 22:01",
+  "ultima_atualizacao": "17/02/2026 00:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -22,7 +22,7 @@
     },
     {
       "data": "17/02",
-      "hora": "05:00",
+      "hora": "07:30",
       "navio": "MERCOSUL GUARUJA",
       "calado": "8,50",
       "manobra": "M",
@@ -33,26 +33,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-17T05:00:00"
+      "timestamp": "2026-02-17T07:30:00"
     },
     {
       "data": "17/02",
-      "hora": "07:00",
-      "navio": "CMA CGM BELEM",
-      "calado": "14,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9938286",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-17T07:00:00"
-    },
-    {
-      "data": "17/02",
-      "hora": "08:30",
+      "hora": "09:30",
       "navio": "MAERSK CHAMBAL",
       "calado": "14,50",
       "manobra": "E",
@@ -63,7 +48,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-17T08:30:00"
+      "timestamp": "2026-02-17T09:30:00"
+    },
+    {
+      "data": "17/02",
+      "hora": "11:00",
+      "navio": "CMA CGM BELEM",
+      "calado": "14,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9938286",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-17T11:00:00"
     },
     {
       "data": "17/02",
@@ -415,16 +415,7 @@
     {
       "navio_rio": "CMA CGM BELEM",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/02 07:00",
-      "manobra_rio_fim": "18/02 07:00",
-      "navio_multi": "MAERSK CHAMBAL",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/02 08:30"
-    },
-    {
-      "navio_rio": "CMA CGM BELEM",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/02 07:00",
+      "manobra_rio_inicio": "17/02 11:00",
       "manobra_rio_fim": "18/02 07:00",
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "S",
@@ -433,7 +424,7 @@
     {
       "navio_rio": "CMA CGM BELEM",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/02 07:00",
+      "manobra_rio_inicio": "17/02 11:00",
       "manobra_rio_fim": "18/02 07:00",
       "navio_multi": "MERCOSUL GUARUJA",
       "manobra_multi_tipo": "S",
@@ -442,7 +433,7 @@
     {
       "navio_rio": "CMA CGM BELEM",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/02 07:00",
+      "manobra_rio_inicio": "17/02 11:00",
       "manobra_rio_fim": "18/02 07:00",
       "navio_multi": "MAERSK CHAMBAL",
       "manobra_multi_tipo": "S",
