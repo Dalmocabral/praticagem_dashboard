@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "17/02/2026 12:09",
+  "ultima_atualizacao": "17/02/2026 14:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "17/02",
-      "hora": "09:30",
-      "navio": "MAERSK CHAMBAL",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9525376",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-02-17T09:30:00"
-    },
-    {
-      "data": "17/02",
-      "hora": "11:30",
-      "navio": "MERCOSUL GUARUJA",
-      "calado": "8,50",
-      "manobra": "M",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9539494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-17T11:30:00"
-    },
     {
       "data": "17/02",
       "hora": "13:30",
@@ -52,7 +22,7 @@
     },
     {
       "data": "17/02",
-      "hora": "18:00",
+      "hora": "21:00",
       "navio": "COPIAPO",
       "calado": "11,00",
       "manobra": "S",
@@ -63,13 +33,13 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-17T18:00:00"
+      "timestamp": "2026-02-17T21:00:00"
     },
     {
       "data": "18/02",
       "hora": "06:00",
       "navio": "MAERSK CHAMBAL",
-      "calado": "13,00",
+      "calado": "14,40",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -404,7 +374,7 @@
       "manobra_rio_fim": "18/02 07:00",
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/02 18:00"
+      "manobra_multi_data_hora": "17/02 21:00"
     },
     {
       "navio_rio": "CMA CGM BELEM",
