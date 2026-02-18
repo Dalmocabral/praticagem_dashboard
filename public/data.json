@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/02/2026 15:33",
+  "ultima_atualizacao": "18/02/2026 16:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -379,6 +379,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-04T08:00:00"
+    },
+    {
+      "data": "10/03",
+      "hora": "07:00",
+      "navio": "CMA CGM PARATY",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938262",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-10T07:00:00"
+    },
+    {
+      "data": "11/03",
+      "hora": "08:00",
+      "navio": "CMA CGM PARATY",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938262",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-11T08:00:00"
     },
     {
       "data": "11/03",
