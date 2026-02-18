@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "18/02/2026 19:19",
+  "ultima_atualizacao": "18/02/2026 19:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "18/02",
-      "hora": "18:00",
-      "navio": "MERCOSUL GUARUJA",
-      "calado": "7,00",
-      "manobra": "M",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9539494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-18T18:00:00"
-    },
     {
       "data": "19/02",
       "hora": "00:00",
