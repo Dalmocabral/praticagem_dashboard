@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/02/2026 17:57",
+  "ultima_atualizacao": "18/02/2026 18:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -234,7 +234,7 @@
       "data": "22/02",
       "hora": "16:00",
       "navio": "MSC ANTIGUA",
-      "calado": "9,80",
+      "calado": "9,85",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
