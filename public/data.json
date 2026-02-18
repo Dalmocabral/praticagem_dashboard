@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/02/2026 12:31",
+  "ultima_atualizacao": "18/02/2026 13:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -16,13 +16,13 @@
       "imo": "9731913",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-02-18T16:00:00"
     },
     {
       "data": "18/02",
-      "hora": "19:00",
+      "hora": "18:00",
       "navio": "MERCOSUL GUARUJA",
       "calado": "8,50",
       "manobra": "M",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-18T19:00:00"
+      "timestamp": "2026-02-18T18:00:00"
     },
     {
       "data": "19/02",
@@ -67,7 +67,7 @@
     },
     {
       "data": "19/02",
-      "hora": "09:00",
+      "hora": "08:00",
       "navio": "COSCO SHIPPING DANUBE",
       "calado": "12,20",
       "manobra": "S",
@@ -78,11 +78,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-19T09:00:00"
+      "timestamp": "2026-02-19T08:00:00"
     },
     {
       "data": "19/02",
-      "hora": "11:00",
+      "hora": "10:00",
       "navio": "EVER FIT",
       "calado": "12,20",
       "manobra": "E",
@@ -93,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-19T11:00:00"
+      "timestamp": "2026-02-19T10:00:00"
     },
     {
       "data": "19/02",
@@ -156,6 +156,51 @@
       "timestamp": "2026-02-20T06:00:00"
     },
     {
+      "data": "20/02",
+      "hora": "08:00",
+      "navio": "LAEM CHABANG EXPRESS",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9768007",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-20T08:00:00"
+    },
+    {
+      "data": "20/02",
+      "hora": "21:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,10",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-20T21:00:00"
+    },
+    {
+      "data": "21/02",
+      "hora": "06:00",
+      "navio": "LAEM CHABANG EXPRESS",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9768007",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-21T06:00:00"
+    },
+    {
       "data": "21/02",
       "hora": "14:00",
       "navio": "MSC FIRENZE",
@@ -169,21 +214,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-21T14:00:00"
-    },
-    {
-      "data": "21/02",
-      "hora": "21:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,10",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-21T21:00:00"
     },
     {
       "data": "22/02",
@@ -349,6 +379,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-04T08:00:00"
+    },
+    {
+      "data": "11/03",
+      "hora": "10:00",
+      "navio": "KOTA PUSAKA",
+      "calado": "14,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9793961",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-11T10:00:00"
+    },
+    {
+      "data": "12/03",
+      "hora": "06:00",
+      "navio": "KOTA PUSAKA",
+      "calado": "14,60",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9793961",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-12T06:00:00"
     }
   ],
   "conflitos": [
@@ -356,7 +416,7 @@
       "navio_rio": "COSCO SHIPPING DANUBE",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "18/02 16:00",
-      "manobra_rio_fim": "19/02 09:00",
+      "manobra_rio_fim": "19/02 08:00",
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "19/02 04:00"
@@ -365,7 +425,7 @@
       "navio_rio": "COSCO SHIPPING DANUBE",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "18/02 16:00",
-      "manobra_rio_fim": "19/02 09:00",
+      "manobra_rio_fim": "19/02 08:00",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "19/02 06:00"
@@ -373,7 +433,7 @@
     {
       "navio_rio": "EVER FIT",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/02 11:00",
+      "manobra_rio_inicio": "19/02 10:00",
       "manobra_rio_fim": "20/02 06:00",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
@@ -382,7 +442,7 @@
     {
       "navio_rio": "EVER FIT",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/02 11:00",
+      "manobra_rio_inicio": "19/02 10:00",
       "manobra_rio_fim": "20/02 06:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
