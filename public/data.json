@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "18/02/2026 08:22",
+  "ultima_atualizacao": "18/02/2026 09:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "18/02",
-      "hora": "07:00",
-      "navio": "CMA CGM BELEM",
-      "calado": "14,25",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9938286",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-18T07:00:00"
-    },
     {
       "data": "18/02",
       "hora": "08:30",
