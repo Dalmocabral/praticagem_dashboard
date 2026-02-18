@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/02/2026 10:38",
+  "ultima_atualizacao": "18/02/2026 11:31",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -40,7 +40,7 @@
       "hora": "19:00",
       "navio": "MERCOSUL GUARUJA",
       "calado": "8,50",
-      "manobra": "S",
+      "manobra": "M",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9539494",
@@ -127,6 +127,21 @@
     },
     {
       "data": "19/02",
+      "hora": "20:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,10",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-19T20:00:00"
+    },
+    {
+      "data": "19/02",
       "hora": "23:00",
       "navio": "UAL FORTITUDE",
       "calado": "7,60",
@@ -171,6 +186,21 @@
       "timestamp": "2026-02-21T14:00:00"
     },
     {
+      "data": "21/02",
+      "hora": "21:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,10",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-21T21:00:00"
+    },
+    {
       "data": "22/02",
       "hora": "06:00",
       "navio": "MSC FIRENZE",
@@ -187,33 +217,33 @@
     },
     {
       "data": "22/02",
-      "hora": "08:00",
-      "navio": "DOVER HIGHWAY",
-      "calado": "9,00",
+      "hora": "16:00",
+      "navio": "MSC ANTIGUA",
+      "calado": "9,80",
       "manobra": "E",
-      "beco": "TECONT5",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9574107",
-      "tipo_navio": "VEHICLES CARRIER",
+      "imo": "9619476",
+      "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-22T08:00:00"
+      "timestamp": "2026-02-22T16:00:00"
     },
     {
       "data": "23/02",
-      "hora": "04:00",
-      "navio": "DOVER HIGHWAY",
-      "calado": "9,00",
+      "hora": "06:00",
+      "navio": "MSC ANTIGUA",
+      "calado": "9,80",
       "manobra": "S",
-      "beco": "TECONT5",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9574107",
-      "tipo_navio": "VEHICLES CARRIER",
+      "imo": "9619476",
+      "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-23T04:00:00"
+      "timestamp": "2026-02-23T06:00:00"
     },
     {
       "data": "24/02",
@@ -339,15 +369,6 @@
   "conflitos": [
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/02 16:00",
-      "manobra_rio_fim": "19/02 09:00",
-      "navio_multi": "MERCOSUL GUARUJA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/02 19:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING DANUBE",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "18/02 16:00",
       "manobra_rio_fim": "19/02 09:00",
@@ -372,6 +393,15 @@
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "19/02 16:30"
+    },
+    {
+      "navio_rio": "EVER FIT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/02 11:00",
+      "manobra_rio_fim": "20/02 06:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/02 20:00"
     }
   ]
 }
