@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/02/2026 07:25",
+  "ultima_atualizacao": "18/02/2026 08:22",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -39,14 +39,14 @@
       "data": "18/02",
       "hora": "10:30",
       "navio": "BREMERHAVEN EXPRESS",
-      "calado": "11,00",
+      "calado": "9,10",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-18T10:30:00"
     },
