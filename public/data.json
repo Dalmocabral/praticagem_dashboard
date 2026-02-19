@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/02/2026 16:51",
+  "ultima_atualizacao": "19/02/2026 17:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -31,7 +31,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-19T20:00:00"
     },
@@ -112,21 +112,6 @@
     },
     {
       "data": "20/02",
-      "hora": "13:00",
-      "navio": "SUNNY PHOENIX",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9227027",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-20T13:00:00"
-    },
-    {
-      "data": "20/02",
       "hora": "14:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,10",
@@ -142,18 +127,18 @@
     },
     {
       "data": "20/02",
-      "hora": "16:00",
-      "navio": "DUSSELDORF EXPRESS",
-      "calado": "10,00",
-      "manobra": "E",
+      "hora": "15:00",
+      "navio": "SUNNY PHOENIX",
+      "calado": "12,00",
+      "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
-      "imo": "9143556",
+      "imo": "9227027",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-20T16:00:00"
+      "timestamp": "2026-02-20T15:00:00"
     },
     {
       "data": "20/02",
@@ -186,11 +171,26 @@
       "timestamp": "2026-02-20T20:00:00"
     },
     {
-      "data": "21/02",
-      "hora": "03:00",
-      "navio": "DUSSELDORF EXPRESS",
-      "calado": "10,50",
+      "data": "20/02",
+      "hora": "23:00",
+      "navio": "BBC FELIX",
+      "calado": "8,18",
       "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "1060497",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-20T23:00:00"
+    },
+    {
+      "data": "21/02",
+      "hora": "04:00",
+      "navio": "DUSSELDORF EXPRESS",
+      "calado": "10,00",
+      "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
       "imo": "9143556",
@@ -198,7 +198,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-21T03:00:00"
+      "timestamp": "2026-02-21T04:00:00"
     },
     {
       "data": "21/02",
@@ -259,6 +259,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-21T14:00:00"
+    },
+    {
+      "data": "21/02",
+      "hora": "16:00",
+      "navio": "DUSSELDORF EXPRESS",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9143556",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-21T16:00:00"
     },
     {
       "data": "22/02",
@@ -551,10 +566,19 @@
       "navio_rio": "SUNNY PHOENIX",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "20/02 04:00",
-      "manobra_rio_fim": "20/02 13:00",
+      "manobra_rio_fim": "20/02 15:00",
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "20/02 08:00"
+    },
+    {
+      "navio_rio": "SUNNY PHOENIX",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "20/02 04:00",
+      "manobra_rio_fim": "20/02 15:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/02 14:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -577,11 +601,38 @@
     {
       "navio_rio": "DUSSELDORF EXPRESS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/02 16:00",
-      "manobra_rio_fim": "21/02 03:00",
+      "manobra_rio_inicio": "21/02 04:00",
+      "manobra_rio_fim": "21/02 16:00",
+      "navio_multi": "LAEM CHABANG EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/02 06:00"
+    },
+    {
+      "navio_rio": "DUSSELDORF EXPRESS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/02 04:00",
+      "manobra_rio_fim": "21/02 16:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/02 07:00"
+    },
+    {
+      "navio_rio": "DUSSELDORF EXPRESS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "21/02 04:00",
+      "manobra_rio_fim": "21/02 16:00",
       "navio_multi": "MSC LUDOVICA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/02 10:00"
+    },
+    {
+      "navio_rio": "DUSSELDORF EXPRESS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "21/02 04:00",
+      "manobra_rio_fim": "21/02 16:00",
+      "navio_multi": "MSC FIRENZE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/02 17:30"
+      "manobra_multi_data_hora": "21/02 14:00"
     }
   ]
 }
