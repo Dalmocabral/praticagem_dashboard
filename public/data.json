@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "19/02/2026 08:04",
+  "ultima_atualizacao": "19/02/2026 08:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "19/02",
-      "hora": "06:00",
-      "navio": "MSC AMALFI",
-      "calado": "14,05",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9605279",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-02-19T06:00:00"
-    },
     {
       "data": "19/02",
       "hora": "08:00",
@@ -264,7 +249,7 @@
       "data": "21/02",
       "hora": "09:00",
       "navio": "MSC LUDOVICA",
-      "calado": "12,60",
+      "calado": "13,50",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -441,6 +426,21 @@
       "timestamp": "2026-02-27T16:00:00"
     },
     {
+      "data": "02/03",
+      "hora": "06:00",
+      "navio": "VANTAGE",
+      "calado": "13,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9628192",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-02T06:00:00"
+    },
+    {
       "data": "03/03",
       "hora": "08:00",
       "navio": "COSCO SHIPPING PERU",
@@ -474,7 +474,7 @@
       "data": "10/03",
       "hora": "07:00",
       "navio": "CMA CGM PARATY",
-      "calado": "14,50",
+      "calado": "14,80",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -489,7 +489,7 @@
       "data": "11/03",
       "hora": "08:00",
       "navio": "CMA CGM PARATY",
-      "calado": "13,80",
+      "calado": "14,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
