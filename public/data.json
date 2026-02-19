@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/02/2026 18:47",
+  "ultima_atualizacao": "19/02/2026 19:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -21,19 +21,19 @@
       "timestamp": "2026-02-19T20:00:00"
     },
     {
-      "data": "19/02",
-      "hora": "23:00",
+      "data": "20/02",
+      "hora": "02:00",
       "navio": "UAL FORTITUDE",
       "calado": "7,60",
       "manobra": "M",
       "beco": "TECONT1",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9402079",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-19T23:00:00"
+      "timestamp": "2026-02-20T02:00:00"
     },
     {
       "data": "20/02",
