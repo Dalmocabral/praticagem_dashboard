@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/02/2026 12:01",
+  "ultima_atualizacao": "20/02/2026 12:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -37,7 +37,7 @@
     },
     {
       "data": "20/02",
-      "hora": "17:30",
+      "hora": "17:00",
       "navio": "MSC LUDOVICA",
       "calado": "13,50",
       "manobra": "E",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-20T17:30:00"
+      "timestamp": "2026-02-20T17:00:00"
     },
     {
       "data": "20/02",
@@ -97,6 +97,21 @@
     },
     {
       "data": "21/02",
+      "hora": "02:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-21T02:00:00"
+    },
+    {
+      "data": "21/02",
       "hora": "04:00",
       "navio": "DUSSELDORF EXPRESS",
       "calado": "10,00",
@@ -124,21 +139,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-21T06:00:00"
-    },
-    {
-      "data": "21/02",
-      "hora": "07:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "futuro",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-21T07:00:00"
     },
     {
       "data": "21/02",
@@ -570,15 +570,6 @@
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "21/02 06:00"
-    },
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/02 04:00",
-      "manobra_rio_fim": "21/02 16:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/02 07:00"
     },
     {
       "navio_rio": "DUSSELDORF EXPRESS",
