@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/02/2026 14:22",
+  "ultima_atualizacao": "20/02/2026 15:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "20/02",
       "hora": "15:00",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "8,80",
+      "calado": "9,30",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -39,7 +39,7 @@
       "data": "20/02",
       "hora": "17:00",
       "navio": "MSC LUDOVICA",
-      "calado": "13,50",
+      "calado": "13,40",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -61,7 +61,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-02-20T19:00:00"
     },
