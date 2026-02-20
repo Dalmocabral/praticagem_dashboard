@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/02/2026 13:35",
+  "ultima_atualizacao": "20/02/2026 14:22",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "20/02",
       "hora": "15:00",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "9,10",
+      "calado": "8,80",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -46,13 +46,13 @@
       "imo": "9251690",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-20T17:00:00"
     },
     {
       "data": "20/02",
-      "hora": "20:00",
+      "hora": "19:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,90",
       "manobra": "M",
@@ -63,11 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-20T20:00:00"
+      "timestamp": "2026-02-20T19:00:00"
     },
     {
       "data": "20/02",
-      "hora": "22:00",
+      "hora": "21:00",
       "navio": "UAL FORTITUDE",
       "calado": "7,60",
       "manobra": "S",
@@ -78,7 +78,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-20T22:00:00"
+      "timestamp": "2026-02-20T21:00:00"
     },
     {
       "data": "20/02",
