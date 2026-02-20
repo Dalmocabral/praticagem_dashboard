@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/02/2026 07:51",
+  "ultima_atualizacao": "20/02/2026 08:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -52,22 +52,7 @@
     },
     {
       "data": "20/02",
-      "hora": "14:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,10",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-20T14:00:00"
-    },
-    {
-      "data": "20/02",
-      "hora": "15:00",
+      "hora": "14:30",
       "navio": "SUNNY PHOENIX",
       "calado": "12,00",
       "manobra": "S",
@@ -78,7 +63,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-20T15:00:00"
+      "timestamp": "2026-02-20T14:30:00"
+    },
+    {
+      "data": "20/02",
+      "hora": "15:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,10",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-20T15:30:00"
     },
     {
       "data": "20/02",
@@ -124,6 +124,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-20T23:00:00"
+    },
+    {
+      "data": "21/02",
+      "hora": "00:00",
+      "navio": "UAL FORTITUDE",
+      "calado": "7,60",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9402079",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-21T00:00:00"
     },
     {
       "data": "21/02",
@@ -509,7 +524,7 @@
       "manobra_rio_fim": "20/02 20:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/02 14:00"
+      "manobra_multi_data_hora": "20/02 15:30"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
