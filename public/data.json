@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/02/2026 08:57",
+  "ultima_atualizacao": "20/02/2026 10:19",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -187,21 +187,6 @@
     },
     {
       "data": "21/02",
-      "hora": "14:00",
-      "navio": "MSC FIRENZE",
-      "calado": "14,70",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9978987",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-21T14:00:00"
-    },
-    {
-      "data": "21/02",
       "hora": "16:00",
       "navio": "DUSSELDORF EXPRESS",
       "calado": "10,50",
@@ -217,10 +202,10 @@
     },
     {
       "data": "22/02",
-      "hora": "06:00",
+      "hora": "09:00",
       "navio": "MSC FIRENZE",
-      "calado": "14,50",
-      "manobra": "S",
+      "calado": "14,70",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9978987",
@@ -228,7 +213,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-22T06:00:00"
+      "timestamp": "2026-02-22T09:00:00"
+    },
+    {
+      "data": "22/02",
+      "hora": "14:00",
+      "navio": "CMA CGM SANTOS",
+      "calado": "10,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9649835",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-22T14:00:00"
     },
     {
       "data": "22/02",
@@ -259,6 +259,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-23T06:00:00"
+    },
+    {
+      "data": "23/02",
+      "hora": "07:00",
+      "navio": "CMA CGM SANTOS",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9649835",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-23T07:00:00"
+    },
+    {
+      "data": "23/02",
+      "hora": "11:00",
+      "navio": "MSC FIRENZE",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978987",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-23T11:00:00"
     },
     {
       "data": "24/02",
@@ -548,13 +578,22 @@
       "manobra_multi_data_hora": "21/02 10:00"
     },
     {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/02 04:00",
-      "manobra_rio_fim": "21/02 16:00",
-      "navio_multi": "MSC FIRENZE",
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/02 14:00",
+      "manobra_rio_fim": "23/02 07:00",
+      "navio_multi": "MSC ANTIGUA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/02 14:00"
+      "manobra_multi_data_hora": "22/02 16:00"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/02 14:00",
+      "manobra_rio_fim": "23/02 07:00",
+      "navio_multi": "MSC ANTIGUA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/02 06:00"
     }
   ]
 }
