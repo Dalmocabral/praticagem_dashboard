@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "20/02/2026 05:24",
+  "ultima_atualizacao": "20/02/2026 06:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "20/02",
-      "hora": "04:00",
-      "navio": "SUNNY PHOENIX",
-      "calado": "11,45",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9227027",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-02-20T04:00:00"
-    },
     {
       "data": "20/02",
       "hora": "06:00",
@@ -61,7 +46,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-02-20T10:00:00"
     },
@@ -517,24 +502,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "SUNNY PHOENIX",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/02 04:00",
-      "manobra_rio_fim": "20/02 15:00",
-      "navio_multi": "LAEM CHABANG EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/02 08:00"
-    },
-    {
-      "navio_rio": "SUNNY PHOENIX",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "20/02 04:00",
-      "manobra_rio_fim": "20/02 15:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/02 14:00"
-    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
