@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/02/2026 11:09",
+  "ultima_atualizacao": "20/02/2026 12:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,22 +7,7 @@
   "navios": [
     {
       "data": "20/02",
-      "hora": "10:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,80",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-02-20T10:00:00"
-    },
-    {
-      "data": "20/02",
-      "hora": "14:30",
+      "hora": "14:00",
       "navio": "SUNNY PHOENIX",
       "calado": "12,00",
       "manobra": "S",
@@ -31,13 +16,13 @@
       "imo": "9227027",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-02-20T14:30:00"
+      "timestamp": "2026-02-20T14:00:00"
     },
     {
       "data": "20/02",
-      "hora": "15:30",
+      "hora": "15:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,10",
       "manobra": "S",
@@ -46,9 +31,9 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-02-20T15:30:00"
+      "timestamp": "2026-02-20T15:00:00"
     },
     {
       "data": "20/02",
@@ -577,24 +562,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/02 10:00",
-      "manobra_rio_fim": "20/02 20:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/02 15:30"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/02 10:00",
-      "manobra_rio_fim": "20/02 20:00",
-      "navio_multi": "MSC LUDOVICA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/02 17:30"
-    },
     {
       "navio_rio": "DUSSELDORF EXPRESS",
       "manobra_rio_afetada": "E",
