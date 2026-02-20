@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/02/2026 16:46",
+  "ultima_atualizacao": "20/02/2026 17:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "20/02",
       "hora": "19:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,90",
+      "calado": "8,20",
       "manobra": "M",
       "beco": "TECONT1",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9402079",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-02-20T21:00:00"
     },
@@ -86,7 +86,7 @@
       "navio": "DUSSELDORF EXPRESS",
       "calado": "10,00",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9143556",
       "tipo_navio": "CONTAINER SHIP",
@@ -161,7 +161,7 @@
       "navio": "DUSSELDORF EXPRESS",
       "calado": "10,50",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9143556",
       "tipo_navio": "CONTAINER SHIP",
