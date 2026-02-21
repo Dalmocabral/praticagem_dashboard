@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/02/2026 07:15",
+  "ultima_atualizacao": "21/02/2026 07:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -37,22 +37,7 @@
     },
     {
       "data": "21/02",
-      "hora": "09:00",
-      "navio": "CATHERINE C",
-      "calado": "9,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9969998",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-02-21T09:00:00"
-    },
-    {
-      "data": "21/02",
-      "hora": "11:00",
+      "hora": "09:30",
       "navio": "MSC LUDOVICA",
       "calado": "14,20",
       "manobra": "S",
@@ -61,9 +46,24 @@
       "imo": "9251690",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-02-21T11:00:00"
+      "timestamp": "2026-02-21T09:30:00"
+    },
+    {
+      "data": "21/02",
+      "hora": "11:30",
+      "navio": "CATHERINE C",
+      "calado": "9,80",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9969998",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_antecipada",
+      "terminal": "multi",
+      "timestamp": "2026-02-21T11:30:00"
     },
     {
       "data": "21/02",
