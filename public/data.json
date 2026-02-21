@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/02/2026 19:58",
+  "ultima_atualizacao": "21/02/2026 20:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -26,7 +26,7 @@
       "navio": "CATHERINE C",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9969998",
       "tipo_navio": "CONTAINER SHIP",
@@ -41,7 +41,7 @@
       "navio": "SANTA LINEA",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9290555",
       "tipo_navio": "CONTAINER SHIP",
