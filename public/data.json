@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/02/2026 17:27",
+  "ultima_atualizacao": "21/02/2026 17:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -22,22 +22,7 @@
     },
     {
       "data": "22/02",
-      "hora": "06:00",
-      "navio": "SANTA LINEA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9290555",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-22T06:00:00"
-    },
-    {
-      "data": "22/02",
-      "hora": "07:00",
+      "hora": "05:00",
       "navio": "CATHERINE C",
       "calado": "12,60",
       "manobra": "S",
@@ -48,7 +33,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-22T07:00:00"
+      "timestamp": "2026-02-22T05:00:00"
+    },
+    {
+      "data": "22/02",
+      "hora": "12:00",
+      "navio": "SANTA LINEA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9290555",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-22T12:00:00"
     },
     {
       "data": "22/02",
