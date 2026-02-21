@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/02/2026 12:49",
+  "ultima_atualizacao": "21/02/2026 13:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -19,21 +19,6 @@
       "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-21T09:30:00"
-    },
-    {
-      "data": "21/02",
-      "hora": "11:30",
-      "navio": "CATHERINE C",
-      "calado": "9,70",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9969998",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-02-21T11:30:00"
     },
     {
       "data": "21/02",
@@ -61,7 +46,7 @@
       "imo": "9143556",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-02-21T16:00:00"
     },
@@ -109,21 +94,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-22T09:00:00"
-    },
-    {
-      "data": "22/02",
-      "hora": "14:00",
-      "navio": "CMA CGM SANTOS",
-      "calado": "10,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-22T14:00:00"
     },
     {
       "data": "22/02",
@@ -426,15 +396,5 @@
       "timestamp": "2026-03-12T06:00:00"
     }
   ],
-  "conflitos": [
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/02 14:00",
-      "manobra_rio_fim": "23/02 07:00",
-      "navio_multi": "MSC ANTIGUA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "22/02 16:00"
-    }
-  ]
+  "conflitos": []
 }
