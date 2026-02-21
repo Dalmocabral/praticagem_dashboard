@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/02/2026 05:01",
+  "ultima_atualizacao": "21/02/2026 05:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "21/02",
-      "hora": "04:00",
-      "navio": "DUSSELDORF EXPRESS",
-      "calado": "9,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9143556",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-02-21T04:00:00"
-    },
-    {
-      "data": "21/02",
       "hora": "06:00",
       "navio": "LAEM CHABANG EXPRESS",
-      "calado": "14,85",
+      "calado": "14,80",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -39,7 +24,7 @@
       "data": "21/02",
       "hora": "07:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
+      "calado": "8,50",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "hoje",
@@ -472,51 +457,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/02 04:00",
-      "manobra_rio_fim": "21/02 16:00",
-      "navio_multi": "LAEM CHABANG EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/02 06:00"
-    },
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/02 04:00",
-      "manobra_rio_fim": "21/02 16:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/02 07:00"
-    },
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/02 04:00",
-      "manobra_rio_fim": "21/02 16:00",
-      "navio_multi": "CATHERINE C",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/02 09:00"
-    },
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/02 04:00",
-      "manobra_rio_fim": "21/02 16:00",
-      "navio_multi": "MSC LUDOVICA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/02 11:00"
-    },
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/02 04:00",
-      "manobra_rio_fim": "21/02 16:00",
-      "navio_multi": "SANTA LINEA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/02 14:00"
-    },
     {
       "navio_rio": "CMA CGM SANTOS",
       "manobra_rio_afetada": "E",
