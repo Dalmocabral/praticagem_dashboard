@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/02/2026 12:58",
+  "ultima_atualizacao": "22/02/2026 13:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -31,7 +31,7 @@
       "imo": "9978987",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-22T16:00:00"
     },
@@ -187,6 +187,21 @@
     },
     {
       "data": "26/02",
+      "hora": "09:00",
+      "navio": "COSCO SHIPPING MEXICO",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945863",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-26T09:00:00"
+    },
+    {
+      "data": "26/02",
       "hora": "22:00",
       "navio": "CZECH",
       "calado": "11,00",
@@ -199,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-26T22:00:00"
+    },
+    {
+      "data": "27/02",
+      "hora": "06:00",
+      "navio": "COSCO SHIPPING MEXICO",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945863",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-27T06:00:00"
     },
     {
       "data": "27/02",
@@ -366,5 +396,15 @@
       "timestamp": "2026-03-12T06:00:00"
     }
   ],
-  "conflitos": []
+  "conflitos": [
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "26/02 09:00",
+      "manobra_rio_fim": "27/02 06:00",
+      "navio_multi": "CZECH",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/02 22:00"
+    }
+  ]
 }
