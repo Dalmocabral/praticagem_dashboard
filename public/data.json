@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "22/02/2026 12:37",
+  "ultima_atualizacao": "22/02/2026 12:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "22/02",
-      "hora": "08:30",
-      "navio": "CATHERINE C",
-      "calado": "9,90",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9969998",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-22T08:30:00"
-    },
     {
       "data": "22/02",
       "hora": "12:00",
