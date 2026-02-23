@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/02/2026 05:26",
+  "ultima_atualizacao": "23/02/2026 06:31",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -37,9 +37,9 @@
     },
     {
       "data": "23/02",
-      "hora": "14:00",
+      "hora": "13:00",
       "navio": "MAERSK MONTE AZUL",
-      "calado": "12,80",
+      "calado": "13,15",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-23T14:00:00"
+      "timestamp": "2026-02-23T13:00:00"
     },
     {
       "data": "24/02",
