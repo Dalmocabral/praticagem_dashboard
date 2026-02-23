@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/02/2026 19:09",
+  "ultima_atualizacao": "23/02/2026 20:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -9,7 +9,7 @@
       "data": "23/02",
       "hora": "21:00",
       "navio": "OPAL LEADER",
-      "calado": "8,40",
+      "calado": "8,20",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9978987",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-02-24T00:00:00"
     },
