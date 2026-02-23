@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/02/2026 07:31",
+  "ultima_atualizacao": "23/02/2026 08:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -19,21 +19,6 @@
       "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-23T08:00:00"
-    },
-    {
-      "data": "23/02",
-      "hora": "11:00",
-      "navio": "MSC FIRENZE",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9978987",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-02-23T11:00:00"
     },
     {
       "data": "23/02",
@@ -67,6 +52,21 @@
     },
     {
       "data": "24/02",
+      "hora": "03:00",
+      "navio": "OPAL LEADER",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9318498",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-24T03:00:00"
+    },
+    {
+      "data": "24/02",
       "hora": "06:30",
       "navio": "COSCO SHIPPING URUGUAY",
       "calado": "14,00",
@@ -79,6 +79,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-24T06:30:00"
+    },
+    {
+      "data": "24/02",
+      "hora": "08:30",
+      "navio": "MSC FIRENZE",
+      "calado": "14,70",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978987",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-24T08:30:00"
+    },
+    {
+      "data": "24/02",
+      "hora": "19:00",
+      "navio": "OPAL LEADER",
+      "calado": "8,80",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9318498",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-24T19:00:00"
     },
     {
       "data": "25/02",
@@ -276,6 +306,36 @@
       "timestamp": "2026-03-08T06:00:00"
     },
     {
+      "data": "08/03",
+      "hora": "08:00",
+      "navio": "ANTHEA Y",
+      "calado": "13,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9710244",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-08T08:00:00"
+    },
+    {
+      "data": "09/03",
+      "hora": "06:00",
+      "navio": "ANTHEA Y",
+      "calado": "13,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9710244",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-09T06:00:00"
+    },
+    {
       "data": "10/03",
       "hora": "07:00",
       "navio": "CMA CGM PARATY",
@@ -337,6 +397,24 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "COSCO SHIPPING URUGUAY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/02 06:30",
+      "manobra_rio_fim": "25/02 07:00",
+      "navio_multi": "MSC FIRENZE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/02 08:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING URUGUAY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/02 06:30",
+      "manobra_rio_fim": "25/02 07:00",
+      "navio_multi": "OPAL LEADER",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/02 19:00"
+    },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "S",
