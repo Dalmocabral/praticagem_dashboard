@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "23/02/2026 13:33",
+  "ultima_atualizacao": "23/02/2026 14:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "23/02",
-      "hora": "13:00",
-      "navio": "MAERSK MONTE AZUL",
-      "calado": "13,15",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9348053",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-02-23T13:00:00"
-    },
     {
       "data": "23/02",
       "hora": "21:00",
@@ -442,24 +427,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK MONTE AZUL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/02 13:00",
-      "manobra_rio_fim": "24/02 05:30",
-      "navio_multi": "OPAL LEADER",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/02 21:00"
-    },
-    {
-      "navio_rio": "MAERSK MONTE AZUL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/02 13:00",
-      "manobra_rio_fim": "24/02 05:30",
-      "navio_multi": "MSC FIRENZE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/02 00:00"
-    },
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
       "manobra_rio_afetada": "E",
