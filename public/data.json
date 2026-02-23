@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/02/2026 12:30",
+  "ultima_atualizacao": "23/02/2026 13:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -97,7 +97,7 @@
     },
     {
       "data": "24/02",
-      "hora": "19:00",
+      "hora": "16:00",
       "navio": "DOVER HIGHWAY",
       "calado": "9,50",
       "manobra": "E",
@@ -108,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-24T19:00:00"
+      "timestamp": "2026-02-24T16:00:00"
     },
     {
       "data": "25/02",
@@ -476,7 +476,7 @@
       "manobra_rio_fim": "25/02 07:00",
       "navio_multi": "DOVER HIGHWAY",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/02 19:00"
+      "manobra_multi_data_hora": "24/02 16:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
