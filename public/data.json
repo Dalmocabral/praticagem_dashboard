@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/02/2026 14:45",
+  "ultima_atualizacao": "23/02/2026 15:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -39,7 +39,7 @@
       "data": "24/02",
       "hora": "05:30",
       "navio": "MAERSK MONTE AZUL",
-      "calado": "13,15",
+      "calado": "13,20",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
