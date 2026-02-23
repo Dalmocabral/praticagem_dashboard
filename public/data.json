@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/02/2026 17:30",
+  "ultima_atualizacao": "23/02/2026 18:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -16,7 +16,7 @@
       "imo": "9318498",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-23T21:00:00"
     },
@@ -127,7 +127,7 @@
     },
     {
       "data": "25/02",
-      "hora": "13:00",
+      "hora": "12:00",
       "navio": "DOVER HIGHWAY",
       "calado": "9,50",
       "manobra": "S",
@@ -138,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-25T13:00:00"
+      "timestamp": "2026-02-25T12:00:00"
     },
     {
       "data": "25/02",
@@ -452,7 +452,7 @@
       "manobra_rio_fim": "26/02 09:00",
       "navio_multi": "DOVER HIGHWAY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/02 13:00"
+      "manobra_multi_data_hora": "25/02 12:00"
     }
   ]
 }
