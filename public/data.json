@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "23/02/2026 09:02",
+  "ultima_atualizacao": "23/02/2026 10:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "23/02",
-      "hora": "08:00",
-      "navio": "MSC ANTIGUA",
-      "calado": "9,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9619476",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-23T08:00:00"
-    },
     {
       "data": "23/02",
       "hora": "13:00",
@@ -31,9 +16,24 @@
       "imo": "9348053",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-02-23T13:00:00"
+    },
+    {
+      "data": "23/02",
+      "hora": "22:00",
+      "navio": "OPAL LEADER",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9318498",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-23T22:00:00"
     },
     {
       "data": "24/02",
@@ -49,21 +49,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-24T01:00:00"
-    },
-    {
-      "data": "24/02",
-      "hora": "03:00",
-      "navio": "OPAL LEADER",
-      "calado": "8,40",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9318498",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-24T03:00:00"
     },
     {
       "data": "24/02",
@@ -97,13 +82,28 @@
     },
     {
       "data": "24/02",
-      "hora": "19:00",
+      "hora": "17:00",
       "navio": "OPAL LEADER",
       "calado": "8,80",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "futuro",
       "imo": "9318498",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-24T17:00:00"
+    },
+    {
+      "data": "24/02",
+      "hora": "19:00",
+      "navio": "DOVER HIGHWAY",
+      "calado": "9,50",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9574107",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -127,11 +127,41 @@
     },
     {
       "data": "25/02",
+      "hora": "09:00",
+      "navio": "COSCO SHIPPING MEXICO",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945863",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-25T09:00:00"
+    },
+    {
+      "data": "25/02",
+      "hora": "13:00",
+      "navio": "DOVER HIGHWAY",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9574107",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-25T13:00:00"
+    },
+    {
+      "data": "25/02",
       "hora": "14:00",
       "navio": "COSCO SHIPPING RHINE",
       "calado": "12,70",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9731951",
       "tipo_navio": "CONTAINER SHIP",
@@ -146,7 +176,7 @@
       "navio": "COSCO SHIPPING RHINE",
       "calado": "12,50",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9731951",
       "tipo_navio": "CONTAINER SHIP",
@@ -159,8 +189,8 @@
       "data": "26/02",
       "hora": "09:00",
       "navio": "COSCO SHIPPING MEXICO",
-      "calado": "14,20",
-      "manobra": "E",
+      "calado": "13,50",
+      "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9945863",
@@ -184,21 +214,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-26T22:00:00"
-    },
-    {
-      "data": "27/02",
-      "hora": "06:00",
-      "navio": "COSCO SHIPPING MEXICO",
-      "calado": "13,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9945863",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-27T06:00:00"
     },
     {
       "data": "27/02",
@@ -394,9 +409,48 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-12T06:00:00"
+    },
+    {
+      "data": "17/03",
+      "hora": "07:00",
+      "navio": "CMA CGM BAHIA",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-17T07:00:00"
+    },
+    {
+      "data": "18/03",
+      "hora": "07:00",
+      "navio": "CMA CGM BAHIA",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-18T07:00:00"
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "MAERSK MONTE AZUL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/02 13:00",
+      "manobra_rio_fim": "24/02 01:00",
+      "navio_multi": "OPAL LEADER",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/02 22:00"
+    },
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
       "manobra_rio_afetada": "E",
@@ -408,21 +462,30 @@
     },
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "24/02 06:30",
       "manobra_rio_fim": "25/02 07:00",
       "navio_multi": "OPAL LEADER",
       "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/02 17:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING URUGUAY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/02 06:30",
+      "manobra_rio_fim": "25/02 07:00",
+      "navio_multi": "DOVER HIGHWAY",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/02 19:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/02 09:00",
-      "manobra_rio_fim": "27/02 06:00",
-      "navio_multi": "CZECH",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/02 22:00"
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "25/02 09:00",
+      "manobra_rio_fim": "26/02 09:00",
+      "navio_multi": "DOVER HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "25/02 13:00"
     }
   ]
 }
