@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "23/02/2026 03:14",
+  "ultima_atualizacao": "23/02/2026 04:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "23/02",
-      "hora": "02:00",
-      "navio": "CMA CGM SANTOS",
-      "calado": "11,70",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-23T02:00:00"
-    },
     {
       "data": "23/02",
       "hora": "08:00",
@@ -31,7 +16,7 @@
       "imo": "9619476",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-02-23T08:00:00"
     },
