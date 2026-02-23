@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/02/2026 02:06",
+  "ultima_atualizacao": "23/02/2026 03:14",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -22,6 +22,21 @@
     },
     {
       "data": "23/02",
+      "hora": "08:00",
+      "navio": "MSC ANTIGUA",
+      "calado": "9,80",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9619476",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-23T08:00:00"
+    },
+    {
+      "data": "23/02",
       "hora": "11:00",
       "navio": "MSC FIRENZE",
       "calado": "14,50",
@@ -34,21 +49,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-23T11:00:00"
-    },
-    {
-      "data": "23/02",
-      "hora": "12:00",
-      "navio": "MSC ANTIGUA",
-      "calado": "9,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9619476",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-23T12:00:00"
     },
     {
       "data": "23/02",
