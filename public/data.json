@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/02/2026 17:19",
+  "ultima_atualizacao": "24/02/2026 18:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -114,7 +114,7 @@
       "data": "25/02",
       "hora": "17:00",
       "navio": "MSC CARLOTTA",
-      "calado": "12,60",
+      "calado": "14,55",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -172,7 +172,7 @@
     },
     {
       "data": "26/02",
-      "hora": "10:00",
+      "hora": "11:00",
       "navio": "MSC CARLOTTA",
       "calado": "12,60",
       "manobra": "S",
@@ -183,11 +183,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-26T10:00:00"
+      "timestamp": "2026-02-26T11:00:00"
     },
     {
       "data": "26/02",
-      "hora": "12:00",
+      "hora": "13:00",
       "navio": "CHIPOLBROK STAR",
       "calado": "7,85",
       "manobra": "E",
@@ -198,7 +198,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-26T12:00:00"
+      "timestamp": "2026-02-26T13:00:00"
     },
     {
       "data": "26/02",
@@ -544,7 +544,7 @@
     {
       "navio_rio": "CHIPOLBROK STAR",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/02 12:00",
+      "manobra_rio_inicio": "26/02 13:00",
       "manobra_rio_fim": "28/02 21:00",
       "navio_multi": "CZECH",
       "manobra_multi_tipo": "E",
@@ -553,7 +553,7 @@
     {
       "navio_rio": "CHIPOLBROK STAR",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/02 12:00",
+      "manobra_rio_inicio": "26/02 13:00",
       "manobra_rio_fim": "28/02 21:00",
       "navio_multi": "CZECH",
       "manobra_multi_tipo": "S",
