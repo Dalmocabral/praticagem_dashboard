@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "24/02/2026 07:08",
+  "ultima_atualizacao": "24/02/2026 08:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "24/02",
-      "hora": "05:30",
-      "navio": "MAERSK MONTE AZUL",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9348053",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-24T05:30:00"
-    },
     {
       "data": "24/02",
       "hora": "07:30",
