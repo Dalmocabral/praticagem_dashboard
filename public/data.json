@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/02/2026 04:30",
+  "ultima_atualizacao": "24/02/2026 05:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -9,7 +9,7 @@
       "data": "24/02",
       "hora": "05:30",
       "navio": "MAERSK MONTE AZUL",
-      "calado": "13,20",
+      "calado": "13,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -24,7 +24,7 @@
       "data": "24/02",
       "hora": "07:30",
       "navio": "COSCO SHIPPING URUGUAY",
-      "calado": "14,00",
+      "calado": "14,20",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
