@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/02/2026 04:38",
+  "ultima_atualizacao": "25/02/2026 05:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -31,7 +31,7 @@
       "imo": "9162227",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-02-25T09:00:00"
     },
@@ -83,32 +83,17 @@
     {
       "data": "25/02",
       "hora": "17:00",
-      "navio": "MSC CARLOTTA",
-      "calado": "14,55",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9756731",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-25T17:00:00"
-    },
-    {
-      "data": "26/02",
-      "hora": "06:00",
       "navio": "MARIANNA I",
       "calado": "11,80",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9162227",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-26T06:00:00"
+      "timestamp": "2026-02-25T17:00:00"
     },
     {
       "data": "26/02",
@@ -144,6 +129,21 @@
       "data": "26/02",
       "hora": "11:00",
       "navio": "MSC CARLOTTA",
+      "calado": "14,35",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9756731",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-26T11:00:00"
+    },
+    {
+      "data": "26/02",
+      "hora": "20:00",
+      "navio": "MSC CARLOTTA",
       "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT2",
@@ -153,7 +153,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-26T11:00:00"
+      "timestamp": "2026-02-26T20:00:00"
     },
     {
       "data": "26/02",
@@ -492,8 +492,8 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "25/02 13:00",
       "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "MSC CARLOTTA",
-      "manobra_multi_tipo": "E",
+      "navio_multi": "MARIANNA I",
+      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "25/02 17:00"
     },
     {
@@ -501,9 +501,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "25/02 13:00",
       "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "MARIANNA I",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/02 06:00"
+      "navio_multi": "MSC CARLOTTA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/02 11:00"
     },
     {
       "navio_rio": "CHIPOLBROK STAR",
@@ -512,7 +512,7 @@
       "manobra_rio_fim": "28/02 21:00",
       "navio_multi": "MSC CARLOTTA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/02 11:00"
+      "manobra_multi_data_hora": "26/02 20:00"
     },
     {
       "navio_rio": "CHIPOLBROK STAR",
@@ -537,18 +537,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "25/02 14:30",
       "manobra_rio_fim": "26/02 07:00",
-      "navio_multi": "MSC CARLOTTA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "25/02 17:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING RHINE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/02 14:30",
-      "manobra_rio_fim": "26/02 07:00",
       "navio_multi": "MARIANNA I",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/02 06:00"
+      "manobra_multi_data_hora": "25/02 17:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
@@ -556,8 +547,17 @@
       "manobra_rio_inicio": "26/02 09:00",
       "manobra_rio_fim": "27/02 06:00",
       "navio_multi": "MSC CARLOTTA",
-      "manobra_multi_tipo": "S",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "26/02 11:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "26/02 09:00",
+      "manobra_rio_fim": "27/02 06:00",
+      "navio_multi": "MSC CARLOTTA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/02 20:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
