@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "25/02/2026 14:58",
+  "ultima_atualizacao": "25/02/2026 16:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "25/02",
-      "hora": "13:00",
-      "navio": "CHIPOLBROK STAR",
-      "calado": "7,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9432127",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-02-25T13:00:00"
-    },
     {
       "data": "25/02",
       "hora": "14:30",
@@ -37,7 +22,7 @@
     },
     {
       "data": "25/02",
-      "hora": "17:30",
+      "hora": "18:30",
       "navio": "MARIANNA I",
       "calado": "12,10",
       "manobra": "S",
@@ -48,7 +33,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-02-25T17:30:00"
+      "timestamp": "2026-02-25T18:30:00"
+    },
+    {
+      "data": "26/02",
+      "hora": "05:00",
+      "navio": "CZECH",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9723241",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-26T05:00:00"
     },
     {
       "data": "26/02",
@@ -82,22 +82,7 @@
     },
     {
       "data": "26/02",
-      "hora": "11:00",
-      "navio": "CZECH",
-      "calado": "11,00",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9723241",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-26T11:00:00"
-    },
-    {
-      "data": "26/02",
-      "hora": "12:30",
+      "hora": "10:30",
       "navio": "MSC CARLOTTA",
       "calado": "14,55",
       "manobra": "E",
@@ -108,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-26T12:30:00"
+      "timestamp": "2026-02-26T10:30:00"
     },
     {
       "data": "27/02",
@@ -548,121 +533,22 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CHIPOLBROK STAR",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/02 13:00",
-      "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "MARIANNA I",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/02 17:30"
-    },
-    {
-      "navio_rio": "CHIPOLBROK STAR",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/02 13:00",
-      "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "CZECH",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/02 11:00"
-    },
-    {
-      "navio_rio": "CHIPOLBROK STAR",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/02 13:00",
-      "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "MSC CARLOTTA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/02 12:30"
-    },
-    {
-      "navio_rio": "CHIPOLBROK STAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/02 13:00",
-      "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "CZECH",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/02 10:00"
-    },
-    {
-      "navio_rio": "CHIPOLBROK STAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/02 13:00",
-      "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "MSC CARLOTTA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/02 11:00"
-    },
-    {
-      "navio_rio": "CHIPOLBROK STAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/02 13:00",
-      "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "MSC MUGE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/02 13:00"
-    },
-    {
-      "navio_rio": "CHIPOLBROK STAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/02 13:00",
-      "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/02 17:00"
-    },
-    {
-      "navio_rio": "CHIPOLBROK STAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/02 13:00",
-      "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/02 01:00"
-    },
-    {
-      "navio_rio": "CHIPOLBROK STAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/02 13:00",
-      "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "MSC MUGE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/02 08:00"
-    },
-    {
-      "navio_rio": "CHIPOLBROK STAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/02 13:00",
-      "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/02 11:00"
-    },
-    {
-      "navio_rio": "CHIPOLBROK STAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/02 13:00",
-      "manobra_rio_fim": "28/02 21:00",
-      "navio_multi": "MSC DOMITILLE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "28/02 13:00"
-    },
-    {
       "navio_rio": "COSCO SHIPPING RHINE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "25/02 14:30",
       "manobra_rio_fim": "26/02 07:00",
       "navio_multi": "MARIANNA I",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/02 17:30"
+      "manobra_multi_data_hora": "25/02 18:30"
     },
     {
-      "navio_rio": "COSCO SHIPPING MEXICO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/02 09:00",
-      "manobra_rio_fim": "27/02 06:00",
+      "navio_rio": "COSCO SHIPPING RHINE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/02 14:30",
+      "manobra_rio_fim": "26/02 07:00",
       "navio_multi": "CZECH",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/02 11:00"
+      "manobra_multi_data_hora": "26/02 05:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
@@ -671,7 +557,7 @@
       "manobra_rio_fim": "27/02 06:00",
       "navio_multi": "MSC CARLOTTA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/02 12:30"
+      "manobra_multi_data_hora": "26/02 10:30"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
