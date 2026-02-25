@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/02/2026 00:43",
+  "ultima_atualizacao": "25/02/2026 02:16",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -16,7 +16,7 @@
       "imo": "9945851",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-02-25T06:00:00"
     },
@@ -184,6 +184,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-27T06:00:00"
+    },
+    {
+      "data": "27/02",
+      "hora": "08:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-27T08:00:00"
+    },
+    {
+      "data": "27/02",
+      "hora": "15:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-27T15:00:00"
     },
     {
       "data": "27/02",
