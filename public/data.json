@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/02/2026 07:33",
+  "ultima_atualizacao": "25/02/2026 08:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -31,7 +31,7 @@
       "imo": "9574107",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-25T11:00:00"
     },
@@ -54,7 +54,7 @@
       "data": "25/02",
       "hora": "14:30",
       "navio": "COSCO SHIPPING RHINE",
-      "calado": "12,70",
+      "calado": "13,50",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -84,7 +84,7 @@
       "data": "26/02",
       "hora": "07:00",
       "navio": "COSCO SHIPPING RHINE",
-      "calado": "12,50",
+      "calado": "13,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -124,6 +124,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-26T11:00:00"
+    },
+    {
+      "data": "26/02",
+      "hora": "13:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-26T13:00:00"
     },
     {
       "data": "26/02",
@@ -214,6 +229,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-27T16:00:00"
+    },
+    {
+      "data": "28/02",
+      "hora": "08:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,30",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-28T08:00:00"
     },
     {
       "data": "28/02",
@@ -495,6 +525,15 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "25/02 13:00",
       "manobra_rio_fim": "28/02 21:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/02 13:00"
+    },
+    {
+      "navio_rio": "CHIPOLBROK STAR",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "25/02 13:00",
+      "manobra_rio_fim": "28/02 21:00",
       "navio_multi": "MSC CARLOTTA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "26/02 20:00"
@@ -518,6 +557,15 @@
       "manobra_multi_data_hora": "27/02 16:00"
     },
     {
+      "navio_rio": "CHIPOLBROK STAR",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/02 13:00",
+      "manobra_rio_fim": "28/02 21:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/02 08:00"
+    },
+    {
       "navio_rio": "COSCO SHIPPING RHINE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "25/02 14:30",
@@ -534,6 +582,15 @@
       "navio_multi": "MSC CARLOTTA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "26/02 11:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/02 09:00",
+      "manobra_rio_fim": "27/02 06:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/02 13:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
