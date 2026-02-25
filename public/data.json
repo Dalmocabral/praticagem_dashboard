@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "25/02/2026 11:39",
+  "ultima_atualizacao": "25/02/2026 12:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "25/02",
-      "hora": "11:00",
-      "navio": "DOVER HIGHWAY",
-      "calado": "9,20",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9574107",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-25T11:00:00"
-    },
     {
       "data": "25/02",
       "hora": "13:00",
