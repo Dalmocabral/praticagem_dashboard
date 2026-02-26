@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/02/2026 18:24",
+  "ultima_atualizacao": "26/02/2026 18:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,7 +24,7 @@
       "data": "26/02",
       "hora": "22:00",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "9,30",
+      "calado": "9,20",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -67,21 +67,6 @@
     },
     {
       "data": "27/02",
-      "hora": "08:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-02-27T08:00:00"
-    },
-    {
-      "data": "27/02",
       "hora": "10:00",
       "navio": "MSC MUGE",
       "calado": "13,70",
@@ -97,7 +82,22 @@
     },
     {
       "data": "27/02",
-      "hora": "15:00",
+      "hora": "12:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-27T12:00:00"
+    },
+    {
+      "data": "27/02",
+      "hora": "19:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,50",
       "manobra": "M",
@@ -108,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-02-27T15:00:00"
+      "timestamp": "2026-02-27T19:00:00"
     },
     {
       "data": "28/02",
@@ -502,15 +502,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/02 08:00",
-      "manobra_rio_fim": "27/02 15:00",
-      "navio_multi": "MSC MUGE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/02 10:00"
-    },
     {
       "navio_rio": "LORI",
       "manobra_rio_afetada": "E",
