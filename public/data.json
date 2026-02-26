@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/02/2026 15:07",
+  "ultima_atualizacao": "26/02/2026 16:10",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -127,6 +127,21 @@
     },
     {
       "data": "28/02",
+      "hora": "05:00",
+      "navio": "LORI",
+      "calado": "9,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9631125",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-28T05:00:00"
+    },
+    {
+      "data": "28/02",
       "hora": "08:00",
       "navio": "MSC MUGE",
       "calado": "12,60",
@@ -169,6 +184,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-02-28T13:00:00"
+    },
+    {
+      "data": "28/02",
+      "hora": "18:00",
+      "navio": "LORI",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9631125",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-02-28T18:00:00"
     },
     {
       "data": "28/02",
@@ -480,6 +510,33 @@
       "navio_multi": "MSC MUGE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "27/02 10:00"
+    },
+    {
+      "navio_rio": "LORI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/02 05:00",
+      "manobra_rio_fim": "28/02 18:00",
+      "navio_multi": "MSC MUGE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/02 08:00"
+    },
+    {
+      "navio_rio": "LORI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/02 05:00",
+      "manobra_rio_fim": "28/02 18:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/02 11:00"
+    },
+    {
+      "navio_rio": "LORI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "28/02 05:00",
+      "manobra_rio_fim": "28/02 18:00",
+      "navio_multi": "MSC DOMITILLE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "28/02 13:00"
     }
   ]
 }
