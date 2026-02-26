@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/02/2026 07:05",
+  "ultima_atualizacao": "26/02/2026 08:06",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -39,7 +39,7 @@
       "data": "26/02",
       "hora": "09:00",
       "navio": "COSCO SHIPPING MEXICO",
-      "calado": "14,20",
+      "calado": "14,10",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -61,9 +61,39 @@
       "imo": "9756731",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-02-26T10:30:00"
+    },
+    {
+      "data": "26/02",
+      "hora": "21:00",
+      "navio": "CZECH",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9723241",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-26T21:00:00"
+    },
+    {
+      "data": "26/02",
+      "hora": "23:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-26T23:00:00"
     },
     {
       "data": "27/02",
@@ -98,21 +128,6 @@
     {
       "data": "27/02",
       "hora": "10:00",
-      "navio": "CZECH",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9723241",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-27T10:00:00"
-    },
-    {
-      "data": "27/02",
-      "hora": "11:00",
       "navio": "MSC CARLOTTA",
       "calado": "12,60",
       "manobra": "S",
@@ -123,11 +138,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-27T11:00:00"
+      "timestamp": "2026-02-27T10:00:00"
     },
     {
       "data": "27/02",
-      "hora": "13:00",
+      "hora": "12:00",
       "navio": "MSC MUGE",
       "calado": "13,70",
       "manobra": "E",
@@ -138,7 +153,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-27T13:00:00"
+      "timestamp": "2026-02-27T12:00:00"
     },
     {
       "data": "27/02",
@@ -154,21 +169,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-02-27T15:00:00"
-    },
-    {
-      "data": "27/02",
-      "hora": "17:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,30",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-27T17:00:00"
     },
     {
       "data": "28/02",
@@ -512,13 +512,22 @@
       "manobra_multi_data_hora": "26/02 10:30"
     },
     {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/02 08:00",
-      "manobra_rio_fim": "27/02 15:00",
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "26/02 09:00",
+      "manobra_rio_fim": "27/02 06:00",
       "navio_multi": "CZECH",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/02 10:00"
+      "manobra_multi_data_hora": "26/02 21:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "26/02 09:00",
+      "manobra_rio_fim": "27/02 06:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/02 23:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -527,7 +536,7 @@
       "manobra_rio_fim": "27/02 15:00",
       "navio_multi": "MSC CARLOTTA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/02 11:00"
+      "manobra_multi_data_hora": "27/02 10:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -536,7 +545,7 @@
       "manobra_rio_fim": "27/02 15:00",
       "navio_multi": "MSC MUGE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/02 13:00"
+      "manobra_multi_data_hora": "27/02 12:00"
     }
   ]
 }
