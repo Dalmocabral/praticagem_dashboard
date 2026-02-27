@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/02/2026 09:49",
+  "ultima_atualizacao": "27/02/2026 10:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "27/02",
-      "hora": "10:00",
-      "navio": "MSC MUGE",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9978949",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-02-27T10:00:00"
-    },
-    {
-      "data": "27/02",
       "hora": "12:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,50",
+      "calado": "9,40",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -189,7 +174,7 @@
       "data": "01/03",
       "hora": "15:00",
       "navio": "GRANDE PORTOGALLO",
-      "calado": "9,70",
+      "calado": "7,80",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "futuro",
@@ -231,6 +216,21 @@
       "timestamp": "2026-03-02T10:00:00"
     },
     {
+      "data": "02/03",
+      "hora": "12:00",
+      "navio": "GRANDE SAN PAOLO",
+      "calado": "8,20",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9253208",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-02T12:00:00"
+    },
+    {
       "data": "03/03",
       "hora": "08:00",
       "navio": "COSCO SHIPPING PERU",
@@ -244,6 +244,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-03T08:00:00"
+    },
+    {
+      "data": "03/03",
+      "hora": "19:00",
+      "navio": "GRANDE SAN PAOLO",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9253208",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-03T19:00:00"
     },
     {
       "data": "04/03",
@@ -480,6 +495,15 @@
       "navio_multi": "MSC DOMITILLE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "28/02 10:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/03 08:00",
+      "manobra_rio_fim": "04/03 08:00",
+      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/03 19:00"
     }
   ]
 }
