@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/02/2026 02:06",
+  "ultima_atualizacao": "27/02/2026 03:06",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -24,14 +24,14 @@
       "data": "27/02",
       "hora": "06:00",
       "navio": "COSCO SHIPPING MEXICO",
-      "calado": "13,50",
+      "calado": "14,20",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9945863",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-02-27T06:00:00"
     },
