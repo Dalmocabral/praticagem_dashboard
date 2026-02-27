@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/02/2026 10:53",
+  "ultima_atualizacao": "27/02/2026 11:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -157,21 +157,6 @@
     },
     {
       "data": "01/03",
-      "hora": "08:00",
-      "navio": "MSC PINA",
-      "calado": "13,80",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9339272",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-01T08:00:00"
-    },
-    {
-      "data": "01/03",
       "hora": "15:00",
       "navio": "GRANDE PORTOGALLO",
       "calado": "7,80",
@@ -184,21 +169,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-01T15:00:00"
-    },
-    {
-      "data": "02/03",
-      "hora": "06:00",
-      "navio": "MSC PINA",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9339272",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-02T06:00:00"
     },
     {
       "data": "02/03",
@@ -229,6 +199,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-02T12:00:00"
+    },
+    {
+      "data": "02/03",
+      "hora": "17:00",
+      "navio": "MSC PINA",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9339272",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-02T17:00:00"
+    },
+    {
+      "data": "03/03",
+      "hora": "07:00",
+      "navio": "MSC PINA",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9339272",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-03T07:00:00"
     },
     {
       "data": "03/03",
