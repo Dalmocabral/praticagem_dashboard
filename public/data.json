@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/02/2026 07:35",
+  "ultima_atualizacao": "27/02/2026 08:19",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
@@ -31,7 +31,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-02-27T12:00:00"
     },
@@ -232,21 +232,6 @@
     },
     {
       "data": "03/03",
-      "hora": "06:00",
-      "navio": "VANTAGE",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9628192",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-03T06:00:00"
-    },
-    {
-      "data": "03/03",
       "hora": "08:00",
       "navio": "COSCO SHIPPING PERU",
       "calado": "14,40",
@@ -289,6 +274,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-04T16:00:00"
+    },
+    {
+      "data": "05/03",
+      "hora": "06:00",
+      "navio": "VANTAGE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9628192",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-05T06:00:00"
     },
     {
       "data": "07/03",
