@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/02/2026 20:02",
+  "ultima_atualizacao": "27/02/2026 20:36",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 27/02/2026 15:40 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Canal Varrido fechado."
@@ -24,7 +24,7 @@
       "data": "27/02",
       "hora": "22:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,50",
+      "calado": "9,20",
       "manobra": "M",
       "beco": "TECONTPROLONG",
       "status": "hoje",
