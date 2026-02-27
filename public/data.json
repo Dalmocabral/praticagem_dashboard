@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "26/02/2026 22:09",
+  "ultima_atualizacao": "27/02/2026 00:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 23/01/2026 21:09"
   },
   "navios": [
-    {
-      "data": "26/02",
-      "hora": "22:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "passado",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-02-26T22:00:00"
-    },
     {
       "data": "27/02",
       "hora": "02:00",
@@ -31,7 +16,7 @@
       "imo": "9756731",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-02-27T02:00:00"
     },
@@ -96,6 +81,21 @@
       "timestamp": "2026-02-27T21:00:00"
     },
     {
+      "data": "27/02",
+      "hora": "23:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,30",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-27T23:00:00"
+    },
+    {
       "data": "28/02",
       "hora": "01:00",
       "navio": "LOG-IN PANTANAL",
@@ -142,22 +142,7 @@
     },
     {
       "data": "28/02",
-      "hora": "11:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,30",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-02-28T11:00:00"
-    },
-    {
-      "data": "28/02",
-      "hora": "13:00",
+      "hora": "10:00",
       "navio": "MSC DOMITILLE",
       "calado": "14,20",
       "manobra": "E",
@@ -168,7 +153,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-28T13:00:00"
+      "timestamp": "2026-02-28T10:00:00"
     },
     {
       "data": "28/02",
@@ -501,18 +486,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/02 05:00",
       "manobra_rio_fim": "28/02 18:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/02 11:00"
-    },
-    {
-      "navio_rio": "LORI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "28/02 05:00",
-      "manobra_rio_fim": "28/02 18:00",
       "navio_multi": "MSC DOMITILLE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "28/02 13:00"
+      "manobra_multi_data_hora": "28/02 10:00"
     }
   ]
 }
