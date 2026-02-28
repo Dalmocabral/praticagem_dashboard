@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "28/02/2026 19:35",
+  "ultima_atualizacao": "28/02/2026 19:55",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "28/02",
-      "hora": "17:30",
-      "navio": "MSC DOMITILLE",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9720201",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-02-28T17:30:00"
-    },
     {
       "data": "01/03",
       "hora": "05:30",
