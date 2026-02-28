@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/02/2026 08:53",
+  "ultima_atualizacao": "28/02/2026 09:50",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 27/02/2026 15:40 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Canal Varrido fechado."
@@ -24,7 +24,7 @@
       "data": "28/02",
       "hora": "10:00",
       "navio": "CHIPOLBROK STAR",
-      "calado": "7,55",
+      "calado": "7,20",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -37,7 +37,7 @@
     },
     {
       "data": "28/02",
-      "hora": "11:00",
+      "hora": "17:00",
       "navio": "MSC MUGE",
       "calado": "14,40",
       "manobra": "S",
@@ -46,24 +46,9 @@
       "imo": "9978949",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-28T11:00:00"
-    },
-    {
-      "data": "28/02",
-      "hora": "13:00",
-      "navio": "MSC DOMITILLE",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9720201",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-28T13:00:00"
+      "timestamp": "2026-02-28T17:00:00"
     },
     {
       "data": "28/02",
@@ -99,8 +84,8 @@
       "data": "01/03",
       "hora": "06:00",
       "navio": "MSC DOMITILLE",
-      "calado": "12,60",
-      "manobra": "S",
+      "calado": "14,50",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9720201",
@@ -142,7 +127,7 @@
     },
     {
       "data": "01/03",
-      "hora": "15:00",
+      "hora": "19:00",
       "navio": "GRANDE PORTOGALLO",
       "calado": "7,80",
       "manobra": "E",
@@ -153,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-01T15:00:00"
+      "timestamp": "2026-03-01T19:00:00"
     },
     {
       "data": "02/03",
@@ -169,6 +154,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-02T06:00:00"
+    },
+    {
+      "data": "02/03",
+      "hora": "07:00",
+      "navio": "MSC DOMITILLE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9720201",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-02T07:00:00"
     },
     {
       "data": "02/03",
@@ -489,21 +489,12 @@
   "conflitos": [
     {
       "navio_rio": "LORI",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "28/02 08:00",
       "manobra_rio_fim": "28/02 18:00",
       "navio_multi": "MSC MUGE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/02 11:00"
-    },
-    {
-      "navio_rio": "LORI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "28/02 08:00",
-      "manobra_rio_fim": "28/02 18:00",
-      "navio_multi": "MSC DOMITILLE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "28/02 13:00"
+      "manobra_multi_data_hora": "28/02 17:00"
     },
     {
       "navio_rio": "XIN CHANG SHA",
@@ -511,7 +502,7 @@
       "manobra_rio_inicio": "01/03 02:00",
       "manobra_rio_fim": "01/03 12:00",
       "navio_multi": "MSC DOMITILLE",
-      "manobra_multi_tipo": "S",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/03 06:00"
     },
     {
@@ -521,7 +512,7 @@
       "manobra_rio_fim": "02/03 06:00",
       "navio_multi": "GRANDE PORTOGALLO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/03 15:00"
+      "manobra_multi_data_hora": "01/03 19:00"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
