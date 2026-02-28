@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "28/02/2026 16:57",
+  "ultima_atualizacao": "28/02/2026 17:35",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "28/02",
-      "hora": "15:30",
-      "navio": "LORI",
-      "calado": "9,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9631125",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-28T15:30:00"
-    },
     {
       "data": "28/02",
       "hora": "17:30",
@@ -67,7 +52,7 @@
     },
     {
       "data": "01/03",
-      "hora": "13:00",
+      "hora": "11:00",
       "navio": "CMA CGM VERACRUZ",
       "calado": "10,00",
       "manobra": "E",
@@ -78,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-01T13:00:00"
+      "timestamp": "2026-03-01T11:00:00"
     },
     {
       "data": "01/03",
@@ -475,7 +460,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/03 13:00",
+      "manobra_rio_inicio": "01/03 11:00",
       "manobra_rio_fim": "02/03 06:00",
       "navio_multi": "GRANDE PORTOGALLO",
       "manobra_multi_tipo": "E",
