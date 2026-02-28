@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/02/2026 05:59",
+  "ultima_atualizacao": "28/02/2026 06:36",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 27/02/2026 15:40 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Canal Varrido fechado."
@@ -31,7 +31,7 @@
       "imo": "9432127",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-02-28T10:00:00"
     },
