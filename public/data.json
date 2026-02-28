@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "28/02/2026 09:50",
+  "ultima_atualizacao": "28/02/2026 10:32",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 27/02/2026 15:40 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Canal Varrido fechado."
   },
   "navios": [
-    {
-      "data": "28/02",
-      "hora": "08:00",
-      "navio": "LORI",
-      "calado": "9,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9631125",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-02-28T08:00:00"
-    },
     {
       "data": "28/02",
       "hora": "10:00",
@@ -37,7 +22,7 @@
     },
     {
       "data": "28/02",
-      "hora": "17:00",
+      "hora": "16:30",
       "navio": "MSC MUGE",
       "calado": "14,40",
       "manobra": "S",
@@ -48,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-28T17:00:00"
+      "timestamp": "2026-02-28T16:30:00"
     },
     {
       "data": "28/02",
@@ -97,7 +82,7 @@
     },
     {
       "data": "01/03",
-      "hora": "10:00",
+      "hora": "13:00",
       "navio": "CMA CGM VERACRUZ",
       "calado": "10,00",
       "manobra": "E",
@@ -108,11 +93,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-01T10:00:00"
+      "timestamp": "2026-03-01T13:00:00"
     },
     {
       "data": "01/03",
-      "hora": "12:00",
+      "hora": "15:00",
       "navio": "XIN CHANG SHA",
       "calado": "12,50",
       "manobra": "S",
@@ -123,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-01T12:00:00"
+      "timestamp": "2026-03-01T15:00:00"
     },
     {
       "data": "01/03",
@@ -488,19 +473,10 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "LORI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "28/02 08:00",
-      "manobra_rio_fim": "28/02 18:00",
-      "navio_multi": "MSC MUGE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/02 17:00"
-    },
-    {
       "navio_rio": "XIN CHANG SHA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "01/03 02:00",
-      "manobra_rio_fim": "01/03 12:00",
+      "manobra_rio_fim": "01/03 15:00",
       "navio_multi": "MSC DOMITILLE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/03 06:00"
@@ -508,7 +484,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/03 10:00",
+      "manobra_rio_inicio": "01/03 13:00",
       "manobra_rio_fim": "02/03 06:00",
       "navio_multi": "GRANDE PORTOGALLO",
       "manobra_multi_tipo": "E",
