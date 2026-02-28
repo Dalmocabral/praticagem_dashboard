@@ -1,8 +1,8 @@
 {
-  "ultima_atualizacao": "28/02/2026 12:43",
+  "ultima_atualizacao": "28/02/2026 12:58",
   "barra_info": {
     "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 27/02/2026 15:40 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Canal Varrido fechado."
+    "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
     {
@@ -229,6 +229,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-03T08:00:00"
+    },
+    {
+      "data": "03/03",
+      "hora": "10:00",
+      "navio": "EUROPE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9285988",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-03T10:00:00"
     },
     {
       "data": "03/03",
@@ -489,6 +504,15 @@
       "navio_multi": "GRANDE PORTOGALLO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/03 19:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/03 08:00",
+      "manobra_rio_fim": "04/03 08:00",
+      "navio_multi": "EUROPE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/03 10:00"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
