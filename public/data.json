@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/02/2026 11:32",
+  "ultima_atualizacao": "28/02/2026 11:52",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 27/02/2026 15:40 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Canal Varrido fechado."
@@ -22,7 +22,7 @@
     },
     {
       "data": "28/02",
-      "hora": "16:30",
+      "hora": "14:00",
       "navio": "MSC MUGE",
       "calado": "14,40",
       "manobra": "S",
@@ -31,9 +31,24 @@
       "imo": "9978949",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
+      "timestamp": "2026-02-28T14:00:00"
+    },
+    {
+      "data": "28/02",
+      "hora": "16:00",
+      "navio": "MSC DOMITILLE",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9720201",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-28T16:30:00"
+      "timestamp": "2026-02-28T16:00:00"
     },
     {
       "data": "28/02",
@@ -64,21 +79,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-01T02:00:00"
-    },
-    {
-      "data": "01/03",
-      "hora": "06:00",
-      "navio": "MSC DOMITILLE",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9720201",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-01T06:00:00"
     },
     {
       "data": "01/03",
@@ -472,15 +472,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "XIN CHANG SHA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/03 02:00",
-      "manobra_rio_fim": "01/03 15:00",
-      "navio_multi": "MSC DOMITILLE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/03 06:00"
-    },
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
