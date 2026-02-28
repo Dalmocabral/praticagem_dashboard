@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "28/02/2026 11:52",
+  "ultima_atualizacao": "28/02/2026 12:21",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 27/02/2026 15:40 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Canal Varrido fechado."
   },
   "navios": [
-    {
-      "data": "28/02",
-      "hora": "10:00",
-      "navio": "CHIPOLBROK STAR",
-      "calado": "7,20",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9432127",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-02-28T10:00:00"
-    },
     {
       "data": "28/02",
       "hora": "14:00",
@@ -46,7 +31,7 @@
       "imo": "9720201",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-02-28T16:00:00"
     },
@@ -79,6 +64,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-01T02:00:00"
+    },
+    {
+      "data": "01/03",
+      "hora": "05:30",
+      "navio": "MSC DOMITILLE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9720201",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-01T05:30:00"
     },
     {
       "data": "01/03",
@@ -139,21 +139,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-02T06:00:00"
-    },
-    {
-      "data": "02/03",
-      "hora": "07:00",
-      "navio": "MSC DOMITILLE",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9720201",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-02T07:00:00"
     },
     {
       "data": "02/03",
@@ -472,6 +457,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "XIN CHANG SHA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/03 02:00",
+      "manobra_rio_fim": "01/03 15:00",
+      "navio_multi": "MSC DOMITILLE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/03 05:30"
+    },
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
