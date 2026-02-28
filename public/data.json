@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/02/2026 13:57",
+  "ultima_atualizacao": "28/02/2026 14:29",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -24,7 +24,7 @@
       "data": "28/02",
       "hora": "15:30",
       "navio": "LORI",
-      "calado": "10,00",
+      "calado": "9,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
