@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/02/2026 02:48",
+  "ultima_atualizacao": "28/02/2026 03:21",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 27/02/2026 15:40 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Canal Varrido fechado."
@@ -22,21 +22,6 @@
     },
     {
       "data": "28/02",
-      "hora": "05:30",
-      "navio": "MSC MUGE",
-      "calado": "14,40",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9978949",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-28T05:30:00"
-    },
-    {
-      "data": "28/02",
       "hora": "08:00",
       "navio": "LORI",
       "calado": "9,60",
@@ -52,7 +37,22 @@
     },
     {
       "data": "28/02",
-      "hora": "10:00",
+      "hora": "11:00",
+      "navio": "MSC MUGE",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9978949",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-02-28T11:00:00"
+    },
+    {
+      "data": "28/02",
+      "hora": "13:00",
       "navio": "MSC DOMITILLE",
       "calado": "14,20",
       "manobra": "E",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-02-28T10:00:00"
+      "timestamp": "2026-02-28T13:00:00"
     },
     {
       "data": "28/02",
@@ -507,9 +507,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/02 08:00",
       "manobra_rio_fim": "28/02 18:00",
+      "navio_multi": "MSC MUGE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/02 11:00"
+    },
+    {
+      "navio_rio": "LORI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/02 08:00",
+      "manobra_rio_fim": "28/02 18:00",
       "navio_multi": "MSC DOMITILLE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "28/02 10:00"
+      "manobra_multi_data_hora": "28/02 13:00"
     },
     {
       "navio_rio": "XIN CHANG SHA",
