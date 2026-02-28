@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "28/02/2026 04:54",
+  "ultima_atualizacao": "28/02/2026 05:36",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 27/02/2026 15:40 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Canal Varrido fechado."
   },
   "navios": [
-    {
-      "data": "28/02",
-      "hora": "04:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,40",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-02-28T04:00:00"
-    },
     {
       "data": "28/02",
       "hora": "08:00",
@@ -31,7 +16,7 @@
       "imo": "9631125",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-02-28T08:00:00"
     },
