@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/03/2026 17:57",
+  "ultima_atualizacao": "01/03/2026 18:32",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -16,7 +16,7 @@
       "imo": "9245598",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-01T21:00:00"
     },
