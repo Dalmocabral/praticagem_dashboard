@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "01/03/2026 15:16",
+  "ultima_atualizacao": "01/03/2026 15:53",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "01/03",
-      "hora": "17:00",
-      "navio": "XIN CHANG SHA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9312559",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-01T17:00:00"
-    },
     {
       "data": "01/03",
       "hora": "21:00",
@@ -49,6 +34,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-02T06:00:00"
+    },
+    {
+      "data": "02/03",
+      "hora": "07:00",
+      "navio": "XIN CHANG SHA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9312559",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-02T07:00:00"
     },
     {
       "data": "02/03",
