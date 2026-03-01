@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/03/2026 03:25",
+  "ultima_atualizacao": "01/03/2026 04:10",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -31,7 +31,7 @@
       "imo": "9312559",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-03-01T07:30:00"
     },
