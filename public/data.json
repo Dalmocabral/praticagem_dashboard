@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/03/2026 16:44",
+  "ultima_atualizacao": "01/03/2026 16:58",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -97,7 +97,7 @@
     },
     {
       "data": "02/03",
-      "hora": "18:00",
+      "hora": "18:30",
       "navio": "EUROPE",
       "calado": "12,40",
       "manobra": "E",
@@ -108,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-02T18:00:00"
+      "timestamp": "2026-03-02T18:30:00"
     },
     {
       "data": "02/03",
@@ -503,7 +503,7 @@
       "manobra_rio_fim": "03/03 06:00",
       "navio_multi": "EUROPE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/03 18:00"
+      "manobra_multi_data_hora": "02/03 18:30"
     },
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
@@ -530,7 +530,7 @@
       "manobra_rio_fim": "03/03 14:30",
       "navio_multi": "EUROPE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/03 18:00"
+      "manobra_multi_data_hora": "02/03 18:30"
     },
     {
       "navio_rio": "CMA CGM BELEM",
