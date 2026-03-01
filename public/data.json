@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/03/2026 14:48",
+  "ultima_atualizacao": "01/03/2026 15:16",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -9,7 +9,7 @@
       "data": "01/03",
       "hora": "17:00",
       "navio": "XIN CHANG SHA",
-      "calado": "12,50",
+      "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
