@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "01/03/2026 11:56",
+  "ultima_atualizacao": "01/03/2026 12:32",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "01/03",
-      "hora": "11:00",
-      "navio": "CMA CGM VERACRUZ",
-      "calado": "11,90",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9418377",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-01T11:00:00"
-    },
     {
       "data": "01/03",
       "hora": "17:00",
@@ -204,7 +189,7 @@
       "data": "03/03",
       "hora": "12:00",
       "navio": "MAERSK CHACHAI",
-      "calado": "13,00",
+      "calado": "14,50",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -502,15 +487,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/03 11:00",
-      "manobra_rio_fim": "02/03 06:00",
-      "navio_multi": "GRANDE PORTOGALLO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/03 21:00"
-    },
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "E",
