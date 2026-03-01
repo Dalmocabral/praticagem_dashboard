@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/03/2026 19:21",
+  "ultima_atualizacao": "01/03/2026 19:48",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -52,7 +52,7 @@
     },
     {
       "data": "02/03",
-      "hora": "12:00",
+      "hora": "09:00",
       "navio": "MAERSK MONTE ALEGRE",
       "calado": "13,20",
       "manobra": "E",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-02T12:00:00"
+      "timestamp": "2026-03-02T09:00:00"
     },
     {
       "data": "02/03",
@@ -490,7 +490,7 @@
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/03 12:00",
+      "manobra_rio_inicio": "02/03 09:00",
       "manobra_rio_fim": "03/03 06:00",
       "navio_multi": "MSC PINA",
       "manobra_multi_tipo": "E",
@@ -499,7 +499,7 @@
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/03 12:00",
+      "manobra_rio_inicio": "02/03 09:00",
       "manobra_rio_fim": "03/03 06:00",
       "navio_multi": "EUROPE",
       "manobra_multi_tipo": "E",
@@ -507,8 +507,8 @@
     },
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/03 12:00",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/03 09:00",
       "manobra_rio_fim": "03/03 06:00",
       "navio_multi": "GRANDE PORTOGALLO",
       "manobra_multi_tipo": "S",
@@ -517,7 +517,7 @@
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "02/03 12:00",
+      "manobra_rio_inicio": "02/03 09:00",
       "manobra_rio_fim": "03/03 06:00",
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "E",
