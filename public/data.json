@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/03/2026 16:24",
+  "ultima_atualizacao": "01/03/2026 16:44",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -112,7 +112,7 @@
     },
     {
       "data": "02/03",
-      "hora": "20:00",
+      "hora": "20:30",
       "navio": "GRANDE PORTOGALLO",
       "calado": "9,00",
       "manobra": "S",
@@ -123,11 +123,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-02T20:00:00"
+      "timestamp": "2026-03-02T20:30:00"
     },
     {
       "data": "02/03",
-      "hora": "22:00",
+      "hora": "22:30",
       "navio": "GRANDE SAN PAOLO",
       "calado": "8,20",
       "manobra": "E",
@@ -138,7 +138,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-02T22:00:00"
+      "timestamp": "2026-03-02T22:30:00"
     },
     {
       "data": "03/03",
@@ -512,7 +512,7 @@
       "manobra_rio_fim": "03/03 06:00",
       "navio_multi": "GRANDE PORTOGALLO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/03 20:00"
+      "manobra_multi_data_hora": "02/03 20:30"
     },
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
@@ -521,7 +521,7 @@
       "manobra_rio_fim": "03/03 06:00",
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/03 22:00"
+      "manobra_multi_data_hora": "02/03 22:30"
     },
     {
       "navio_rio": "CMA CGM BELEM",
@@ -539,7 +539,7 @@
       "manobra_rio_fim": "03/03 14:30",
       "navio_multi": "GRANDE PORTOGALLO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/03 20:00"
+      "manobra_multi_data_hora": "02/03 20:30"
     },
     {
       "navio_rio": "CMA CGM BELEM",
@@ -548,7 +548,7 @@
       "manobra_rio_fim": "03/03 14:30",
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/03 22:00"
+      "manobra_multi_data_hora": "02/03 22:30"
     },
     {
       "navio_rio": "CMA CGM BELEM",
