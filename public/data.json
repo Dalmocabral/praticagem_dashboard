@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/03/2026 19:48",
+  "ultima_atualizacao": "01/03/2026 20:12",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -9,7 +9,7 @@
       "data": "01/03",
       "hora": "21:00",
       "navio": "GRANDE PORTOGALLO",
-      "calado": "7,80",
+      "calado": "7,60",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
@@ -67,7 +67,7 @@
     },
     {
       "data": "02/03",
-      "hora": "14:00",
+      "hora": "13:30",
       "navio": "MSC PINA",
       "calado": "8,70",
       "manobra": "E",
@@ -78,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-02T14:00:00"
+      "timestamp": "2026-03-02T13:30:00"
     },
     {
       "data": "02/03",
@@ -494,7 +494,7 @@
       "manobra_rio_fim": "03/03 06:00",
       "navio_multi": "MSC PINA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/03 14:00"
+      "manobra_multi_data_hora": "02/03 13:30"
     },
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
