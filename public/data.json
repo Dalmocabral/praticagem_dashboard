@@ -1,8 +1,8 @@
 {
-  "ultima_atualizacao": "02/03/2026 12:54",
+  "ultima_atualizacao": "02/03/2026 13:55",
   "barra_info": {
-    "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
+    "restrita": false,
+    "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
     {
@@ -24,14 +24,14 @@
       "data": "02/03",
       "hora": "16:30",
       "navio": "CMA CGM BELEM",
-      "calado": "13,60",
+      "calado": "13,50",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9938286",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-03-02T16:30:00"
     },
@@ -97,9 +97,9 @@
     },
     {
       "data": "03/03",
-      "hora": "07:00",
+      "hora": "06:00",
       "navio": "MSC PINA",
-      "calado": "13,80",
+      "calado": "8,40",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -108,7 +108,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-03T07:00:00"
+      "timestamp": "2026-03-03T06:00:00"
+    },
+    {
+      "data": "03/03",
+      "hora": "08:00",
+      "navio": "MAERSK CHACHAI",
+      "calado": "14,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9525388",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-03T08:00:00"
     },
     {
       "data": "03/03",
@@ -124,21 +139,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-03T10:00:00"
-    },
-    {
-      "data": "03/03",
-      "hora": "12:00",
-      "navio": "MAERSK CHACHAI",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9525388",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-03T12:00:00"
     },
     {
       "data": "03/03",
@@ -186,27 +186,12 @@
       "timestamp": "2026-03-03T19:00:00"
     },
     {
-      "data": "03/03",
-      "hora": "23:00",
-      "navio": "VANTAGE",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9628192",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-03T23:00:00"
-    },
-    {
       "data": "04/03",
       "hora": "06:00",
       "navio": "MAERSK CHACHAI",
       "calado": "13,00",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9525388",
       "tipo_navio": "CONTAINER SHIP",
@@ -218,6 +203,21 @@
     {
       "data": "04/03",
       "hora": "08:00",
+      "navio": "VANTAGE",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9628192",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-04T08:00:00"
+    },
+    {
+      "data": "04/03",
+      "hora": "09:30",
       "navio": "COPIAPO",
       "calado": "13,20",
       "manobra": "E",
@@ -228,7 +228,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-04T08:00:00"
+      "timestamp": "2026-03-04T09:30:00"
     },
     {
       "data": "04/03",
@@ -491,7 +491,16 @@
       "manobra_rio_fim": "03/03 14:30",
       "navio_multi": "MSC PINA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/03 07:00"
+      "manobra_multi_data_hora": "03/03 06:00"
+    },
+    {
+      "navio_rio": "CMA CGM BELEM",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/03 16:30",
+      "manobra_rio_fim": "03/03 14:30",
+      "navio_multi": "MAERSK CHACHAI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/03 08:00"
     },
     {
       "navio_rio": "CMA CGM BELEM",
@@ -503,15 +512,6 @@
       "manobra_multi_data_hora": "03/03 10:00"
     },
     {
-      "navio_rio": "CMA CGM BELEM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "02/03 16:30",
-      "manobra_rio_fim": "03/03 14:30",
-      "navio_multi": "MAERSK CHACHAI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/03 12:00"
-    },
-    {
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "03/03 16:30",
@@ -519,15 +519,6 @@
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "03/03 19:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "03/03 16:30",
-      "manobra_rio_fim": "04/03 13:00",
-      "navio_multi": "VANTAGE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/03 23:00"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
@@ -543,9 +534,18 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "03/03 16:30",
       "manobra_rio_fim": "04/03 13:00",
-      "navio_multi": "COPIAPO",
+      "navio_multi": "VANTAGE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "04/03 08:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "03/03 16:30",
+      "manobra_rio_fim": "04/03 13:00",
+      "navio_multi": "COPIAPO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "04/03 09:30"
     }
   ]
 }
