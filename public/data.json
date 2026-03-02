@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/03/2026 12:03",
+  "ultima_atualizacao": "02/03/2026 12:54",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -31,7 +31,7 @@
       "imo": "9938286",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-03-02T16:30:00"
     },
@@ -82,7 +82,7 @@
     },
     {
       "data": "03/03",
-      "hora": "06:00",
+      "hora": "00:30",
       "navio": "MAERSK MONTE ALEGRE",
       "calado": "13,10",
       "manobra": "S",
@@ -93,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-03T06:00:00"
+      "timestamp": "2026-03-03T00:30:00"
     },
     {
       "data": "03/03",
