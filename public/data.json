@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/03/2026 11:12",
+  "ultima_atualizacao": "02/03/2026 12:03",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -9,7 +9,7 @@
       "data": "02/03",
       "hora": "13:00",
       "navio": "MSC PINA",
-      "calado": "8,70",
+      "calado": "8,90",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
