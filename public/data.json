@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/03/2026 04:39",
+  "ultima_atualizacao": "02/03/2026 05:26",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 28/02/2026 12:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -9,7 +9,7 @@
       "data": "02/03",
       "hora": "06:00",
       "navio": "CMA CGM VERACRUZ",
-      "calado": "11,90",
+      "calado": "11,60",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -24,7 +24,7 @@
       "data": "02/03",
       "hora": "07:00",
       "navio": "XIN CHANG SHA",
-      "calado": "12,50",
+      "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9348065",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-03-02T09:00:00"
     },
