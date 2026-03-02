@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/03/2026 14:51",
+  "ultima_atualizacao": "02/03/2026 15:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -31,7 +31,7 @@
       "imo": "9285988",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-02T18:30:00"
     },
@@ -69,7 +69,7 @@
       "data": "03/03",
       "hora": "00:30",
       "navio": "MAERSK MONTE ALEGRE",
-      "calado": "13,10",
+      "calado": "13,00",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
