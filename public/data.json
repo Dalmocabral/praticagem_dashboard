@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/03/2026 18:27",
+  "ultima_atualizacao": "02/03/2026 18:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -39,7 +39,7 @@
       "data": "02/03",
       "hora": "20:30",
       "navio": "GRANDE PORTOGALLO",
-      "calado": "9,00",
+      "calado": "7,50",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -61,7 +61,7 @@
       "imo": "9253208",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-03-02T22:30:00"
     },
