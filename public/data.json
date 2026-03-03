@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "02/03/2026 21:00",
+  "ultima_atualizacao": "02/03/2026 23:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "02/03",
-      "hora": "16:30",
-      "navio": "CMA CGM BELEM",
-      "calado": "13,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9938286",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-02T16:30:00"
-    },
-    {
-      "data": "02/03",
-      "hora": "20:30",
-      "navio": "GRANDE PORTOGALLO",
-      "calado": "7,50",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "passado",
-      "imo": "9245598",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-02T20:30:00"
-    },
     {
       "data": "02/03",
       "hora": "22:30",
@@ -61,7 +31,7 @@
       "imo": "9348065",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-03-03T00:30:00"
     },
@@ -114,7 +84,7 @@
       "data": "03/03",
       "hora": "14:30",
       "navio": "CMA CGM BELEM",
-      "calado": "13,60",
+      "calado": "14,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -427,51 +397,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM BELEM",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/03 16:30",
-      "manobra_rio_fim": "03/03 14:30",
-      "navio_multi": "GRANDE PORTOGALLO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/03 20:30"
-    },
-    {
-      "navio_rio": "CMA CGM BELEM",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/03 16:30",
-      "manobra_rio_fim": "03/03 14:30",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/03 22:30"
-    },
-    {
-      "navio_rio": "CMA CGM BELEM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "02/03 16:30",
-      "manobra_rio_fim": "03/03 14:30",
-      "navio_multi": "MSC PINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/03 06:00"
-    },
-    {
-      "navio_rio": "CMA CGM BELEM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "02/03 16:30",
-      "manobra_rio_fim": "03/03 14:30",
-      "navio_multi": "MAERSK CHACHAI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/03 08:00"
-    },
-    {
-      "navio_rio": "CMA CGM BELEM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "02/03 16:30",
-      "manobra_rio_fim": "03/03 14:30",
-      "navio_multi": "EUROPE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/03 10:00"
-    },
     {
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "E",
