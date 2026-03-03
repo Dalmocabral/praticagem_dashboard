@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/03/2026 06:57",
+  "ultima_atualizacao": "03/03/2026 07:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -37,9 +37,9 @@
     },
     {
       "data": "03/03",
-      "hora": "10:00",
+      "hora": "11:00",
       "navio": "EUROPE",
-      "calado": "12,60",
+      "calado": "13,30",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-03-03T10:00:00"
+      "timestamp": "2026-03-03T11:00:00"
     },
     {
       "data": "03/03",
