@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "03/03/2026 16:05",
+  "ultima_atualizacao": "03/03/2026 16:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "03/03",
-      "hora": "14:30",
-      "navio": "CMA CGM BELEM",
-      "calado": "14,00",
-      "manobra": "M",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9938286",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-03T14:30:00"
-    },
     {
       "data": "03/03",
       "hora": "16:30",
@@ -443,42 +428,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CMA CGM BELEM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "03/03 14:30",
-      "manobra_rio_fim": "04/03 16:00",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/03 23:00"
-    },
-    {
-      "navio_rio": "CMA CGM BELEM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "03/03 14:30",
-      "manobra_rio_fim": "04/03 16:00",
-      "navio_multi": "MAERSK CHACHAI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "04/03 00:00"
-    },
-    {
-      "navio_rio": "CMA CGM BELEM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "03/03 14:30",
-      "manobra_rio_fim": "04/03 16:00",
-      "navio_multi": "VANTAGE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "04/03 03:30"
-    },
-    {
-      "navio_rio": "CMA CGM BELEM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "03/03 14:30",
-      "manobra_rio_fim": "04/03 16:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "04/03 09:30"
-    },
-    {
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "03/03 16:30",
@@ -504,6 +453,15 @@
       "navio_multi": "VANTAGE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "04/03 03:30"
+    },
+    {
+      "navio_rio": "CMA CGM BELEM",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "04/03 07:00",
+      "manobra_rio_fim": "04/03 16:00",
+      "navio_multi": "COPIAPO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "04/03 09:30"
     }
   ]
 }
