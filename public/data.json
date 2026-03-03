@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/03/2026 12:07",
+  "ultima_atualizacao": "03/03/2026 13:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -25,7 +25,7 @@
       "hora": "14:30",
       "navio": "CMA CGM BELEM",
       "calado": "14,00",
-      "manobra": "S",
+      "manobra": "M",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9938286",
@@ -46,13 +46,13 @@
       "imo": "9945875",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-03-03T16:30:00"
     },
     {
       "data": "03/03",
-      "hora": "19:00",
+      "hora": "23:00",
       "navio": "GRANDE SAN PAOLO",
       "calado": "9,50",
       "manobra": "S",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-03T19:00:00"
+      "timestamp": "2026-03-03T23:00:00"
     },
     {
       "data": "04/03",
@@ -434,7 +434,7 @@
       "manobra_rio_fim": "04/03 13:00",
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/03 19:00"
+      "manobra_multi_data_hora": "03/03 23:00"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
