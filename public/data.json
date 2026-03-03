@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "03/03/2026 08:35",
+  "ultima_atualizacao": "03/03/2026 09:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "03/03",
-      "hora": "06:00",
-      "navio": "MSC PINA",
-      "calado": "8,50",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9339272",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-03T06:00:00"
-    },
     {
       "data": "03/03",
       "hora": "08:00",
