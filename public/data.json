@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/03/2026 07:54",
+  "ultima_atualizacao": "03/03/2026 08:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -46,7 +46,7 @@
       "imo": "9285988",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-03T11:00:00"
     },
@@ -184,6 +184,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-05T07:00:00"
+    },
+    {
+      "data": "05/03",
+      "hora": "20:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-05T20:30:00"
+    },
+    {
+      "data": "07/03",
+      "hora": "01:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-07T01:00:00"
     },
     {
       "data": "07/03",
@@ -364,6 +394,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-18T07:00:00"
+    },
+    {
+      "data": "20/03",
+      "hora": "06:00",
+      "navio": "MSC PAMELA",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-20T06:00:00"
+    },
+    {
+      "data": "21/03",
+      "hora": "06:00",
+      "navio": "MSC PAMELA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-21T06:00:00"
     }
   ],
   "conflitos": [
