@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/03/2026 11:08",
+  "ultima_atualizacao": "04/03/2026 11:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -67,6 +67,21 @@
     },
     {
       "data": "05/03",
+      "hora": "01:00",
+      "navio": "COPIAPO",
+      "calado": "13,90",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9687526",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-05T01:00:00"
+    },
+    {
+      "data": "05/03",
       "hora": "02:00",
       "navio": "VANTAGE",
       "calado": "11,90",
@@ -94,21 +109,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-05T05:00:00"
-    },
-    {
-      "data": "05/03",
-      "hora": "06:00",
-      "navio": "COPIAPO",
-      "calado": "13,90",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9687526",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-05T06:00:00"
     },
     {
       "data": "06/03",
@@ -412,6 +412,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "ZIM BALTIMORE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "04/03 18:00",
+      "manobra_rio_fim": "05/03 05:00",
+      "navio_multi": "COPIAPO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/03 01:00"
+    },
     {
       "navio_rio": "ZIM BALTIMORE",
       "manobra_rio_afetada": "S",
