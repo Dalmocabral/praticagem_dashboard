@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/03/2026 08:59",
+  "ultima_atualizacao": "04/03/2026 10:19",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -24,7 +24,7 @@
       "data": "04/03",
       "hora": "11:30",
       "navio": "GRANDE SAN PAOLO",
-      "calado": "9,50",
+      "calado": "8,70",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -229,6 +229,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-08T07:00:00"
+    },
+    {
+      "data": "08/03",
+      "hora": "09:00",
+      "navio": "MSC MELINE",
+      "calado": "10,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-08T09:00:00"
+    },
+    {
+      "data": "09/03",
+      "hora": "06:00",
+      "navio": "MSC MELINE",
+      "calado": "10,40",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-09T06:00:00"
     },
     {
       "data": "10/03",
