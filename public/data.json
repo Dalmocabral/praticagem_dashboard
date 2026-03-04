@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "04/03/2026 20:01",
+  "ultima_atualizacao": "04/03/2026 20:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "04/03",
-      "hora": "18:00",
-      "navio": "ZIM BALTIMORE",
-      "calado": "10,90",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9395953",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-04T18:00:00"
-    },
     {
       "data": "05/03",
       "hora": "01:00",
@@ -412,24 +397,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "ZIM BALTIMORE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/03 18:00",
-      "manobra_rio_fim": "05/03 05:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/03 01:00"
-    },
-    {
-      "navio_rio": "ZIM BALTIMORE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/03 18:00",
-      "manobra_rio_fim": "05/03 05:00",
-      "navio_multi": "VANTAGE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/03 02:00"
-    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
