@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/03/2026 14:44",
+  "ultima_atualizacao": "05/03/2026 16:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -22,7 +22,7 @@
     },
     {
       "data": "06/03",
-      "hora": "09:30",
+      "hora": "12:00",
       "navio": "MSC ANTONELLA",
       "calado": "13,60",
       "manobra": "E",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-06T09:30:00"
+      "timestamp": "2026-03-06T12:00:00"
     },
     {
       "data": "06/03",
@@ -419,7 +419,7 @@
       "manobra_rio_fim": "06/03 18:00",
       "navio_multi": "MSC ANTONELLA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/03 09:30"
+      "manobra_multi_data_hora": "06/03 12:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
