@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/03/2026 21:00",
+  "ultima_atualizacao": "04/03/2026 23:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -9,7 +9,7 @@
       "data": "05/03",
       "hora": "00:00",
       "navio": "VANTAGE",
-      "calado": "11,90",
+      "calado": "11,92",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-05T01:00:00"
     },
