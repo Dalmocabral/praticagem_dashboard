@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/03/2026 07:55",
+  "ultima_atualizacao": "05/03/2026 08:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "06/03",
-      "hora": "08:00",
+      "hora": "06:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,30",
       "manobra": "E",
@@ -18,7 +18,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-06T08:00:00"
+      "timestamp": "2026-03-06T06:00:00"
     },
     {
       "data": "06/03",
