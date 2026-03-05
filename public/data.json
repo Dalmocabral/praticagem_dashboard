@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/03/2026 18:25",
+  "ultima_atualizacao": "05/03/2026 18:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -67,7 +67,7 @@
     },
     {
       "data": "07/03",
-      "hora": "02:30",
+      "hora": "02:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,20",
       "manobra": "S",
@@ -78,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-07T02:30:00"
+      "timestamp": "2026-03-07T02:00:00"
     },
     {
       "data": "07/03",
