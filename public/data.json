@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "05/03/2026 12:29",
+  "ultima_atualizacao": "05/03/2026 14:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "06/03",
-      "hora": "06:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,30",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-06T06:00:00"
-    },
     {
       "data": "06/03",
       "hora": "08:00",
@@ -34,6 +19,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-06T08:00:00"
+    },
+    {
+      "data": "06/03",
+      "hora": "09:30",
+      "navio": "MSC ANTONELLA",
+      "calado": "13,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9702273",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-06T09:30:00"
     },
     {
       "data": "06/03",
@@ -82,6 +82,21 @@
     },
     {
       "data": "07/03",
+      "hora": "06:00",
+      "navio": "MSC ANTONELLA",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9702273",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-07T06:00:00"
+    },
+    {
+      "data": "07/03",
       "hora": "08:00",
       "navio": "XIAMEN EXPRESS",
       "calado": "14,50",
@@ -98,12 +113,12 @@
     {
       "data": "07/03",
       "hora": "10:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,00",
-      "manobra": "S",
+      "navio": "ANTHEA Y",
+      "calado": "13,60",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9506394",
+      "imo": "9710244",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -112,54 +127,9 @@
     },
     {
       "data": "07/03",
-      "hora": "14:00",
-      "navio": "ANTHEA Y",
-      "calado": "13,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9710244",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-07T14:00:00"
-    },
-    {
-      "data": "08/03",
-      "hora": "08:00",
-      "navio": "ANTHEA Y",
-      "calado": "13,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9710244",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-08T08:00:00"
-    },
-    {
-      "data": "08/03",
-      "hora": "14:00",
-      "navio": "MSC MELINE",
-      "calado": "10,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-08T14:00:00"
-    },
-    {
-      "data": "08/03",
-      "hora": "16:00",
+      "hora": "23:00",
       "navio": "MSC MAXINE",
-      "calado": "14,60",
+      "calado": "12,60",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -168,26 +138,41 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-08T16:00:00"
+      "timestamp": "2026-03-07T23:00:00"
     },
     {
-      "data": "09/03",
-      "hora": "09:00",
-      "navio": "MSC MELINE",
-      "calado": "10,40",
+      "data": "08/03",
+      "hora": "06:00",
+      "navio": "ANTHEA Y",
+      "calado": "13,60",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9702077",
+      "imo": "9710244",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-09T09:00:00"
+      "timestamp": "2026-03-08T06:00:00"
     },
     {
-      "data": "09/03",
-      "hora": "10:00",
+      "data": "08/03",
+      "hora": "09:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-08T09:00:00"
+    },
+    {
+      "data": "08/03",
+      "hora": "11:00",
       "navio": "MSC MAXINE",
       "calado": "12,60",
       "manobra": "S",
@@ -198,22 +183,67 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-09T10:00:00"
+      "timestamp": "2026-03-08T11:00:00"
     },
     {
-      "data": "09/03",
-      "hora": "12:00",
-      "navio": "MSC ANTONELLA",
-      "calado": "13,60",
+      "data": "08/03",
+      "hora": "14:00",
+      "navio": "MSC MELINE",
+      "calado": "10,40",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9702273",
+      "imo": "9702077",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-09T12:00:00"
+      "timestamp": "2026-03-08T14:00:00"
+    },
+    {
+      "data": "09/03",
+      "hora": "08:00",
+      "navio": "MSC MELINE",
+      "calado": "10,40",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-09T08:00:00"
+    },
+    {
+      "data": "09/03",
+      "hora": "13:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-09T13:00:00"
+    },
+    {
+      "data": "09/03",
+      "hora": "15:00",
+      "navio": "MSC MAGNUM VII",
+      "calado": "13,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9252541",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-09T15:00:00"
     },
     {
       "data": "10/03",
@@ -232,18 +262,18 @@
     },
     {
       "data": "10/03",
-      "hora": "12:00",
-      "navio": "MSC ANTONELLA",
+      "hora": "09:00",
+      "navio": "MSC MAGNUM VII",
       "calado": "13,80",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9702273",
+      "imo": "9252541",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-10T12:00:00"
+      "timestamp": "2026-03-10T09:00:00"
     },
     {
       "data": "11/03",
@@ -387,6 +417,15 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "06/03 08:00",
       "manobra_rio_fim": "06/03 18:00",
+      "navio_multi": "MSC ANTONELLA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "06/03 09:30"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "06/03 08:00",
+      "manobra_rio_fim": "06/03 18:00",
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "06/03 16:00"
@@ -396,9 +435,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "10/03 07:00",
       "manobra_rio_fim": "11/03 08:00",
-      "navio_multi": "MSC ANTONELLA",
+      "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/03 12:00"
+      "manobra_multi_data_hora": "10/03 09:00"
     }
   ]
 }
