@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/03/2026 11:28",
+  "ultima_atualizacao": "05/03/2026 12:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -22,7 +22,7 @@
     },
     {
       "data": "06/03",
-      "hora": "09:30",
+      "hora": "08:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "7,50",
       "manobra": "E",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-06T09:30:00"
+      "timestamp": "2026-03-06T08:00:00"
     },
     {
       "data": "06/03",
@@ -385,7 +385,7 @@
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/03 09:30",
+      "manobra_rio_inicio": "06/03 08:00",
       "manobra_rio_fim": "06/03 18:00",
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "E",
