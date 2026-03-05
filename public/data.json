@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/03/2026 18:59",
+  "ultima_atualizacao": "05/03/2026 20:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -82,6 +82,21 @@
     },
     {
       "data": "07/03",
+      "hora": "04:00",
+      "navio": "MAERSK REDWOOD",
+      "calado": "10,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9943085",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-07T04:00:00"
+    },
+    {
+      "data": "07/03",
       "hora": "06:00",
       "navio": "MSC ANTONELLA",
       "calado": "13,80",
@@ -139,6 +154,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-07T12:00:00"
+    },
+    {
+      "data": "07/03",
+      "hora": "14:00",
+      "navio": "MAERSK REDWOOD",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9943085",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-07T14:00:00"
     },
     {
       "data": "07/03",
@@ -459,6 +489,33 @@
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "06/03 16:00"
+    },
+    {
+      "navio_rio": "MAERSK REDWOOD",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/03 04:00",
+      "manobra_rio_fim": "07/03 14:00",
+      "navio_multi": "MSC ANTONELLA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/03 06:00"
+    },
+    {
+      "navio_rio": "MAERSK REDWOOD",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/03 04:00",
+      "manobra_rio_fim": "07/03 14:00",
+      "navio_multi": "XIAMEN EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/03 08:00"
+    },
+    {
+      "navio_rio": "MAERSK REDWOOD",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "07/03 04:00",
+      "manobra_rio_fim": "07/03 14:00",
+      "navio_multi": "ANTHEA Y",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "07/03 10:00"
     },
     {
       "navio_rio": "CMA CGM RABELAIS",
