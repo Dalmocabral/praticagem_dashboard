@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/03/2026 18:47",
+  "ultima_atualizacao": "06/03/2026 19:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -144,7 +144,7 @@
       "data": "07/03",
       "hora": "23:00",
       "navio": "MSC MAXINE",
-      "calado": "12,60",
+      "calado": "14,30",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
