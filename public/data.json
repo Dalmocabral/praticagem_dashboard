@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/03/2026 21:00",
+  "ultima_atualizacao": "05/03/2026 23:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -11,7 +11,7 @@
       "navio": "LOG-IN PANTANAL",
       "calado": "7,50",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
@@ -56,7 +56,7 @@
       "navio": "LOG-IN PANTANAL",
       "calado": "8,90",
       "manobra": "M",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
@@ -202,6 +202,21 @@
     },
     {
       "data": "08/03",
+      "hora": "07:00",
+      "navio": "CMA CGM RABELAIS",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9406635",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-08T07:00:00"
+    },
+    {
+      "data": "08/03",
       "hora": "09:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,30",
@@ -229,21 +244,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-08T11:00:00"
-    },
-    {
-      "data": "08/03",
-      "hora": "12:00",
-      "navio": "CMA CGM RABELAIS",
-      "calado": "14,40",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9406635",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-08T12:00:00"
     },
     {
       "data": "08/03",
@@ -519,9 +519,9 @@
     },
     {
       "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "07/03 12:00",
-      "manobra_rio_fim": "08/03 12:00",
+      "manobra_rio_fim": "08/03 07:00",
       "navio_multi": "MSC MAXINE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "07/03 23:00"
@@ -530,28 +530,10 @@
       "navio_rio": "CMA CGM RABELAIS",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "07/03 12:00",
-      "manobra_rio_fim": "08/03 12:00",
+      "manobra_rio_fim": "08/03 07:00",
       "navio_multi": "ANTHEA Y",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "08/03 06:00"
-    },
-    {
-      "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/03 12:00",
-      "manobra_rio_fim": "08/03 12:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "08/03 09:00"
-    },
-    {
-      "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/03 12:00",
-      "manobra_rio_fim": "08/03 12:00",
-      "navio_multi": "MSC MAXINE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/03 11:00"
     },
     {
       "navio_rio": "CMA CGM PARATY",
