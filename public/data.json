@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/03/2026 14:08",
+  "ultima_atualizacao": "06/03/2026 14:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -16,7 +16,7 @@
       "imo": "9702273",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-06T17:30:00"
     },
@@ -68,21 +68,6 @@
     {
       "data": "07/03",
       "hora": "06:00",
-      "navio": "MSC ANTONELLA",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9702273",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-07T06:00:00"
-    },
-    {
-      "data": "07/03",
-      "hora": "06:00",
       "navio": "XIAMEN EXPRESS",
       "calado": "14,50",
       "manobra": "S",
@@ -94,6 +79,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-07T06:00:00"
+    },
+    {
+      "data": "07/03",
+      "hora": "07:00",
+      "navio": "MSC ANTONELLA",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9702273",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-07T07:00:00"
     },
     {
       "data": "07/03",
@@ -507,7 +507,7 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "07/03 04:00",
       "manobra_rio_fim": "07/03 18:00",
-      "navio_multi": "MSC ANTONELLA",
+      "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/03 06:00"
     },
@@ -516,9 +516,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "07/03 04:00",
       "manobra_rio_fim": "07/03 18:00",
-      "navio_multi": "XIAMEN EXPRESS",
+      "navio_multi": "MSC ANTONELLA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/03 06:00"
+      "manobra_multi_data_hora": "07/03 07:00"
     },
     {
       "navio_rio": "MAERSK REDWOOD",
