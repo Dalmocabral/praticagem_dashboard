@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "06/03/2026 08:59",
+  "ultima_atualizacao": "06/03/2026 10:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "06/03",
-      "hora": "08:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "7,80",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-06T08:00:00"
-    },
     {
       "data": "06/03",
       "hora": "11:00",
@@ -112,7 +97,7 @@
     },
     {
       "data": "07/03",
-      "hora": "08:00",
+      "hora": "07:00",
       "navio": "XIAMEN EXPRESS",
       "calado": "14,50",
       "manobra": "S",
@@ -123,11 +108,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-07T08:00:00"
+      "timestamp": "2026-03-07T07:00:00"
     },
     {
       "data": "07/03",
-      "hora": "10:00",
+      "hora": "09:00",
       "navio": "ANTHEA Y",
       "calado": "13,60",
       "manobra": "E",
@@ -138,7 +123,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-07T10:00:00"
+      "timestamp": "2026-03-07T09:00:00"
     },
     {
       "data": "07/03",
@@ -277,6 +262,21 @@
     },
     {
       "data": "09/03",
+      "hora": "10:00",
+      "navio": "COSCO SHIPPING URUGUAY",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945851",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-09T10:00:00"
+    },
+    {
+      "data": "09/03",
       "hora": "13:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "10,00",
@@ -307,21 +307,6 @@
     },
     {
       "data": "10/03",
-      "hora": "07:00",
-      "navio": "CMA CGM PARATY",
-      "calado": "14,80",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9938262",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-10T07:00:00"
-    },
-    {
-      "data": "10/03",
       "hora": "09:00",
       "navio": "MSC MAGNUM VII",
       "calado": "13,80",
@@ -336,8 +321,38 @@
       "timestamp": "2026-03-10T09:00:00"
     },
     {
+      "data": "10/03",
+      "hora": "14:00",
+      "navio": "COSCO SHIPPING URUGUAY",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945851",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-10T14:00:00"
+    },
+    {
+      "data": "10/03",
+      "hora": "16:00",
+      "navio": "CMA CGM PARATY",
+      "calado": "14,80",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938262",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-10T16:00:00"
+    },
+    {
       "data": "11/03",
-      "hora": "08:00",
+      "hora": "14:00",
       "navio": "CMA CGM PARATY",
       "calado": "14,00",
       "manobra": "S",
@@ -348,11 +363,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-11T08:00:00"
+      "timestamp": "2026-03-11T14:00:00"
     },
     {
       "data": "11/03",
-      "hora": "10:00",
+      "hora": "16:00",
       "navio": "KOTA PUSAKA",
       "calado": "14,60",
       "manobra": "E",
@@ -363,7 +378,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-11T10:00:00"
+      "timestamp": "2026-03-11T16:00:00"
     },
     {
       "data": "12/03",
@@ -473,24 +488,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/03 08:00",
-      "manobra_rio_fim": "06/03 19:30",
-      "navio_multi": "XIAMEN EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/03 11:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/03 08:00",
-      "manobra_rio_fim": "06/03 19:30",
-      "navio_multi": "MSC ANTONELLA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/03 17:30"
-    },
-    {
       "navio_rio": "MAERSK REDWOOD",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "07/03 04:00",
@@ -506,7 +503,7 @@
       "manobra_rio_fim": "07/03 18:00",
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/03 08:00"
+      "manobra_multi_data_hora": "07/03 07:00"
     },
     {
       "navio_rio": "MAERSK REDWOOD",
@@ -515,7 +512,7 @@
       "manobra_rio_fim": "07/03 18:00",
       "navio_multi": "ANTHEA Y",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/03 10:00"
+      "manobra_multi_data_hora": "07/03 09:00"
     },
     {
       "navio_rio": "CMA CGM RABELAIS",
@@ -536,10 +533,28 @@
       "manobra_multi_data_hora": "08/03 06:00"
     },
     {
-      "navio_rio": "CMA CGM PARATY",
+      "navio_rio": "COSCO SHIPPING URUGUAY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/03 07:00",
-      "manobra_rio_fim": "11/03 08:00",
+      "manobra_rio_inicio": "09/03 10:00",
+      "manobra_rio_fim": "10/03 14:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "09/03 13:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING URUGUAY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "09/03 10:00",
+      "manobra_rio_fim": "10/03 14:00",
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "09/03 15:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING URUGUAY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/03 10:00",
+      "manobra_rio_fim": "10/03 14:00",
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/03 09:00"
