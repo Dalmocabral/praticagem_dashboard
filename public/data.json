@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/03/2026 11:05",
+  "ultima_atualizacao": "06/03/2026 11:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -127,7 +127,7 @@
     },
     {
       "data": "07/03",
-      "hora": "12:00",
+      "hora": "11:00",
       "navio": "CMA CGM RABELAIS",
       "calado": "14,40",
       "manobra": "E",
@@ -138,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-07T12:00:00"
+      "timestamp": "2026-03-07T11:00:00"
     },
     {
       "data": "07/03",
@@ -547,7 +547,7 @@
     {
       "navio_rio": "CMA CGM RABELAIS",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/03 12:00",
+      "manobra_rio_inicio": "07/03 11:00",
       "manobra_rio_fim": "08/03 07:00",
       "navio_multi": "MSC MAXINE",
       "manobra_multi_tipo": "E",
@@ -556,7 +556,7 @@
     {
       "navio_rio": "CMA CGM RABELAIS",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/03 12:00",
+      "manobra_rio_inicio": "07/03 11:00",
       "manobra_rio_fim": "08/03 07:00",
       "navio_multi": "ANTHEA Y",
       "manobra_multi_tipo": "S",
