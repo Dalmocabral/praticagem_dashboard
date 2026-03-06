@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/03/2026 18:15",
+  "ultima_atualizacao": "06/03/2026 18:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -217,6 +217,21 @@
     },
     {
       "data": "08/03",
+      "hora": "13:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-08T13:00:00"
+    },
+    {
+      "data": "08/03",
       "hora": "14:30",
       "navio": "MSC MELINE",
       "calado": "10,40",
@@ -229,6 +244,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-08T14:30:00"
+    },
+    {
+      "data": "08/03",
+      "hora": "23:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-08T23:00:00"
     },
     {
       "data": "09/03",
@@ -576,6 +606,15 @@
       "navio_multi": "ANTHEA Y",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "08/03 06:00"
+    },
+    {
+      "navio_rio": "MERCOSUL FORTALEZA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "08/03 13:00",
+      "manobra_rio_fim": "08/03 23:00",
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "08/03 14:30"
     },
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
