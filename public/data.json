@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/03/2026 04:25",
+  "ultima_atualizacao": "06/03/2026 04:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -22,26 +22,11 @@
     },
     {
       "data": "06/03",
-      "hora": "12:00",
-      "navio": "MSC ANTONELLA",
-      "calado": "13,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9702273",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-06T12:00:00"
-    },
-    {
-      "data": "06/03",
       "hora": "16:00",
       "navio": "XIAMEN EXPRESS",
       "calado": "14,00",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "hoje",
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
@@ -52,7 +37,22 @@
     },
     {
       "data": "06/03",
-      "hora": "18:00",
+      "hora": "17:30",
+      "navio": "MSC ANTONELLA",
+      "calado": "13,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9702273",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-06T17:30:00"
+    },
+    {
+      "data": "06/03",
+      "hora": "19:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,90",
       "manobra": "M",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-06T18:00:00"
+      "timestamp": "2026-03-06T19:30:00"
     },
     {
       "data": "07/03",
@@ -101,7 +101,7 @@
       "navio": "MSC ANTONELLA",
       "calado": "13,80",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9702273",
       "tipo_navio": "CONTAINER SHIP",
@@ -116,7 +116,7 @@
       "navio": "XIAMEN EXPRESS",
       "calado": "14,50",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
@@ -476,19 +476,19 @@
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "06/03 08:00",
-      "manobra_rio_fim": "06/03 18:00",
-      "navio_multi": "MSC ANTONELLA",
+      "manobra_rio_fim": "06/03 19:30",
+      "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/03 12:00"
+      "manobra_multi_data_hora": "06/03 16:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "06/03 08:00",
-      "manobra_rio_fim": "06/03 18:00",
-      "navio_multi": "XIAMEN EXPRESS",
+      "manobra_rio_fim": "06/03 19:30",
+      "navio_multi": "MSC ANTONELLA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/03 16:00"
+      "manobra_multi_data_hora": "06/03 17:30"
     },
     {
       "navio_rio": "MAERSK REDWOOD",
