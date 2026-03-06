@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "06/03/2026 20:20",
+  "ultima_atualizacao": "06/03/2026 20:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "06/03",
-      "hora": "19:30",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,00",
-      "manobra": "M",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-06T19:30:00"
-    },
     {
       "data": "07/03",
       "hora": "02:00",
