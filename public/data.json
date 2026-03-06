@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/03/2026 17:44",
+  "ultima_atualizacao": "06/03/2026 18:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -217,7 +217,7 @@
     },
     {
       "data": "08/03",
-      "hora": "14:00",
+      "hora": "14:30",
       "navio": "MSC MELINE",
       "calado": "10,40",
       "manobra": "E",
@@ -228,7 +228,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-08T14:00:00"
+      "timestamp": "2026-03-08T14:30:00"
     },
     {
       "data": "09/03",
