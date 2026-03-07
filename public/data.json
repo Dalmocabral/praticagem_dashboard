@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/03/2026 16:43",
+  "ultima_atualizacao": "07/03/2026 16:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "07/03",
-      "hora": "12:30",
-      "navio": "ANTHEA Y",
-      "calado": "13,50",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9710244",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-07T12:30:00"
-    },
-    {
-      "data": "07/03",
       "hora": "18:00",
       "navio": "MAERSK REDWOOD",
-      "calado": "11,00",
+      "calado": "10,90",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
