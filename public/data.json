@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "07/03/2026 10:06",
+  "ultima_atualizacao": "07/03/2026 10:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "07/03",
-      "hora": "09:00",
-      "navio": "MSC ANTONELLA",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9702273",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-07T09:00:00"
-    },
     {
       "data": "07/03",
       "hora": "11:00",
@@ -39,7 +24,7 @@
       "data": "07/03",
       "hora": "12:30",
       "navio": "ANTHEA Y",
-      "calado": "13,60",
+      "calado": "13,50",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
