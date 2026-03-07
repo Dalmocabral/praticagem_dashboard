@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "07/03/2026 19:13",
+  "ultima_atualizacao": "07/03/2026 19:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "07/03",
-      "hora": "18:00",
-      "navio": "MAERSK REDWOOD",
-      "calado": "10,90",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9943085",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-07T18:00:00"
-    },
     {
       "data": "07/03",
       "hora": "23:00",
