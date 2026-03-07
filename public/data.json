@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "07/03/2026 12:34",
+  "ultima_atualizacao": "07/03/2026 12:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "07/03",
-      "hora": "11:00",
-      "navio": "CMA CGM RABELAIS",
-      "calado": "14,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9406635",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-07T11:00:00"
-    },
     {
       "data": "07/03",
       "hora": "12:30",
@@ -472,33 +457,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/03 11:00",
-      "manobra_rio_fim": "08/03 07:00",
-      "navio_multi": "ANTHEA Y",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/03 12:30"
-    },
-    {
-      "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/03 11:00",
-      "manobra_rio_fim": "08/03 07:00",
-      "navio_multi": "MSC MAXINE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/03 23:00"
-    },
-    {
-      "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/03 11:00",
-      "manobra_rio_fim": "08/03 07:00",
-      "navio_multi": "ANTHEA Y",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/03 06:00"
-    },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
       "manobra_rio_afetada": "E",
