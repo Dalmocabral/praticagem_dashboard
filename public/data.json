@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/03/2026 12:53",
+  "ultima_atualizacao": "07/03/2026 13:30",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -97,7 +97,7 @@
     },
     {
       "data": "08/03",
-      "hora": "13:00",
+      "hora": "10:30",
       "navio": "MERCOSUL FORTALEZA",
       "calado": "10,50",
       "manobra": "E",
@@ -108,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-08T13:00:00"
+      "timestamp": "2026-03-08T10:30:00"
     },
     {
       "data": "08/03",
@@ -460,7 +460,7 @@
     {
       "navio_rio": "MERCOSUL FORTALEZA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/03 13:00",
+      "manobra_rio_inicio": "08/03 10:30",
       "manobra_rio_fim": "08/03 23:00",
       "navio_multi": "MSC MAXINE",
       "manobra_multi_tipo": "S",
@@ -469,7 +469,7 @@
     {
       "navio_rio": "MERCOSUL FORTALEZA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "08/03 13:00",
+      "manobra_rio_inicio": "08/03 10:30",
       "manobra_rio_fim": "08/03 23:00",
       "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "E",
