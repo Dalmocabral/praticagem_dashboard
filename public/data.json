@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/03/2026 04:40",
+  "ultima_atualizacao": "08/03/2026 04:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -172,36 +172,6 @@
     },
     {
       "data": "09/03",
-      "hora": "14:00",
-      "navio": "MSC MAGNUM VII",
-      "calado": "13,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9252541",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-09T14:00:00"
-    },
-    {
-      "data": "09/03",
-      "hora": "16:30",
-      "navio": "MSC MELINE",
-      "calado": "10,23",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-09T16:30:00"
-    },
-    {
-      "data": "09/03",
       "hora": "17:30",
       "navio": "NAVIOS DOMINO",
       "calado": "12,00",
@@ -232,10 +202,25 @@
     },
     {
       "data": "10/03",
-      "hora": "09:00",
-      "navio": "MSC MAGNUM VII",
-      "calado": "13,80",
+      "hora": "06:00",
+      "navio": "MSC MELINE",
+      "calado": "10,23",
       "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-10T06:00:00"
+    },
+    {
+      "data": "10/03",
+      "hora": "08:00",
+      "navio": "MSC MAGNUM VII",
+      "calado": "13,60",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9252541",
@@ -243,7 +228,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-10T09:00:00"
+      "timestamp": "2026-03-10T08:00:00"
     },
     {
       "data": "10/03",
@@ -289,6 +274,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-10T16:00:00"
+    },
+    {
+      "data": "11/03",
+      "hora": "06:00",
+      "navio": "MSC MAGNUM VII",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9252541",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-11T06:00:00"
     },
     {
       "data": "11/03",
@@ -554,24 +554,6 @@
       "manobra_multi_data_hora": "09/03 12:00"
     },
     {
-      "navio_rio": "NAVIOS DOMINO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/03 01:30",
-      "manobra_rio_fim": "09/03 17:30",
-      "navio_multi": "MSC MAGNUM VII",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "09/03 14:00"
-    },
-    {
-      "navio_rio": "NAVIOS DOMINO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/03 01:30",
-      "manobra_rio_fim": "09/03 17:30",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/03 16:30"
-    },
-    {
       "navio_rio": "COSCO SHIPPING URUGUAY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "09/03 10:00",
@@ -582,21 +564,12 @@
     },
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/03 10:00",
-      "manobra_rio_fim": "10/03 14:00",
-      "navio_multi": "MSC MAGNUM VII",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "09/03 14:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "09/03 10:00",
       "manobra_rio_fim": "10/03 14:00",
       "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/03 16:30"
+      "manobra_multi_data_hora": "10/03 06:00"
     },
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
@@ -604,8 +577,17 @@
       "manobra_rio_inicio": "09/03 10:00",
       "manobra_rio_fim": "10/03 14:00",
       "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/03 08:00"
+    },
+    {
+      "navio_rio": "RDO FORTUNE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/03 19:30",
+      "manobra_rio_fim": "10/03 10:00",
+      "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/03 09:00"
+      "manobra_multi_data_hora": "10/03 06:00"
     },
     {
       "navio_rio": "RDO FORTUNE",
@@ -613,8 +595,17 @@
       "manobra_rio_inicio": "09/03 19:30",
       "manobra_rio_fim": "10/03 10:00",
       "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/03 08:00"
+    },
+    {
+      "navio_rio": "CMA CGM PARATY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "10/03 16:00",
+      "manobra_rio_fim": "11/03 14:00",
+      "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/03 09:00"
+      "manobra_multi_data_hora": "11/03 06:00"
     }
   ]
 }
