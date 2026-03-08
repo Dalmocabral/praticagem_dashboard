@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/03/2026 08:50",
+  "ultima_atualizacao": "08/03/2026 09:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -7,26 +7,11 @@
   "navios": [
     {
       "data": "08/03",
-      "hora": "07:00",
-      "navio": "CMA CGM RABELAIS",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9406635",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-08T07:00:00"
-    },
-    {
-      "data": "08/03",
       "hora": "09:00",
       "navio": "MSC MAXINE",
       "calado": "14,30",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "hoje",
       "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
@@ -101,7 +86,7 @@
       "navio": "MSC MAXINE",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
