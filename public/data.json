@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "08/03/2026 11:56",
+  "ultima_atualizacao": "08/03/2026 12:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "08/03",
-      "hora": "11:00",
-      "navio": "MERCOSUL FORTALEZA",
-      "calado": "10,70",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9784661",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-08T11:00:00"
-    },
     {
       "data": "08/03",
       "hora": "17:30",
@@ -114,7 +99,7 @@
       "data": "09/03",
       "hora": "12:00",
       "navio": "RDO FORTUNE",
-      "calado": "13,20",
+      "calado": "12,40",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -472,15 +457,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "08/03 11:00",
-      "manobra_rio_fim": "08/03 23:00",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "08/03 17:30"
-    },
     {
       "navio_rio": "NAVIOS DOMINO",
       "manobra_rio_afetada": "S",
