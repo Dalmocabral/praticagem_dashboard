@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/03/2026 04:58",
+  "ultima_atualizacao": "08/03/2026 05:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -24,7 +24,7 @@
       "data": "08/03",
       "hora": "07:00",
       "navio": "CMA CGM RABELAIS",
-      "calado": "14,40",
+      "calado": "14,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-03-08T09:00:00"
     },
