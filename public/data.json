@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "08/03/2026 19:56",
+  "ultima_atualizacao": "08/03/2026 20:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "08/03",
-      "hora": "17:30",
-      "navio": "MSC MELINE",
-      "calado": "10,40",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-08T17:30:00"
-    },
     {
       "data": "08/03",
       "hora": "23:00",
@@ -31,7 +16,7 @@
       "imo": "9784661",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-03-08T23:00:00"
     },
