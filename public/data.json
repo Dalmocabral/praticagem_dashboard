@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/03/2026 10:27",
+  "ultima_atualizacao": "08/03/2026 10:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -24,7 +24,7 @@
       "data": "08/03",
       "hora": "11:00",
       "navio": "MERCOSUL FORTALEZA",
-      "calado": "10,50",
+      "calado": "10,70",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -101,7 +101,7 @@
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,30",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
@@ -124,21 +124,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-09T10:00:00"
-    },
-    {
-      "data": "09/03",
-      "hora": "12:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-09T12:00:00"
     },
     {
       "data": "09/03",
@@ -184,6 +169,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-09T17:00:00"
+    },
+    {
+      "data": "10/03",
+      "hora": "06:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-10T06:00:00"
     },
     {
       "data": "10/03",
@@ -515,24 +515,6 @@
       "manobra_multi_data_hora": "09/03 08:00"
     },
     {
-      "navio_rio": "NAVIOS DOMINO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/03 01:30",
-      "manobra_rio_fim": "09/03 13:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/03 12:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/03 10:00",
-      "manobra_rio_fim": "10/03 14:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/03 12:00"
-    },
-    {
       "navio_rio": "COSCO SHIPPING URUGUAY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "09/03 10:00",
@@ -540,6 +522,15 @@
       "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "09/03 17:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING URUGUAY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/03 10:00",
+      "manobra_rio_fim": "10/03 14:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/03 06:00"
     },
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
@@ -558,6 +549,15 @@
       "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "09/03 17:00"
+    },
+    {
+      "navio_rio": "RDO FORTUNE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/03 15:00",
+      "manobra_rio_fim": "10/03 10:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/03 06:00"
     },
     {
       "navio_rio": "RDO FORTUNE",
