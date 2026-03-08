@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/03/2026 17:20",
+  "ultima_atualizacao": "08/03/2026 17:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -112,9 +112,9 @@
     },
     {
       "data": "09/03",
-      "hora": "14:00",
+      "hora": "15:00",
       "navio": "COSCO SHIPPING URUGUAY",
-      "calado": "14,00",
+      "calado": "12,00",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -123,7 +123,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-09T14:00:00"
+      "timestamp": "2026-03-09T15:00:00"
     },
     {
       "data": "09/03",
@@ -189,7 +189,7 @@
       "data": "10/03",
       "hora": "14:00",
       "navio": "COSCO SHIPPING URUGUAY",
-      "calado": "13,50",
+      "calado": "11,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -505,7 +505,7 @@
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/03 14:00",
+      "manobra_rio_inicio": "09/03 15:00",
       "manobra_rio_fim": "10/03 14:00",
       "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "S",
@@ -514,7 +514,7 @@
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/03 14:00",
+      "manobra_rio_inicio": "09/03 15:00",
       "manobra_rio_fim": "10/03 14:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
@@ -523,7 +523,7 @@
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/03 14:00",
+      "manobra_rio_inicio": "09/03 15:00",
       "manobra_rio_fim": "10/03 14:00",
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "E",
