@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "08/03/2026 07:12",
+  "ultima_atualizacao": "08/03/2026 07:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "08/03",
-      "hora": "06:00",
-      "navio": "ANTHEA Y",
-      "calado": "11,85",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9710244",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-08T06:00:00"
-    },
     {
       "data": "08/03",
       "hora": "07:00",
@@ -187,9 +172,9 @@
     },
     {
       "data": "09/03",
-      "hora": "19:30",
+      "hora": "15:00",
       "navio": "RDO FORTUNE",
-      "calado": "12,00",
+      "calado": "13,20",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -198,7 +183,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-09T19:30:00"
+      "timestamp": "2026-03-09T15:00:00"
     },
     {
       "data": "10/03",
@@ -583,7 +568,7 @@
     {
       "navio_rio": "RDO FORTUNE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/03 19:30",
+      "manobra_rio_inicio": "09/03 15:00",
       "manobra_rio_fim": "10/03 10:00",
       "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "S",
@@ -592,7 +577,7 @@
     {
       "navio_rio": "RDO FORTUNE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/03 19:30",
+      "manobra_rio_inicio": "09/03 15:00",
       "manobra_rio_fim": "10/03 10:00",
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "E",
