@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "09/03/2026 02:43",
+  "ultima_atualizacao": "09/03/2026 03:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "09/03",
-      "hora": "01:30",
-      "navio": "NAVIOS DOMINO",
-      "calado": "12,25",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9478494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-09T01:30:00"
-    },
     {
       "data": "09/03",
       "hora": "06:00",
@@ -31,7 +16,7 @@
       "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-09T06:00:00"
     },
@@ -427,24 +412,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "NAVIOS DOMINO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/03 01:30",
-      "manobra_rio_fim": "09/03 10:00",
-      "navio_multi": "MSC MAXINE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/03 06:00"
-    },
-    {
-      "navio_rio": "NAVIOS DOMINO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/03 01:30",
-      "manobra_rio_fim": "09/03 10:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "09/03 08:00"
-    },
     {
       "navio_rio": "RDO FORTUNE",
       "manobra_rio_afetada": "E",
