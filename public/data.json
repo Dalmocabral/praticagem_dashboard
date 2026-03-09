@@ -1,55 +1,10 @@
 {
-  "ultima_atualizacao": "09/03/2026 13:14",
+  "ultima_atualizacao": "09/03/2026 14:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "09/03",
-      "hora": "08:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-09T08:00:00"
-    },
-    {
-      "data": "09/03",
-      "hora": "10:00",
-      "navio": "NAVIOS DOMINO",
-      "calado": "12,30",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9478494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-09T10:00:00"
-    },
-    {
-      "data": "09/03",
-      "hora": "12:00",
-      "navio": "RDO FORTUNE",
-      "calado": "12,40",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9623673",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-09T12:00:00"
-    },
     {
       "data": "09/03",
       "hora": "15:00",
@@ -76,7 +31,7 @@
       "imo": "9702077",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-09T17:00:00"
     },
@@ -367,15 +322,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "RDO FORTUNE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/03 12:00",
-      "manobra_rio_fim": "10/03 06:00",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/03 17:00"
-    },
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
       "manobra_rio_afetada": "E",
