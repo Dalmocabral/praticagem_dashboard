@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/03/2026 19:14",
+  "ultima_atualizacao": "09/03/2026 19:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -19,21 +19,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-03-09T15:00:00"
-    },
-    {
-      "data": "09/03",
-      "hora": "17:00",
-      "navio": "MSC MELINE",
-      "calado": "10,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-09T17:00:00"
     },
     {
       "data": "10/03",
@@ -322,15 +307,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/03 15:00",
-      "manobra_rio_fim": "10/03 14:00",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/03 17:00"
-    },
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
       "manobra_rio_afetada": "S",
