@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/03/2026 15:03",
+  "ultima_atualizacao": "09/03/2026 16:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -24,7 +24,7 @@
       "data": "09/03",
       "hora": "17:00",
       "navio": "MSC MELINE",
-      "calado": "10,60",
+      "calado": "10,80",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
