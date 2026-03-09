@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/03/2026 08:51",
+  "ultima_atualizacao": "09/03/2026 09:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -24,7 +24,7 @@
       "data": "09/03",
       "hora": "10:00",
       "navio": "NAVIOS DOMINO",
-      "calado": "12,00",
+      "calado": "12,30",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9623673",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-03-09T12:00:00"
     },
