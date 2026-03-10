@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/03/2026 16:24",
+  "ultima_atualizacao": "10/03/2026 16:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -79,6 +79,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-12T06:00:00"
+    },
+    {
+      "data": "12/03",
+      "hora": "08:00",
+      "navio": "MSC GABRIELLA",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978975",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-12T08:00:00"
+    },
+    {
+      "data": "13/03",
+      "hora": "08:00",
+      "navio": "MSC GABRIELLA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978975",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-13T08:00:00"
     },
     {
       "data": "14/03",
