@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/03/2026 18:18",
+  "ultima_atualizacao": "10/03/2026 18:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -19,21 +19,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-11T06:00:00"
-    },
-    {
-      "data": "11/03",
-      "hora": "09:00",
-      "navio": "KOTA PUSAKA",
-      "calado": "14,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9793961",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-11T09:00:00"
     },
     {
       "data": "11/03",
@@ -96,12 +81,27 @@
       "timestamp": "2026-03-13T08:00:00"
     },
     {
+      "data": "13/03",
+      "hora": "19:00",
+      "navio": "MSC PETRA",
+      "calado": "12,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9222302",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-13T19:00:00"
+    },
+    {
       "data": "14/03",
       "hora": "06:00",
       "navio": "MSC ATHENS",
       "calado": "13,40",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
@@ -111,12 +111,27 @@
       "timestamp": "2026-03-14T06:00:00"
     },
     {
+      "data": "14/03",
+      "hora": "15:00",
+      "navio": "MSC PETRA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9222302",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-14T15:00:00"
+    },
+    {
       "data": "15/03",
       "hora": "06:00",
       "navio": "MSC ATHENS",
       "calado": "13,50",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
