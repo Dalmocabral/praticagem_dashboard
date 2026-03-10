@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/03/2026 19:49",
+  "ultima_atualizacao": "10/03/2026 20:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -24,7 +24,7 @@
       "data": "11/03",
       "hora": "08:00",
       "navio": "CMA CGM PARATY",
-      "calado": "14,00",
+      "calado": "14,40",
       "manobra": "M",
       "beco": "TECONT1",
       "status": "futuro",
@@ -38,12 +38,12 @@
     {
       "data": "12/03",
       "hora": "06:00",
-      "navio": "KOTA PUSAKA",
-      "calado": "14,60",
+      "navio": "CMA CGM PARATY",
+      "calado": "14,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9793961",
+      "imo": "9938262",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -64,6 +64,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-12T08:00:00"
+    },
+    {
+      "data": "12/03",
+      "hora": "10:00",
+      "navio": "KOTA PUSAKA",
+      "calado": "14,60",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9793961",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-12T10:00:00"
     },
     {
       "data": "13/03",
