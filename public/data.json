@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "10/03/2026 04:52",
+  "ultima_atualizacao": "10/03/2026 05:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
   },
   "navios": [
-    {
-      "data": "09/03",
-      "hora": "15:00",
-      "navio": "COSCO SHIPPING URUGUAY",
-      "calado": "12,00",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9945851",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-09T15:00:00"
-    },
     {
       "data": "10/03",
       "hora": "06:00",
@@ -306,15 +291,5 @@
       "timestamp": "2026-03-26T07:00:00"
     }
   ],
-  "conflitos": [
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/03 15:00",
-      "manobra_rio_fim": "10/03 14:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/03 12:00"
-    }
-  ]
+  "conflitos": []
 }
