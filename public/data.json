@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/03/2026 15:31",
+  "ultima_atualizacao": "11/03/2026 16:28",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/03/2026 11:22 Embarque e desembarque em águas abrigadas para navios e supplies."
@@ -97,6 +97,21 @@
     },
     {
       "data": "13/03",
+      "hora": "09:30",
+      "navio": "MSC MAGNUM VII",
+      "calado": "13,10",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9252541",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-13T09:30:00"
+    },
+    {
+      "data": "13/03",
       "hora": "17:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,00",
@@ -143,6 +158,21 @@
     {
       "data": "14/03",
       "hora": "06:00",
+      "navio": "MSC MAGNUM VII",
+      "calado": "13,10",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9252541",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-14T06:00:00"
+    },
+    {
+      "data": "14/03",
+      "hora": "08:00",
       "navio": "MSC ATHENS",
       "calado": "13,40",
       "manobra": "E",
@@ -153,7 +183,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-14T06:00:00"
+      "timestamp": "2026-03-14T08:00:00"
     },
     {
       "data": "14/03",
@@ -456,6 +486,15 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "12/03 16:00",
       "manobra_rio_fim": "15/03 18:00",
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/03 09:30"
+    },
+    {
+      "navio_rio": "CHIPOL TAIHU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_fim": "15/03 18:00",
       "navio_multi": "MSC PETRA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "13/03 19:00"
@@ -474,9 +513,18 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "12/03 16:00",
       "manobra_rio_fim": "15/03 18:00",
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/03 06:00"
+    },
+    {
+      "navio_rio": "CHIPOL TAIHU",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_fim": "15/03 18:00",
       "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/03 06:00"
+      "manobra_multi_data_hora": "14/03 08:00"
     },
     {
       "navio_rio": "CHIPOL TAIHU",
@@ -513,6 +561,15 @@
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/03 16:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/03 08:00",
+      "manobra_rio_fim": "13/03 17:00",
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/03 09:30"
     },
     {
       "navio_rio": "CMA CGM BAHIA",
