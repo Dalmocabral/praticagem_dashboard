@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/03/2026 20:46",
+  "ultima_atualizacao": "10/03/2026 21:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -12,7 +12,7 @@
       "calado": "11,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9945851",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -27,7 +27,7 @@
       "calado": "14,40",
       "manobra": "M",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9938262",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
