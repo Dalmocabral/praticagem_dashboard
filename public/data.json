@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/03/2026 11:28",
+  "ultima_atualizacao": "11/03/2026 12:26",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/03/2026 11:22 Embarque e desembarque em águas abrigadas para navios e supplies."
@@ -82,6 +82,36 @@
     },
     {
       "data": "13/03",
+      "hora": "08:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "7,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-13T08:00:00"
+    },
+    {
+      "data": "13/03",
+      "hora": "17:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,00",
+      "manobra": "M",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-13T17:00:00"
+    },
+    {
+      "data": "13/03",
       "hora": "19:00",
       "navio": "MSC PETRA",
       "calado": "12,30",
@@ -94,6 +124,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-13T19:00:00"
+    },
+    {
+      "data": "14/03",
+      "hora": "03:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-14T03:00:00"
     },
     {
       "data": "14/03",
@@ -364,6 +409,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-28T06:00:00"
+    },
+    {
+      "data": "02/04",
+      "hora": "09:00",
+      "navio": "EVER FAR",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850862",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-02T09:00:00"
+    },
+    {
+      "data": "03/04",
+      "hora": "06:00",
+      "navio": "EVER FAR",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850862",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-03T06:00:00"
     }
   ],
   "conflitos": [
@@ -384,6 +459,15 @@
       "navio_multi": "MSC PETRA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "13/03 19:00"
+    },
+    {
+      "navio_rio": "CHIPOL TAIHU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_fim": "15/03 18:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/03 03:00"
     },
     {
       "navio_rio": "CHIPOL TAIHU",
