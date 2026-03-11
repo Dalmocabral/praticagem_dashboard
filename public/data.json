@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/03/2026 07:53",
+  "ultima_atualizacao": "11/03/2026 08:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 02/03/2026 13:19"
@@ -21,25 +21,10 @@
       "timestamp": "2026-03-11T06:00:00"
     },
     {
-      "data": "11/03",
-      "hora": "07:00",
-      "navio": "CMA CGM PARATY",
-      "calado": "14,50",
-      "manobra": "M",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9938262",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-11T07:00:00"
-    },
-    {
       "data": "12/03",
       "hora": "06:00",
       "navio": "CMA CGM PARATY",
-      "calado": "14,40",
+      "calado": "13,57",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -141,6 +126,21 @@
       "timestamp": "2026-03-14T15:00:00"
     },
     {
+      "data": "14/03",
+      "hora": "17:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-14T17:00:00"
+    },
+    {
       "data": "15/03",
       "hora": "06:00",
       "navio": "MSC ATHENS",
@@ -154,6 +154,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-15T06:00:00"
+    },
+    {
+      "data": "15/03",
+      "hora": "16:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-15T16:00:00"
     },
     {
       "data": "17/03",
