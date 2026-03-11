@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/03/2026 18:19",
+  "ultima_atualizacao": "11/03/2026 18:53",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/03/2026 16:27 Embarque e desembarque em águas abrigadas para navios e supplies. \nCanal Varrido Fechado."
@@ -8,16 +8,16 @@
     {
       "data": "12/03",
       "hora": "08:00",
-      "navio": "MSC GABRIELLA",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT3",
+      "navio": "CMA CGM PARATY",
+      "calado": "13,57",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9978975",
+      "imo": "9938262",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
+      "terminal": "rio",
       "timestamp": "2026-03-12T08:00:00"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "data": "12/03",
-      "hora": "11:00",
-      "navio": "CMA CGM PARATY",
-      "calado": "13,57",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "hora": "13:00",
+      "navio": "MSC GABRIELLA",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9938262",
+      "imo": "9978975",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-12T11:00:00"
+      "terminal": "multi",
+      "timestamp": "2026-03-12T13:00:00"
     },
     {
       "data": "12/03",
-      "hora": "16:00",
+      "hora": "18:00",
       "navio": "CHIPOL TAIHU",
       "calado": "7,70",
       "manobra": "E",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-12T16:00:00"
+      "timestamp": "2026-03-12T18:00:00"
     },
     {
       "data": "13/03",
@@ -475,7 +475,7 @@
     {
       "navio_rio": "CHIPOL TAIHU",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_inicio": "12/03 18:00",
       "manobra_rio_fim": "15/03 18:00",
       "navio_multi": "MSC GABRIELLA",
       "manobra_multi_tipo": "S",
@@ -484,7 +484,7 @@
     {
       "navio_rio": "CHIPOL TAIHU",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_inicio": "12/03 18:00",
       "manobra_rio_fim": "15/03 18:00",
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "E",
@@ -493,7 +493,7 @@
     {
       "navio_rio": "CHIPOL TAIHU",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_inicio": "12/03 18:00",
       "manobra_rio_fim": "15/03 18:00",
       "navio_multi": "MSC PETRA",
       "manobra_multi_tipo": "E",
@@ -502,7 +502,7 @@
     {
       "navio_rio": "CHIPOL TAIHU",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_inicio": "12/03 18:00",
       "manobra_rio_fim": "15/03 18:00",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
@@ -511,7 +511,7 @@
     {
       "navio_rio": "CHIPOL TAIHU",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_inicio": "12/03 18:00",
       "manobra_rio_fim": "15/03 18:00",
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "S",
@@ -520,7 +520,7 @@
     {
       "navio_rio": "CHIPOL TAIHU",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_inicio": "12/03 18:00",
       "manobra_rio_fim": "15/03 18:00",
       "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "E",
@@ -529,7 +529,7 @@
     {
       "navio_rio": "CHIPOL TAIHU",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_inicio": "12/03 18:00",
       "manobra_rio_fim": "15/03 18:00",
       "navio_multi": "MSC PETRA",
       "manobra_multi_tipo": "S",
@@ -538,7 +538,7 @@
     {
       "navio_rio": "CHIPOL TAIHU",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_inicio": "12/03 18:00",
       "manobra_rio_fim": "15/03 18:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
@@ -547,7 +547,7 @@
     {
       "navio_rio": "CHIPOL TAIHU",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_inicio": "12/03 18:00",
       "manobra_rio_fim": "15/03 18:00",
       "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "S",
@@ -556,7 +556,7 @@
     {
       "navio_rio": "CHIPOL TAIHU",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/03 16:00",
+      "manobra_rio_inicio": "12/03 18:00",
       "manobra_rio_fim": "15/03 18:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
