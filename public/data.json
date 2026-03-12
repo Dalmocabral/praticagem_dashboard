@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/03/2026 11:13",
+  "ultima_atualizacao": "12/03/2026 12:12",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/03/2026 16:27 Embarque e desembarque em águas abrigadas para navios e supplies. \nCanal Varrido Fechado."
@@ -46,7 +46,7 @@
       "imo": "9938262",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-03-12T14:30:00"
     },
