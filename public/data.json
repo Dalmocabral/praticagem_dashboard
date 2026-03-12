@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "12/03/2026 13:17",
+  "ultima_atualizacao": "12/03/2026 14:15",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/03/2026 16:27 Embarque e desembarque em águas abrigadas para navios e supplies. \nCanal Varrido Fechado."
   },
   "navios": [
-    {
-      "data": "12/03",
-      "hora": "10:30",
-      "navio": "KOTA PUSAKA",
-      "calado": "14,00",
-      "manobra": "M",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9793961",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-12T10:30:00"
-    },
     {
       "data": "12/03",
       "hora": "12:30",
@@ -46,7 +31,7 @@
       "imo": "9978975",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-12T16:30:00"
     },
@@ -187,6 +172,21 @@
     },
     {
       "data": "14/03",
+      "hora": "10:00",
+      "navio": "ALESSIA",
+      "calado": "12,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9225653",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-14T10:00:00"
+    },
+    {
+      "data": "14/03",
       "hora": "15:00",
       "navio": "MSC PETRA",
       "calado": "12,60",
@@ -214,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-14T17:00:00"
+    },
+    {
+      "data": "14/03",
+      "hora": "19:00",
+      "navio": "ALESSIA",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9225653",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-14T19:00:00"
     },
     {
       "data": "15/03",
@@ -618,6 +633,24 @@
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "13/03 12:00"
+    },
+    {
+      "navio_rio": "ALESSIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/03 10:00",
+      "manobra_rio_fim": "14/03 19:00",
+      "navio_multi": "MSC PETRA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/03 15:00"
+    },
+    {
+      "navio_rio": "ALESSIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/03 10:00",
+      "manobra_rio_fim": "14/03 19:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/03 17:00"
     },
     {
       "navio_rio": "CMA CGM BAHIA",
