@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/03/2026 04:32",
+  "ultima_atualizacao": "12/03/2026 05:05",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/03/2026 16:27 Embarque e desembarque em águas abrigadas para navios e supplies. \nCanal Varrido Fechado."
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "12/03",
-      "hora": "08:00",
+      "hora": "12:00",
       "navio": "CMA CGM PARATY",
       "calado": "13,57",
       "manobra": "S",
@@ -16,13 +16,13 @@
       "imo": "9938262",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-12T08:00:00"
+      "timestamp": "2026-03-12T12:00:00"
     },
     {
       "data": "12/03",
-      "hora": "10:00",
+      "hora": "13:00",
       "navio": "KOTA PUSAKA",
       "calado": "14,60",
       "manobra": "S",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-12T10:00:00"
+      "timestamp": "2026-03-12T13:00:00"
     },
     {
       "data": "12/03",
