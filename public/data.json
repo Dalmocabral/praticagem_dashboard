@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/03/2026 23:22",
+  "ultima_atualizacao": "12/03/2026 01:24",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/03/2026 16:27 Embarque e desembarque em águas abrigadas para navios e supplies. \nCanal Varrido Fechado."
@@ -37,21 +37,6 @@
     },
     {
       "data": "12/03",
-      "hora": "13:00",
-      "navio": "MSC GABRIELLA",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9978975",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-12T13:00:00"
-    },
-    {
-      "data": "12/03",
       "hora": "15:00",
       "navio": "CHIPOL TAIHU",
       "calado": "7,70",
@@ -64,6 +49,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-12T15:00:00"
+    },
+    {
+      "data": "12/03",
+      "hora": "16:30",
+      "navio": "MSC GABRIELLA",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9978975",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-12T16:30:00"
     },
     {
       "data": "13/03",
@@ -472,6 +472,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "CHIPOL TAIHU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "12/03 15:00",
+      "manobra_rio_fim": "15/03 18:00",
+      "navio_multi": "MSC GABRIELLA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "12/03 16:30"
+    },
     {
       "navio_rio": "CHIPOL TAIHU",
       "manobra_rio_afetada": "E",
