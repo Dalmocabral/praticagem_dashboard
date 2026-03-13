@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/03/2026 17:18",
+  "ultima_atualizacao": "13/03/2026 17:57",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/03/2026 17:27 Embarque e desembarque em águas abrigadas para navios e supplies."
@@ -97,7 +97,7 @@
     },
     {
       "data": "14/03",
-      "hora": "08:30",
+      "hora": "08:00",
       "navio": "ALESSIA",
       "calado": "13,60",
       "manobra": "E",
@@ -108,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-14T08:30:00"
+      "timestamp": "2026-03-14T08:00:00"
     },
     {
       "data": "14/03",
@@ -154,36 +154,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-14T15:00:00"
-    },
-    {
-      "data": "14/03",
-      "hora": "19:00",
-      "navio": "ALESSIA",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9225653",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-14T19:00:00"
-    },
-    {
-      "data": "15/03",
-      "hora": "03:00",
-      "navio": "SEATTLE C",
-      "calado": "12,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9360910",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-15T03:00:00"
     },
     {
       "data": "15/03",
@@ -232,6 +202,51 @@
     },
     {
       "data": "15/03",
+      "hora": "10:00",
+      "navio": "ALESSIA",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9225653",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-15T10:00:00"
+    },
+    {
+      "data": "15/03",
+      "hora": "12:00",
+      "navio": "CMA CGM BAHIA",
+      "calado": "14,40",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-15T12:00:00"
+    },
+    {
+      "data": "15/03",
+      "hora": "15:00",
+      "navio": "CHIPOL TAIHU",
+      "calado": "7,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9734173",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-15T15:00:00"
+    },
+    {
+      "data": "15/03",
       "hora": "16:00",
       "navio": "MSC ATHENS",
       "calado": "13,50",
@@ -248,14 +263,14 @@
     {
       "data": "15/03",
       "hora": "18:00",
-      "navio": "CHIPOL TAIHU",
-      "calado": "7,60",
-      "manobra": "S",
-      "beco": "TECONT1",
+      "navio": "SEATTLE C",
+      "calado": "12,30",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9734173",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9360910",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-15T18:00:00"
@@ -276,21 +291,6 @@
       "timestamp": "2026-03-15T20:00:00"
     },
     {
-      "data": "15/03",
-      "hora": "23:00",
-      "navio": "SEATTLE C",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9360910",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-15T23:00:00"
-    },
-    {
       "data": "16/03",
       "hora": "06:00",
       "navio": "MSC MAGNUM VII",
@@ -304,6 +304,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-16T06:00:00"
+    },
+    {
+      "data": "16/03",
+      "hora": "07:00",
+      "navio": "CMA CGM BAHIA",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-16T07:00:00"
+    },
+    {
+      "data": "16/03",
+      "hora": "08:00",
+      "navio": "SEATTLE C",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9360910",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-16T08:00:00"
     },
     {
       "data": "16/03",
@@ -352,21 +382,6 @@
     },
     {
       "data": "17/03",
-      "hora": "07:00",
-      "navio": "CMA CGM BAHIA",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9938248",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-17T07:00:00"
-    },
-    {
-      "data": "17/03",
       "hora": "16:00",
       "navio": "MSC ADELE",
       "calado": "13,80",
@@ -394,21 +409,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-18T05:30:00"
-    },
-    {
-      "data": "18/03",
-      "hora": "07:00",
-      "navio": "CMA CGM BAHIA",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9938248",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-18T07:00:00"
     },
     {
       "data": "20/03",
@@ -565,8 +565,8 @@
     {
       "navio_rio": "ALESSIA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/03 08:30",
-      "manobra_rio_fim": "14/03 19:00",
+      "manobra_rio_inicio": "14/03 08:00",
+      "manobra_rio_fim": "15/03 10:00",
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "14/03 10:30"
@@ -574,83 +574,92 @@
     {
       "navio_rio": "ALESSIA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/03 08:30",
-      "manobra_rio_fim": "14/03 19:00",
+      "manobra_rio_inicio": "14/03 08:00",
+      "manobra_rio_fim": "15/03 10:00",
       "navio_multi": "MSC PETRA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/03 13:00"
     },
     {
       "navio_rio": "ALESSIA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/03 08:30",
-      "manobra_rio_fim": "14/03 19:00",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/03 08:00",
+      "manobra_rio_fim": "15/03 10:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "14/03 15:00"
     },
     {
-      "navio_rio": "SEATTLE C",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/03 03:00",
-      "manobra_rio_fim": "15/03 23:00",
+      "navio_rio": "ALESSIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/03 08:00",
+      "manobra_rio_fim": "15/03 10:00",
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/03 05:00"
     },
     {
-      "navio_rio": "SEATTLE C",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/03 03:00",
-      "manobra_rio_fim": "15/03 23:00",
+      "navio_rio": "ALESSIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/03 08:00",
+      "manobra_rio_fim": "15/03 10:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/03 06:00"
     },
     {
-      "navio_rio": "SEATTLE C",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/03 03:00",
-      "manobra_rio_fim": "15/03 23:00",
+      "navio_rio": "ALESSIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/03 08:00",
+      "manobra_rio_fim": "15/03 10:00",
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "15/03 08:00"
     },
     {
-      "navio_rio": "SEATTLE C",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/03 03:00",
-      "manobra_rio_fim": "15/03 23:00",
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/03 12:00",
+      "manobra_rio_fim": "16/03 07:00",
       "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/03 16:00"
     },
     {
-      "navio_rio": "SEATTLE C",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/03 03:00",
-      "manobra_rio_fim": "15/03 23:00",
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/03 12:00",
+      "manobra_rio_fim": "16/03 07:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "15/03 20:00"
     },
     {
       "navio_rio": "CMA CGM BAHIA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/03 07:00",
-      "manobra_rio_fim": "18/03 07:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/03 16:00"
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/03 12:00",
+      "manobra_rio_fim": "16/03 07:00",
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/03 06:00"
     },
     {
-      "navio_rio": "CMA CGM BAHIA",
+      "navio_rio": "SEATTLE C",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/03 18:00",
+      "manobra_rio_fim": "16/03 08:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "15/03 20:00"
+    },
+    {
+      "navio_rio": "SEATTLE C",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/03 07:00",
-      "manobra_rio_fim": "18/03 07:00",
-      "navio_multi": "MSC ADELE",
+      "manobra_rio_inicio": "15/03 18:00",
+      "manobra_rio_fim": "16/03 08:00",
+      "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/03 05:30"
+      "manobra_multi_data_hora": "16/03 06:00"
     }
   ]
 }
