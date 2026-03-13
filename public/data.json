@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/03/2026 08:17",
+  "ultima_atualizacao": "13/03/2026 08:48",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/03/2026 17:27 Embarque e desembarque em águas abrigadas para navios e supplies."
@@ -39,7 +39,7 @@
       "data": "13/03",
       "hora": "10:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "7,60",
+      "calado": "9,10",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -52,7 +52,7 @@
     },
     {
       "data": "13/03",
-      "hora": "15:00",
+      "hora": "14:30",
       "navio": "GLOVIS COUGAR",
       "calado": "9,40",
       "manobra": "E",
@@ -63,11 +63,26 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-13T15:00:00"
+      "timestamp": "2026-03-13T14:30:00"
     },
     {
       "data": "13/03",
-      "hora": "19:00",
+      "hora": "16:30",
+      "navio": "MSC GABRIELLA",
+      "calado": "14,55",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9978975",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-13T16:30:00"
+    },
+    {
+      "data": "13/03",
+      "hora": "19:30",
       "navio": "MSC PETRA",
       "calado": "12,30",
       "manobra": "E",
@@ -78,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-13T19:00:00"
+      "timestamp": "2026-03-13T19:30:00"
     },
     {
       "data": "13/03",
@@ -98,6 +113,21 @@
     {
       "data": "14/03",
       "hora": "03:00",
+      "navio": "GLOVIS COUGAR",
+      "calado": "9,40",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9451898",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-14T03:00:00"
+    },
+    {
+      "data": "14/03",
+      "hora": "03:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,00",
       "manobra": "S",
@@ -109,21 +139,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-14T03:00:00"
-    },
-    {
-      "data": "14/03",
-      "hora": "06:00",
-      "navio": "MSC GABRIELLA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9978975",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-14T06:00:00"
     },
     {
       "data": "14/03",
@@ -154,21 +169,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-14T10:00:00"
-    },
-    {
-      "data": "14/03",
-      "hora": "12:00",
-      "navio": "GLOVIS COUGAR",
-      "calado": "9,40",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9451898",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-14T12:00:00"
     },
     {
       "data": "14/03",
@@ -382,7 +382,7 @@
     },
     {
       "data": "24/03",
-      "hora": "11:00",
+      "hora": "06:00",
       "navio": "COSCO SHIPPING CHILE",
       "calado": "14,60",
       "manobra": "E",
@@ -393,7 +393,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-24T11:00:00"
+      "timestamp": "2026-03-24T06:00:00"
     },
     {
       "data": "25/03",
@@ -509,7 +509,16 @@
       "manobra_rio_fim": "13/03 21:00",
       "navio_multi": "GLOVIS COUGAR",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/03 15:00"
+      "manobra_multi_data_hora": "13/03 14:30"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/03 10:00",
+      "manobra_rio_fim": "13/03 21:00",
+      "navio_multi": "MSC GABRIELLA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/03 16:30"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -518,16 +527,7 @@
       "manobra_rio_fim": "13/03 21:00",
       "navio_multi": "MSC PETRA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/03 19:00"
-    },
-    {
-      "navio_rio": "ALESSIA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/03 10:00",
-      "manobra_rio_fim": "14/03 19:00",
-      "navio_multi": "GLOVIS COUGAR",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/03 12:00"
+      "manobra_multi_data_hora": "13/03 19:30"
     },
     {
       "navio_rio": "ALESSIA",
