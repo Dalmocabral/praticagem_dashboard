@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "13/03/2026 09:33",
+  "ultima_atualizacao": "13/03/2026 10:44",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/03/2026 17:27 Embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "13/03",
-      "hora": "08:00",
-      "navio": "MSC GABRIELLA",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9978975",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-13T08:00:00"
-    },
     {
       "data": "13/03",
       "hora": "10:00",
@@ -37,6 +22,21 @@
     },
     {
       "data": "13/03",
+      "hora": "13:00",
+      "navio": "GRANDE AMBURGO",
+      "calado": "8,80",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9246607",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": "entrada_futura",
+      "terminal": "multi",
+      "timestamp": "2026-03-13T13:00:00"
+    },
+    {
+      "data": "13/03",
       "hora": "14:30",
       "navio": "GLOVIS COUGAR",
       "calado": "9,40",
@@ -46,7 +46,7 @@
       "imo": "9451898",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-03-13T14:30:00"
     },
@@ -217,6 +217,21 @@
     },
     {
       "data": "15/03",
+      "hora": "08:00",
+      "navio": "MSC MAGNUM VII",
+      "calado": "13,10",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9252541",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-15T08:00:00"
+    },
+    {
+      "data": "15/03",
       "hora": "16:00",
       "navio": "MSC ATHENS",
       "calado": "13,50",
@@ -244,6 +259,51 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-15T18:00:00"
+    },
+    {
+      "data": "15/03",
+      "hora": "20:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-15T20:00:00"
+    },
+    {
+      "data": "16/03",
+      "hora": "06:00",
+      "navio": "MSC MAGNUM VII",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9252541",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-16T06:00:00"
+    },
+    {
+      "data": "16/03",
+      "hora": "14:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-16T14:30:00"
     },
     {
       "data": "16/03",
@@ -487,6 +547,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/03 10:00",
+      "manobra_rio_fim": "13/03 21:00",
+      "navio_multi": "GRANDE AMBURGO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/03 13:00"
+    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
