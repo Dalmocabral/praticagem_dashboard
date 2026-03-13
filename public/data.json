@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/03/2026 17:57",
+  "ultima_atualizacao": "13/03/2026 18:43",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/03/2026 17:27 Embarque e desembarque em águas abrigadas para navios e supplies."
@@ -46,7 +46,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-03-13T21:00:00"
     },
@@ -266,7 +266,7 @@
       "navio": "SEATTLE C",
       "calado": "12,30",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9360910",
       "tipo_navio": "CONTAINER SHIP",
@@ -326,7 +326,7 @@
       "navio": "SEATTLE C",
       "calado": "12,00",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9360910",
       "tipo_navio": "CONTAINER SHIP",
