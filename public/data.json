@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/03/2026 13:04",
+  "ultima_atualizacao": "13/03/2026 13:57",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/03/2026 17:27 Embarque e desembarque em águas abrigadas para navios e supplies."
@@ -9,7 +9,7 @@
       "data": "13/03",
       "hora": "14:30",
       "navio": "GLOVIS COUGAR",
-      "calado": "9,40",
+      "calado": "9,30",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9978975",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-13T16:30:00"
     },
