@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/03/2026 16:07",
+  "ultima_atualizacao": "13/03/2026 16:47",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/03/2026 17:27 Embarque e desembarque em águas abrigadas para navios e supplies."
@@ -24,7 +24,7 @@
       "data": "13/03",
       "hora": "16:30",
       "navio": "MSC GABRIELLA",
-      "calado": "14,70",
+      "calado": "14,60",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
