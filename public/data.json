@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/03/2026 10:44",
+  "ultima_atualizacao": "13/03/2026 11:32",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/03/2026 17:27 Embarque e desembarque em águas abrigadas para navios e supplies."
@@ -22,21 +22,6 @@
     },
     {
       "data": "13/03",
-      "hora": "13:00",
-      "navio": "GRANDE AMBURGO",
-      "calado": "8,80",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9246607",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-13T13:00:00"
-    },
-    {
-      "data": "13/03",
       "hora": "14:30",
       "navio": "GLOVIS COUGAR",
       "calado": "9,40",
@@ -46,7 +31,7 @@
       "imo": "9451898",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-13T14:30:00"
     },
@@ -54,7 +39,7 @@
       "data": "13/03",
       "hora": "16:30",
       "navio": "MSC GABRIELLA",
-      "calado": "14,55",
+      "calado": "14,67",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -142,9 +127,9 @@
     },
     {
       "data": "14/03",
-      "hora": "10:00",
+      "hora": "08:30",
       "navio": "ALESSIA",
-      "calado": "12,00",
+      "calado": "13,60",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -153,7 +138,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-14T10:00:00"
+      "timestamp": "2026-03-14T08:30:00"
+    },
+    {
+      "data": "14/03",
+      "hora": "10:30",
+      "navio": "GRANDE AMBURGO",
+      "calado": "8,80",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9246607",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-14T10:30:00"
     },
     {
       "data": "14/03",
@@ -199,6 +199,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-14T19:00:00"
+    },
+    {
+      "data": "15/03",
+      "hora": "05:00",
+      "navio": "GRANDE AMBURGO",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9246607",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-15T05:00:00"
     },
     {
       "data": "15/03",
@@ -552,15 +567,6 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "13/03 10:00",
       "manobra_rio_fim": "13/03 21:00",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/03 13:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/03 10:00",
-      "manobra_rio_fim": "13/03 21:00",
       "navio_multi": "GLOVIS COUGAR",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "13/03 14:30"
@@ -586,7 +592,16 @@
     {
       "navio_rio": "ALESSIA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/03 10:00",
+      "manobra_rio_inicio": "14/03 08:30",
+      "manobra_rio_fim": "14/03 19:00",
+      "navio_multi": "GRANDE AMBURGO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/03 10:30"
+    },
+    {
+      "navio_rio": "ALESSIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/03 08:30",
       "manobra_rio_fim": "14/03 19:00",
       "navio_multi": "MSC PETRA",
       "manobra_multi_tipo": "S",
@@ -595,7 +610,7 @@
     {
       "navio_rio": "ALESSIA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/03 10:00",
+      "manobra_rio_inicio": "14/03 08:30",
       "manobra_rio_fim": "14/03 19:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "E",
