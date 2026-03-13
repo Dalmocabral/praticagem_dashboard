@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "13/03/2026 08:48",
+  "ultima_atualizacao": "13/03/2026 09:33",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/03/2026 17:27 Embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "13/03",
-      "hora": "06:00",
-      "navio": "CMA CGM PARATY",
-      "calado": "13,60",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9938262",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-13T06:00:00"
-    },
     {
       "data": "13/03",
       "hora": "08:00",
@@ -82,7 +67,7 @@
     },
     {
       "data": "13/03",
-      "hora": "19:30",
+      "hora": "18:30",
       "navio": "MSC PETRA",
       "calado": "12,30",
       "manobra": "E",
@@ -93,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-13T19:30:00"
+      "timestamp": "2026-03-13T18:30:00"
     },
     {
       "data": "13/03",
@@ -127,7 +112,7 @@
     },
     {
       "data": "14/03",
-      "hora": "03:00",
+      "hora": "04:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,00",
       "manobra": "S",
@@ -138,22 +123,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-14T03:00:00"
+      "timestamp": "2026-03-14T04:00:00"
     },
     {
       "data": "14/03",
-      "hora": "08:00",
+      "hora": "06:30",
       "navio": "MSC ATHENS",
-      "calado": "13,40",
+      "calado": "13,30",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-14T08:00:00"
+      "timestamp": "2026-03-14T06:30:00"
     },
     {
       "data": "14/03",
@@ -172,7 +157,7 @@
     },
     {
       "data": "14/03",
-      "hora": "15:00",
+      "hora": "13:00",
       "navio": "MSC PETRA",
       "calado": "12,60",
       "manobra": "S",
@@ -183,22 +168,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-14T15:00:00"
+      "timestamp": "2026-03-14T13:00:00"
     },
     {
       "data": "14/03",
-      "hora": "17:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
+      "hora": "15:00",
+      "navio": "MSC INSA",
+      "calado": "13,10",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9506394",
+      "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-14T17:00:00"
+      "timestamp": "2026-03-14T15:00:00"
     },
     {
       "data": "14/03",
@@ -218,12 +203,12 @@
     {
       "data": "15/03",
       "hora": "06:00",
-      "navio": "MSC ATHENS",
-      "calado": "13,50",
+      "navio": "MSC INSA",
+      "calado": "13,80",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9618305",
+      "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -232,28 +217,13 @@
     },
     {
       "data": "15/03",
-      "hora": "08:00",
-      "navio": "MSC INSA",
-      "calado": "13,10",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-15T08:00:00"
-    },
-    {
-      "data": "15/03",
       "hora": "16:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,00",
+      "navio": "MSC ATHENS",
+      "calado": "13,50",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9506394",
+      "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -277,18 +247,33 @@
     },
     {
       "data": "16/03",
-      "hora": "06:00",
-      "navio": "MSC INSA",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONT2",
+      "hora": "16:30",
+      "navio": "MSC ALBANY",
+      "calado": "9,80",
+      "manobra": "E",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "1016666",
+      "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-16T06:00:00"
+      "timestamp": "2026-03-16T16:30:00"
+    },
+    {
+      "data": "17/03",
+      "hora": "05:00",
+      "navio": "MSC ALBANY",
+      "calado": "9,80",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9619438",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-17T05:00:00"
     },
     {
       "data": "17/03",
@@ -527,25 +512,25 @@
       "manobra_rio_fim": "13/03 21:00",
       "navio_multi": "MSC PETRA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/03 19:30"
+      "manobra_multi_data_hora": "13/03 18:30"
     },
     {
       "navio_rio": "ALESSIA",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "14/03 10:00",
       "manobra_rio_fim": "14/03 19:00",
       "navio_multi": "MSC PETRA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/03 15:00"
+      "manobra_multi_data_hora": "14/03 13:00"
     },
     {
       "navio_rio": "ALESSIA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "14/03 10:00",
       "manobra_rio_fim": "14/03 19:00",
-      "navio_multi": "LOG-IN DISCOVERY",
+      "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/03 17:00"
+      "manobra_multi_data_hora": "14/03 15:00"
     },
     {
       "navio_rio": "CMA CGM BAHIA",
