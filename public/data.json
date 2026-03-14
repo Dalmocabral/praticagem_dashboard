@@ -1,8 +1,8 @@
 {
-  "ultima_atualizacao": "14/03/2026 08:58",
+  "ultima_atualizacao": "14/03/2026 10:12",
   "barra_info": {
-    "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 12/03/2026 17:27 Embarque e desembarque em águas abrigadas para navios e supplies."
+    "restrita": false,
+    "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
     {
@@ -24,7 +24,7 @@
       "data": "14/03",
       "hora": "10:30",
       "navio": "GRANDE AMBURGO",
-      "calado": "8,80",
+      "calado": "9,40",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
