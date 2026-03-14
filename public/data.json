@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "14/03/2026 20:00",
+  "ultima_atualizacao": "14/03/2026 20:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "15/03",
-      "hora": "05:00",
-      "navio": "GRANDE AMBURGO",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9246607",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-15T05:00:00"
-    },
     {
       "data": "15/03",
       "hora": "06:00",
@@ -79,6 +64,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-15T12:00:00"
+    },
+    {
+      "data": "15/03",
+      "hora": "14:00",
+      "navio": "GRANDE AMBURGO",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9246607",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-15T14:00:00"
     },
     {
       "data": "15/03",
@@ -429,6 +429,15 @@
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "15/03 12:00"
+    },
+    {
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/03 08:00",
+      "manobra_rio_fim": "16/03 07:00",
+      "navio_multi": "GRANDE AMBURGO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/03 14:00"
     },
     {
       "navio_rio": "CMA CGM BAHIA",
