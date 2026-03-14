@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/03/2026 10:55",
+  "ultima_atualizacao": "14/03/2026 11:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -46,7 +46,7 @@
       "imo": "9222302",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-03-14T15:30:00"
     },
@@ -159,7 +159,7 @@
       "data": "15/03",
       "hora": "16:00",
       "navio": "MSC ATHENS",
-      "calado": "13,50",
+      "calado": "11,70",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
