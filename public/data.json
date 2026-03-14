@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/03/2026 15:18",
+  "ultima_atualizacao": "14/03/2026 16:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -69,7 +69,7 @@
       "data": "15/03",
       "hora": "06:00",
       "navio": "ALESSIA",
-      "calado": "12,00",
+      "calado": "13,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
