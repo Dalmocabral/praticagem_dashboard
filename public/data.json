@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "14/03/2026 04:46",
+  "ultima_atualizacao": "14/03/2026 05:18",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/03/2026 17:27 Embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "14/03",
-      "hora": "03:00",
-      "navio": "GLOVIS COUGAR",
-      "calado": "9,20",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9451898",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-14T03:00:00"
-    },
-    {
-      "data": "14/03",
-      "hora": "04:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,90",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-14T04:00:00"
-    },
     {
       "data": "14/03",
       "hora": "06:30",
@@ -61,7 +31,7 @@
       "imo": "9225653",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-03-14T08:00:00"
     },
