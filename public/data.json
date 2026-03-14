@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/03/2026 02:56",
+  "ultima_atualizacao": "14/03/2026 04:01",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/03/2026 17:27 Embarque e desembarque em águas abrigadas para navios e supplies."
@@ -24,7 +24,7 @@
       "data": "14/03",
       "hora": "04:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,00",
+      "calado": "8,90",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-14T06:30:00"
     },
@@ -61,7 +61,7 @@
       "imo": "9225653",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-03-14T08:00:00"
     },
