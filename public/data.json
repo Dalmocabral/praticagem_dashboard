@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/03/2026 11:36",
+  "ultima_atualizacao": "14/03/2026 12:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -37,7 +37,7 @@
     },
     {
       "data": "14/03",
-      "hora": "15:30",
+      "hora": "14:30",
       "navio": "MSC PETRA",
       "calado": "12,60",
       "manobra": "S",
@@ -46,13 +46,13 @@
       "imo": "9222302",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-03-14T15:30:00"
+      "timestamp": "2026-03-14T14:30:00"
     },
     {
       "data": "14/03",
-      "hora": "17:30",
+      "hora": "16:30",
       "navio": "MSC INSA",
       "calado": "13,10",
       "manobra": "E",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-14T17:30:00"
+      "timestamp": "2026-03-14T16:30:00"
     },
     {
       "data": "15/03",
@@ -488,7 +488,7 @@
       "manobra_rio_fim": "15/03 10:00",
       "navio_multi": "MSC PETRA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/03 15:30"
+      "manobra_multi_data_hora": "14/03 14:30"
     },
     {
       "navio_rio": "ALESSIA",
@@ -497,7 +497,7 @@
       "manobra_rio_fim": "15/03 10:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/03 17:30"
+      "manobra_multi_data_hora": "14/03 16:30"
     },
     {
       "navio_rio": "ALESSIA",
