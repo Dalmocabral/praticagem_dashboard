@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "14/03/2026 07:45",
+  "ultima_atualizacao": "14/03/2026 08:12",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/03/2026 17:27 Embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "14/03",
-      "hora": "06:30",
-      "navio": "MSC ATHENS",
-      "calado": "13,30",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9618305",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-14T06:30:00"
-    },
     {
       "data": "14/03",
       "hora": "08:00",
