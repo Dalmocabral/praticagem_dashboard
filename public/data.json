@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "14/03/2026 18:57",
+  "ultima_atualizacao": "14/03/2026 19:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "14/03",
-      "hora": "08:00",
-      "navio": "ALESSIA",
-      "calado": "13,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9225653",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-14T08:00:00"
-    },
     {
       "data": "15/03",
       "hora": "05:00",
@@ -427,15 +412,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "ALESSIA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/03 08:00",
-      "manobra_rio_fim": "15/03 06:00",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/03 05:00"
-    },
     {
       "navio_rio": "CMA CGM BAHIA",
       "manobra_rio_afetada": "E",
