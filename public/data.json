@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/03/2026 08:13",
+  "ultima_atualizacao": "15/03/2026 08:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "15/03",
       "hora": "10:00",
       "navio": "MSC INSA",
-      "calado": "13,80",
+      "calado": "13,40",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -39,7 +39,7 @@
       "data": "15/03",
       "hora": "12:00",
       "navio": "MSC MAGNUM VII",
-      "calado": "13,10",
+      "calado": "13,00",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
