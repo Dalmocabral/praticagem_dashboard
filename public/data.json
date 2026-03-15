@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "15/03/2026 13:52",
+  "ultima_atualizacao": "15/03/2026 14:27",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "15/03",
-      "hora": "10:00",
-      "navio": "MSC INSA",
-      "calado": "13,40",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-15T10:00:00"
-    },
-    {
-      "data": "15/03",
-      "hora": "12:00",
-      "navio": "MSC MAGNUM VII",
-      "calado": "13,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9252541",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-15T12:00:00"
-    },
     {
       "data": "15/03",
       "hora": "14:00",
@@ -91,7 +61,7 @@
       "imo": "9360910",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-03-15T18:00:00"
     },
