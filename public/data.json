@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "15/03/2026 18:57",
+  "ultima_atualizacao": "15/03/2026 19:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "15/03",
-      "hora": "18:00",
-      "navio": "SEATTLE C",
-      "calado": "12,30",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9360910",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-15T18:00:00"
-    },
     {
       "data": "15/03",
       "hora": "19:30",
@@ -351,24 +336,5 @@
       "timestamp": "2026-04-03T06:00:00"
     }
   ],
-  "conflitos": [
-    {
-      "navio_rio": "SEATTLE C",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/03 18:00",
-      "manobra_rio_fim": "16/03 08:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/03 19:30"
-    },
-    {
-      "navio_rio": "SEATTLE C",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/03 18:00",
-      "manobra_rio_fim": "16/03 08:00",
-      "navio_multi": "MSC MAGNUM VII",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/03 05:30"
-    }
-  ]
+  "conflitos": []
 }
