@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "15/03/2026 15:53",
+  "ultima_atualizacao": "15/03/2026 16:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "15/03",
-      "hora": "14:00",
-      "navio": "MSC ATHENS",
-      "calado": "11,70",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9618305",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-15T14:00:00"
-    },
-    {
-      "data": "15/03",
-      "hora": "15:00",
-      "navio": "CHIPOL TAIHU",
-      "calado": "7,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9734173",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-15T15:00:00"
-    },
     {
       "data": "15/03",
       "hora": "16:00",
