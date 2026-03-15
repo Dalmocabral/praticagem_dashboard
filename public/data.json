@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/03/2026 11:43",
+  "ultima_atualizacao": "15/03/2026 12:14",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -61,7 +61,7 @@
       "imo": "9734173",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-03-15T15:00:00"
     },
@@ -76,7 +76,7 @@
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-03-15T16:00:00"
     },
@@ -157,6 +157,21 @@
     },
     {
       "data": "16/03",
+      "hora": "16:00",
+      "navio": "POLARIS LEADER",
+      "calado": "8,80",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9372810",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-16T16:00:00"
+    },
+    {
+      "data": "16/03",
       "hora": "18:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,60",
@@ -229,6 +244,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-17T14:00:00"
+    },
+    {
+      "data": "17/03",
+      "hora": "17:00",
+      "navio": "POLARIS LEADER",
+      "calado": "8,80",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9372810",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-17T17:00:00"
     },
     {
       "data": "20/03",
