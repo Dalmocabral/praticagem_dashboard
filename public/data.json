@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/03/2026 17:57",
+  "ultima_atualizacao": "15/03/2026 18:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "15/03",
       "hora": "19:30",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "8,40",
+      "calado": "10,20",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
