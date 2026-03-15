@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "15/03/2026 06:58",
+  "ultima_atualizacao": "15/03/2026 07:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "15/03",
-      "hora": "06:00",
-      "navio": "ALESSIA",
-      "calado": "13,40",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9225653",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-15T06:00:00"
-    },
     {
       "data": "15/03",
       "hora": "08:00",
@@ -46,7 +31,7 @@
       "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-15T10:00:00"
     },
