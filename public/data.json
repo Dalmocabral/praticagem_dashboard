@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/03/2026 18:03",
+  "ultima_atualizacao": "16/03/2026 18:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -172,21 +172,6 @@
     },
     {
       "data": "18/03",
-      "hora": "06:00",
-      "navio": "COSCO SHIPPING PERU",
-      "calado": "13,30",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9945875",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-18T06:00:00"
-    },
-    {
-      "data": "18/03",
       "hora": "08:00",
       "navio": "MAERSK PANGANI",
       "calado": "12,60",
@@ -199,6 +184,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-18T08:00:00"
+    },
+    {
+      "data": "18/03",
+      "hora": "13:00",
+      "navio": "COSCO SHIPPING PERU",
+      "calado": "13,30",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945875",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-18T13:00:00"
     },
     {
       "data": "20/03",
@@ -416,7 +416,7 @@
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "17/03 16:00",
-      "manobra_rio_fim": "18/03 06:00",
+      "manobra_rio_fim": "18/03 13:00",
       "navio_multi": "POLARIS LEADER",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "17/03 18:00"
@@ -425,7 +425,7 @@
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "17/03 16:00",
-      "manobra_rio_fim": "18/03 06:00",
+      "manobra_rio_fim": "18/03 13:00",
       "navio_multi": "GRAND VEGA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "17/03 20:00"
@@ -434,10 +434,19 @@
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "17/03 16:00",
-      "manobra_rio_fim": "18/03 06:00",
+      "manobra_rio_fim": "18/03 13:00",
       "navio_multi": "GRAND VEGA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "18/03 04:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "17/03 16:00",
+      "manobra_rio_fim": "18/03 13:00",
+      "navio_multi": "MAERSK PANGANI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/03 08:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
