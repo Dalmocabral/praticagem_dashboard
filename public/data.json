@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "16/03/2026 09:07",
+  "ultima_atualizacao": "16/03/2026 10:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "16/03",
-      "hora": "08:00",
-      "navio": "SEATTLE C",
-      "calado": "11,90",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9360910",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-16T08:00:00"
-    },
     {
       "data": "16/03",
       "hora": "16:00",
@@ -142,6 +127,21 @@
     },
     {
       "data": "18/03",
+      "hora": "04:00",
+      "navio": "GRAND VEGA",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9355252",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-18T04:00:00"
+    },
+    {
+      "data": "18/03",
       "hora": "06:00",
       "navio": "COSCO SHIPPING PERU",
       "calado": "13,30",
@@ -201,6 +201,21 @@
       "timestamp": "2026-03-21T06:00:00"
     },
     {
+      "data": "23/03",
+      "hora": "09:00",
+      "navio": "MSC ELODIE",
+      "calado": "11,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9704972",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-23T09:00:00"
+    },
+    {
       "data": "24/03",
       "hora": "06:00",
       "navio": "COSCO SHIPPING CHILE",
@@ -214,6 +229,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-24T06:00:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "08:00",
+      "navio": "MSC ELODIE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9704972",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-24T08:00:00"
     },
     {
       "data": "25/03",
@@ -291,6 +321,36 @@
       "timestamp": "2026-03-28T06:00:00"
     },
     {
+      "data": "31/03",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "calado": "14,10",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-31T08:00:00"
+    },
+    {
+      "data": "01/04",
+      "hora": "06:00",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-01T06:00:00"
+    },
+    {
       "data": "02/04",
       "hora": "09:00",
       "navio": "EVER FAR",
@@ -321,5 +381,15 @@
       "timestamp": "2026-04-03T06:00:00"
     }
   ],
-  "conflitos": []
+  "conflitos": [
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/03 06:00",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "MSC ELODIE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/03 08:00"
+    }
+  ]
 }
