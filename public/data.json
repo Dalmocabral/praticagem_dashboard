@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "16/03/2026 06:16",
+  "ultima_atualizacao": "16/03/2026 07:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "16/03",
-      "hora": "05:30",
-      "navio": "MSC MAGNUM VII",
-      "calado": "13,70",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9252541",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-16T05:30:00"
-    },
     {
       "data": "16/03",
       "hora": "07:00",
