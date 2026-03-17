@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/03/2026 12:47",
+  "ultima_atualizacao": "17/03/2026 13:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -16,7 +16,7 @@
       "imo": "9619476",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-17T16:00:00"
     },
@@ -31,7 +31,7 @@
       "imo": "9372810",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-03-17T17:00:00"
     },
@@ -69,7 +69,7 @@
       "data": "18/03",
       "hora": "05:30",
       "navio": "MAERSK PANGANI",
-      "calado": "13,80",
+      "calado": "13,70",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
