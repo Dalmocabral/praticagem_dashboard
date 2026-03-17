@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/03/2026 16:58",
+  "ultima_atualizacao": "17/03/2026 17:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -9,7 +9,7 @@
       "data": "17/03",
       "hora": "19:00",
       "navio": "POLARIS LEADER",
-      "calado": "8,80",
+      "calado": "8,90",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9355252",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-03-17T21:30:00"
     },
