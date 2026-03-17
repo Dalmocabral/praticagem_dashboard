@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/03/2026 11:45",
+  "ultima_atualizacao": "17/03/2026 12:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "17/03",
-      "hora": "14:00",
+      "hora": "16:00",
       "navio": "MSC ANTIGUA",
       "calado": "11,75",
       "manobra": "S",
@@ -16,28 +16,13 @@
       "imo": "9619476",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
+      "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-03-17T14:00:00"
-    },
-    {
-      "data": "17/03",
-      "hora": "16:00",
-      "navio": "COSCO SHIPPING PERU",
-      "calado": "13,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945875",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
       "timestamp": "2026-03-17T16:00:00"
     },
     {
       "data": "17/03",
-      "hora": "19:00",
+      "hora": "17:00",
       "navio": "POLARIS LEADER",
       "calado": "8,80",
       "manobra": "S",
@@ -48,11 +33,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-17T19:00:00"
+      "timestamp": "2026-03-17T17:00:00"
     },
     {
       "data": "17/03",
-      "hora": "21:00",
+      "hora": "19:00",
       "navio": "GRAND VEGA",
       "calado": "10,00",
       "manobra": "E",
@@ -63,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-17T21:00:00"
+      "timestamp": "2026-03-17T19:00:00"
     },
     {
       "data": "18/03",
@@ -97,7 +82,22 @@
     },
     {
       "data": "18/03",
-      "hora": "13:00",
+      "hora": "07:30",
+      "navio": "COSCO SHIPPING PERU",
+      "calado": "13,30",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945875",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-18T07:30:00"
+    },
+    {
+      "data": "19/03",
+      "hora": "06:00",
       "navio": "COSCO SHIPPING PERU",
       "calado": "13,30",
       "manobra": "S",
@@ -108,7 +108,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-18T13:00:00"
+      "timestamp": "2026-03-19T06:00:00"
+    },
+    {
+      "data": "19/03",
+      "hora": "08:00",
+      "navio": "BOW HARMONY",
+      "calado": "7,40",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9379909",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-19T08:00:00"
     },
     {
       "data": "20/03",
@@ -124,6 +139,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-20T06:00:00"
+    },
+    {
+      "data": "20/03",
+      "hora": "21:00",
+      "navio": "BOW HARMONY",
+      "calado": "7,30",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9379909",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-20T21:00:00"
     },
     {
       "data": "21/03",
@@ -323,40 +353,13 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/03 16:00",
-      "manobra_rio_fim": "18/03 13:00",
-      "navio_multi": "POLARIS LEADER",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/03 19:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/03 16:00",
-      "manobra_rio_fim": "18/03 13:00",
-      "navio_multi": "GRAND VEGA",
+      "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "19/03 08:00",
+      "manobra_rio_fim": "20/03 21:00",
+      "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/03 21:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/03 16:00",
-      "manobra_rio_fim": "18/03 13:00",
-      "navio_multi": "GRAND VEGA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/03 04:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/03 16:00",
-      "manobra_rio_fim": "18/03 13:00",
-      "navio_multi": "MAERSK PANGANI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/03 05:30"
+      "manobra_multi_data_hora": "20/03 06:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
