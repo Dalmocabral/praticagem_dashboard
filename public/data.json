@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "17/03/2026 16:07",
+  "ultima_atualizacao": "17/03/2026 16:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "17/03",
-      "hora": "16:00",
-      "navio": "MSC ANTIGUA",
-      "calado": "11,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9619476",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-17T16:00:00"
-    },
     {
       "data": "17/03",
       "hora": "19:00",
@@ -52,7 +37,7 @@
     },
     {
       "data": "18/03",
-      "hora": "04:00",
+      "hora": "04:30",
       "navio": "GRAND VEGA",
       "calado": "10,00",
       "manobra": "S",
@@ -63,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-18T04:00:00"
+      "timestamp": "2026-03-18T04:30:00"
     },
     {
       "data": "18/03",
