@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/03/2026 14:54",
+  "ultima_atualizacao": "17/03/2026 16:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -9,7 +9,7 @@
       "data": "17/03",
       "hora": "16:00",
       "navio": "MSC ANTIGUA",
-      "calado": "11,75",
+      "calado": "11,80",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -22,7 +22,7 @@
     },
     {
       "data": "17/03",
-      "hora": "17:00",
+      "hora": "19:00",
       "navio": "POLARIS LEADER",
       "calado": "8,80",
       "manobra": "S",
@@ -33,11 +33,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-03-17T17:00:00"
+      "timestamp": "2026-03-17T19:00:00"
     },
     {
       "data": "17/03",
-      "hora": "19:00",
+      "hora": "21:30",
       "navio": "GRAND VEGA",
       "calado": "10,00",
       "manobra": "E",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-17T19:00:00"
+      "timestamp": "2026-03-17T21:30:00"
     },
     {
       "data": "18/03",
