@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "18/03/2026 06:30",
+  "ultima_atualizacao": "18/03/2026 07:32",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "18/03",
-      "hora": "05:30",
-      "navio": "MAERSK PANGANI",
-      "calado": "13,70",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9786097",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-18T05:30:00"
-    },
     {
       "data": "18/03",
       "hora": "07:30",
