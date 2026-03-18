@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/03/2026 12:06",
+  "ultima_atualizacao": "18/03/2026 13:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -37,6 +37,21 @@
     },
     {
       "data": "19/03",
+      "hora": "08:00",
+      "navio": "MELINA",
+      "calado": "12,40",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9401075",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-19T08:00:00"
+    },
+    {
+      "data": "19/03",
       "hora": "09:30",
       "navio": "MSC ADELE",
       "calado": "13,00",
@@ -49,6 +64,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-19T09:30:00"
+    },
+    {
+      "data": "19/03",
+      "hora": "18:00",
+      "navio": "MELINA",
+      "calado": "12,40",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9401075",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-19T18:00:00"
     },
     {
       "data": "19/03",
@@ -378,6 +408,15 @@
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "20/03 07:30"
+    },
+    {
+      "navio_rio": "MELINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/03 08:00",
+      "manobra_rio_fim": "19/03 18:00",
+      "navio_multi": "MSC ADELE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/03 09:30"
     },
     {
       "navio_rio": "BOW HARMONY",
