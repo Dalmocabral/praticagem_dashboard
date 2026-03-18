@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "18/03/2026 02:10",
+  "ultima_atualizacao": "18/03/2026 03:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "18/03",
-      "hora": "04:30",
-      "navio": "GRAND VEGA",
-      "calado": "8,80",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9355252",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-18T04:30:00"
-    },
     {
       "data": "18/03",
       "hora": "05:30",
@@ -31,7 +16,7 @@
       "imo": "9786097",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-18T05:30:00"
     },
@@ -49,6 +34,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-18T07:30:00"
+    },
+    {
+      "data": "18/03",
+      "hora": "09:30",
+      "navio": "GRAND VEGA",
+      "calado": "8,80",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9355252",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-18T09:30:00"
     },
     {
       "data": "18/03",
@@ -337,6 +337,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/03 07:30",
+      "manobra_rio_fim": "19/03 06:00",
+      "navio_multi": "GRAND VEGA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/03 09:30"
+    },
     {
       "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "S",
