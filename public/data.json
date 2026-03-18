@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "18/03/2026 13:17",
+  "ultima_atualizacao": "18/03/2026 14:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "18/03",
-      "hora": "13:00",
-      "navio": "BBC ELISABETH",
-      "calado": "8,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9593660",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-18T13:00:00"
-    },
     {
       "data": "19/03",
       "hora": "06:00",
@@ -142,21 +127,6 @@
     },
     {
       "data": "21/03",
-      "hora": "05:00",
-      "navio": "BOW HARMONY",
-      "calado": "7,30",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9379909",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-21T05:00:00"
-    },
-    {
-      "data": "21/03",
       "hora": "06:00",
       "navio": "MSC PAMELA",
       "calado": "12,60",
@@ -184,6 +154,51 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-21T08:00:00"
+    },
+    {
+      "data": "21/03",
+      "hora": "16:00",
+      "navio": "BOW HARMONY",
+      "calado": "7,30",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9379909",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-21T16:00:00"
+    },
+    {
+      "data": "21/03",
+      "hora": "18:30",
+      "navio": "MALIAKOS",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9464247",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-21T18:30:00"
+    },
+    {
+      "data": "22/03",
+      "hora": "04:00",
+      "navio": "MALIAKOS",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9464247",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-22T04:00:00"
     },
     {
       "data": "22/03",
@@ -383,33 +398,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "BBC ELISABETH",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/03 13:00",
-      "manobra_rio_fim": "20/03 20:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/03 09:30"
-    },
-    {
-      "navio_rio": "BBC ELISABETH",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/03 13:00",
-      "manobra_rio_fim": "20/03 20:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/03 05:30"
-    },
-    {
-      "navio_rio": "BBC ELISABETH",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/03 13:00",
-      "manobra_rio_fim": "20/03 20:00",
-      "navio_multi": "MSC PAMELA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/03 07:30"
-    },
-    {
       "navio_rio": "MELINA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "19/03 08:00",
@@ -422,7 +410,7 @@
       "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 05:00",
+      "manobra_rio_fim": "21/03 16:00",
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "20/03 05:30"
@@ -431,10 +419,28 @@
       "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 05:00",
+      "manobra_rio_fim": "21/03 16:00",
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "20/03 07:30"
+    },
+    {
+      "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "19/03 20:00",
+      "manobra_rio_fim": "21/03 16:00",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/03 06:00"
+    },
+    {
+      "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "19/03 20:00",
+      "manobra_rio_fim": "21/03 16:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/03 08:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
