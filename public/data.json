@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "18/03/2026 10:54",
+  "ultima_atualizacao": "18/03/2026 12:06",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "18/03",
-      "hora": "09:30",
-      "navio": "GRAND VEGA",
-      "calado": "8,80",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9355252",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-18T09:30:00"
-    },
     {
       "data": "18/03",
       "hora": "13:00",
@@ -52,21 +37,6 @@
     },
     {
       "data": "19/03",
-      "hora": "08:00",
-      "navio": "BOW HARMONY",
-      "calado": "7,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9379909",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-19T08:00:00"
-    },
-    {
-      "data": "19/03",
       "hora": "09:30",
       "navio": "MSC ADELE",
       "calado": "13,00",
@@ -79,6 +49,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-19T09:30:00"
+    },
+    {
+      "data": "19/03",
+      "hora": "20:00",
+      "navio": "BOW HARMONY",
+      "calado": "7,40",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9379909",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-19T20:00:00"
     },
     {
       "data": "20/03",
@@ -126,8 +111,8 @@
       "timestamp": "2026-03-20T20:00:00"
     },
     {
-      "data": "20/03",
-      "hora": "21:00",
+      "data": "21/03",
+      "hora": "05:00",
       "navio": "BOW HARMONY",
       "calado": "7,30",
       "manobra": "S",
@@ -138,7 +123,7 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-20T21:00:00"
+      "timestamp": "2026-03-21T05:00:00"
     },
     {
       "data": "21/03",
@@ -397,26 +382,17 @@
     {
       "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/03 08:00",
-      "manobra_rio_fim": "20/03 21:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/03 09:30"
-    },
-    {
-      "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/03 08:00",
-      "manobra_rio_fim": "20/03 21:00",
+      "manobra_rio_inicio": "19/03 20:00",
+      "manobra_rio_fim": "21/03 05:00",
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "20/03 05:30"
     },
     {
       "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/03 08:00",
-      "manobra_rio_fim": "20/03 21:00",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/03 20:00",
+      "manobra_rio_fim": "21/03 05:00",
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "20/03 07:30"
