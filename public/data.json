@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/03/2026 07:32",
+  "ultima_atualizacao": "18/03/2026 08:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -96,8 +96,38 @@
       "timestamp": "2026-03-19T08:00:00"
     },
     {
+      "data": "19/03",
+      "hora": "09:30",
+      "navio": "MSC ADELE",
+      "calado": "13,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1016692",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-19T09:30:00"
+    },
+    {
       "data": "20/03",
-      "hora": "06:00",
+      "hora": "05:30",
+      "navio": "MSC ADELE",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1016692",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-20T05:30:00"
+    },
+    {
+      "data": "20/03",
+      "hora": "07:30",
       "navio": "MSC PAMELA",
       "calado": "14,00",
       "manobra": "E",
@@ -108,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-20T06:00:00"
+      "timestamp": "2026-03-20T07:30:00"
     },
     {
       "data": "20/03",
@@ -277,7 +307,7 @@
     },
     {
       "data": "01/04",
-      "hora": "06:00",
+      "hora": "06:30",
       "navio": "COSCO SHIPPING ARGENTINA",
       "calado": "13,50",
       "manobra": "S",
@@ -288,7 +318,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-01T06:00:00"
+      "timestamp": "2026-04-01T06:30:00"
     },
     {
       "data": "02/04",
@@ -333,12 +363,30 @@
     },
     {
       "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/03 08:00",
+      "manobra_rio_fim": "20/03 21:00",
+      "navio_multi": "MSC ADELE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/03 09:30"
+    },
+    {
+      "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "19/03 08:00",
+      "manobra_rio_fim": "20/03 21:00",
+      "navio_multi": "MSC ADELE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/03 05:30"
+    },
+    {
+      "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "19/03 08:00",
       "manobra_rio_fim": "20/03 21:00",
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/03 06:00"
+      "manobra_multi_data_hora": "20/03 07:30"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
