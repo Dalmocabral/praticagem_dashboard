@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/03/2026 19:52",
+  "ultima_atualizacao": "18/03/2026 20:30",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -112,6 +112,21 @@
     },
     {
       "data": "20/03",
+      "hora": "12:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,90",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-20T12:00:00"
+    },
+    {
+      "data": "20/03",
       "hora": "20:00",
       "navio": "BBC ELISABETH",
       "calado": "6,50",
@@ -124,6 +139,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-20T20:00:00"
+    },
+    {
+      "data": "20/03",
+      "hora": "22:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "M",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-20T22:00:00"
+    },
+    {
+      "data": "21/03",
+      "hora": "05:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,20",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-21T05:00:00"
     },
     {
       "data": "21/03",
@@ -206,7 +251,7 @@
       "navio": "CMA CGM SANTOS",
       "calado": "10,00",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9649835",
       "tipo_navio": "CONTAINER SHIP",
@@ -251,7 +296,7 @@
       "navio": "CMA CGM SANTOS",
       "calado": "10,00",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9649835",
       "tipo_navio": "CONTAINER SHIP",
@@ -513,6 +558,15 @@
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "20/03 07:30"
+    },
+    {
+      "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "19/03 20:00",
+      "manobra_rio_fim": "21/03 16:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/03 05:00"
     },
     {
       "navio_rio": "BOW HARMONY",
