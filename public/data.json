@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "19/03/2026 18:44",
+  "ultima_atualizacao": "19/03/2026 19:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "19/03",
-      "hora": "18:00",
-      "navio": "MELINA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9401075",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-19T18:00:00"
-    },
     {
       "data": "19/03",
       "hora": "20:00",
@@ -109,21 +94,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-20T16:00:00"
-    },
-    {
-      "data": "20/03",
-      "hora": "20:00",
-      "navio": "BBC ELISABETH",
-      "calado": "6,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9593660",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-20T20:00:00"
     },
     {
       "data": "20/03",
@@ -441,6 +411,21 @@
       "timestamp": "2026-03-23T17:00:00"
     },
     {
+      "data": "23/03",
+      "hora": "22:00",
+      "navio": "BBC ELISABETH",
+      "calado": "6,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9593660",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-23T22:00:00"
+    },
+    {
       "data": "24/03",
       "hora": "06:00",
       "navio": "COSCO SHIPPING CHILE",
@@ -499,6 +484,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-25T06:00:00"
+    },
+    {
+      "data": "25/03",
+      "hora": "07:00",
+      "navio": "MSC PINA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9339272",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-25T07:00:00"
     },
     {
       "data": "25/03",
