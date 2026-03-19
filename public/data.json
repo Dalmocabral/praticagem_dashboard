@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/03/2026 17:56",
+  "ultima_atualizacao": "19/03/2026 18:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -67,6 +67,21 @@
     },
     {
       "data": "20/03",
+      "hora": "10:00",
+      "navio": "MSC PAMELA",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-20T10:00:00"
+    },
+    {
+      "data": "20/03",
       "hora": "12:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,90",
@@ -86,7 +101,7 @@
       "navio": "BREMERHAVEN EXPRESS",
       "calado": "12,20",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
@@ -127,18 +142,18 @@
     },
     {
       "data": "21/03",
-      "hora": "00:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT2",
+      "hora": "03:00",
+      "navio": "MSC PAMELA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9506394",
+      "imo": "9290531",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-21T00:00:00"
+      "timestamp": "2026-03-21T03:00:00"
     },
     {
       "data": "21/03",
@@ -176,7 +191,7 @@
       "navio": "BREMERHAVEN EXPRESS",
       "calado": "12,20",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
@@ -232,7 +247,7 @@
     },
     {
       "data": "21/03",
-      "hora": "22:00",
+      "hora": "16:30",
       "navio": "MSC FIRENZE",
       "calado": "12,60",
       "manobra": "S",
@@ -243,7 +258,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-21T22:00:00"
+      "timestamp": "2026-03-21T16:30:00"
+    },
+    {
+      "data": "22/03",
+      "hora": "01:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-22T01:00:00"
     },
     {
       "data": "22/03",
@@ -277,36 +307,6 @@
     },
     {
       "data": "22/03",
-      "hora": "08:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-22T08:00:00"
-    },
-    {
-      "data": "22/03",
-      "hora": "10:00",
-      "navio": "MSC PAMELA",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9290531",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-22T10:00:00"
-    },
-    {
-      "data": "22/03",
       "hora": "14:00",
       "navio": "MALIAKOS",
       "calado": "12,60",
@@ -337,21 +337,6 @@
     },
     {
       "data": "23/03",
-      "hora": "01:00",
-      "navio": "MSC ELODIE",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-23T01:00:00"
-    },
-    {
-      "data": "23/03",
       "hora": "03:00",
       "navio": "MALIAKOS",
       "calado": "12,60",
@@ -364,6 +349,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-23T03:00:00"
+    },
+    {
+      "data": "23/03",
+      "hora": "04:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-23T04:00:00"
     },
     {
       "data": "23/03",
@@ -382,18 +382,33 @@
     },
     {
       "data": "23/03",
-      "hora": "09:00",
-      "navio": "MSC PAMELA",
-      "calado": "12,60",
-      "manobra": "S",
+      "hora": "08:30",
+      "navio": "MSC ELODIE",
+      "calado": "11,30",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9290531",
+      "imo": "9704972",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-23T09:00:00"
+      "timestamp": "2026-03-23T08:30:00"
+    },
+    {
+      "data": "23/03",
+      "hora": "10:00",
+      "navio": "MSC CADIZ",
+      "calado": "11,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9480203",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-23T10:00:00"
     },
     {
       "data": "23/03",
@@ -412,18 +427,18 @@
     },
     {
       "data": "23/03",
-      "hora": "23:00",
+      "hora": "17:00",
       "navio": "MSC ELODIE",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9704972",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-23T23:00:00"
+      "timestamp": "2026-03-23T17:00:00"
     },
     {
       "data": "24/03",
@@ -439,6 +454,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-24T06:00:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "08:00",
+      "navio": "MSC CADIZ",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9480203",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-24T08:00:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "10:00",
+      "navio": "MSC PINA",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9339272",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-24T10:00:00"
     },
     {
       "data": "25/03",
@@ -597,6 +642,15 @@
     },
     {
       "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/03 20:00",
+      "manobra_rio_fim": "21/03 10:00",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "20/03 10:00"
+    },
+    {
+      "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "19/03 20:00",
       "manobra_rio_fim": "21/03 10:00",
@@ -609,9 +663,9 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "19/03 20:00",
       "manobra_rio_fim": "21/03 10:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/03 00:00"
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/03 03:00"
     },
     {
       "navio_rio": "BOW HARMONY",
@@ -660,48 +714,57 @@
     },
     {
       "navio_rio": "HANS SCHULTE",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "21/03 12:00",
       "manobra_rio_fim": "22/03 04:00",
       "navio_multi": "MSC FIRENZE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/03 22:00"
+      "manobra_multi_data_hora": "21/03 16:30"
     },
     {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/03 06:00",
-      "manobra_rio_fim": "22/03 16:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/03 08:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/03 06:00",
-      "manobra_rio_fim": "22/03 16:00",
-      "navio_multi": "MSC PAMELA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "22/03 10:00"
-    },
-    {
-      "navio_rio": "MALIAKOS",
+      "navio_rio": "HANS SCHULTE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/03 14:00",
-      "manobra_rio_fim": "23/03 03:00",
-      "navio_multi": "MSC ELODIE",
+      "manobra_rio_inicio": "21/03 12:00",
+      "manobra_rio_fim": "22/03 04:00",
+      "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/03 01:00"
+      "manobra_multi_data_hora": "22/03 01:00"
     },
     {
       "navio_rio": "NAVIOS VERDE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/03 07:00",
       "manobra_rio_fim": "23/03 16:00",
-      "navio_multi": "MSC PAMELA",
+      "navio_multi": "MSC ELODIE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/03 08:30"
+    },
+    {
+      "navio_rio": "NAVIOS VERDE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/03 07:00",
+      "manobra_rio_fim": "23/03 16:00",
+      "navio_multi": "MSC CADIZ",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/03 10:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/03 06:00",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "MSC CADIZ",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/03 09:00"
+      "manobra_multi_data_hora": "24/03 08:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/03 06:00",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "MSC PINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "24/03 10:00"
     }
   ]
 }
