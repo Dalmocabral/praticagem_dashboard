@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "19/03/2026 11:36",
+  "ultima_atualizacao": "19/03/2026 12:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "19/03",
-      "hora": "09:30",
-      "navio": "MSC ADELE",
-      "calado": "11,70",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-19T09:30:00"
-    },
     {
       "data": "19/03",
       "hora": "18:00",
@@ -217,7 +202,7 @@
     },
     {
       "data": "21/03",
-      "hora": "16:00",
+      "hora": "10:00",
       "navio": "BOW HARMONY",
       "calado": "7,30",
       "manobra": "S",
@@ -228,7 +213,7 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-21T16:00:00"
+      "timestamp": "2026-03-21T10:00:00"
     },
     {
       "data": "21/03",
@@ -352,6 +337,21 @@
     },
     {
       "data": "23/03",
+      "hora": "05:00",
+      "navio": "MSC ELODIE",
+      "calado": "11,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9704972",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-23T05:00:00"
+    },
+    {
+      "data": "23/03",
       "hora": "07:00",
       "navio": "NAVIOS VERDE",
       "calado": "12,30",
@@ -364,21 +364,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-23T07:00:00"
-    },
-    {
-      "data": "23/03",
-      "hora": "09:00",
-      "navio": "MSC ELODIE",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-23T09:00:00"
     },
     {
       "data": "23/03",
@@ -396,6 +381,21 @@
       "timestamp": "2026-03-23T16:00:00"
     },
     {
+      "data": "23/03",
+      "hora": "23:00",
+      "navio": "MSC ELODIE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9704972",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-23T23:00:00"
+    },
+    {
       "data": "24/03",
       "hora": "06:00",
       "navio": "COSCO SHIPPING CHILE",
@@ -409,21 +409,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-24T06:00:00"
-    },
-    {
-      "data": "24/03",
-      "hora": "08:00",
-      "navio": "MSC ELODIE",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-24T08:00:00"
     },
     {
       "data": "25/03",
@@ -566,7 +551,7 @@
       "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 16:00",
+      "manobra_rio_fim": "21/03 10:00",
       "navio_multi": "GRANDE NIGERIA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "20/03 05:00"
@@ -575,7 +560,7 @@
       "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 16:00",
+      "manobra_rio_fim": "21/03 10:00",
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "20/03 08:00"
@@ -584,7 +569,7 @@
       "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 16:00",
+      "manobra_rio_fim": "21/03 10:00",
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "20/03 10:00"
@@ -593,7 +578,7 @@
       "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 16:00",
+      "manobra_rio_fim": "21/03 10:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "21/03 00:00"
@@ -602,7 +587,7 @@
       "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 16:00",
+      "manobra_rio_fim": "21/03 10:00",
       "navio_multi": "GRANDE NIGERIA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "21/03 04:00"
@@ -611,7 +596,7 @@
       "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 16:00",
+      "manobra_rio_fim": "21/03 10:00",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "21/03 05:00"
@@ -620,7 +605,7 @@
       "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 16:00",
+      "manobra_rio_fim": "21/03 10:00",
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "21/03 06:00"
@@ -629,7 +614,7 @@
       "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 16:00",
+      "manobra_rio_fim": "21/03 10:00",
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "21/03 08:00"
@@ -660,24 +645,6 @@
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "22/03 12:00"
-    },
-    {
-      "navio_rio": "NAVIOS VERDE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/03 07:00",
-      "manobra_rio_fim": "23/03 16:00",
-      "navio_multi": "MSC ELODIE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/03 09:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/03 06:00",
-      "manobra_rio_fim": "25/03 06:00",
-      "navio_multi": "MSC ELODIE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 08:00"
     }
   ]
 }
