@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "19/03/2026 06:57",
+  "ultima_atualizacao": "19/03/2026 07:55",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "19/03",
-      "hora": "06:00",
-      "navio": "COSCO SHIPPING PERU",
-      "calado": "13,70",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945875",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-19T06:00:00"
-    },
     {
       "data": "19/03",
       "hora": "08:00",
@@ -84,7 +69,7 @@
       "data": "20/03",
       "hora": "05:30",
       "navio": "MSC ADELE",
-      "calado": "13,00",
+      "calado": "9,60",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
