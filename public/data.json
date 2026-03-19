@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/03/2026 10:41",
+  "ultima_atualizacao": "19/03/2026 11:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -217,21 +217,6 @@
     },
     {
       "data": "21/03",
-      "hora": "10:00",
-      "navio": "GRANDE SAN PAOLO",
-      "calado": "9,10",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9253208",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-21T10:00:00"
-    },
-    {
-      "data": "21/03",
       "hora": "16:00",
       "navio": "BOW HARMONY",
       "calado": "7,30",
@@ -259,21 +244,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-21T18:30:00"
-    },
-    {
-      "data": "22/03",
-      "hora": "03:00",
-      "navio": "GRANDE SAN PAOLO",
-      "calado": "9,50",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9253208",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-22T03:00:00"
     },
     {
       "data": "22/03",
@@ -663,24 +633,6 @@
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "21/03 08:00"
-    },
-    {
-      "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 16:00",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/03 10:00"
-    },
-    {
-      "navio_rio": "MALIAKOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/03 18:30",
-      "manobra_rio_fim": "22/03 04:00",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/03 03:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
