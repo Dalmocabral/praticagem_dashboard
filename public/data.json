@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/03/2026 12:37",
+  "ultima_atualizacao": "19/03/2026 13:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -217,28 +217,28 @@
     },
     {
       "data": "21/03",
-      "hora": "18:30",
-      "navio": "MALIAKOS",
-      "calado": "12,60",
+      "hora": "12:00",
+      "navio": "HANS SCHULTE",
+      "calado": "13,80",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9464247",
+      "imo": "9531909",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-21T18:30:00"
+      "timestamp": "2026-03-21T12:00:00"
     },
     {
       "data": "22/03",
       "hora": "04:00",
-      "navio": "MALIAKOS",
-      "calado": "12,60",
+      "navio": "HANS SCHULTE",
+      "calado": "12,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9464247",
+      "imo": "9531909",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -277,21 +277,6 @@
     },
     {
       "data": "22/03",
-      "hora": "10:00",
-      "navio": "HANS SCHULTE",
-      "calado": "12,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9531909",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-22T10:00:00"
-    },
-    {
-      "data": "22/03",
       "hora": "12:00",
       "navio": "BREMERHAVEN EXPRESS",
       "calado": "12,20",
@@ -304,6 +289,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-22T12:00:00"
+    },
+    {
+      "data": "22/03",
+      "hora": "14:00",
+      "navio": "MALIAKOS",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9464247",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-22T14:00:00"
     },
     {
       "data": "22/03",
@@ -321,19 +321,19 @@
       "timestamp": "2026-03-22T16:00:00"
     },
     {
-      "data": "22/03",
-      "hora": "23:00",
-      "navio": "HANS SCHULTE",
-      "calado": "12,50",
+      "data": "23/03",
+      "hora": "03:00",
+      "navio": "MALIAKOS",
+      "calado": "12,60",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9531909",
+      "imo": "9464247",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-22T23:00:00"
+      "timestamp": "2026-03-23T03:00:00"
     },
     {
       "data": "23/03",
@@ -633,15 +633,6 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "22/03 06:00",
       "manobra_rio_fim": "22/03 16:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/03 12:00"
-    },
-    {
-      "navio_rio": "HANS SCHULTE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/03 10:00",
-      "manobra_rio_fim": "22/03 23:00",
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "22/03 12:00"
