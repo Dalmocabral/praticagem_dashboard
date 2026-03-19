@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/03/2026 15:36",
+  "ultima_atualizacao": "19/03/2026 16:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -9,7 +9,7 @@
       "data": "19/03",
       "hora": "18:00",
       "navio": "MELINA",
-      "calado": "12,40",
+      "calado": "12,60",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9379909",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-03-19T20:00:00"
     },
@@ -337,6 +337,21 @@
     },
     {
       "data": "23/03",
+      "hora": "01:00",
+      "navio": "MSC ELODIE",
+      "calado": "11,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9704972",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-23T01:00:00"
+    },
+    {
+      "data": "23/03",
       "hora": "03:00",
       "navio": "MALIAKOS",
       "calado": "12,60",
@@ -349,21 +364,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-23T03:00:00"
-    },
-    {
-      "data": "23/03",
-      "hora": "05:00",
-      "navio": "MSC ELODIE",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-23T05:00:00"
     },
     {
       "data": "23/03",
@@ -684,6 +684,15 @@
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "22/03 10:00"
+    },
+    {
+      "navio_rio": "MALIAKOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/03 14:00",
+      "manobra_rio_fim": "23/03 03:00",
+      "navio_multi": "MSC ELODIE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/03 01:00"
     },
     {
       "navio_rio": "NAVIOS VERDE",
