@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/03/2026 08:40",
+  "ultima_atualizacao": "19/03/2026 09:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -64,6 +64,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-19T20:00:00"
+    },
+    {
+      "data": "20/03",
+      "hora": "05:00",
+      "navio": "GRANDE NIGERIA",
+      "calado": "8,60",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9246580",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-20T05:00:00"
     },
     {
       "data": "20/03",
@@ -139,6 +154,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-20T22:00:00"
+    },
+    {
+      "data": "21/03",
+      "hora": "04:00",
+      "navio": "GRANDE NIGERIA",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9246580",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-21T04:00:00"
     },
     {
       "data": "21/03",
@@ -399,7 +429,7 @@
       "data": "25/03",
       "hora": "10:00",
       "navio": "KOTA PAHLAWAN",
-      "calado": "14,40",
+      "calado": "14,50",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -414,7 +444,7 @@
       "data": "26/03",
       "hora": "07:00",
       "navio": "KOTA PAHLAWAN",
-      "calado": "14,40",
+      "calado": "14,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -531,6 +561,15 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "19/03 20:00",
       "manobra_rio_fim": "21/03 16:00",
+      "navio_multi": "GRANDE NIGERIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "20/03 05:00"
+    },
+    {
+      "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/03 20:00",
+      "manobra_rio_fim": "21/03 16:00",
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "20/03 08:00"
@@ -543,6 +582,15 @@
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "20/03 10:00"
+    },
+    {
+      "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "19/03 20:00",
+      "manobra_rio_fim": "21/03 16:00",
+      "navio_multi": "GRANDE NIGERIA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/03 04:00"
     },
     {
       "navio_rio": "BOW HARMONY",
