@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "19/03/2026 20:54",
+  "ultima_atualizacao": "19/03/2026 23:28",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "19/03",
-      "hora": "20:00",
-      "navio": "BOW HARMONY",
-      "calado": "7,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9379909",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-19T20:00:00"
-    },
     {
       "data": "20/03",
       "hora": "05:00",
@@ -27,7 +12,7 @@
       "calado": "8,60",
       "manobra": "E",
       "beco": "TECONT5",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9246580",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
@@ -42,7 +27,7 @@
       "calado": "9,60",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "1016692",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,7 +42,7 @@
       "calado": "14,00",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9290531",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -72,7 +57,7 @@
       "calado": "8,90",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -87,7 +72,7 @@
       "calado": "12,20",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -102,7 +87,7 @@
       "calado": "9,00",
       "manobra": "M",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -247,9 +232,9 @@
     },
     {
       "data": "22/03",
-      "hora": "04:00",
+      "hora": "06:00",
       "navio": "HANS SCHULTE",
-      "calado": "12,50",
+      "calado": "13,80",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -258,11 +243,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-22T04:00:00"
+      "timestamp": "2026-03-22T06:00:00"
     },
     {
       "data": "22/03",
-      "hora": "06:00",
+      "hora": "08:00",
       "navio": "CMA CGM SANTOS",
       "calado": "10,00",
       "manobra": "E",
@@ -273,7 +258,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-22T06:00:00"
+      "timestamp": "2026-03-22T08:00:00"
     },
     {
       "data": "22/03",
@@ -623,87 +608,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 10:00",
-      "navio_multi": "GRANDE NIGERIA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/03 05:00"
-    },
-    {
-      "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 10:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/03 08:00"
-    },
-    {
-      "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 10:00",
-      "navio_multi": "MSC PAMELA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/03 10:00"
-    },
-    {
-      "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 10:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/03 16:00"
-    },
-    {
-      "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 10:00",
-      "navio_multi": "MSC PAMELA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/03 03:00"
-    },
-    {
-      "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 10:00",
-      "navio_multi": "GRANDE NIGERIA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/03 04:00"
-    },
-    {
-      "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 10:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/03 05:00"
-    },
-    {
-      "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 10:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/03 06:00"
-    },
-    {
-      "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/03 20:00",
-      "manobra_rio_fim": "21/03 10:00",
-      "navio_multi": "MSC FIRENZE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/03 08:00"
-    },
-    {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "20/03 12:00",
@@ -716,7 +620,7 @@
       "navio_rio": "HANS SCHULTE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "21/03 12:00",
-      "manobra_rio_fim": "22/03 04:00",
+      "manobra_rio_fim": "22/03 06:00",
       "navio_multi": "MSC FIRENZE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "21/03 16:30"
@@ -725,7 +629,7 @@
       "navio_rio": "HANS SCHULTE",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "21/03 12:00",
-      "manobra_rio_fim": "22/03 04:00",
+      "manobra_rio_fim": "22/03 06:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "22/03 01:00"
