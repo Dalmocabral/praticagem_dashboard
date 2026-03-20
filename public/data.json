@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/03/2026 20:14",
+  "ultima_atualizacao": "20/03/2026 20:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -84,7 +84,7 @@
       "data": "21/03",
       "hora": "06:00",
       "navio": "BREMERHAVEN EXPRESS",
-      "calado": "13,80",
+      "calado": "13,00",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -159,7 +159,7 @@
       "data": "21/03",
       "hora": "17:00",
       "navio": "MSC FIRENZE",
-      "calado": "14,50",
+      "calado": "14,60",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
