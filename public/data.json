@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/03/2026 12:55",
+  "ultima_atualizacao": "20/03/2026 13:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -37,21 +37,6 @@
     },
     {
       "data": "20/03",
-      "hora": "12:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,10",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-20T12:00:00"
-    },
-    {
-      "data": "20/03",
       "hora": "16:00",
       "navio": "BREMERHAVEN EXPRESS",
       "calado": "12,20",
@@ -61,7 +46,7 @@
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-20T16:00:00"
     },
@@ -130,7 +115,7 @@
       "hora": "10:00",
       "navio": "BOW HARMONY",
       "calado": "7,30",
-      "manobra": "S",
+      "manobra": "M",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9379909",
@@ -592,15 +577,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/03 12:00",
-      "manobra_rio_fim": "20/03 22:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/03 16:00"
-    },
     {
       "navio_rio": "HANS SCHULTE",
       "manobra_rio_afetada": "E",
