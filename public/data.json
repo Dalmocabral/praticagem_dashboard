@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/03/2026 17:59",
+  "ultima_atualizacao": "20/03/2026 18:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -292,6 +292,21 @@
     },
     {
       "data": "23/03",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING CHILE",
+      "calado": "14,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945887",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-23T08:00:00"
+    },
+    {
+      "data": "23/03",
       "hora": "10:00",
       "navio": "MSC CADIZ",
       "calado": "11,30",
@@ -307,18 +322,18 @@
     },
     {
       "data": "23/03",
-      "hora": "12:00",
+      "hora": "14:00",
       "navio": "CMA CGM SANTOS",
       "calado": "10,00",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9649835",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-23T12:00:00"
+      "timestamp": "2026-03-23T14:00:00"
     },
     {
       "data": "23/03",
@@ -356,7 +371,7 @@
       "navio": "CMA CGM SANTOS",
       "calado": "10,00",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9649835",
       "tipo_navio": "CONTAINER SHIP",
@@ -369,8 +384,8 @@
       "data": "24/03",
       "hora": "06:00",
       "navio": "COSCO SHIPPING CHILE",
-      "calado": "14,60",
-      "manobra": "E",
+      "calado": "14,00",
+      "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9945887",
@@ -409,6 +424,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-24T10:00:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "12:00",
+      "navio": "CMA CGM PARATY",
+      "calado": "13,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938262",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-24T12:00:00"
     },
     {
       "data": "24/03",
@@ -454,21 +484,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-24T23:00:00"
-    },
-    {
-      "data": "25/03",
-      "hora": "06:00",
-      "navio": "COSCO SHIPPING CHILE",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9945887",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-25T06:00:00"
     },
     {
       "data": "25/03",
@@ -644,40 +659,31 @@
       "manobra_multi_data_hora": "22/03 10:00"
     },
     {
-      "navio_rio": "CMA CGM SANTOS",
+      "navio_rio": "COSCO SHIPPING CHILE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/03 12:00",
-      "manobra_rio_fim": "24/03 01:00",
+      "manobra_rio_inicio": "23/03 08:00",
+      "manobra_rio_fim": "24/03 06:00",
+      "navio_multi": "MSC CADIZ",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/03 10:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/03 08:00",
+      "manobra_rio_fim": "24/03 06:00",
       "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/03 17:00"
     },
     {
-      "navio_rio": "COSCO SHIPPING CHILE",
+      "navio_rio": "CMA CGM SANTOS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/03 06:00",
-      "manobra_rio_fim": "25/03 06:00",
-      "navio_multi": "MSC CADIZ",
+      "manobra_rio_inicio": "23/03 14:00",
+      "manobra_rio_fim": "24/03 01:00",
+      "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 08:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/03 06:00",
-      "manobra_rio_fim": "25/03 06:00",
-      "navio_multi": "MSC PINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 10:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/03 06:00",
-      "manobra_rio_fim": "25/03 06:00",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 22:00"
+      "manobra_multi_data_hora": "23/03 17:00"
     },
     {
       "navio_rio": "NAVIOS VERDE",
