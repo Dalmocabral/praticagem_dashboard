@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/03/2026 18:40",
+  "ultima_atualizacao": "20/03/2026 18:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -322,6 +322,21 @@
     },
     {
       "data": "23/03",
+      "hora": "12:00",
+      "navio": "BBC ELISABETH",
+      "calado": "6,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9593660",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-23T12:00:00"
+    },
+    {
+      "data": "23/03",
       "hora": "14:00",
       "navio": "CMA CGM SANTOS",
       "calado": "10,00",
@@ -349,21 +364,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-23T17:00:00"
-    },
-    {
-      "data": "23/03",
-      "hora": "22:00",
-      "navio": "BBC ELISABETH",
-      "calado": "6,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9593660",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-23T22:00:00"
     },
     {
       "data": "24/03",
@@ -484,6 +484,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-24T23:00:00"
+    },
+    {
+      "data": "25/03",
+      "hora": "06:00",
+      "navio": "CMA CGM PARATY",
+      "calado": "12,80",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938262",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-25T06:00:00"
     },
     {
       "data": "25/03",
@@ -684,6 +699,15 @@
       "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/03 17:00"
+    },
+    {
+      "navio_rio": "CMA CGM PARATY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/03 12:00",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/03 22:00"
     },
     {
       "navio_rio": "NAVIOS VERDE",
