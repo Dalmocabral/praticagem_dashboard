@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "20/03/2026 05:58",
+  "ultima_atualizacao": "20/03/2026 06:55",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "20/03",
-      "hora": "05:00",
-      "navio": "GRANDE NIGERIA",
-      "calado": "8,60",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9246580",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-20T05:00:00"
-    },
     {
       "data": "20/03",
       "hora": "08:00",
@@ -46,7 +31,7 @@
       "imo": "9290531",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-03-20T10:00:00"
     },
