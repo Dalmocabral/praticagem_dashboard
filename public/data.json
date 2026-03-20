@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/03/2026 14:37",
+  "ultima_atualizacao": "20/03/2026 15:24",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -247,6 +247,21 @@
     },
     {
       "data": "23/03",
+      "hora": "02:00",
+      "navio": "GRANDE SAN PAOLO",
+      "calado": "9,10",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9253208",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-23T02:00:00"
+    },
+    {
+      "data": "23/03",
       "hora": "04:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
@@ -262,7 +277,7 @@
     },
     {
       "data": "23/03",
-      "hora": "08:30",
+      "hora": "06:00",
       "navio": "MSC ELODIE",
       "calado": "11,30",
       "manobra": "E",
@@ -273,7 +288,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-23T08:30:00"
+      "timestamp": "2026-03-23T06:00:00"
     },
     {
       "data": "23/03",
@@ -409,6 +424,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-24T12:00:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "22:00",
+      "navio": "GRANDE SAN PAOLO",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9253208",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-24T22:00:00"
     },
     {
       "data": "24/03",
@@ -639,6 +669,24 @@
       "navio_multi": "MSC PINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/03 10:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/03 06:00",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/03 22:00"
+    },
+    {
+      "navio_rio": "NAVIOS VERDE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/03 12:00",
+      "manobra_rio_fim": "24/03 23:00",
+      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/03 22:00"
     }
   ]
 }
