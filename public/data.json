@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/03/2026 13:53",
+  "ultima_atualizacao": "20/03/2026 14:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -39,7 +39,7 @@
       "data": "20/03",
       "hora": "16:00",
       "navio": "BREMERHAVEN EXPRESS",
-      "calado": "12,20",
+      "calado": "12,10",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
@@ -82,7 +82,22 @@
     },
     {
       "data": "21/03",
-      "hora": "05:00",
+      "hora": "06:00",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-21T06:00:00"
+    },
+    {
+      "data": "21/03",
+      "hora": "09:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,20",
       "manobra": "S",
@@ -93,22 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-21T05:00:00"
-    },
-    {
-      "data": "21/03",
-      "hora": "06:00",
-      "navio": "BREMERHAVEN EXPRESS",
-      "calado": "12,20",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9723253",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-21T06:00:00"
+      "timestamp": "2026-03-21T09:00:00"
     },
     {
       "data": "21/03",
