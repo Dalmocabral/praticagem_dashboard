@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/03/2026 08:33",
+  "ultima_atualizacao": "21/03/2026 08:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -82,7 +82,7 @@
     },
     {
       "data": "22/03",
-      "hora": "06:00",
+      "hora": "05:30",
       "navio": "HANS SCHULTE",
       "calado": "13,80",
       "manobra": "S",
@@ -93,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-22T06:00:00"
+      "timestamp": "2026-03-22T05:30:00"
     },
     {
       "data": "22/03",
@@ -566,7 +566,7 @@
       "navio_rio": "HANS SCHULTE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "21/03 12:00",
-      "manobra_rio_fim": "22/03 06:00",
+      "manobra_rio_fim": "22/03 05:30",
       "navio_multi": "MSC FIRENZE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "21/03 14:00"
@@ -575,7 +575,7 @@
       "navio_rio": "HANS SCHULTE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "21/03 12:00",
-      "manobra_rio_fim": "22/03 06:00",
+      "manobra_rio_fim": "22/03 05:30",
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "21/03 16:00"
@@ -584,7 +584,7 @@
       "navio_rio": "HANS SCHULTE",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "21/03 12:00",
-      "manobra_rio_fim": "22/03 06:00",
+      "manobra_rio_fim": "22/03 05:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "22/03 02:00"
