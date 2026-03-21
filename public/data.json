@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/03/2026 06:57",
+  "ultima_atualizacao": "21/03/2026 07:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -22,7 +22,7 @@
     },
     {
       "data": "21/03",
-      "hora": "11:00",
+      "hora": "10:00",
       "navio": "BOW HARMONY",
       "calado": "7,30",
       "manobra": "S",
@@ -31,9 +31,9 @@
       "imo": "9379909",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-03-21T11:00:00"
+      "timestamp": "2026-03-21T10:00:00"
     },
     {
       "data": "21/03",
