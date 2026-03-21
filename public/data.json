@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/03/2026 10:40",
+  "ultima_atualizacao": "21/03/2026 11:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -46,7 +46,7 @@
       "imo": "9978987",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-21T14:00:00"
     },
@@ -84,7 +84,7 @@
       "data": "22/03",
       "hora": "09:30",
       "navio": "MSC PAMELA",
-      "calado": "12,60",
+      "calado": "13,80",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
