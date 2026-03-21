@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/03/2026 20:34",
+  "ultima_atualizacao": "21/03/2026 20:55",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -82,7 +82,7 @@
     },
     {
       "data": "22/03",
-      "hora": "18:00",
+      "hora": "15:30",
       "navio": "MSC URSULA VI",
       "calado": "12,00",
       "manobra": "E",
@@ -93,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-22T18:00:00"
+      "timestamp": "2026-03-22T15:30:00"
     },
     {
       "data": "22/03",
@@ -611,7 +611,7 @@
       "manobra_rio_fim": "22/03 20:00",
       "navio_multi": "MSC URSULA VI",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "22/03 18:00"
+      "manobra_multi_data_hora": "22/03 15:30"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
