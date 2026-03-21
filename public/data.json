@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/03/2026 18:35",
+  "ultima_atualizacao": "21/03/2026 18:55",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -471,6 +471,21 @@
       "timestamp": "2026-03-26T07:00:00"
     },
     {
+      "data": "26/03",
+      "hora": "09:00",
+      "navio": "BOW HARMONY",
+      "calado": "7,10",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9379909",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-26T09:00:00"
+    },
+    {
       "data": "27/03",
       "hora": "06:00",
       "navio": "LE HAVRE",
@@ -484,6 +499,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-27T06:00:00"
+    },
+    {
+      "data": "27/03",
+      "hora": "11:00",
+      "navio": "BOW HARMONY",
+      "calado": "6,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9379909",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-27T11:00:00"
     },
     {
       "data": "28/03",
@@ -687,6 +717,15 @@
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/03 22:00"
+    },
+    {
+      "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "26/03 09:00",
+      "manobra_rio_fim": "27/03 11:00",
+      "navio_multi": "LE HAVRE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "27/03 06:00"
     }
   ]
 }
