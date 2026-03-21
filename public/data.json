@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/03/2026 21:52",
+  "ultima_atualizacao": "21/03/2026 00:21",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -54,7 +54,7 @@
       "data": "21/03",
       "hora": "00:00",
       "navio": "GRANDE NIGERIA",
-      "calado": "9,00",
+      "calado": "8,80",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -174,7 +174,7 @@
       "data": "22/03",
       "hora": "06:00",
       "navio": "HANS SCHULTE",
-      "calado": "13,20",
+      "calado": "13,80",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
