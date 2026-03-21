@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "21/03/2026 19:33",
+  "ultima_atualizacao": "21/03/2026 19:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "21/03",
-      "hora": "15:30",
-      "navio": "MSC FIRENZE",
-      "calado": "14,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9978987",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-21T15:30:00"
-    },
     {
       "data": "22/03",
       "hora": "05:30",
@@ -84,7 +69,7 @@
       "data": "22/03",
       "hora": "13:30",
       "navio": "MSC FIRENZE",
-      "calado": "14,90",
+      "calado": "15,00",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
