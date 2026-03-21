@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/03/2026 12:57",
+  "ultima_atualizacao": "21/03/2026 13:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -22,7 +22,7 @@
     },
     {
       "data": "21/03",
-      "hora": "15:00",
+      "hora": "15:30",
       "navio": "MSC FIRENZE",
       "calado": "14,60",
       "manobra": "E",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "entrada_futura",
       "terminal": "multi",
-      "timestamp": "2026-03-21T15:00:00"
+      "timestamp": "2026-03-21T15:30:00"
     },
     {
       "data": "22/03",
@@ -584,7 +584,7 @@
       "manobra_rio_fim": "22/03 05:30",
       "navio_multi": "MSC FIRENZE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/03 15:00"
+      "manobra_multi_data_hora": "21/03 15:30"
     },
     {
       "navio_rio": "MALIAKOS",
