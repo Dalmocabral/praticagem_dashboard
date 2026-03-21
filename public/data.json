@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/03/2026 05:16",
+  "ultima_atualizacao": "21/03/2026 05:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "21/03",
       "hora": "06:30",
       "navio": "BREMERHAVEN EXPRESS",
-      "calado": "13,00",
+      "calado": "13,10",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
