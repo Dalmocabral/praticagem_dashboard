@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/03/2026 07:38",
+  "ultima_atualizacao": "21/03/2026 08:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -37,7 +37,7 @@
     },
     {
       "data": "21/03",
-      "hora": "13:00",
+      "hora": "12:00",
       "navio": "HANS SCHULTE",
       "calado": "13,70",
       "manobra": "E",
@@ -46,28 +46,13 @@
       "imo": "9531909",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
-      "timestamp": "2026-03-21T13:00:00"
+      "timestamp": "2026-03-21T12:00:00"
     },
     {
       "data": "21/03",
-      "hora": "15:00",
-      "navio": "MSC PAMELA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9290531",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-21T15:00:00"
-    },
-    {
-      "data": "21/03",
-      "hora": "17:00",
+      "hora": "14:00",
       "navio": "MSC FIRENZE",
       "calado": "14,60",
       "manobra": "E",
@@ -78,7 +63,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-21T17:00:00"
+      "timestamp": "2026-03-21T14:00:00"
+    },
+    {
+      "data": "21/03",
+      "hora": "16:00",
+      "navio": "MSC PAMELA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-21T16:00:00"
     },
     {
       "data": "22/03",
@@ -580,25 +580,25 @@
     {
       "navio_rio": "HANS SCHULTE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/03 13:00",
+      "manobra_rio_inicio": "21/03 12:00",
       "manobra_rio_fim": "22/03 06:00",
-      "navio_multi": "MSC PAMELA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/03 15:00"
+      "navio_multi": "MSC FIRENZE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/03 14:00"
     },
     {
       "navio_rio": "HANS SCHULTE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/03 13:00",
+      "manobra_rio_inicio": "21/03 12:00",
       "manobra_rio_fim": "22/03 06:00",
-      "navio_multi": "MSC FIRENZE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/03 17:00"
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/03 16:00"
     },
     {
       "navio_rio": "HANS SCHULTE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/03 13:00",
+      "manobra_rio_inicio": "21/03 12:00",
       "manobra_rio_fim": "22/03 06:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
