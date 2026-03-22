@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/03/2026 18:37",
+  "ultima_atualizacao": "22/03/2026 18:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -199,6 +199,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-24T04:00:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "06:00",
+      "navio": "COSCO SHIPPING CHILE",
+      "calado": "14,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945887",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-24T06:00:00"
     },
     {
       "data": "24/03",
