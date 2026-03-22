@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "22/03/2026 07:49",
+  "ultima_atualizacao": "22/03/2026 08:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "22/03",
-      "hora": "05:30",
-      "navio": "HANS SCHULTE",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9531909",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-22T05:30:00"
-    },
-    {
-      "data": "22/03",
-      "hora": "07:30",
-      "navio": "MALIAKOS",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9464247",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-22T07:30:00"
-    },
     {
       "data": "22/03",
       "hora": "09:30",
@@ -577,42 +547,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MALIAKOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/03 07:30",
-      "manobra_rio_fim": "22/03 20:00",
-      "navio_multi": "MSC PAMELA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/03 09:30"
-    },
-    {
-      "navio_rio": "MALIAKOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/03 07:30",
-      "manobra_rio_fim": "22/03 20:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "22/03 11:30"
-    },
-    {
-      "navio_rio": "MALIAKOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/03 07:30",
-      "manobra_rio_fim": "22/03 20:00",
-      "navio_multi": "MSC FIRENZE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/03 13:30"
-    },
-    {
-      "navio_rio": "MALIAKOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/03 07:30",
-      "manobra_rio_fim": "22/03 20:00",
-      "navio_multi": "MSC URSULA VI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "22/03 15:30"
-    },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
       "manobra_rio_afetada": "E",
