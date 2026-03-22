@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/03/2026 17:00",
+  "ultima_atualizacao": "22/03/2026 17:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -7,24 +7,24 @@
   "navios": [
     {
       "data": "22/03",
-      "hora": "21:00",
+      "hora": "20:00",
       "navio": "MALIAKOS",
-      "calado": "12,60",
+      "calado": "11,17",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9464247",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-03-22T21:00:00"
+      "timestamp": "2026-03-22T20:00:00"
     },
     {
       "data": "23/03",
       "hora": "00:30",
       "navio": "INDUSTRIAL DART",
-      "calado": "6,10",
+      "calado": "5,90",
       "manobra": "E",
       "beco": "TECONT4",
       "status": "futuro",
