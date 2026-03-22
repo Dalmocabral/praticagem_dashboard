@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/03/2026 00:14",
+  "ultima_atualizacao": "22/03/2026 02:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -16,7 +16,7 @@
       "imo": "9531909",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-03-22T05:30:00"
     },
@@ -54,7 +54,7 @@
       "data": "22/03",
       "hora": "11:30",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
+      "calado": "9,80",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
