@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/03/2026 18:57",
+  "ultima_atualizacao": "22/03/2026 19:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -31,7 +31,7 @@
       "imo": "9379909",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-03-22T22:00:00"
     },
@@ -307,6 +307,21 @@
     },
     {
       "data": "25/03",
+      "hora": "06:00",
+      "navio": "COSCO SHIPPING CHILE",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945887",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-25T06:00:00"
+    },
+    {
+      "data": "25/03",
       "hora": "07:00",
       "navio": "MSC PINA",
       "calado": "12,60",
@@ -567,6 +582,33 @@
       "navio_multi": "MSC PINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/03 10:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/03 06:00",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "NEPTUNE HORIZON",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "24/03 08:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/03 06:00",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "MSC PINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "24/03 10:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/03 06:00",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "MSC URSULA VI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "25/03 01:00"
     }
   ]
 }
