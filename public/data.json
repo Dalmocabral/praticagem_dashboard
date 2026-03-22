@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "22/03/2026 11:57",
+  "ultima_atualizacao": "22/03/2026 12:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "22/03",
-      "hora": "09:30",
-      "navio": "MSC PAMELA",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9290531",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-22T09:30:00"
-    },
     {
       "data": "22/03",
       "hora": "11:30",
@@ -61,7 +46,7 @@
       "imo": "9168867",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-22T15:30:00"
     },
@@ -112,21 +97,6 @@
     },
     {
       "data": "23/03",
-      "hora": "05:00",
-      "navio": "INDUSTRIAL DART",
-      "calado": "6,30",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "futuro",
-      "imo": "9360207",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-23T05:00:00"
-    },
-    {
-      "data": "23/03",
       "hora": "08:00",
       "navio": "COSCO SHIPPING CHILE",
       "calado": "14,60",
@@ -139,21 +109,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-23T08:00:00"
-    },
-    {
-      "data": "23/03",
-      "hora": "12:00",
-      "navio": "BBC ELISABETH",
-      "calado": "6,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9593660",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-23T12:00:00"
     },
     {
       "data": "23/03",
@@ -202,6 +157,21 @@
     },
     {
       "data": "23/03",
+      "hora": "22:00",
+      "navio": "BBC ELISABETH",
+      "calado": "6,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9593660",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-23T22:00:00"
+    },
+    {
+      "data": "23/03",
       "hora": "23:00",
       "navio": "GRANDE SAN PAOLO",
       "calado": "9,50",
@@ -229,6 +199,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-24T01:00:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "05:00",
+      "navio": "INDUSTRIAL DART",
+      "calado": "6,30",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9360207",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-24T05:00:00"
     },
     {
       "data": "24/03",
@@ -552,6 +537,24 @@
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/03 23:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/03 08:00",
+      "manobra_rio_fim": "24/03 06:00",
+      "navio_multi": "INDUSTRIAL DART",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/03 05:00"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/03 01:00",
+      "manobra_rio_fim": "24/03 14:00",
+      "navio_multi": "INDUSTRIAL DART",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/03 05:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
