@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/03/2026 16:23",
+  "ultima_atualizacao": "22/03/2026 16:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -22,7 +22,7 @@
     },
     {
       "data": "22/03",
-      "hora": "20:00",
+      "hora": "21:00",
       "navio": "MALIAKOS",
       "calado": "12,60",
       "manobra": "S",
@@ -31,9 +31,9 @@
       "imo": "9464247",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-22T20:00:00"
+      "timestamp": "2026-03-22T21:00:00"
     },
     {
       "data": "23/03",
@@ -247,21 +247,6 @@
     },
     {
       "data": "24/03",
-      "hora": "12:00",
-      "navio": "CMA CGM PARATY",
-      "calado": "13,00",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9938262",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-24T12:00:00"
-    },
-    {
-      "data": "24/03",
       "hora": "14:00",
       "navio": "CMA CGM SANTOS",
       "calado": "10,00",
@@ -322,21 +307,6 @@
     },
     {
       "data": "25/03",
-      "hora": "06:00",
-      "navio": "CMA CGM PARATY",
-      "calado": "12,80",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9938262",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-25T06:00:00"
-    },
-    {
-      "data": "25/03",
       "hora": "07:00",
       "navio": "MSC PINA",
       "calado": "12,60",
@@ -367,18 +337,48 @@
     },
     {
       "data": "25/03",
-      "hora": "10:00",
+      "hora": "09:00",
+      "navio": "CMA CGM PARATY",
+      "calado": "13,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938262",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-25T09:00:00"
+    },
+    {
+      "data": "25/03",
+      "hora": "10:30",
       "navio": "KOTA PAHLAWAN",
       "calado": "14,50",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9786712",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-25T10:00:00"
+      "timestamp": "2026-03-25T10:30:00"
+    },
+    {
+      "data": "26/03",
+      "hora": "06:00",
+      "navio": "CMA CGM PARATY",
+      "calado": "12,80",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938262",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-26T06:00:00"
     },
     {
       "data": "26/03",
@@ -386,7 +386,7 @@
       "navio": "KOTA PAHLAWAN",
       "calado": "14,50",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9786712",
       "tipo_navio": "CONTAINER SHIP",
@@ -597,15 +597,6 @@
       "navio_multi": "MSC PINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/03 10:00"
-    },
-    {
-      "navio_rio": "CMA CGM PARATY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/03 12:00",
-      "manobra_rio_fim": "25/03 06:00",
-      "navio_multi": "MSC URSULA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/03 01:00"
     },
     {
       "navio_rio": "BOW HARMONY",
