@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/03/2026 13:40",
+  "ultima_atualizacao": "22/03/2026 14:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -112,21 +112,6 @@
     },
     {
       "data": "23/03",
-      "hora": "16:00",
-      "navio": "MSC URSULA VI",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9168867",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-23T16:00:00"
-    },
-    {
-      "data": "23/03",
       "hora": "17:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
@@ -146,7 +131,7 @@
       "navio": "MSC URSULA VI",
       "calado": "11,80",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9168867",
       "tipo_navio": "CONTAINER SHIP",
@@ -334,6 +319,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-24T23:00:00"
+    },
+    {
+      "data": "25/03",
+      "hora": "01:00",
+      "navio": "MSC URSULA VI",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9168867",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-25T01:00:00"
     },
     {
       "data": "25/03",
@@ -537,15 +537,6 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/03 08:00",
       "manobra_rio_fim": "24/03 06:00",
-      "navio_multi": "MSC URSULA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/03 16:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/03 08:00",
-      "manobra_rio_fim": "24/03 06:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/03 17:00"
@@ -621,6 +612,15 @@
       "navio_multi": "MSC PINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/03 10:00"
+    },
+    {
+      "navio_rio": "CMA CGM PARATY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/03 12:00",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "MSC URSULA VI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "25/03 01:00"
     },
     {
       "navio_rio": "BOW HARMONY",
