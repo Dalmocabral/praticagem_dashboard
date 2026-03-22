@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/03/2026 18:02",
+  "ultima_atualizacao": "22/03/2026 18:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -21,6 +21,21 @@
       "timestamp": "2026-03-22T20:00:00"
     },
     {
+      "data": "22/03",
+      "hora": "22:00",
+      "navio": "BOW HARMONY",
+      "calado": "6,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9379909",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": "entrada_antecipada",
+      "terminal": "rio",
+      "timestamp": "2026-03-22T22:00:00"
+    },
+    {
       "data": "23/03",
       "hora": "00:30",
       "navio": "INDUSTRIAL DART",
@@ -39,7 +54,7 @@
       "data": "23/03",
       "hora": "02:00",
       "navio": "GRANDE SAN PAOLO",
-      "calado": "9,10",
+      "calado": "9,20",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "futuro",
@@ -64,21 +79,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-23T05:30:00"
-    },
-    {
-      "data": "23/03",
-      "hora": "08:00",
-      "navio": "COSCO SHIPPING CHILE",
-      "calado": "14,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9945887",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-23T08:00:00"
     },
     {
       "data": "23/03",
@@ -109,6 +109,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-23T19:00:00"
+    },
+    {
+      "data": "23/03",
+      "hora": "21:00",
+      "navio": "BOW HARMONY",
+      "calado": "6,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9379909",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-23T21:00:00"
     },
     {
       "data": "23/03",
@@ -157,37 +172,7 @@
     },
     {
       "data": "24/03",
-      "hora": "05:00",
-      "navio": "INDUSTRIAL DART",
-      "calado": "6,30",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "futuro",
-      "imo": "9360207",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-24T05:00:00"
-    },
-    {
-      "data": "24/03",
-      "hora": "06:00",
-      "navio": "COSCO SHIPPING CHILE",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9945887",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-24T06:00:00"
-    },
-    {
-      "data": "24/03",
-      "hora": "08:00",
+      "hora": "03:00",
       "navio": "MSC ELODIE",
       "calado": "12,60",
       "manobra": "S",
@@ -198,7 +183,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-24T08:00:00"
+      "timestamp": "2026-03-24T03:00:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "04:00",
+      "navio": "INDUSTRIAL DART",
+      "calado": "6,30",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9360207",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-24T04:00:00"
     },
     {
       "data": "24/03",
@@ -381,21 +381,6 @@
       "timestamp": "2026-03-26T07:00:00"
     },
     {
-      "data": "26/03",
-      "hora": "09:00",
-      "navio": "BOW HARMONY",
-      "calado": "7,10",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9379909",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-26T09:00:00"
-    },
-    {
       "data": "27/03",
       "hora": "06:00",
       "navio": "LE HAVRE",
@@ -409,21 +394,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-27T06:00:00"
-    },
-    {
-      "data": "27/03",
-      "hora": "11:00",
-      "navio": "BOW HARMONY",
-      "calado": "6,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9379909",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-27T11:00:00"
     },
     {
       "data": "28/03",
@@ -503,40 +473,58 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "COSCO SHIPPING CHILE",
+      "navio_rio": "BOW HARMONY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/03 08:00",
-      "manobra_rio_fim": "24/03 06:00",
+      "manobra_rio_inicio": "22/03 22:00",
+      "manobra_rio_fim": "23/03 21:00",
+      "navio_multi": "INDUSTRIAL DART",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/03 00:30"
+    },
+    {
+      "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/03 22:00",
+      "manobra_rio_fim": "23/03 21:00",
+      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/03 02:00"
+    },
+    {
+      "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/03 22:00",
+      "manobra_rio_fim": "23/03 21:00",
+      "navio_multi": "MSC ELODIE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/03 05:30"
+    },
+    {
+      "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/03 22:00",
+      "manobra_rio_fim": "23/03 21:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/03 17:00"
     },
     {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/03 08:00",
-      "manobra_rio_fim": "24/03 06:00",
+      "navio_rio": "BOW HARMONY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/03 22:00",
+      "manobra_rio_fim": "23/03 21:00",
       "navio_multi": "MSC URSULA VI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/03 19:00"
     },
     {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/03 08:00",
-      "manobra_rio_fim": "24/03 06:00",
-      "navio_multi": "GRANDE SAN PAOLO",
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/03 01:00",
+      "manobra_rio_fim": "24/03 14:00",
+      "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/03 23:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/03 08:00",
-      "manobra_rio_fim": "24/03 06:00",
-      "navio_multi": "INDUSTRIAL DART",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 05:00"
+      "manobra_multi_data_hora": "24/03 03:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
@@ -545,16 +533,7 @@
       "manobra_rio_fim": "24/03 14:00",
       "navio_multi": "INDUSTRIAL DART",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 05:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/03 01:00",
-      "manobra_rio_fim": "24/03 14:00",
-      "navio_multi": "MSC ELODIE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 08:00"
+      "manobra_multi_data_hora": "24/03 04:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
@@ -573,15 +552,6 @@
       "navio_multi": "MSC PINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/03 10:00"
-    },
-    {
-      "navio_rio": "BOW HARMONY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/03 09:00",
-      "manobra_rio_fim": "27/03 11:00",
-      "navio_multi": "LE HAVRE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/03 06:00"
     }
   ]
 }
