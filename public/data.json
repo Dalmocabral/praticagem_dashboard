@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/03/2026 10:54",
+  "ultima_atualizacao": "22/03/2026 11:32",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -61,7 +61,7 @@
       "imo": "9168867",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-03-22T15:30:00"
     },
@@ -112,21 +112,6 @@
     },
     {
       "data": "23/03",
-      "hora": "04:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-23T04:00:00"
-    },
-    {
-      "data": "23/03",
       "hora": "06:00",
       "navio": "MSC ELODIE",
       "calado": "11,30",
@@ -172,21 +157,6 @@
     },
     {
       "data": "23/03",
-      "hora": "14:00",
-      "navio": "CMA CGM SANTOS",
-      "calado": "10,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-23T14:00:00"
-    },
-    {
-      "data": "23/03",
       "hora": "16:00",
       "navio": "MSC URSULA VI",
       "calado": "12,60",
@@ -199,6 +169,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-23T16:00:00"
+    },
+    {
+      "data": "23/03",
+      "hora": "17:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-23T17:00:00"
     },
     {
       "data": "23/03",
@@ -250,7 +235,7 @@
       "hora": "01:00",
       "navio": "CMA CGM SANTOS",
       "calado": "10,00",
-      "manobra": "S",
+      "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
       "imo": "9649835",
@@ -323,6 +308,21 @@
     {
       "data": "24/03",
       "hora": "14:00",
+      "navio": "CMA CGM SANTOS",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9649835",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-24T14:00:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "16:00",
       "navio": "NAVIOS VERDE",
       "calado": "12,30",
       "manobra": "E",
@@ -333,7 +333,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-24T14:00:00"
+      "timestamp": "2026-03-24T16:00:00"
     },
     {
       "data": "24/03",
@@ -561,6 +561,15 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/03 08:00",
       "manobra_rio_fim": "24/03 06:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/03 17:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/03 08:00",
+      "manobra_rio_fim": "24/03 06:00",
       "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/03 17:00"
@@ -585,39 +594,21 @@
     },
     {
       "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/03 14:00",
-      "manobra_rio_fim": "24/03 01:00",
-      "navio_multi": "MSC URSULA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/03 16:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/03 14:00",
-      "manobra_rio_fim": "24/03 01:00",
-      "navio_multi": "MSC ELODIE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/03 17:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/03 14:00",
-      "manobra_rio_fim": "24/03 01:00",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/03 01:00",
+      "manobra_rio_fim": "24/03 14:00",
       "navio_multi": "MSC CADIZ",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/03 19:00"
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/03 08:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/03 14:00",
-      "manobra_rio_fim": "24/03 01:00",
-      "navio_multi": "INDUSTRIAL DART",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/03 21:00"
+      "manobra_rio_inicio": "24/03 01:00",
+      "manobra_rio_fim": "24/03 14:00",
+      "navio_multi": "MSC PINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "24/03 10:00"
     },
     {
       "navio_rio": "CMA CGM PARATY",
@@ -631,7 +622,7 @@
     {
       "navio_rio": "NAVIOS VERDE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/03 14:00",
+      "manobra_rio_inicio": "24/03 16:00",
       "manobra_rio_fim": "24/03 23:00",
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
