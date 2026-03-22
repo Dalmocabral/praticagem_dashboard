@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/03/2026 11:32",
+  "ultima_atualizacao": "22/03/2026 11:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -112,18 +112,18 @@
     },
     {
       "data": "23/03",
-      "hora": "06:00",
-      "navio": "MSC ELODIE",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONT3",
+      "hora": "05:00",
+      "navio": "INDUSTRIAL DART",
+      "calado": "6,30",
+      "manobra": "S",
+      "beco": "TECONT4",
       "status": "futuro",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "imo": "9360207",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-23T06:00:00"
+      "timestamp": "2026-03-23T05:00:00"
     },
     {
       "data": "23/03",
@@ -187,28 +187,13 @@
     },
     {
       "data": "23/03",
-      "hora": "17:00",
+      "hora": "19:00",
       "navio": "MSC ELODIE",
-      "calado": "12,60",
-      "manobra": "S",
+      "calado": "11,30",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-23T17:00:00"
-    },
-    {
-      "data": "23/03",
-      "hora": "19:00",
-      "navio": "MSC CADIZ",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9480203",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -217,18 +202,18 @@
     },
     {
       "data": "23/03",
-      "hora": "21:00",
-      "navio": "INDUSTRIAL DART",
-      "calado": "6,30",
+      "hora": "23:00",
+      "navio": "GRANDE SAN PAOLO",
+      "calado": "9,50",
       "manobra": "S",
-      "beco": "TECONT4",
+      "beco": "TECONT5",
       "status": "futuro",
-      "imo": "9360207",
-      "tipo_navio": "GENERAL CARGO SHIP",
+      "imo": "9253208",
+      "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-23T21:00:00"
+      "timestamp": "2026-03-23T23:00:00"
     },
     {
       "data": "24/03",
@@ -263,12 +248,12 @@
     {
       "data": "24/03",
       "hora": "08:00",
-      "navio": "MSC CADIZ",
+      "navio": "MSC ELODIE",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9480203",
+      "imo": "9704972",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -334,21 +319,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-24T16:00:00"
-    },
-    {
-      "data": "24/03",
-      "hora": "22:00",
-      "navio": "GRANDE SAN PAOLO",
-      "calado": "9,50",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9253208",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-24T22:00:00"
     },
     {
       "data": "24/03",
@@ -571,15 +541,6 @@
       "manobra_rio_inicio": "23/03 08:00",
       "manobra_rio_fim": "24/03 06:00",
       "navio_multi": "MSC ELODIE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/03 17:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/03 08:00",
-      "manobra_rio_fim": "24/03 06:00",
-      "navio_multi": "MSC CADIZ",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/03 19:00"
     },
@@ -588,16 +549,16 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "23/03 08:00",
       "manobra_rio_fim": "24/03 06:00",
-      "navio_multi": "INDUSTRIAL DART",
+      "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/03 21:00"
+      "manobra_multi_data_hora": "23/03 23:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "24/03 01:00",
       "manobra_rio_fim": "24/03 14:00",
-      "navio_multi": "MSC CADIZ",
+      "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/03 08:00"
     },
@@ -609,24 +570,6 @@
       "navio_multi": "MSC PINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/03 10:00"
-    },
-    {
-      "navio_rio": "CMA CGM PARATY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/03 12:00",
-      "manobra_rio_fim": "25/03 06:00",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 22:00"
-    },
-    {
-      "navio_rio": "NAVIOS VERDE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/03 16:00",
-      "manobra_rio_fim": "24/03 23:00",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 22:00"
     },
     {
       "navio_rio": "BOW HARMONY",
