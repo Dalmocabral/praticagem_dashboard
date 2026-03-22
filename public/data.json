@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/03/2026 17:40",
+  "ultima_atualizacao": "22/03/2026 18:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -157,21 +157,6 @@
     },
     {
       "data": "24/03",
-      "hora": "02:30",
-      "navio": "NEPTUNE HORIZON",
-      "calado": "8,70",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9451721",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-24T02:30:00"
-    },
-    {
-      "data": "24/03",
       "hora": "05:00",
       "navio": "INDUSTRIAL DART",
       "calado": "6,30",
@@ -210,6 +195,21 @@
       "status": "futuro",
       "imo": "9704972",
       "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-24T08:00:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "08:00",
+      "navio": "NEPTUNE HORIZON",
+      "calado": "8,70",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9451721",
+      "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
@@ -322,7 +322,7 @@
     },
     {
       "data": "25/03",
-      "hora": "09:00",
+      "hora": "10:00",
       "navio": "CMA CGM PARATY",
       "calado": "13,00",
       "manobra": "E",
@@ -333,11 +333,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-25T09:00:00"
+      "timestamp": "2026-03-25T10:00:00"
     },
     {
       "data": "25/03",
-      "hora": "10:30",
+      "hora": "11:30",
       "navio": "KOTA PAHLAWAN",
       "calado": "14,50",
       "manobra": "E",
@@ -348,7 +348,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-25T10:30:00"
+      "timestamp": "2026-03-25T11:30:00"
     },
     {
       "data": "26/03",
@@ -534,27 +534,9 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "23/03 08:00",
       "manobra_rio_fim": "24/03 06:00",
-      "navio_multi": "NEPTUNE HORIZON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 02:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/03 08:00",
-      "manobra_rio_fim": "24/03 06:00",
       "navio_multi": "INDUSTRIAL DART",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/03 05:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/03 01:00",
-      "manobra_rio_fim": "24/03 14:00",
-      "navio_multi": "NEPTUNE HORIZON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 02:30"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
@@ -572,6 +554,15 @@
       "manobra_rio_fim": "24/03 14:00",
       "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/03 08:00"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/03 01:00",
+      "manobra_rio_fim": "24/03 14:00",
+      "navio_multi": "NEPTUNE HORIZON",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/03 08:00"
     },
     {
