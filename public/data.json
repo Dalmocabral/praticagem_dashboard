@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/03/2026 14:58",
+  "ultima_atualizacao": "22/03/2026 15:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -67,7 +67,7 @@
     },
     {
       "data": "23/03",
-      "hora": "05:00",
+      "hora": "05:30",
       "navio": "MSC ELODIE",
       "calado": "11,30",
       "manobra": "E",
@@ -78,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-23T05:00:00"
+      "timestamp": "2026-03-23T05:30:00"
     },
     {
       "data": "23/03",
