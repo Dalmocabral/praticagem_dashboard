@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "23/03/2026 08:03",
+  "ultima_atualizacao": "23/03/2026 08:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "23/03",
-      "hora": "17:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-23T17:00:00"
-    },
-    {
-      "data": "23/03",
-      "hora": "19:00",
-      "navio": "MSC URSULA VI",
-      "calado": "11,80",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9168867",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-23T19:00:00"
-    },
     {
       "data": "23/03",
       "hora": "21:00",
@@ -68,13 +38,13 @@
     {
       "data": "23/03",
       "hora": "23:00",
-      "navio": "GRANDE SAN PAOLO",
-      "calado": "9,50",
+      "navio": "INDUSTRIAL DART",
+      "calado": "6,30",
       "manobra": "S",
-      "beco": "TECONT5",
+      "beco": "TECONT4",
       "status": "hoje",
-      "imo": "9253208",
-      "tipo_navio": "RO-RO CARGO SHIP",
+      "imo": "9360207",
+      "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
@@ -113,14 +83,14 @@
     {
       "data": "24/03",
       "hora": "04:00",
-      "navio": "INDUSTRIAL DART",
-      "calado": "6,30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
       "manobra": "S",
-      "beco": "TECONT4",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9360207",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-24T04:00:00"
@@ -143,6 +113,36 @@
     {
       "data": "24/03",
       "hora": "08:00",
+      "navio": "MSC URSULA VI",
+      "calado": "11,80",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9168867",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-24T08:00:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "10:00",
+      "navio": "GRANDE SAN PAOLO",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9253208",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-24T10:00:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "12:00",
       "navio": "NEPTUNE HORIZON",
       "calado": "8,70",
       "manobra": "E",
@@ -153,22 +153,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-24T08:00:00"
-    },
-    {
-      "data": "24/03",
-      "hora": "10:00",
-      "navio": "MSC PINA",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9339272",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-24T10:00:00"
+      "timestamp": "2026-03-24T12:00:00"
     },
     {
       "data": "24/03",
@@ -232,6 +217,21 @@
     },
     {
       "data": "25/03",
+      "hora": "05:00",
+      "navio": "NEPTUNE HORIZON",
+      "calado": "8,70",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9451721",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-25T05:00:00"
+    },
+    {
+      "data": "25/03",
       "hora": "06:00",
       "navio": "COSCO SHIPPING CHILE",
       "calado": "14,00",
@@ -247,29 +247,14 @@
     },
     {
       "data": "25/03",
-      "hora": "07:00",
+      "hora": "08:00",
       "navio": "MSC PINA",
       "calado": "12,60",
-      "manobra": "S",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9339272",
       "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-25T07:00:00"
-    },
-    {
-      "data": "25/03",
-      "hora": "08:00",
-      "navio": "NEPTUNE HORIZON",
-      "calado": "8,70",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9451721",
-      "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
@@ -334,6 +319,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-26T07:00:00"
+    },
+    {
+      "data": "26/03",
+      "hora": "08:00",
+      "navio": "MSC PINA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9339272",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-26T08:00:00"
     },
     {
       "data": "27/03",
@@ -441,7 +441,7 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "24/03 01:00",
       "manobra_rio_fim": "24/03 14:00",
-      "navio_multi": "INDUSTRIAL DART",
+      "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/03 04:00"
     },
@@ -450,7 +450,7 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "24/03 01:00",
       "manobra_rio_fim": "24/03 14:00",
-      "navio_multi": "NEPTUNE HORIZON",
+      "navio_multi": "MSC URSULA VI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/03 08:00"
     },
@@ -459,8 +459,35 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "24/03 01:00",
       "manobra_rio_fim": "24/03 14:00",
-      "navio_multi": "MSC PINA",
+      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/03 10:00"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/03 01:00",
+      "manobra_rio_fim": "24/03 14:00",
+      "navio_multi": "NEPTUNE HORIZON",
       "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "24/03 12:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/03 06:00",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "MSC URSULA VI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "24/03 08:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/03 06:00",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/03 10:00"
     },
     {
@@ -470,16 +497,7 @@
       "manobra_rio_fim": "25/03 06:00",
       "navio_multi": "NEPTUNE HORIZON",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 08:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/03 06:00",
-      "manobra_rio_fim": "25/03 06:00",
-      "navio_multi": "MSC PINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 10:00"
+      "manobra_multi_data_hora": "24/03 12:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
@@ -489,6 +507,15 @@
       "navio_multi": "MSC URSULA VI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "25/03 01:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/03 06:00",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "NEPTUNE HORIZON",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "25/03 05:00"
     }
   ]
 }
