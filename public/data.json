@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "23/03/2026 20:27",
+  "ultima_atualizacao": "23/03/2026 20:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "23/03",
-      "hora": "19:00",
-      "navio": "BBC ELISABETH",
-      "calado": "6,60",
-      "manobra": "M",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9593660",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-23T19:00:00"
-    },
     {
       "data": "23/03",
       "hora": "21:00",
