@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/03/2026 11:34",
+  "ultima_atualizacao": "23/03/2026 12:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -171,36 +171,6 @@
       "timestamp": "2026-03-24T14:00:00"
     },
     {
-      "data": "24/03",
-      "hora": "16:00",
-      "navio": "NAVIOS VERDE",
-      "calado": "12,30",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9324863",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-24T16:00:00"
-    },
-    {
-      "data": "24/03",
-      "hora": "23:00",
-      "navio": "NAVIOS VERDE",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9324863",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-24T23:00:00"
-    },
-    {
       "data": "25/03",
       "hora": "01:00",
       "navio": "MSC URSULA VI",
@@ -334,6 +304,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-26T08:00:00"
+    },
+    {
+      "data": "26/03",
+      "hora": "10:00",
+      "navio": "NAVIOS VERDE",
+      "calado": "12,30",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9324863",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-26T10:00:00"
+    },
+    {
+      "data": "26/03",
+      "hora": "22:00",
+      "navio": "NAVIOS VERDE",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9324863",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-26T22:00:00"
     },
     {
       "data": "27/03",
