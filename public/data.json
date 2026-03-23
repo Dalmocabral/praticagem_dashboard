@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "23/03/2026 06:57",
+  "ultima_atualizacao": "23/03/2026 08:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "23/03",
-      "hora": "05:30",
-      "navio": "MSC ELODIE",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-23T05:30:00"
-    },
     {
       "data": "23/03",
       "hora": "17:00",
