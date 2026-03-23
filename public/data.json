@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/03/2026 19:50",
+  "ultima_atualizacao": "23/03/2026 20:27",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -46,7 +46,7 @@
       "imo": "9704972",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-23T23:00:00"
     },
@@ -112,7 +112,7 @@
     },
     {
       "data": "24/03",
-      "hora": "08:30",
+      "hora": "09:00",
       "navio": "MSC CADIZ",
       "calado": "11,20",
       "manobra": "E",
@@ -123,11 +123,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-24T08:30:00"
+      "timestamp": "2026-03-24T09:00:00"
     },
     {
       "data": "24/03",
-      "hora": "10:30",
+      "hora": "11:00",
       "navio": "GRANDE SAN PAOLO",
       "calado": "9,50",
       "manobra": "S",
@@ -138,7 +138,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-24T10:30:00"
+      "timestamp": "2026-03-24T11:00:00"
     },
     {
       "data": "24/03",
@@ -542,7 +542,7 @@
       "manobra_rio_fim": "24/03 14:00",
       "navio_multi": "MSC CADIZ",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 08:30"
+      "manobra_multi_data_hora": "24/03 09:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
@@ -551,7 +551,7 @@
       "manobra_rio_fim": "24/03 14:00",
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 10:30"
+      "manobra_multi_data_hora": "24/03 11:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
@@ -560,7 +560,7 @@
       "manobra_rio_fim": "25/03 06:00",
       "navio_multi": "MSC CADIZ",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 08:30"
+      "manobra_multi_data_hora": "24/03 09:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
@@ -569,7 +569,7 @@
       "manobra_rio_fim": "25/03 06:00",
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 10:30"
+      "manobra_multi_data_hora": "24/03 11:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
