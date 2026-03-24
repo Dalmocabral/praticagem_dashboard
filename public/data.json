@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/03/2026 11:47",
+  "ultima_atualizacao": "24/03/2026 12:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -39,7 +39,7 @@
       "data": "24/03",
       "hora": "14:00",
       "navio": "CMA CGM SANTOS",
-      "calado": "10,00",
+      "calado": "11,70",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -52,7 +52,7 @@
     },
     {
       "data": "24/03",
-      "hora": "15:00",
+      "hora": "16:00",
       "navio": "CMA CGM VERACRUZ",
       "calado": "10,00",
       "manobra": "S",
@@ -63,11 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-03-24T15:00:00"
+      "timestamp": "2026-03-24T16:00:00"
     },
     {
       "data": "24/03",
-      "hora": "17:00",
+      "hora": "18:00",
       "navio": "NEPTUNE HORIZON",
       "calado": "8,70",
       "manobra": "E",
@@ -78,11 +78,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-24T17:00:00"
+      "timestamp": "2026-03-24T18:00:00"
     },
     {
       "data": "24/03",
-      "hora": "18:30",
+      "hora": "19:30",
       "navio": "MSC URSULA VI",
       "calado": "11,80",
       "manobra": "E",
@@ -93,22 +93,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-24T18:30:00"
+      "timestamp": "2026-03-24T19:30:00"
     },
     {
-      "data": "24/03",
-      "hora": "20:30",
+      "data": "25/03",
+      "hora": "01:00",
       "navio": "INDUSTRIAL DART",
       "calado": "6,30",
       "manobra": "S",
       "beco": "TECONT4",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9360207",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-24T20:30:00"
+      "timestamp": "2026-03-25T01:00:00"
     },
     {
       "data": "25/03",
