@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/03/2026 15:03",
+  "ultima_atualizacao": "24/03/2026 16:19",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -22,39 +22,9 @@
     },
     {
       "data": "24/03",
-      "hora": "13:00",
-      "navio": "GRANDE SAN PAOLO",
-      "calado": "9,60",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9253208",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-24T13:00:00"
-    },
-    {
-      "data": "24/03",
-      "hora": "14:00",
-      "navio": "CMA CGM SANTOS",
-      "calado": "11,70",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-24T14:00:00"
-    },
-    {
-      "data": "24/03",
       "hora": "16:00",
       "navio": "CMA CGM VERACRUZ",
-      "calado": "10,00",
+      "calado": "9,60",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -69,7 +39,7 @@
       "data": "24/03",
       "hora": "18:00",
       "navio": "NEPTUNE HORIZON",
-      "calado": "8,70",
+      "calado": "8,30",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
@@ -91,7 +61,7 @@
       "imo": "9168867",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-03-24T19:30:00"
     },
@@ -277,6 +247,21 @@
     },
     {
       "data": "26/03",
+      "hora": "11:30",
+      "navio": "ZIM IBERIA",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9431719",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-26T11:30:00"
+    },
+    {
+      "data": "26/03",
       "hora": "14:00",
       "navio": "BRASILIA HIGHWAY",
       "calado": "8,00",
@@ -319,6 +304,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-26T22:00:00"
+    },
+    {
+      "data": "26/03",
+      "hora": "23:00",
+      "navio": "ZIM IBERIA",
+      "calado": "10,80",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9431719",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-26T23:00:00"
     },
     {
       "data": "27/03",
@@ -576,6 +576,24 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "26/03 09:00",
       "manobra_rio_fim": "26/03 22:00",
+      "navio_multi": "MSC PINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/03 16:00"
+    },
+    {
+      "navio_rio": "ZIM IBERIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/03 11:30",
+      "manobra_rio_fim": "26/03 23:00",
+      "navio_multi": "BRASILIA HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/03 14:00"
+    },
+    {
+      "navio_rio": "ZIM IBERIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/03 11:30",
+      "manobra_rio_fim": "26/03 23:00",
       "navio_multi": "MSC PINA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "26/03 16:00"
