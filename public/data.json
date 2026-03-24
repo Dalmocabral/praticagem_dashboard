@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "24/03/2026 06:07",
+  "ultima_atualizacao": "24/03/2026 07:09",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "24/03",
-      "hora": "01:00",
-      "navio": "CMA CGM SANTOS",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-24T01:00:00"
-    },
-    {
-      "data": "24/03",
-      "hora": "02:30",
-      "navio": "CMA CGM VERACRUZ",
-      "calado": "10,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9418377",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-24T02:30:00"
-    },
     {
       "data": "24/03",
       "hora": "04:30",
@@ -82,7 +52,7 @@
     },
     {
       "data": "24/03",
-      "hora": "11:00",
+      "hora": "13:00",
       "navio": "GRANDE SAN PAOLO",
       "calado": "9,50",
       "manobra": "S",
@@ -93,7 +63,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-24T11:00:00"
+      "timestamp": "2026-03-24T13:00:00"
     },
     {
       "data": "24/03",
@@ -112,22 +82,7 @@
     },
     {
       "data": "24/03",
-      "hora": "16:00",
-      "navio": "NEPTUNE HORIZON",
-      "calado": "8,70",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9451721",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-24T16:00:00"
-    },
-    {
-      "data": "24/03",
-      "hora": "18:00",
+      "hora": "15:00",
       "navio": "CMA CGM VERACRUZ",
       "calado": "10,00",
       "manobra": "S",
@@ -138,26 +93,26 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-24T18:00:00"
+      "timestamp": "2026-03-24T15:00:00"
     },
     {
       "data": "24/03",
-      "hora": "19:00",
-      "navio": "INDUSTRIAL DART",
-      "calado": "6,30",
-      "manobra": "S",
-      "beco": "TECONT4",
+      "hora": "17:00",
+      "navio": "NEPTUNE HORIZON",
+      "calado": "8,70",
+      "manobra": "E",
+      "beco": "TECONT5",
       "status": "hoje",
-      "imo": "9360207",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9451721",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-24T19:00:00"
+      "timestamp": "2026-03-24T17:00:00"
     },
     {
       "data": "24/03",
-      "hora": "21:00",
+      "hora": "18:30",
       "navio": "MSC URSULA VI",
       "calado": "11,80",
       "manobra": "E",
@@ -168,7 +123,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-24T21:00:00"
+      "timestamp": "2026-03-24T18:30:00"
+    },
+    {
+      "data": "24/03",
+      "hora": "20:30",
+      "navio": "INDUSTRIAL DART",
+      "calado": "6,30",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "hoje",
+      "imo": "9360207",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-24T20:30:00"
     },
     {
       "data": "25/03",
@@ -473,58 +443,31 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CMA CGM SANTOS",
+      "navio_rio": "COSCO SHIPPING CHILE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/03 01:00",
-      "manobra_rio_fim": "24/03 14:00",
+      "manobra_rio_inicio": "24/03 06:30",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "MSC CADIZ",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "24/03 08:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/03 06:30",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/03 13:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/03 06:30",
+      "manobra_rio_fim": "25/03 06:00",
       "navio_multi": "CMA CGM VERACRUZ",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 02:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/03 01:00",
-      "manobra_rio_fim": "24/03 14:00",
-      "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 04:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/03 01:00",
-      "manobra_rio_fim": "24/03 14:00",
-      "navio_multi": "MSC CADIZ",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 08:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/03 01:00",
-      "manobra_rio_fim": "24/03 14:00",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 11:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/03 06:30",
-      "manobra_rio_fim": "25/03 06:00",
-      "navio_multi": "MSC CADIZ",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 08:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/03 06:30",
-      "manobra_rio_fim": "25/03 06:00",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 11:00"
+      "manobra_multi_data_hora": "24/03 15:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
@@ -533,25 +476,7 @@
       "manobra_rio_fim": "25/03 06:00",
       "navio_multi": "NEPTUNE HORIZON",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 16:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/03 06:30",
-      "manobra_rio_fim": "25/03 06:00",
-      "navio_multi": "CMA CGM VERACRUZ",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 18:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/03 06:30",
-      "manobra_rio_fim": "25/03 06:00",
-      "navio_multi": "INDUSTRIAL DART",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/03 19:00"
+      "manobra_multi_data_hora": "24/03 17:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
@@ -560,7 +485,16 @@
       "manobra_rio_fim": "25/03 06:00",
       "navio_multi": "MSC URSULA VI",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 21:00"
+      "manobra_multi_data_hora": "24/03 18:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/03 06:30",
+      "manobra_rio_fim": "25/03 06:00",
+      "navio_multi": "INDUSTRIAL DART",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/03 20:30"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
