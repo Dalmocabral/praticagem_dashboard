@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/03/2026 12:52",
+  "ultima_atualizacao": "24/03/2026 13:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -61,7 +61,7 @@
       "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-24T16:00:00"
     },
@@ -202,6 +202,21 @@
     },
     {
       "data": "25/03",
+      "hora": "18:00",
+      "navio": "BRASILIA HIGHWAY",
+      "calado": "8,72",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9519119",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-25T18:00:00"
+    },
+    {
+      "data": "25/03",
       "hora": "22:00",
       "navio": "MSC URSULA VI",
       "calado": "12,60",
@@ -259,6 +274,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-26T10:00:00"
+    },
+    {
+      "data": "26/03",
+      "hora": "14:00",
+      "navio": "BRASILIA HIGHWAY",
+      "calado": "8,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9519119",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-26T14:00:00"
     },
     {
       "data": "26/03",
@@ -441,6 +471,15 @@
     },
     {
       "navio_rio": "CMA CGM PARATY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "25/03 08:00",
+      "manobra_rio_fim": "26/03 06:00",
+      "navio_multi": "BRASILIA HIGHWAY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "25/03 18:00"
+    },
+    {
+      "navio_rio": "CMA CGM PARATY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "25/03 08:00",
       "manobra_rio_fim": "26/03 06:00",
@@ -477,12 +516,30 @@
     },
     {
       "navio_rio": "KOTA PAHLAWAN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "25/03 10:00",
+      "manobra_rio_fim": "26/03 07:00",
+      "navio_multi": "BRASILIA HIGHWAY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "25/03 18:00"
+    },
+    {
+      "navio_rio": "KOTA PAHLAWAN",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "25/03 10:00",
       "manobra_rio_fim": "26/03 07:00",
       "navio_multi": "MSC URSULA VI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "25/03 22:00"
+    },
+    {
+      "navio_rio": "NAVIOS VERDE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/03 10:00",
+      "manobra_rio_fim": "26/03 22:00",
+      "navio_multi": "BRASILIA HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/03 14:00"
     },
     {
       "navio_rio": "NAVIOS VERDE",
