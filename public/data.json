@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "23/03/2026 23:51",
+  "ultima_atualizacao": "24/03/2026 01:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "23/03",
-      "hora": "23:00",
-      "navio": "MSC ELODIE",
-      "calado": "10,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-23T23:00:00"
-    },
     {
       "data": "24/03",
       "hora": "01:00",
@@ -61,7 +46,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-24T04:30:00"
     },
@@ -82,7 +67,7 @@
     },
     {
       "data": "24/03",
-      "hora": "09:00",
+      "hora": "08:30",
       "navio": "MSC CADIZ",
       "calado": "11,20",
       "manobra": "E",
@@ -93,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-24T09:00:00"
+      "timestamp": "2026-03-24T08:30:00"
     },
     {
       "data": "24/03",
@@ -512,7 +497,7 @@
       "manobra_rio_fim": "24/03 14:00",
       "navio_multi": "MSC CADIZ",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 09:00"
+      "manobra_multi_data_hora": "24/03 08:30"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
@@ -530,7 +515,7 @@
       "manobra_rio_fim": "25/03 06:00",
       "navio_multi": "MSC CADIZ",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/03 09:00"
+      "manobra_multi_data_hora": "24/03 08:30"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
