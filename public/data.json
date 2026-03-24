@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/03/2026 19:54",
+  "ultima_atualizacao": "24/03/2026 20:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -114,7 +114,7 @@
       "data": "25/03",
       "hora": "14:00",
       "navio": "MSC CADIZ",
-      "calado": "12,60",
+      "calado": "9,90",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
