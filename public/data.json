@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/03/2026 10:49",
+  "ultima_atualizacao": "25/03/2026 11:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -19,21 +19,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-03-25T08:00:00"
-    },
-    {
-      "data": "25/03",
-      "hora": "10:00",
-      "navio": "KOTA PAHLAWAN",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9786712",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-25T10:00:00"
     },
     {
       "data": "25/03",
@@ -262,6 +247,21 @@
     },
     {
       "data": "27/03",
+      "hora": "10:30",
+      "navio": "CZECH",
+      "calado": "13,80",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9723241",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-27T10:30:00"
+    },
+    {
+      "data": "27/03",
       "hora": "18:00",
       "navio": "GOODWOOD",
       "calado": "8,50",
@@ -289,6 +289,51 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-28T06:00:00"
+    },
+    {
+      "data": "28/03",
+      "hora": "07:00",
+      "navio": "CZECH",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9723241",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-28T07:00:00"
+    },
+    {
+      "data": "29/03",
+      "hora": "07:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-29T07:30:00"
+    },
+    {
+      "data": "30/03",
+      "hora": "07:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-30T07:30:00"
     },
     {
       "data": "31/03",
@@ -322,6 +367,21 @@
     },
     {
       "data": "02/04",
+      "hora": "00:30",
+      "navio": "MSC LEILA",
+      "calado": "11,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1016654",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-02T00:30:00"
+    },
+    {
+      "data": "02/04",
       "hora": "09:00",
       "navio": "EVER FAR",
       "calado": "14,50",
@@ -334,6 +394,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-02T09:00:00"
+    },
+    {
+      "data": "03/04",
+      "hora": "01:30",
+      "navio": "MSC LEILA",
+      "calado": "11,30",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1016654",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-03T01:30:00"
     },
     {
       "data": "03/04",
@@ -379,6 +454,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-10T16:00:00"
+    },
+    {
+      "data": "11/04",
+      "hora": "12:00",
+      "navio": "MSC CATERINA",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-11T12:00:00"
+    },
+    {
+      "data": "12/04",
+      "hora": "12:00",
+      "navio": "MSC CATERINA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-12T12:00:00"
     },
     {
       "data": "14/04",
@@ -458,60 +563,6 @@
       "manobra_multi_data_hora": "26/03 06:00"
     },
     {
-      "navio_rio": "KOTA PAHLAWAN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/03 10:00",
-      "manobra_rio_fim": "26/03 15:00",
-      "navio_multi": "NEPTUNE HORIZON",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/03 17:00"
-    },
-    {
-      "navio_rio": "KOTA PAHLAWAN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/03 10:00",
-      "manobra_rio_fim": "26/03 15:00",
-      "navio_multi": "MSC CADIZ",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/03 18:00"
-    },
-    {
-      "navio_rio": "KOTA PAHLAWAN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/03 10:00",
-      "manobra_rio_fim": "26/03 15:00",
-      "navio_multi": "BRASILIA HIGHWAY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "25/03 20:00"
-    },
-    {
-      "navio_rio": "KOTA PAHLAWAN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/03 10:00",
-      "manobra_rio_fim": "26/03 15:00",
-      "navio_multi": "MSC URSULA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/03 22:00"
-    },
-    {
-      "navio_rio": "KOTA PAHLAWAN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/03 10:00",
-      "manobra_rio_fim": "26/03 15:00",
-      "navio_multi": "MSC PINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/03 06:00"
-    },
-    {
-      "navio_rio": "KOTA PAHLAWAN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/03 10:00",
-      "manobra_rio_fim": "26/03 15:00",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/03 13:00"
-    },
-    {
       "navio_rio": "ZIM IBERIA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "26/03 11:30",
@@ -528,6 +579,15 @@
       "navio_multi": "BRASILIA HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "26/03 20:00"
+    },
+    {
+      "navio_rio": "EVER FAR",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/04 09:00",
+      "manobra_rio_fim": "03/04 06:00",
+      "navio_multi": "MSC LEILA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/04 01:30"
     }
   ]
 }
