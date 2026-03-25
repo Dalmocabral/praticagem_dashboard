@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "24/03/2026 21:00",
+  "ultima_atualizacao": "25/03/2026 00:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "24/03",
-      "hora": "04:30",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "passado",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-24T04:30:00"
-    },
-    {
-      "data": "24/03",
-      "hora": "19:30",
-      "navio": "MSC URSULA VI",
-      "calado": "11,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9168867",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-24T19:30:00"
-    },
     {
       "data": "25/03",
       "hora": "03:00",
@@ -46,7 +16,7 @@
       "imo": "9360207",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-25T03:00:00"
     },
