@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "25/03/2026 19:55",
+  "ultima_atualizacao": "25/03/2026 20:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "25/03",
-      "hora": "19:00",
-      "navio": "NEPTUNE HORIZON",
-      "calado": "8,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9451721",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-25T19:00:00"
-    },
     {
       "data": "25/03",
       "hora": "22:00",
