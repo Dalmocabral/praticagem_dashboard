@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/03/2026 16:56",
+  "ultima_atualizacao": "25/03/2026 17:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -69,7 +69,7 @@
       "data": "26/03",
       "hora": "06:00",
       "navio": "CMA CGM PARATY",
-      "calado": "15,10",
+      "calado": "15,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
