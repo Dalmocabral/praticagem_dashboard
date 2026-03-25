@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/03/2026 13:08",
+  "ultima_atualizacao": "25/03/2026 14:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -68,6 +68,21 @@
     {
       "data": "26/03",
       "hora": "06:00",
+      "navio": "CMA CGM PARATY",
+      "calado": "15,10",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938262",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-26T06:00:00"
+    },
+    {
+      "data": "26/03",
+      "hora": "08:00",
       "navio": "MSC PINA",
       "calado": "13,90",
       "manobra": "E",
@@ -78,22 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-26T06:00:00"
-    },
-    {
-      "data": "26/03",
-      "hora": "09:30",
-      "navio": "CMA CGM PARATY",
-      "calado": "12,80",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9938262",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-26T09:30:00"
+      "timestamp": "2026-03-26T08:00:00"
     },
     {
       "data": "26/03",
