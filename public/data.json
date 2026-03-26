@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "26/03/2026 02:48",
+  "ultima_atualizacao": "26/03/2026 03:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "26/03",
-      "hora": "01:00",
-      "navio": "MSC URSULA VI",
-      "calado": "12,40",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9168867",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-26T01:00:00"
-    },
     {
       "data": "26/03",
       "hora": "06:00",
@@ -31,7 +16,7 @@
       "imo": "9938262",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-03-26T06:00:00"
     },
