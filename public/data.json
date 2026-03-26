@@ -1,28 +1,13 @@
 {
-  "ultima_atualizacao": "25/03/2026 22:01",
+  "ultima_atualizacao": "26/03/2026 01:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
     {
-      "data": "25/03",
-      "hora": "22:00",
-      "navio": "BRASILIA HIGHWAY",
-      "calado": "8,62",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "passado",
-      "imo": "9519119",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-25T22:00:00"
-    },
-    {
       "data": "26/03",
-      "hora": "02:00",
+      "hora": "01:00",
       "navio": "MSC URSULA VI",
       "calado": "12,40",
       "manobra": "S",
@@ -31,9 +16,9 @@
       "imo": "9168867",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-03-26T02:00:00"
+      "timestamp": "2026-03-26T01:00:00"
     },
     {
       "data": "26/03",
