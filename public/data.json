@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "26/03/2026 16:44",
+  "ultima_atualizacao": "26/03/2026 17:22",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "26/03",
-      "hora": "13:00",
-      "navio": "MSC MELINE",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-26T13:00:00"
-    },
-    {
-      "data": "26/03",
-      "hora": "15:30",
-      "navio": "KOTA PAHLAWAN",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9786712",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-26T15:30:00"
-    },
     {
       "data": "26/03",
       "hora": "23:00",
@@ -157,21 +127,6 @@
     },
     {
       "data": "27/03",
-      "hora": "18:00",
-      "navio": "GOODWOOD",
-      "calado": "8,50",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9701140",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-27T18:00:00"
-    },
-    {
-      "data": "27/03",
       "hora": "19:00",
       "navio": "BOCS PASSION",
       "calado": "6,90",
@@ -214,6 +169,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-27T22:30:00"
+    },
+    {
+      "data": "28/03",
+      "hora": "00:30",
+      "navio": "GOODWOOD",
+      "calado": "8,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9701140",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-28T00:30:00"
     },
     {
       "data": "28/03",
@@ -366,6 +336,21 @@
       "timestamp": "2026-04-01T06:30:00"
     },
     {
+      "data": "01/04",
+      "hora": "08:30",
+      "navio": "EVER FAR",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850862",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-01T08:30:00"
+    },
+    {
       "data": "02/04",
       "hora": "00:30",
       "navio": "MSC LEILA",
@@ -382,10 +367,10 @@
     },
     {
       "data": "02/04",
-      "hora": "09:00",
+      "hora": "08:30",
       "navio": "EVER FAR",
-      "calado": "14,50",
-      "manobra": "E",
+      "calado": "14,00",
+      "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9850862",
@@ -393,7 +378,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-02T09:00:00"
+      "timestamp": "2026-04-02T08:30:00"
     },
     {
       "data": "03/04",
@@ -409,21 +394,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-03T01:30:00"
-    },
-    {
-      "data": "03/04",
-      "hora": "06:00",
-      "navio": "EVER FAR",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9850862",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-03T06:00:00"
     },
     {
       "data": "07/04",
@@ -456,11 +426,26 @@
       "timestamp": "2026-04-08T08:00:00"
     },
     {
-      "data": "09/04",
+      "data": "08/04",
       "hora": "16:00",
       "navio": "EVER FORTUNE",
       "calado": "14,50",
       "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850563",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-08T16:00:00"
+    },
+    {
+      "data": "09/04",
+      "hora": "16:00",
+      "navio": "EVER FORTUNE",
+      "calado": "14,00",
+      "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9850563",
@@ -499,21 +484,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-10T07:00:00"
-    },
-    {
-      "data": "10/04",
-      "hora": "16:00",
-      "navio": "EVER FORTUNE",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9850563",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-10T16:00:00"
     },
     {
       "data": "11/04",
@@ -614,13 +584,13 @@
       "manobra_multi_data_hora": "27/03 16:00"
     },
     {
-      "navio_rio": "LOG-IN PANTANAL",
+      "navio_rio": "CMA CGM SAMBHAR",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/03 08:30",
-      "manobra_rio_fim": "27/03 21:00",
+      "manobra_rio_inicio": "27/03 22:30",
+      "manobra_rio_fim": "28/03 09:00",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/03 18:00"
+      "manobra_multi_data_hora": "28/03 00:30"
     },
     {
       "navio_rio": "CMA CGM SAMBHAR",
@@ -661,11 +631,11 @@
     {
       "navio_rio": "EVER FAR",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "02/04 09:00",
-      "manobra_rio_fim": "03/04 06:00",
+      "manobra_rio_inicio": "01/04 08:30",
+      "manobra_rio_fim": "02/04 08:30",
       "navio_multi": "MSC LEILA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/04 01:30"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "02/04 00:30"
     }
   ]
 }
