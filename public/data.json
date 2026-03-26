@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/03/2026 07:13",
+  "ultima_atualizacao": "26/03/2026 08:14",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -39,14 +39,14 @@
       "data": "26/03",
       "hora": "11:30",
       "navio": "ZIM IBERIA",
-      "calado": "11,00",
+      "calado": "12,00",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9431719",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-03-26T11:30:00"
     },
