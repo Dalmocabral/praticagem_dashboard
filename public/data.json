@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/03/2026 13:37",
+  "ultima_atualizacao": "26/03/2026 14:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -37,21 +37,6 @@
     },
     {
       "data": "26/03",
-      "hora": "22:00",
-      "navio": "BRASILIA HIGHWAY",
-      "calado": "8,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9519119",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-26T22:00:00"
-    },
-    {
-      "data": "26/03",
       "hora": "23:00",
       "navio": "ZIM IBERIA",
       "calado": "10,80",
@@ -67,18 +52,18 @@
     },
     {
       "data": "27/03",
-      "hora": "01:00",
-      "navio": "GOODWOOD",
-      "calado": "9,00",
-      "manobra": "E",
+      "hora": "03:00",
+      "navio": "BRASILIA HIGHWAY",
+      "calado": "8,00",
+      "manobra": "S",
       "beco": "TECONT5",
       "status": "futuro",
-      "imo": "9701140",
+      "imo": "9519119",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-27T01:00:00"
+      "timestamp": "2026-03-27T03:00:00"
     },
     {
       "data": "27/03",
@@ -109,6 +94,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-27T08:30:00"
+    },
+    {
+      "data": "27/03",
+      "hora": "10:00",
+      "navio": "GOODWOOD",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9701140",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-27T10:00:00"
     },
     {
       "data": "27/03",
@@ -517,6 +517,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "27/03 08:30",
+      "manobra_rio_fim": "27/03 21:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "27/03 10:00"
+    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
