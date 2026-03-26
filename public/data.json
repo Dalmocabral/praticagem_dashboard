@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "26/03/2026 09:03",
+  "ultima_atualizacao": "26/03/2026 10:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "26/03",
-      "hora": "06:00",
-      "navio": "CMA CGM PARATY",
-      "calado": "15,10",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9938262",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-26T06:00:00"
-    },
     {
       "data": "26/03",
       "hora": "08:00",
@@ -61,15 +46,15 @@
       "imo": "9702077",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-26T13:00:00"
     },
     {
       "data": "26/03",
-      "hora": "15:00",
+      "hora": "16:00",
       "navio": "KOTA PAHLAWAN",
-      "calado": "14,50",
+      "calado": "13,80",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -78,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-26T15:00:00"
+      "timestamp": "2026-03-26T16:00:00"
     },
     {
       "data": "26/03",
@@ -187,6 +172,21 @@
     },
     {
       "data": "27/03",
+      "hora": "12:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-27T12:30:00"
+    },
+    {
+      "data": "27/03",
       "hora": "18:00",
       "navio": "GOODWOOD",
       "calado": "8,50",
@@ -202,6 +202,21 @@
     },
     {
       "data": "27/03",
+      "hora": "21:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "M",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-27T21:00:00"
+    },
+    {
+      "data": "27/03",
       "hora": "23:00",
       "navio": "BOCS PASSION",
       "calado": "6,90",
@@ -214,6 +229,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-27T23:00:00"
+    },
+    {
+      "data": "28/03",
+      "hora": "05:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-28T05:00:00"
     },
     {
       "data": "28/03",
@@ -366,6 +396,36 @@
       "timestamp": "2026-04-03T06:00:00"
     },
     {
+      "data": "07/04",
+      "hora": "07:00",
+      "navio": "CMA CGM BUZIOS",
+      "calado": "14,10",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938250",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-07T07:00:00"
+    },
+    {
+      "data": "08/04",
+      "hora": "08:00",
+      "navio": "CMA CGM BUZIOS",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938250",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-08T08:00:00"
+    },
+    {
       "data": "09/04",
       "hora": "16:00",
       "navio": "EVER FORTUNE",
@@ -379,6 +439,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-09T16:00:00"
+    },
+    {
+      "data": "09/04",
+      "hora": "18:00",
+      "navio": "XIN CHONG QING",
+      "calado": "11,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9262118",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-09T18:00:00"
+    },
+    {
+      "data": "10/04",
+      "hora": "07:00",
+      "navio": "XIN CHONG QING",
+      "calado": "11,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9262118",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-10T07:00:00"
     },
     {
       "data": "10/04",
@@ -474,6 +564,15 @@
       "navio_multi": "BRASILIA HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "26/03 22:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "27/03 12:30",
+      "manobra_rio_fim": "27/03 21:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "27/03 18:00"
     },
     {
       "navio_rio": "EVER FAR",
