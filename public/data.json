@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/03/2026 15:41",
+  "ultima_atualizacao": "26/03/2026 16:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -172,6 +172,21 @@
     },
     {
       "data": "27/03",
+      "hora": "19:00",
+      "navio": "BOCS PASSION",
+      "calado": "6,90",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9500065",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-27T19:00:00"
+    },
+    {
+      "data": "27/03",
       "hora": "21:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
@@ -187,18 +202,18 @@
     },
     {
       "data": "27/03",
-      "hora": "23:00",
-      "navio": "BOCS PASSION",
-      "calado": "6,90",
-      "manobra": "S",
-      "beco": "TECONT1",
+      "hora": "22:30",
+      "navio": "CMA CGM SAMBHAR",
+      "calado": "11,65",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9500065",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9295969",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-27T23:00:00"
+      "timestamp": "2026-03-27T22:30:00"
     },
     {
       "data": "28/03",
@@ -246,6 +261,36 @@
       "timestamp": "2026-03-28T07:00:00"
     },
     {
+      "data": "28/03",
+      "hora": "09:00",
+      "navio": "CMA CGM SAMBHAR",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9295969",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-28T09:00:00"
+    },
+    {
+      "data": "28/03",
+      "hora": "21:00",
+      "navio": "MAERSK EVERGLADES",
+      "calado": "10,40",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9928205",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-28T21:00:00"
+    },
+    {
       "data": "29/03",
       "hora": "07:30",
       "navio": "LOG-IN DISCOVERY",
@@ -259,6 +304,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-29T07:30:00"
+    },
+    {
+      "data": "29/03",
+      "hora": "09:30",
+      "navio": "MAERSK EVERGLADES",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9928205",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-29T09:30:00"
     },
     {
       "data": "30/03",
@@ -561,6 +621,42 @@
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "27/03 18:00"
+    },
+    {
+      "navio_rio": "CMA CGM SAMBHAR",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "27/03 22:30",
+      "manobra_rio_fim": "28/03 09:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/03 05:00"
+    },
+    {
+      "navio_rio": "CMA CGM SAMBHAR",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "27/03 22:30",
+      "manobra_rio_fim": "28/03 09:00",
+      "navio_multi": "LE HAVRE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/03 06:00"
+    },
+    {
+      "navio_rio": "CMA CGM SAMBHAR",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "27/03 22:30",
+      "manobra_rio_fim": "28/03 09:00",
+      "navio_multi": "CZECH",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/03 07:00"
+    },
+    {
+      "navio_rio": "MAERSK EVERGLADES",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "28/03 21:00",
+      "manobra_rio_fim": "29/03 09:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "29/03 07:30"
     },
     {
       "navio_rio": "EVER FAR",
