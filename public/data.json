@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/03/2026 12:35",
+  "ultima_atualizacao": "27/03/2026 13:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -61,7 +61,7 @@
       "imo": "9723241",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-03-27T17:00:00"
     },
@@ -231,21 +231,6 @@
       "timestamp": "2026-03-28T16:00:00"
     },
     {
-      "data": "28/03",
-      "hora": "21:00",
-      "navio": "MAERSK EVERGLADES",
-      "calado": "10,40",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9928205",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-28T21:00:00"
-    },
-    {
       "data": "29/03",
       "hora": "06:00",
       "navio": "VANTAGE",
@@ -259,21 +244,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-29T06:00:00"
-    },
-    {
-      "data": "29/03",
-      "hora": "09:30",
-      "navio": "MAERSK EVERGLADES",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9928205",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-29T09:30:00"
     },
     {
       "data": "29/03",
@@ -615,15 +585,6 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "28/03 16:00",
       "manobra_rio_fim": "29/03 10:30",
-      "navio_multi": "VANTAGE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/03 06:00"
-    },
-    {
-      "navio_rio": "MAERSK EVERGLADES",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "28/03 21:00",
-      "manobra_rio_fim": "29/03 09:30",
       "navio_multi": "VANTAGE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "29/03 06:00"
