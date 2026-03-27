@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/03/2026 09:05",
+  "ultima_atualizacao": "27/03/2026 10:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -7,31 +7,16 @@
   "navios": [
     {
       "data": "27/03",
-      "hora": "08:30",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-03-27T08:30:00"
-    },
-    {
-      "data": "27/03",
       "hora": "12:30",
       "navio": "BRASILIA HIGHWAY",
-      "calado": "8,00",
+      "calado": "9,13",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9519119",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-27T12:30:00"
     },
@@ -46,7 +31,7 @@
       "imo": "9339272",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-27T13:30:00"
     },
@@ -82,6 +67,21 @@
     },
     {
       "data": "27/03",
+      "hora": "19:00",
+      "navio": "GOODWOOD",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9701140",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-27T19:00:00"
+    },
+    {
+      "data": "27/03",
       "hora": "21:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
@@ -112,43 +112,13 @@
     },
     {
       "data": "28/03",
-      "hora": "00:00",
-      "navio": "GOODWOOD",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9701140",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-28T00:00:00"
-    },
-    {
-      "data": "28/03",
-      "hora": "05:00",
+      "hora": "06:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "10,00",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "futuro",
       "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-28T05:00:00"
-    },
-    {
-      "data": "28/03",
-      "hora": "06:00",
-      "navio": "LE HAVRE",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -202,7 +172,7 @@
     },
     {
       "data": "28/03",
-      "hora": "12:00",
+      "hora": "10:00",
       "navio": "GOODWOOD",
       "calado": "8,50",
       "manobra": "S",
@@ -213,7 +183,37 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
+      "timestamp": "2026-03-28T10:00:00"
+    },
+    {
+      "data": "28/03",
+      "hora": "12:00",
+      "navio": "VANTAGE",
+      "calado": "12,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9628192",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
       "timestamp": "2026-03-28T12:00:00"
+    },
+    {
+      "data": "28/03",
+      "hora": "14:00",
+      "navio": "LE HAVRE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9307243",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-28T14:00:00"
     },
     {
       "data": "28/03",
@@ -232,18 +232,18 @@
     },
     {
       "data": "29/03",
-      "hora": "07:30",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "E",
+      "hora": "06:00",
+      "navio": "VANTAGE",
+      "calado": "12,60",
+      "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9506394",
+      "imo": "9628192",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-29T07:30:00"
+      "timestamp": "2026-03-29T06:00:00"
     },
     {
       "data": "29/03",
@@ -261,19 +261,34 @@
       "timestamp": "2026-03-29T09:30:00"
     },
     {
-      "data": "30/03",
-      "hora": "07:30",
+      "data": "29/03",
+      "hora": "21:00",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "8,60",
-      "manobra": "S",
-      "beco": "TECONT2",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-30T07:30:00"
+      "timestamp": "2026-03-29T21:00:00"
+    },
+    {
+      "data": "31/03",
+      "hora": "06:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-31T06:00:00"
     },
     {
       "data": "31/03",
@@ -397,7 +412,7 @@
     },
     {
       "data": "08/04",
-      "hora": "16:00",
+      "hora": "10:00",
       "navio": "EVER FORTUNE",
       "calado": "14,50",
       "manobra": "E",
@@ -408,7 +423,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-08T16:00:00"
+      "timestamp": "2026-04-08T10:00:00"
     },
     {
       "data": "09/04",
@@ -518,65 +533,11 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/03 08:30",
-      "manobra_rio_fim": "27/03 21:00",
-      "navio_multi": "BRASILIA HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/03 12:30"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/03 08:30",
-      "manobra_rio_fim": "27/03 21:00",
-      "navio_multi": "MSC PINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/03 13:30"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/03 08:30",
-      "manobra_rio_fim": "27/03 21:00",
-      "navio_multi": "LE HAVRE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/03 15:30"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/03 08:30",
-      "manobra_rio_fim": "27/03 21:00",
-      "navio_multi": "CZECH",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/03 17:00"
-    },
-    {
-      "navio_rio": "CMA CGM SAMBHAR",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/03 22:30",
-      "manobra_rio_fim": "28/03 09:00",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "28/03 00:00"
-    },
-    {
       "navio_rio": "CMA CGM SAMBHAR",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "27/03 22:30",
       "manobra_rio_fim": "28/03 09:00",
       "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/03 05:00"
-    },
-    {
-      "navio_rio": "CMA CGM SAMBHAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "27/03 22:30",
-      "manobra_rio_fim": "28/03 09:00",
-      "navio_multi": "LE HAVRE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "28/03 06:00"
     },
@@ -594,9 +555,9 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "28/03 21:00",
       "manobra_rio_fim": "29/03 09:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "29/03 07:30"
+      "navio_multi": "VANTAGE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "29/03 06:00"
     },
     {
       "navio_rio": "EVER FAR",
