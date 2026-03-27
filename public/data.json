@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "27/03/2026 20:24",
+  "ultima_atualizacao": "27/03/2026 20:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "27/03",
-      "hora": "19:00",
-      "navio": "GOODWOOD",
-      "calado": "9,15",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9701140",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-27T19:00:00"
-    },
     {
       "data": "27/03",
       "hora": "21:00",
