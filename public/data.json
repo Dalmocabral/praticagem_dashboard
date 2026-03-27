@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/03/2026 13:34",
+  "ultima_atualizacao": "27/03/2026 14:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -39,7 +39,7 @@
       "data": "27/03",
       "hora": "15:30",
       "navio": "LE HAVRE",
-      "calado": "14,50",
+      "calado": "14,40",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -61,7 +61,7 @@
       "imo": "9723241",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-27T17:00:00"
     },
@@ -231,6 +231,21 @@
       "timestamp": "2026-03-28T16:00:00"
     },
     {
+      "data": "28/03",
+      "hora": "18:00",
+      "navio": "INDUSTRIAL MOMENTUM",
+      "calado": "7,00",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9534432",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-28T18:00:00"
+    },
+    {
       "data": "29/03",
       "hora": "06:00",
       "navio": "VANTAGE",
@@ -274,6 +289,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-29T21:00:00"
+    },
+    {
+      "data": "30/03",
+      "hora": "06:00",
+      "navio": "INDUSTRIAL MOMENTUM",
+      "calado": "6,70",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9534432",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-30T06:00:00"
     },
     {
       "data": "31/03",
@@ -579,6 +609,15 @@
       "navio_multi": "CZECH",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "28/03 07:00"
+    },
+    {
+      "navio_rio": "XIN WEI HAI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/03 16:00",
+      "manobra_rio_fim": "29/03 10:30",
+      "navio_multi": "INDUSTRIAL MOMENTUM",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "28/03 18:00"
     },
     {
       "navio_rio": "XIN WEI HAI",
