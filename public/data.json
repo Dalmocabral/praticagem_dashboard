@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "27/03/2026 19:01",
+  "ultima_atualizacao": "27/03/2026 19:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "27/03",
-      "hora": "17:00",
-      "navio": "CZECH",
-      "calado": "13,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9723241",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-27T17:00:00"
-    },
     {
       "data": "27/03",
       "hora": "19:00",
@@ -61,7 +46,7 @@
       "imo": "9295969",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-03-27T22:30:00"
     },
