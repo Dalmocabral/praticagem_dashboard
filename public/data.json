@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/03/2026 10:42",
+  "ultima_atualizacao": "27/03/2026 11:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -46,7 +46,7 @@
       "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-03-27T15:30:00"
     },
@@ -366,6 +366,21 @@
       "timestamp": "2026-04-02T08:30:00"
     },
     {
+      "data": "02/04",
+      "hora": "10:30",
+      "navio": "BOCHEM BRISBANE",
+      "calado": "9,35",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9973315",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-02T10:30:00"
+    },
+    {
       "data": "03/04",
       "hora": "01:30",
       "navio": "MSC LEILA",
@@ -379,6 +394,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-03T01:30:00"
+    },
+    {
+      "data": "03/04",
+      "hora": "18:00",
+      "navio": "BOCHEM BRISBANE",
+      "calado": "8,40",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9973315",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-03T18:00:00"
     },
     {
       "data": "07/04",
@@ -567,6 +597,15 @@
       "navio_multi": "MSC LEILA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "02/04 00:30"
+    },
+    {
+      "navio_rio": "BOCHEM BRISBANE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/04 10:30",
+      "manobra_rio_fim": "03/04 18:00",
+      "navio_multi": "MSC LEILA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/04 01:30"
     }
   ]
 }
