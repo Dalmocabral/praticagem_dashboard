@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/03/2026 07:29",
+  "ultima_atualizacao": "27/03/2026 08:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -22,7 +22,7 @@
     },
     {
       "data": "27/03",
-      "hora": "11:00",
+      "hora": "12:30",
       "navio": "BRASILIA HIGHWAY",
       "calado": "8,00",
       "manobra": "S",
@@ -31,13 +31,13 @@
       "imo": "9519119",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-27T11:00:00"
+      "timestamp": "2026-03-27T12:30:00"
     },
     {
       "data": "27/03",
-      "hora": "12:30",
+      "hora": "13:30",
       "navio": "MSC PINA",
       "calado": "13,70",
       "manobra": "S",
@@ -48,11 +48,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-27T12:30:00"
+      "timestamp": "2026-03-27T13:30:00"
     },
     {
       "data": "27/03",
-      "hora": "14:30",
+      "hora": "15:30",
       "navio": "LE HAVRE",
       "calado": "14,50",
       "manobra": "E",
@@ -63,11 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-27T14:30:00"
+      "timestamp": "2026-03-27T15:30:00"
     },
     {
       "data": "27/03",
-      "hora": "16:00",
+      "hora": "17:00",
       "navio": "CZECH",
       "calado": "13,80",
       "manobra": "E",
@@ -78,22 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-27T16:00:00"
-    },
-    {
-      "data": "27/03",
-      "hora": "19:00",
-      "navio": "BOCS PASSION",
-      "calado": "6,90",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9500065",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-03-27T19:00:00"
+      "timestamp": "2026-03-27T17:00:00"
     },
     {
       "data": "27/03",
@@ -184,6 +169,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-28T07:00:00"
+    },
+    {
+      "data": "28/03",
+      "hora": "08:00",
+      "navio": "BOCS PASSION",
+      "calado": "6,90",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9500065",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-28T08:00:00"
     },
     {
       "data": "28/03",
@@ -524,7 +524,7 @@
       "manobra_rio_fim": "27/03 21:00",
       "navio_multi": "BRASILIA HIGHWAY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/03 11:00"
+      "manobra_multi_data_hora": "27/03 12:30"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -533,7 +533,7 @@
       "manobra_rio_fim": "27/03 21:00",
       "navio_multi": "MSC PINA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/03 12:30"
+      "manobra_multi_data_hora": "27/03 13:30"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -542,7 +542,7 @@
       "manobra_rio_fim": "27/03 21:00",
       "navio_multi": "LE HAVRE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/03 14:30"
+      "manobra_multi_data_hora": "27/03 15:30"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -551,7 +551,7 @@
       "manobra_rio_fim": "27/03 21:00",
       "navio_multi": "CZECH",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/03 16:00"
+      "manobra_multi_data_hora": "27/03 17:00"
     },
     {
       "navio_rio": "CMA CGM SAMBHAR",
