@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/03/2026 16:27",
+  "ultima_atualizacao": "27/03/2026 17:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -61,7 +61,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-03-27T21:00:00"
     },
@@ -188,14 +188,14 @@
     {
       "data": "28/03",
       "hora": "16:00",
-      "navio": "XIN WEI HAI",
-      "calado": "12,50",
+      "navio": "CLARITY",
+      "calado": "6,80",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9312573",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "imo": "9416381",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-28T16:00:00"
@@ -214,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-28T18:00:00"
+    },
+    {
+      "data": "28/03",
+      "hora": "20:00",
+      "navio": "XIN WEI HAI",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9312573",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-28T20:00:00"
     },
     {
       "data": "29/03",
@@ -236,7 +251,7 @@
       "navio": "XIN WEI HAI",
       "calado": "12,00",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9312573",
       "tipo_navio": "CONTAINER SHIP",
@@ -244,6 +259,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-29T10:30:00"
+    },
+    {
+      "data": "29/03",
+      "hora": "16:00",
+      "navio": "CLARITY",
+      "calado": "6,80",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9416381",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-29T16:00:00"
     },
     {
       "data": "29/03",
@@ -581,18 +611,27 @@
       "manobra_multi_data_hora": "28/03 07:00"
     },
     {
-      "navio_rio": "XIN WEI HAI",
+      "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/03 16:00",
-      "manobra_rio_fim": "29/03 10:30",
+      "manobra_rio_fim": "29/03 16:00",
       "navio_multi": "INDUSTRIAL MOMENTUM",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "28/03 18:00"
     },
     {
-      "navio_rio": "XIN WEI HAI",
+      "navio_rio": "CLARITY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "28/03 16:00",
+      "manobra_rio_fim": "29/03 16:00",
+      "navio_multi": "VANTAGE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "29/03 06:00"
+    },
+    {
+      "navio_rio": "XIN WEI HAI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "28/03 20:00",
       "manobra_rio_fim": "29/03 10:30",
       "navio_multi": "VANTAGE",
       "manobra_multi_tipo": "S",
