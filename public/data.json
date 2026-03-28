@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/03/2026 18:49",
+  "ultima_atualizacao": "28/03/2026 19:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -36,19 +36,19 @@
       "timestamp": "2026-03-28T20:00:00"
     },
     {
-      "data": "28/03",
-      "hora": "22:00",
+      "data": "29/03",
+      "hora": "01:00",
       "navio": "GOODWOOD",
       "calado": "8,50",
       "manobra": "S",
       "beco": "TECONT5",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9701140",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-28T22:00:00"
+      "timestamp": "2026-03-29T01:00:00"
     },
     {
       "data": "29/03",
@@ -494,7 +494,7 @@
       "manobra_rio_fim": "29/03 08:00",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/03 22:00"
+      "manobra_multi_data_hora": "29/03 01:00"
     },
     {
       "navio_rio": "XIN WEI HAI",
