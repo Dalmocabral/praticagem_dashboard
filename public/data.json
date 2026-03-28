@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/03/2026 11:00",
+  "ultima_atualizacao": "28/03/2026 11:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -171,6 +171,21 @@
       "timestamp": "2026-03-30T06:00:00"
     },
     {
+      "data": "30/03",
+      "hora": "16:00",
+      "navio": "CMA CGM BAHIA",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-30T16:00:00"
+    },
+    {
       "data": "31/03",
       "hora": "06:00",
       "navio": "LOG-IN DISCOVERY",
@@ -187,7 +202,22 @@
     },
     {
       "data": "31/03",
-      "hora": "08:00",
+      "hora": "10:00",
+      "navio": "CMA CGM BAHIA",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-31T10:00:00"
+    },
+    {
+      "data": "31/03",
+      "hora": "12:00",
       "navio": "COSCO SHIPPING ARGENTINA",
       "calado": "14,10",
       "manobra": "E",
@@ -198,7 +228,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-31T08:00:00"
+      "timestamp": "2026-03-31T12:00:00"
     },
     {
       "data": "01/04",
@@ -519,6 +549,15 @@
       "navio_multi": "LE HAVRE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "29/03 06:00"
+    },
+    {
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "30/03 16:00",
+      "manobra_rio_fim": "31/03 10:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "31/03 06:00"
     },
     {
       "navio_rio": "EVER FAR",
