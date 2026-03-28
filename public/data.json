@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/03/2026 02:43",
+  "ultima_atualizacao": "28/03/2026 03:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "28/03",
-      "hora": "06:00",
+      "hora": "05:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "10,00",
       "manobra": "S",
@@ -16,13 +16,13 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-03-28T06:00:00"
+      "timestamp": "2026-03-28T05:00:00"
     },
     {
       "data": "28/03",
-      "hora": "07:00",
+      "hora": "06:00",
       "navio": "CZECH",
       "calado": "14,30",
       "manobra": "S",
@@ -31,9 +31,9 @@
       "imo": "9723241",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-03-28T07:00:00"
+      "timestamp": "2026-03-28T06:00:00"
     },
     {
       "data": "28/03",
