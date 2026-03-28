@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/03/2026 12:50",
+  "ultima_atualizacao": "28/03/2026 13:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -16,7 +16,7 @@
       "imo": "9416381",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-03-28T16:00:00"
     },
