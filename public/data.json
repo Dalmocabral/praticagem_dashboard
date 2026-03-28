@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/03/2026 15:02",
+  "ultima_atualizacao": "28/03/2026 15:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -127,6 +127,21 @@
     },
     {
       "data": "29/03",
+      "hora": "18:00",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "11,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-29T18:00:00"
+    },
+    {
+      "data": "29/03",
       "hora": "21:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
@@ -154,6 +169,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-30T06:00:00"
+    },
+    {
+      "data": "30/03",
+      "hora": "08:00",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "11,40",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-30T08:00:00"
     },
     {
       "data": "30/03",
@@ -534,6 +564,24 @@
       "navio_multi": "LE HAVRE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "29/03 06:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "29/03 18:00",
+      "manobra_rio_fim": "30/03 08:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "29/03 21:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "29/03 18:00",
+      "manobra_rio_fim": "30/03 08:00",
+      "navio_multi": "INDUSTRIAL MOMENTUM",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "30/03 06:00"
     },
     {
       "navio_rio": "CMA CGM BAHIA",
