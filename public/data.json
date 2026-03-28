@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/03/2026 04:34",
+  "ultima_atualizacao": "28/03/2026 05:05",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "28/03",
       "hora": "06:00",
       "navio": "CZECH",
-      "calado": "14,30",
+      "calado": "14,00",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9500065",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-03-28T08:00:00"
     },
@@ -61,7 +61,7 @@
       "imo": "9295969",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-03-28T09:00:00"
     },
