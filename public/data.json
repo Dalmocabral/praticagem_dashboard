@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/03/2026 14:42",
+  "ultima_atualizacao": "28/03/2026 15:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,14 +24,14 @@
       "data": "28/03",
       "hora": "18:00",
       "navio": "INDUSTRIAL MOMENTUM",
-      "calado": "7,00",
+      "calado": "6,90",
       "manobra": "E",
       "beco": "TECONT4",
       "status": "hoje",
       "imo": "9534432",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-28T18:00:00"
     },
