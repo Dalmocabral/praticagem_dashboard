@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/03/2026 12:25",
+  "ultima_atualizacao": "29/03/2026 12:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -82,6 +82,21 @@
     },
     {
       "data": "30/03",
+      "hora": "12:00",
+      "navio": "GRANDE TEXAS",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9796365",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-30T12:00:00"
+    },
+    {
+      "data": "30/03",
       "hora": "16:00",
       "navio": "CMA CGM BAHIA",
       "calado": "12,50",
@@ -94,6 +109,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-30T16:00:00"
+    },
+    {
+      "data": "31/03",
+      "hora": "04:00",
+      "navio": "GRANDE TEXAS",
+      "calado": "8,40",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9796365",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-31T04:00:00"
     },
     {
       "data": "31/03",
@@ -444,6 +474,15 @@
       "navio_multi": "INDUSTRIAL MOMENTUM",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "30/03 06:00"
+    },
+    {
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "30/03 16:00",
+      "manobra_rio_fim": "31/03 10:00",
+      "navio_multi": "GRANDE TEXAS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "31/03 04:00"
     },
     {
       "navio_rio": "CMA CGM BAHIA",
