@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/03/2026 12:56",
+  "ultima_atualizacao": "29/03/2026 13:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -41,7 +41,7 @@
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "hoje",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
@@ -49,21 +49,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-03-29T21:00:00"
-    },
-    {
-      "data": "30/03",
-      "hora": "06:00",
-      "navio": "INDUSTRIAL MOMENTUM",
-      "calado": "6,70",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "futuro",
-      "imo": "9534432",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-30T06:00:00"
     },
     {
       "data": "30/03",
@@ -111,6 +96,21 @@
       "timestamp": "2026-03-30T16:00:00"
     },
     {
+      "data": "30/03",
+      "hora": "20:00",
+      "navio": "INDUSTRIAL MOMENTUM",
+      "calado": "6,70",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9534432",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-30T20:00:00"
+    },
+    {
       "data": "31/03",
       "hora": "04:00",
       "navio": "GRANDE TEXAS",
@@ -131,7 +131,7 @@
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
@@ -467,13 +467,13 @@
       "manobra_multi_data_hora": "29/03 21:00"
     },
     {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/03 18:00",
-      "manobra_rio_fim": "30/03 10:00",
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "30/03 16:00",
+      "manobra_rio_fim": "31/03 10:00",
       "navio_multi": "INDUSTRIAL MOMENTUM",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/03 06:00"
+      "manobra_multi_data_hora": "30/03 20:00"
     },
     {
       "navio_rio": "CMA CGM BAHIA",
