@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/03/2026 17:40",
+  "ultima_atualizacao": "29/03/2026 18:16",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -9,7 +9,7 @@
       "data": "29/03",
       "hora": "18:00",
       "navio": "CMA CGM VERACRUZ",
-      "calado": "11,50",
+      "calado": "11,30",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-29T21:00:00"
     },
@@ -69,7 +69,7 @@
       "data": "30/03",
       "hora": "16:00",
       "navio": "CMA CGM BAHIA",
-      "calado": "12,50",
+      "calado": "13,90",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
