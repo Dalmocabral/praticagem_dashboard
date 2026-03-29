@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/03/2026 05:23",
+  "ultima_atualizacao": "29/03/2026 06:05",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "29/03",
       "hora": "07:00",
       "navio": "VANTAGE",
-      "calado": "12,05",
+      "calado": "12,10",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -39,7 +39,7 @@
       "data": "29/03",
       "hora": "08:00",
       "navio": "XIN WEI HAI",
-      "calado": "12,00",
+      "calado": "12,70",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
