@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/03/2026 06:52",
+  "ultima_atualizacao": "29/03/2026 07:32",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -52,9 +52,9 @@
     },
     {
       "data": "29/03",
-      "hora": "16:00",
+      "hora": "14:00",
       "navio": "CLARITY",
-      "calado": "6,80",
+      "calado": "6,60",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-03-29T16:00:00"
+      "timestamp": "2026-03-29T14:00:00"
     },
     {
       "data": "29/03",
