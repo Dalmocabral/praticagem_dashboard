@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "30/03/2026 10:14",
+  "ultima_atualizacao": "30/03/2026 11:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -31,7 +31,7 @@
       "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-03-30T14:00:00"
     },
@@ -129,7 +129,7 @@
       "data": "31/03",
       "hora": "16:00",
       "navio": "MSC YAMUNA VI",
-      "calado": "12,60",
+      "calado": "12,40",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
