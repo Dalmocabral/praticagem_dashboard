@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "30/03/2026 18:54",
+  "ultima_atualizacao": "30/03/2026 19:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -202,6 +202,21 @@
     },
     {
       "data": "02/04",
+      "hora": "08:00",
+      "navio": "MAERSK FRANKFURT",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9969065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-02T08:00:00"
+    },
+    {
+      "data": "02/04",
       "hora": "15:00",
       "navio": "EVER FAR",
       "calado": "14,00",
@@ -229,6 +244,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-02T16:00:00"
+    },
+    {
+      "data": "02/04",
+      "hora": "19:00",
+      "navio": "MAERSK FRANKFURT",
+      "calado": "12,55",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9969065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-02T19:00:00"
     },
     {
       "data": "07/04",
@@ -492,6 +522,15 @@
       "navio_multi": "MSC LEILA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/04 18:00"
+    },
+    {
+      "navio_rio": "MAERSK FRANKFURT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/04 08:00",
+      "manobra_rio_fim": "02/04 19:00",
+      "navio_multi": "MSC LEILA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/04 16:00"
     }
   ]
 }
