@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "30/03/2026 15:05",
+  "ultima_atualizacao": "30/03/2026 16:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "30/03",
-      "hora": "14:00",
-      "navio": "CMA CGM VERACRUZ",
-      "calado": "11,40",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9418377",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-30T14:00:00"
-    },
     {
       "data": "30/03",
       "hora": "17:00",
@@ -34,6 +19,21 @@
       "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-30T17:00:00"
+    },
+    {
+      "data": "31/03",
+      "hora": "03:00",
+      "navio": "WINDEA CURIE",
+      "calado": "5,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "1025124",
+      "tipo_navio": "COMMISSIONING SERVICE OPERATION VESSEL",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-03-31T03:00:00"
     },
     {
       "data": "31/03",
@@ -68,12 +68,12 @@
     {
       "data": "31/03",
       "hora": "08:00",
-      "navio": "COSCO SHIPPING ARGENTINA",
-      "calado": "14,20",
+      "navio": "CMA CGM BAHIA",
+      "calado": "14,00",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
-      "imo": "9945849",
+      "imo": "9938248",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -83,12 +83,12 @@
     {
       "data": "31/03",
       "hora": "10:00",
-      "navio": "CMA CGM BAHIA",
-      "calado": "13,90",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "calado": "14,20",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9938248",
+      "imo": "9945849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -189,7 +189,7 @@
       "data": "01/04",
       "hora": "16:00",
       "navio": "CMA CGM BAHIA",
-      "calado": "13,80",
+      "calado": "15,30",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
@@ -458,36 +458,9 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "COSCO SHIPPING ARGENTINA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/03 08:00",
-      "manobra_rio_fim": "01/04 09:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/03 14:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING ARGENTINA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/03 08:00",
-      "manobra_rio_fim": "01/04 09:30",
-      "navio_multi": "MSC YAMUNA VI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/03 16:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING ARGENTINA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "31/03 08:00",
-      "manobra_rio_fim": "01/04 09:30",
-      "navio_multi": "MSC YAMUNA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/04 05:30"
-    },
-    {
       "navio_rio": "CMA CGM BAHIA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/03 10:00",
+      "manobra_rio_inicio": "31/03 08:00",
       "manobra_rio_fim": "01/04 16:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
@@ -496,7 +469,7 @@
     {
       "navio_rio": "CMA CGM BAHIA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/03 10:00",
+      "manobra_rio_inicio": "31/03 08:00",
       "manobra_rio_fim": "01/04 16:00",
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "E",
@@ -505,7 +478,7 @@
     {
       "navio_rio": "CMA CGM BAHIA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "31/03 10:00",
+      "manobra_rio_inicio": "31/03 08:00",
       "manobra_rio_fim": "01/04 16:00",
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "S",
@@ -514,11 +487,38 @@
     {
       "navio_rio": "CMA CGM BAHIA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "31/03 10:00",
+      "manobra_rio_inicio": "31/03 08:00",
       "manobra_rio_fim": "01/04 16:00",
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "01/04 10:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "31/03 10:00",
+      "manobra_rio_fim": "01/04 09:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "31/03 14:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "31/03 10:00",
+      "manobra_rio_fim": "01/04 09:30",
+      "navio_multi": "MSC YAMUNA VI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "31/03 16:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/03 10:00",
+      "manobra_rio_fim": "01/04 09:30",
+      "navio_multi": "MSC YAMUNA VI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/04 05:30"
     },
     {
       "navio_rio": "EVER FAR",
