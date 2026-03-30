@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "30/03/2026 18:01",
+  "ultima_atualizacao": "30/03/2026 18:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "30/03",
-      "hora": "17:00",
-      "navio": "INDUSTRIAL MOMENTUM",
-      "calado": "6,80",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9534432",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-30T17:00:00"
-    },
     {
       "data": "31/03",
       "hora": "03:00",
@@ -217,7 +202,7 @@
     },
     {
       "data": "02/04",
-      "hora": "08:30",
+      "hora": "15:00",
       "navio": "EVER FAR",
       "calado": "14,00",
       "manobra": "S",
@@ -228,22 +213,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-02T08:30:00"
-    },
-    {
-      "data": "02/04",
-      "hora": "10:30",
-      "navio": "BOCHEM BRISBANE",
-      "calado": "9,35",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9973315",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-02T10:30:00"
+      "timestamp": "2026-04-02T15:00:00"
     },
     {
       "data": "02/04",
@@ -259,21 +229,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-02T16:00:00"
-    },
-    {
-      "data": "03/04",
-      "hora": "18:00",
-      "navio": "BOCHEM BRISBANE",
-      "calado": "8,40",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9973315",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-03T18:00:00"
     },
     {
       "data": "07/04",
@@ -533,19 +488,10 @@
       "navio_rio": "EVER FAR",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "01/04 15:30",
-      "manobra_rio_fim": "02/04 08:30",
+      "manobra_rio_fim": "02/04 15:00",
       "navio_multi": "MSC LEILA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/04 18:00"
-    },
-    {
-      "navio_rio": "BOCHEM BRISBANE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/04 10:30",
-      "manobra_rio_fim": "03/04 18:00",
-      "navio_multi": "MSC LEILA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/04 16:00"
     }
   ]
 }
