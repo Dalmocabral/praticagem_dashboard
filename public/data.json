@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "30/03/2026 14:07",
+  "ultima_atualizacao": "30/03/2026 15:05",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "30/03",
       "hora": "17:00",
       "navio": "INDUSTRIAL MOMENTUM",
-      "calado": "6,70",
+      "calado": "6,80",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "hoje",
