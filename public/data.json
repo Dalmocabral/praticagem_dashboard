@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "30/03/2026 12:56",
+  "ultima_atualizacao": "30/03/2026 14:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "30/03",
-      "hora": "12:00",
-      "navio": "GRANDE TEXAS",
-      "calado": "8,30",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9796365",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-03-30T12:00:00"
-    },
     {
       "data": "30/03",
       "hora": "14:00",
@@ -46,7 +31,7 @@
       "imo": "9534432",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-30T17:00:00"
     },
@@ -157,7 +142,7 @@
     },
     {
       "data": "01/04",
-      "hora": "06:30",
+      "hora": "09:30",
       "navio": "COSCO SHIPPING ARGENTINA",
       "calado": "13,50",
       "manobra": "S",
@@ -168,22 +153,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-01T06:30:00"
-    },
-    {
-      "data": "01/04",
-      "hora": "08:30",
-      "navio": "EVER FAR",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9850862",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-01T08:30:00"
+      "timestamp": "2026-04-01T09:30:00"
     },
     {
       "data": "01/04",
@@ -199,6 +169,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-01T10:30:00"
+    },
+    {
+      "data": "01/04",
+      "hora": "12:30",
+      "navio": "EVER FAR",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850862",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-01T12:30:00"
     },
     {
       "data": "01/04",
@@ -476,7 +461,7 @@
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "31/03 08:00",
-      "manobra_rio_fim": "01/04 06:30",
+      "manobra_rio_fim": "01/04 09:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "31/03 14:00"
@@ -485,7 +470,7 @@
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "31/03 08:00",
-      "manobra_rio_fim": "01/04 06:30",
+      "manobra_rio_fim": "01/04 09:30",
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "31/03 16:00"
@@ -494,7 +479,7 @@
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "31/03 08:00",
-      "manobra_rio_fim": "01/04 06:30",
+      "manobra_rio_fim": "01/04 09:30",
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "01/04 05:30"
@@ -538,16 +523,7 @@
     {
       "navio_rio": "EVER FAR",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/04 08:30",
-      "manobra_rio_fim": "02/04 08:30",
-      "navio_multi": "MSC ALBANY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/04 10:30"
-    },
-    {
-      "navio_rio": "EVER FAR",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/04 08:30",
+      "manobra_rio_inicio": "01/04 12:30",
       "manobra_rio_fim": "02/04 08:30",
       "navio_multi": "MSC LEILA",
       "manobra_multi_tipo": "E",
