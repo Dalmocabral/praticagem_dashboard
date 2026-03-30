@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "30/03/2026 07:50",
+  "ultima_atualizacao": "30/03/2026 08:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -9,14 +9,14 @@
       "data": "30/03",
       "hora": "12:00",
       "navio": "GRANDE TEXAS",
-      "calado": "8,40",
+      "calado": "8,30",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9796365",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-03-30T12:00:00"
     },
@@ -82,21 +82,6 @@
     },
     {
       "data": "31/03",
-      "hora": "06:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-03-31T06:00:00"
-    },
-    {
-      "data": "31/03",
       "hora": "08:00",
       "navio": "MSC ALBANY",
       "calado": "13,90",
@@ -139,6 +124,51 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-03-31T12:00:00"
+    },
+    {
+      "data": "31/03",
+      "hora": "14:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,80",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-31T14:00:00"
+    },
+    {
+      "data": "31/03",
+      "hora": "16:00",
+      "navio": "MSC YAMUNA VI",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9288409",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-03-31T16:00:00"
+    },
+    {
+      "data": "01/04",
+      "hora": "05:30",
+      "navio": "MSC YAMUNA VI",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9288409",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-01T05:30:00"
     },
     {
       "data": "01/04",
@@ -435,18 +465,36 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "30/03 16:00",
       "manobra_rio_fim": "31/03 10:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/03 06:00"
-    },
-    {
-      "navio_rio": "CMA CGM BAHIA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/03 16:00",
-      "manobra_rio_fim": "31/03 10:00",
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "31/03 08:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "31/03 12:00",
+      "manobra_rio_fim": "01/04 06:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "31/03 14:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "31/03 12:00",
+      "manobra_rio_fim": "01/04 06:30",
+      "navio_multi": "MSC YAMUNA VI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "31/03 16:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/03 12:00",
+      "manobra_rio_fim": "01/04 06:30",
+      "navio_multi": "MSC YAMUNA VI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/04 05:30"
     },
     {
       "navio_rio": "EVER FAR",
