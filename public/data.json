@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "31/03/2026 06:16",
+  "ultima_atualizacao": "31/03/2026 07:30",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "31/03",
-      "hora": "03:00",
-      "navio": "WINDEA CURIE",
-      "calado": "5,50",
-      "manobra": "M",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "1025124",
-      "tipo_navio": "COMMISSIONING SERVICE OPERATION VESSEL",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-03-31T03:00:00"
-    },
-    {
-      "data": "31/03",
-      "hora": "04:00",
-      "navio": "GRANDE TEXAS",
-      "calado": "8,10",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9796365",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-03-31T04:00:00"
-    },
     {
       "data": "31/03",
       "hora": "06:00",
@@ -76,7 +46,7 @@
       "imo": "9945849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-03-31T10:00:00"
     },
