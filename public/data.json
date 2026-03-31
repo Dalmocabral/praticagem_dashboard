@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/03/2026 03:50",
+  "ultima_atualizacao": "31/03/2026 05:05",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -10,7 +10,7 @@
       "hora": "03:00",
       "navio": "WINDEA CURIE",
       "calado": "5,50",
-      "manobra": "S",
+      "manobra": "M",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "1025124",
@@ -61,7 +61,7 @@
       "imo": "9938248",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-03-31T08:00:00"
     },
