@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/03/2026 16:42",
+  "ultima_atualizacao": "31/03/2026 17:27",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -21,19 +21,19 @@
       "timestamp": "2026-03-31T16:00:00"
     },
     {
-      "data": "31/03",
-      "hora": "23:00",
+      "data": "01/04",
+      "hora": "06:00",
       "navio": "MSC ALBANY",
       "calado": "14,90",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-03-31T23:00:00"
+      "timestamp": "2026-04-01T06:00:00"
     },
     {
       "data": "01/04",
