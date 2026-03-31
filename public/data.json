@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/03/2026 02:25",
+  "ultima_atualizacao": "31/03/2026 03:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -39,14 +39,14 @@
       "data": "31/03",
       "hora": "06:00",
       "navio": "MSC ALBANY",
-      "calado": "13,90",
+      "calado": "13,80",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-03-31T06:00:00"
     },
@@ -54,7 +54,7 @@
       "data": "31/03",
       "hora": "08:00",
       "navio": "CMA CGM BAHIA",
-      "calado": "14,00",
+      "calado": "13,80",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
