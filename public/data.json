@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/03/2026 00:24",
+  "ultima_atualizacao": "31/03/2026 02:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -9,7 +9,7 @@
       "data": "31/03",
       "hora": "03:00",
       "navio": "WINDEA CURIE",
-      "calado": "5,00",
+      "calado": "5,50",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -24,14 +24,14 @@
       "data": "31/03",
       "hora": "04:00",
       "navio": "GRANDE TEXAS",
-      "calado": "8,40",
+      "calado": "8,10",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9796365",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-03-31T04:00:00"
     },
@@ -46,7 +46,7 @@
       "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-03-31T06:00:00"
     },
