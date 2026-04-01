@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/04/2026 11:19",
+  "ultima_atualizacao": "01/04/2026 12:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -39,14 +39,14 @@
       "data": "01/04",
       "hora": "16:00",
       "navio": "CMA CGM BAHIA",
-      "calado": "13,80",
+      "calado": "14,20",
       "manobra": "M",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9938248",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-04-01T16:00:00"
     },
@@ -232,6 +232,21 @@
     },
     {
       "data": "03/04",
+      "hora": "09:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-03T09:00:00"
+    },
+    {
+      "data": "03/04",
       "hora": "11:00",
       "navio": "LONCOMILLA",
       "calado": "12,50",
@@ -247,33 +262,18 @@
     },
     {
       "data": "03/04",
-      "hora": "13:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-03T13:00:00"
-    },
-    {
-      "data": "03/04",
-      "hora": "21:00",
+      "hora": "19:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "M",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-03T21:00:00"
+      "timestamp": "2026-04-03T19:00:00"
     },
     {
       "data": "04/04",
