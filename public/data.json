@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/04/2026 17:30",
+  "ultima_atualizacao": "01/04/2026 18:24",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -22,26 +22,11 @@
     },
     {
       "data": "01/04",
-      "hora": "16:00",
-      "navio": "CMA CGM BAHIA",
-      "calado": "14,20",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9938248",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-01T16:00:00"
-    },
-    {
-      "data": "01/04",
       "hora": "18:00",
       "navio": "MSC LEILA",
       "calado": "11,40",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "hoje",
       "imo": "1016654",
       "tipo_navio": "CONTAINER SHIP",
@@ -54,7 +39,7 @@
       "data": "01/04",
       "hora": "19:30",
       "navio": "ATLANTIC DAWN",
-      "calado": "5,80",
+      "calado": "6,20",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -76,7 +61,7 @@
       "imo": "9253210",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-01T21:00:00"
     },
@@ -146,7 +131,7 @@
       "navio": "MSC LEILA",
       "calado": "11,00",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "1016654",
       "tipo_navio": "CONTAINER SHIP",
