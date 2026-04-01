@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/04/2026 06:42",
+  "ultima_atualizacao": "01/04/2026 07:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -22,7 +22,7 @@
     },
     {
       "data": "01/04",
-      "hora": "10:30",
+      "hora": "12:30",
       "navio": "COSCO SHIPPING ARGENTINA",
       "calado": "13,50",
       "manobra": "S",
@@ -31,43 +31,13 @@
       "imo": "9945849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-01T10:30:00"
-    },
-    {
-      "data": "01/04",
-      "hora": "12:30",
-      "navio": "ATLANTIC DAWN",
-      "calado": "5,80",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9671450",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-01T12:30:00"
     },
     {
       "data": "01/04",
-      "hora": "14:30",
-      "navio": "CMA CGM BAHIA",
-      "calado": "14,20",
-      "manobra": "M",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9938248",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-01T14:30:00"
-    },
-    {
-      "data": "01/04",
-      "hora": "15:30",
+      "hora": "13:30",
       "navio": "MSC YAMUNA VI",
       "calado": "13,50",
       "manobra": "S",
@@ -78,6 +48,21 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
+      "timestamp": "2026-04-01T13:30:00"
+    },
+    {
+      "data": "01/04",
+      "hora": "15:30",
+      "navio": "ATLANTIC DAWN",
+      "calado": "5,80",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9671450",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
       "timestamp": "2026-04-01T15:30:00"
     },
     {
@@ -94,6 +79,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-01T18:00:00"
+    },
+    {
+      "data": "01/04",
+      "hora": "20:00",
+      "navio": "CMA CGM BAHIA",
+      "calado": "13,80",
+      "manobra": "M",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-01T20:00:00"
     },
     {
       "data": "01/04",
@@ -490,16 +490,7 @@
     {
       "navio_rio": "ATLANTIC DAWN",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/04 12:30",
-      "manobra_rio_fim": "02/04 02:00",
-      "navio_multi": "MSC YAMUNA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/04 15:30"
-    },
-    {
-      "navio_rio": "ATLANTIC DAWN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/04 12:30",
+      "manobra_rio_inicio": "01/04 15:30",
       "manobra_rio_fim": "02/04 02:00",
       "navio_multi": "MSC LEILA",
       "manobra_multi_tipo": "E",
@@ -508,7 +499,7 @@
     {
       "navio_rio": "ATLANTIC DAWN",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/04 12:30",
+      "manobra_rio_inicio": "01/04 15:30",
       "manobra_rio_fim": "02/04 02:00",
       "navio_multi": "GRANDE BUENOS AIRES",
       "manobra_multi_tipo": "E",
