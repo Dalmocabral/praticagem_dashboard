@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/04/2026 12:49",
+  "ultima_atualizacao": "01/04/2026 13:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "01/04",
       "hora": "13:30",
       "navio": "COSCO SHIPPING ARGENTINA",
-      "calado": "13,50",
+      "calado": "13,60",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9938248",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-01T16:00:00"
     },
