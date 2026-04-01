@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/04/2026 09:42",
+  "ultima_atualizacao": "01/04/2026 11:19",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -31,24 +31,24 @@
       "imo": "9945849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-01T13:30:00"
     },
     {
       "data": "01/04",
-      "hora": "15:30",
-      "navio": "ATLANTIC DAWN",
-      "calado": "5,80",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "hora": "16:00",
+      "navio": "CMA CGM BAHIA",
+      "calado": "13,80",
+      "manobra": "M",
+      "beco": "TECONT1",
       "status": "hoje",
-      "imo": "9671450",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-01T15:30:00"
+      "timestamp": "2026-04-01T16:00:00"
     },
     {
       "data": "01/04",
@@ -67,24 +67,39 @@
     },
     {
       "data": "01/04",
-      "hora": "20:00",
-      "navio": "CMA CGM BAHIA",
-      "calado": "13,80",
-      "manobra": "M",
-      "beco": "TECONT1",
+      "hora": "19:30",
+      "navio": "ATLANTIC DAWN",
+      "calado": "5,80",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
-      "imo": "9938248",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "imo": "9671450",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-01T20:00:00"
+      "timestamp": "2026-04-01T19:30:00"
     },
     {
       "data": "01/04",
-      "hora": "22:00",
+      "hora": "21:00",
+      "navio": "GRANDE BUENOS AIRES",
+      "calado": "9,70",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9253210",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-01T21:00:00"
+    },
+    {
+      "data": "01/04",
+      "hora": "23:00",
       "navio": "MAERSK FRANKFURT",
-      "calado": "12,50",
+      "calado": "14,00",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -93,26 +108,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-01T22:00:00"
+      "timestamp": "2026-04-01T23:00:00"
     },
     {
       "data": "02/04",
-      "hora": "00:00",
-      "navio": "GRANDE BUENOS AIRES",
-      "calado": "9,70",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9253210",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-02T00:00:00"
-    },
-    {
-      "data": "02/04",
-      "hora": "02:00",
+      "hora": "04:30",
       "navio": "ATLANTIC DAWN",
       "calado": "5,80",
       "manobra": "S",
@@ -123,7 +123,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-02T02:00:00"
+      "timestamp": "2026-04-02T04:30:00"
     },
     {
       "data": "02/04",
@@ -142,7 +142,22 @@
     },
     {
       "data": "02/04",
-      "hora": "16:00",
+      "hora": "08:30",
+      "navio": "GRANDE BUENOS AIRES",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9253210",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-02T08:30:00"
+    },
+    {
+      "data": "02/04",
+      "hora": "10:00",
       "navio": "MSC LEILA",
       "calado": "11,00",
       "manobra": "S",
@@ -153,7 +168,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-02T16:00:00"
+      "timestamp": "2026-04-02T10:00:00"
     },
     {
       "data": "02/04",
@@ -169,21 +184,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-02T19:00:00"
-    },
-    {
-      "data": "02/04",
-      "hora": "20:00",
-      "navio": "GRANDE BUENOS AIRES",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9253210",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-02T20:00:00"
     },
     {
       "data": "02/04",
@@ -520,38 +520,38 @@
     {
       "navio_rio": "ATLANTIC DAWN",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/04 15:30",
-      "manobra_rio_fim": "02/04 02:00",
-      "navio_multi": "MSC LEILA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/04 18:00"
-    },
-    {
-      "navio_rio": "ATLANTIC DAWN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/04 15:30",
-      "manobra_rio_fim": "02/04 02:00",
+      "manobra_rio_inicio": "01/04 19:30",
+      "manobra_rio_fim": "02/04 04:30",
       "navio_multi": "GRANDE BUENOS AIRES",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/04 00:00"
+      "manobra_multi_data_hora": "01/04 21:00"
     },
     {
       "navio_rio": "MAERSK FRANKFURT",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/04 22:00",
+      "manobra_rio_inicio": "01/04 23:00",
       "manobra_rio_fim": "02/04 19:00",
       "navio_multi": "GRANDE BUENOS AIRES",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/04 00:00"
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/04 08:30"
     },
     {
       "navio_rio": "MAERSK FRANKFURT",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/04 22:00",
+      "manobra_rio_inicio": "01/04 23:00",
       "manobra_rio_fim": "02/04 19:00",
       "navio_multi": "MSC LEILA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/04 16:00"
+      "manobra_multi_data_hora": "02/04 10:00"
+    },
+    {
+      "navio_rio": "EVER FAR",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/04 06:30",
+      "manobra_rio_fim": "03/04 07:00",
+      "navio_multi": "GRANDE BUENOS AIRES",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/04 08:30"
     },
     {
       "navio_rio": "EVER FAR",
@@ -560,16 +560,7 @@
       "manobra_rio_fim": "03/04 07:00",
       "navio_multi": "MSC LEILA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/04 16:00"
-    },
-    {
-      "navio_rio": "EVER FAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "02/04 06:30",
-      "manobra_rio_fim": "03/04 07:00",
-      "navio_multi": "GRANDE BUENOS AIRES",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/04 20:00"
+      "manobra_multi_data_hora": "02/04 10:00"
     },
     {
       "navio_rio": "EVER FAR",
