@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/04/2026 13:02",
+  "ultima_atualizacao": "02/04/2026 14:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -22,21 +22,6 @@
     },
     {
       "data": "02/04",
-      "hora": "12:00",
-      "navio": "EVER FAR",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9850862",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-02T12:00:00"
-    },
-    {
-      "data": "02/04",
       "hora": "16:00",
       "navio": "MAERSK FRANKFURT",
       "calado": "14,45",
@@ -56,7 +41,7 @@
       "navio": "MSC SARY",
       "calado": "13,20",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9979008",
       "tipo_navio": "CONTAINER SHIP",
@@ -112,11 +97,26 @@
     },
     {
       "data": "03/04",
+      "hora": "13:00",
+      "navio": "INDUSTRIAL MOMENTUM",
+      "calado": "5,00",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9534432",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-03T13:00:00"
+    },
+    {
+      "data": "03/04",
       "hora": "16:00",
       "navio": "MSC SARY",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9979008",
       "tipo_navio": "CONTAINER SHIP",
@@ -161,7 +161,7 @@
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "S",
-      "beco": "TECONT4",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
@@ -201,11 +201,71 @@
       "timestamp": "2026-04-04T08:30:00"
     },
     {
+      "data": "04/04",
+      "hora": "10:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "10,07",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9407160",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-04T10:00:00"
+    },
+    {
+      "data": "04/04",
+      "hora": "11:30",
+      "navio": "MSC PETRA",
+      "calado": "13,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9222302",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-04T11:30:00"
+    },
+    {
       "data": "05/04",
-      "hora": "16:00",
+      "hora": "06:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9407160",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-05T06:00:00"
+    },
+    {
+      "data": "05/04",
+      "hora": "07:00",
+      "navio": "MSC PETRA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9222302",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-05T07:00:00"
+    },
+    {
+      "data": "05/04",
+      "hora": "15:30",
       "navio": "BOCHEM BRISBANE",
       "calado": "8,40",
-      "manobra": "S",
+      "manobra": "M",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9973315",
@@ -213,7 +273,22 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-05T16:00:00"
+      "timestamp": "2026-04-05T15:30:00"
+    },
+    {
+      "data": "06/04",
+      "hora": "16:00",
+      "navio": "INDUSTRIAL MOMENTUM",
+      "calado": "6,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9534432",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-06T16:00:00"
     },
     {
       "data": "07/04",
@@ -398,13 +473,13 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "EVER FAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "02/04 12:00",
-      "manobra_rio_fim": "03/04 07:00",
-      "navio_multi": "MSC SARY",
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/04 09:00",
+      "manobra_rio_fim": "03/04 19:00",
+      "navio_multi": "INDUSTRIAL MOMENTUM",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/04 01:00"
+      "manobra_multi_data_hora": "03/04 13:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -423,6 +498,33 @@
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "04/04 05:00"
+    },
+    {
+      "navio_rio": "BOCHEM BRISBANE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "04/04 08:30",
+      "manobra_rio_fim": "05/04 15:30",
+      "navio_multi": "MSC PETRA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "04/04 11:30"
+    },
+    {
+      "navio_rio": "BOCHEM BRISBANE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "04/04 08:30",
+      "manobra_rio_fim": "05/04 15:30",
+      "navio_multi": "MSC PETRA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/04 07:00"
+    },
+    {
+      "navio_rio": "SEASPAN EMPIRE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "04/04 10:00",
+      "manobra_rio_fim": "05/04 06:00",
+      "navio_multi": "MSC PETRA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "04/04 11:30"
     }
   ]
 }
