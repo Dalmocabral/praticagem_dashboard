@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/04/2026 06:13",
+  "ultima_atualizacao": "02/04/2026 07:14",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -46,7 +46,7 @@
       "imo": "1016654",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-02T10:00:00"
     },
