@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/04/2026 11:53",
+  "ultima_atualizacao": "02/04/2026 13:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -46,7 +46,7 @@
       "imo": "9969065",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-02T16:00:00"
     },
@@ -141,6 +141,21 @@
       "timestamp": "2026-04-03T19:00:00"
     },
     {
+      "data": "03/04",
+      "hora": "21:00",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-03T21:00:00"
+    },
+    {
       "data": "04/04",
       "hora": "05:00",
       "navio": "LOG-IN PANTANAL",
@@ -157,7 +172,22 @@
     },
     {
       "data": "04/04",
-      "hora": "08:00",
+      "hora": "06:30",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "calado": "13,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-04T06:30:00"
+    },
+    {
+      "data": "04/04",
+      "hora": "08:30",
       "navio": "BOCHEM BRISBANE",
       "calado": "9,35",
       "manobra": "E",
@@ -168,7 +198,7 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-04T08:00:00"
+      "timestamp": "2026-04-04T08:30:00"
     },
     {
       "data": "05/04",
@@ -384,6 +414,15 @@
       "navio_multi": "MSC SARY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "03/04 16:00"
+    },
+    {
+      "navio_rio": "CMA CGM FRANCOISE SAGAN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "03/04 21:00",
+      "manobra_rio_fim": "04/04 06:30",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "04/04 05:00"
     }
   ]
 }
