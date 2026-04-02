@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "02/04/2026 08:12",
+  "ultima_atualizacao": "02/04/2026 09:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "02/04",
-      "hora": "07:30",
-      "navio": "GRANDE BUENOS AIRES",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9253210",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-02T07:30:00"
-    },
     {
       "data": "02/04",
       "hora": "09:00",
@@ -61,7 +46,7 @@
       "imo": "9850862",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-02T12:00:00"
     },
