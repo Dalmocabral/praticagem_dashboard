@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "02/04/2026 16:59",
+  "ultima_atualizacao": "02/04/2026 17:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "02/04",
-      "hora": "16:00",
-      "navio": "MAERSK FRANKFURT",
-      "calado": "14,30",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9969065",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-02T16:00:00"
-    },
     {
       "data": "03/04",
       "hora": "01:00",
@@ -67,21 +52,6 @@
     },
     {
       "data": "03/04",
-      "hora": "11:00",
-      "navio": "LONCOMILLA",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9437385",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-03T11:00:00"
-    },
-    {
-      "data": "03/04",
       "hora": "13:00",
       "navio": "INDUSTRIAL MOMENTUM",
       "calado": "5,00",
@@ -94,6 +64,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-03T13:00:00"
+    },
+    {
+      "data": "03/04",
+      "hora": "15:00",
+      "navio": "LONCOMILLA",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9437385",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-03T15:00:00"
     },
     {
       "data": "03/04",
