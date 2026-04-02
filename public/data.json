@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "01/04/2026 22:00",
+  "ultima_atualizacao": "02/04/2026 00:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "01/04",
-      "hora": "21:00",
-      "navio": "GRANDE BUENOS AIRES",
-      "calado": "9,20",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "passado",
-      "imo": "9253210",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-01T21:00:00"
-    },
-    {
-      "data": "01/04",
-      "hora": "23:00",
-      "navio": "MAERSK FRANKFURT",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9969065",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-01T23:00:00"
-    },
     {
       "data": "02/04",
       "hora": "04:30",
@@ -46,7 +16,7 @@
       "imo": "9671450",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-04-02T04:30:00"
     },
@@ -84,7 +54,7 @@
       "data": "02/04",
       "hora": "10:00",
       "navio": "MSC LEILA",
-      "calado": "11,00",
+      "calado": "10,00",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -427,24 +397,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK FRANKFURT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/04 23:00",
-      "manobra_rio_fim": "02/04 16:00",
-      "navio_multi": "GRANDE BUENOS AIRES",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/04 08:30"
-    },
-    {
-      "navio_rio": "MAERSK FRANKFURT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/04 23:00",
-      "manobra_rio_fim": "02/04 16:00",
-      "navio_multi": "MSC LEILA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/04 10:00"
-    },
     {
       "navio_rio": "EVER FAR",
       "manobra_rio_afetada": "E",
