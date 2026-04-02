@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/04/2026 07:14",
+  "ultima_atualizacao": "02/04/2026 08:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "02/04",
       "hora": "09:00",
       "navio": "ATLANTIC DAWN",
-      "calado": "5,80",
+      "calado": "5,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -61,7 +61,7 @@
       "imo": "9850862",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-04-02T12:00:00"
     },
