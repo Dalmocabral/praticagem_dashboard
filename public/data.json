@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/04/2026 09:00",
+  "ultima_atualizacao": "02/04/2026 10:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "02/04",
-      "hora": "09:00",
-      "navio": "ATLANTIC DAWN",
-      "calado": "5,40",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9671450",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-02T09:00:00"
-    },
-    {
-      "data": "02/04",
       "hora": "10:00",
       "navio": "MSC LEILA",
-      "calado": "10,00",
+      "calado": "11,10",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -67,9 +52,9 @@
     },
     {
       "data": "03/04",
-      "hora": "00:00",
+      "hora": "01:00",
       "navio": "MSC SARY",
-      "calado": "12,60",
+      "calado": "13,20",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -78,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-03T00:00:00"
+      "timestamp": "2026-04-03T01:00:00"
     },
     {
       "data": "03/04",
@@ -389,7 +374,7 @@
       "manobra_rio_fim": "03/04 07:00",
       "navio_multi": "MSC SARY",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/04 00:00"
+      "manobra_multi_data_hora": "03/04 01:00"
     }
   ]
 }
