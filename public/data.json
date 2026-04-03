@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/04/2026 18:25",
+  "ultima_atualizacao": "03/04/2026 18:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -202,6 +202,21 @@
     },
     {
       "data": "05/04",
+      "hora": "10:30",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,40",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-05T10:30:00"
+    },
+    {
+      "data": "05/04",
       "hora": "15:30",
       "navio": "BOCHEM BRISBANE",
       "calado": "8,40",
@@ -214,6 +229,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-05T15:30:00"
+    },
+    {
+      "data": "05/04",
+      "hora": "23:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-05T23:00:00"
     },
     {
       "data": "06/04",
