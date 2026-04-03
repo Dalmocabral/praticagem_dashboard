@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/04/2026 04:51",
+  "ultima_atualizacao": "03/04/2026 05:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -9,7 +9,7 @@
       "data": "03/04",
       "hora": "07:00",
       "navio": "EVER FAR",
-      "calado": "14,00",
+      "calado": "13,90",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-04-03T09:00:00"
     },
