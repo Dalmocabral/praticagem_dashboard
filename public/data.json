@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/04/2026 06:40",
+  "ultima_atualizacao": "03/04/2026 07:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -37,22 +37,7 @@
     },
     {
       "data": "03/04",
-      "hora": "13:00",
-      "navio": "INDUSTRIAL MOMENTUM",
-      "calado": "5,00",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9534432",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-03T13:00:00"
-    },
-    {
-      "data": "03/04",
-      "hora": "16:00",
+      "hora": "12:00",
       "navio": "MSC SARY",
       "calado": "13,80",
       "manobra": "S",
@@ -63,7 +48,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-03T16:00:00"
+      "timestamp": "2026-04-03T12:00:00"
+    },
+    {
+      "data": "03/04",
+      "hora": "14:00",
+      "navio": "INDUSTRIAL MOMENTUM",
+      "calado": "5,00",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "hoje",
+      "imo": "9534432",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-03T14:00:00"
     },
     {
       "data": "03/04",
@@ -432,18 +432,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "03/04 09:00",
       "manobra_rio_fim": "03/04 19:00",
-      "navio_multi": "INDUSTRIAL MOMENTUM",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/04 13:00"
+      "navio_multi": "MSC SARY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/04 12:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "03/04 09:00",
       "manobra_rio_fim": "03/04 19:00",
-      "navio_multi": "MSC SARY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/04 16:00"
+      "navio_multi": "INDUSTRIAL MOMENTUM",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/04 14:00"
     },
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
