@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/04/2026 11:26",
+  "ultima_atualizacao": "03/04/2026 12:23",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "03/04",
       "hora": "12:00",
       "navio": "MSC SARY",
-      "calado": "13,80",
+      "calado": "13,60",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -86,7 +86,7 @@
       "navio": "CMA CGM FRANCOISE SAGAN",
       "calado": "14,00",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9356696",
       "tipo_navio": "CONTAINER SHIP",
@@ -116,7 +116,7 @@
       "navio": "CMA CGM FRANCOISE SAGAN",
       "calado": "13,20",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9356696",
       "tipo_navio": "CONTAINER SHIP",
@@ -219,7 +219,7 @@
       "data": "05/04",
       "hora": "07:00",
       "navio": "MSC PETRA",
-      "calado": "12,60",
+      "calado": "14,55",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
