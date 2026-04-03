@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/04/2026 10:36",
+  "ultima_atualizacao": "03/04/2026 11:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -46,7 +46,7 @@
       "imo": "9534432",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-03T14:00:00"
     },
@@ -97,7 +97,7 @@
     },
     {
       "data": "04/04",
-      "hora": "05:00",
+      "hora": "05:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "S",
@@ -108,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-04T05:00:00"
+      "timestamp": "2026-04-04T05:30:00"
     },
     {
       "data": "04/04",
@@ -527,7 +527,7 @@
       "manobra_rio_fim": "04/04 06:30",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "04/04 05:00"
+      "manobra_multi_data_hora": "04/04 05:30"
     },
     {
       "navio_rio": "BOCHEM BRISBANE",
