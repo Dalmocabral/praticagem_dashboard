@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/04/2026 15:25",
+  "ultima_atualizacao": "03/04/2026 16:22",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -22,21 +22,6 @@
     },
     {
       "data": "03/04",
-      "hora": "14:00",
-      "navio": "INDUSTRIAL MOMENTUM",
-      "calado": "5,00",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9534432",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-03T14:00:00"
-    },
-    {
-      "data": "03/04",
       "hora": "18:00",
       "navio": "LONCOMILLA",
       "calado": "12,50",
@@ -54,7 +39,7 @@
       "data": "04/04",
       "hora": "00:00",
       "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "14,00",
+      "calado": "14,30",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -487,15 +472,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "03/04 09:00",
-      "manobra_rio_fim": "04/04 02:00",
-      "navio_multi": "INDUSTRIAL MOMENTUM",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/04 14:00"
-    },
     {
       "navio_rio": "BOCHEM BRISBANE",
       "manobra_rio_afetada": "E",
