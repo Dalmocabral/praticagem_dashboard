@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/04/2026 14:46",
+  "ultima_atualizacao": "04/04/2026 15:21",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -142,7 +142,7 @@
     },
     {
       "data": "06/04",
-      "hora": "02:00",
+      "hora": "02:30",
       "navio": "NYK DIANA",
       "calado": "11,50",
       "manobra": "E",
@@ -153,7 +153,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-06T02:00:00"
+      "timestamp": "2026-04-06T02:30:00"
     },
     {
       "data": "06/04",
@@ -526,7 +526,7 @@
     {
       "navio_rio": "NYK DIANA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/04 02:00",
+      "manobra_rio_inicio": "06/04 02:30",
       "manobra_rio_fim": "06/04 14:00",
       "navio_multi": "MSC VANCOUVER",
       "manobra_multi_tipo": "E",
@@ -535,7 +535,7 @@
     {
       "navio_rio": "NYK DIANA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/04 02:00",
+      "manobra_rio_inicio": "06/04 02:30",
       "manobra_rio_fim": "06/04 14:00",
       "navio_multi": "DONAUGRACHT",
       "manobra_multi_tipo": "E",
@@ -544,7 +544,7 @@
     {
       "navio_rio": "NYK DIANA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "06/04 02:00",
+      "manobra_rio_inicio": "06/04 02:30",
       "manobra_rio_fim": "06/04 14:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
