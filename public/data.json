@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "04/04/2026 10:57",
+  "ultima_atualizacao": "04/04/2026 11:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "04/04",
-      "hora": "08:00",
-      "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "14,40",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9356696",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-04T08:00:00"
-    },
-    {
-      "data": "04/04",
-      "hora": "10:00",
-      "navio": "SEASPAN EMPIRE",
-      "calado": "10,70",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9407160",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-04T10:00:00"
-    },
     {
       "data": "04/04",
       "hora": "11:30",
@@ -502,33 +472,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "SEASPAN EMPIRE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "04/04 10:00",
-      "manobra_rio_fim": "05/04 06:00",
-      "navio_multi": "MSC PETRA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "04/04 11:30"
-    },
-    {
-      "navio_rio": "SEASPAN EMPIRE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "04/04 10:00",
-      "manobra_rio_fim": "05/04 06:00",
-      "navio_multi": "GRAND VEGA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "04/04 17:00"
-    },
-    {
-      "navio_rio": "SEASPAN EMPIRE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/04 10:00",
-      "manobra_rio_fim": "05/04 06:00",
-      "navio_multi": "GRAND VEGA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/04 04:00"
-    },
     {
       "navio_rio": "NYK DIANA",
       "manobra_rio_afetada": "E",
