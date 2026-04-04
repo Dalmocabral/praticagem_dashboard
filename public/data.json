@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/04/2026 13:26",
+  "ultima_atualizacao": "04/04/2026 14:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,14 +24,14 @@
       "data": "04/04",
       "hora": "17:00",
       "navio": "GRAND VEGA",
-      "calado": "10,00",
+      "calado": "7,80",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9355252",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-04T17:00:00"
     },
@@ -69,7 +69,7 @@
       "data": "05/04",
       "hora": "06:00",
       "navio": "MSC PETRA",
-      "calado": "14,55",
+      "calado": "14,80",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
