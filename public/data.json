@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/04/2026 11:43",
+  "ultima_atualizacao": "04/04/2026 12:16",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -37,22 +37,7 @@
     },
     {
       "data": "05/04",
-      "hora": "04:00",
-      "navio": "GRAND VEGA",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9355252",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-05T04:00:00"
-    },
-    {
-      "data": "05/04",
-      "hora": "06:00",
+      "hora": "01:00",
       "navio": "SEASPAN EMPIRE",
       "calado": "11,00",
       "manobra": "S",
@@ -63,11 +48,26 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-05T06:00:00"
+      "timestamp": "2026-04-05T01:00:00"
     },
     {
       "data": "05/04",
-      "hora": "07:00",
+      "hora": "05:00",
+      "navio": "GRAND VEGA",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9355252",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-05T05:00:00"
+    },
+    {
+      "data": "05/04",
+      "hora": "06:00",
       "navio": "MSC PETRA",
       "calado": "14,55",
       "manobra": "S",
@@ -78,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-05T07:00:00"
+      "timestamp": "2026-04-05T06:00:00"
     },
     {
       "data": "05/04",
