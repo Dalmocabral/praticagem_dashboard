@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/04/2026 19:40",
+  "ultima_atualizacao": "04/04/2026 20:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -112,7 +112,22 @@
     },
     {
       "data": "05/04",
-      "hora": "23:00",
+      "hora": "22:00",
+      "navio": "MERCOSUL GUARUJA",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9539494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-05T22:00:00"
+    },
+    {
+      "data": "06/04",
+      "hora": "00:00",
       "navio": "MERCOSUL FORTALEZA",
       "calado": "10,50",
       "manobra": "S",
@@ -123,22 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-05T23:00:00"
-    },
-    {
-      "data": "06/04",
-      "hora": "01:00",
-      "navio": "MERCOSUL GUARUJA",
-      "calado": "10,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9539494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-06T01:00:00"
+      "timestamp": "2026-04-06T00:00:00"
     },
     {
       "data": "06/04",
@@ -146,7 +146,7 @@
       "navio": "NYK DIANA",
       "calado": "11,50",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9337688",
       "tipo_navio": "CONTAINER SHIP",
@@ -206,7 +206,7 @@
       "navio": "NYK DIANA",
       "calado": "11,00",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9337688",
       "tipo_navio": "CONTAINER SHIP",
@@ -236,7 +236,7 @@
       "navio": "MERCOSUL GUARUJA",
       "calado": "10,00",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
@@ -490,7 +490,7 @@
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/04 01:00",
+      "manobra_rio_inicio": "05/04 22:00",
       "manobra_rio_fim": "06/04 18:00",
       "navio_multi": "MSC VANCOUVER",
       "manobra_multi_tipo": "E",
@@ -499,7 +499,7 @@
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/04 01:00",
+      "manobra_rio_inicio": "05/04 22:00",
       "manobra_rio_fim": "06/04 18:00",
       "navio_multi": "DONAUGRACHT",
       "manobra_multi_tipo": "E",
@@ -508,7 +508,7 @@
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "06/04 01:00",
+      "manobra_rio_inicio": "05/04 22:00",
       "manobra_rio_fim": "06/04 18:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
@@ -517,7 +517,7 @@
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "06/04 01:00",
+      "manobra_rio_inicio": "05/04 22:00",
       "manobra_rio_fim": "06/04 18:00",
       "navio_multi": "MSC CADIZ",
       "manobra_multi_tipo": "E",
