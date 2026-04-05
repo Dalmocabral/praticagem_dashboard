@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/04/2026 16:49",
+  "ultima_atualizacao": "05/04/2026 17:22",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "05/04",
       "hora": "18:30",
       "navio": "MERCOSUL FORTALEZA",
-      "calado": "10,50",
+      "calado": "10,60",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -127,9 +127,24 @@
     },
     {
       "data": "06/04",
+      "hora": "14:00",
+      "navio": "WIELAND",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9654464",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-06T14:00:00"
+    },
+    {
+      "data": "06/04",
       "hora": "16:00",
       "navio": "MSC CADIZ",
-      "calado": "12,60",
+      "calado": "13,40",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
@@ -169,6 +184,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-06T22:00:00"
+    },
+    {
+      "data": "07/04",
+      "hora": "01:00",
+      "navio": "WIELAND",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9654464",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-07T01:00:00"
     },
     {
       "data": "07/04",
@@ -507,6 +537,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "05/04 22:00",
       "manobra_rio_fim": "06/04 18:00",
+      "navio_multi": "MSC CADIZ",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "06/04 16:00"
+    },
+    {
+      "navio_rio": "WIELAND",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "06/04 14:00",
+      "manobra_rio_fim": "07/04 01:00",
       "navio_multi": "MSC CADIZ",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "06/04 16:00"
