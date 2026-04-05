@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "05/04/2026 01:29",
+  "ultima_atualizacao": "05/04/2026 03:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "04/04",
-      "hora": "17:00",
-      "navio": "GRAND VEGA",
-      "calado": "7,80",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "passado",
-      "imo": "9355252",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-04T17:00:00"
-    },
-    {
-      "data": "05/04",
-      "hora": "01:00",
-      "navio": "SEASPAN EMPIRE",
-      "calado": "11,30",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9407160",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-05T01:00:00"
-    },
     {
       "data": "05/04",
       "hora": "03:00",
@@ -61,7 +31,7 @@
       "imo": "9222302",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-05T06:00:00"
     },
