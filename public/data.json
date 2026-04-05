@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/04/2026 22:49",
+  "ultima_atualizacao": "05/04/2026 01:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "05/04",
       "hora": "01:00",
       "navio": "SEASPAN EMPIRE",
-      "calado": "11,00",
+      "calado": "11,30",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -37,18 +37,18 @@
     },
     {
       "data": "05/04",
-      "hora": "05:00",
+      "hora": "03:00",
       "navio": "GRAND VEGA",
-      "calado": "10,00",
+      "calado": "7,70",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9355252",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-04-05T05:00:00"
+      "timestamp": "2026-04-05T03:00:00"
     },
     {
       "data": "05/04",
