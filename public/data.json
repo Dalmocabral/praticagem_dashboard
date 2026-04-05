@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "05/04/2026 04:21",
+  "ultima_atualizacao": "05/04/2026 05:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "05/04",
-      "hora": "03:00",
-      "navio": "GRAND VEGA",
-      "calado": "7,70",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9355252",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-05T03:00:00"
-    },
     {
       "data": "05/04",
       "hora": "08:00",
@@ -31,7 +16,7 @@
       "imo": "9784661",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-05T08:00:00"
     },
