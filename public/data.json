@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/04/2026 12:45",
+  "ultima_atualizacao": "05/04/2026 13:19",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -411,8 +411,38 @@
       "timestamp": "2026-04-15T06:30:00"
     },
     {
+      "data": "21/04",
+      "hora": "07:00",
+      "navio": "CMA CGM KRYPTON",
+      "calado": "14,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996733",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-21T07:00:00"
+    },
+    {
       "data": "22/04",
-      "hora": "08:00",
+      "hora": "06:30",
+      "navio": "CMA CGM KRYPTON",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996733",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-22T06:30:00"
+    },
+    {
+      "data": "22/04",
+      "hora": "08:30",
       "navio": "EVER FAIR",
       "calado": "14,50",
       "manobra": "E",
@@ -423,7 +453,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-22T08:00:00"
+      "timestamp": "2026-04-22T08:30:00"
     },
     {
       "data": "23/04",
