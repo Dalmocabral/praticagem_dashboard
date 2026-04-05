@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/04/2026 14:46",
+  "ultima_atualizacao": "05/04/2026 15:23",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -22,7 +22,7 @@
     },
     {
       "data": "05/04",
-      "hora": "18:00",
+      "hora": "18:30",
       "navio": "MERCOSUL FORTALEZA",
       "calado": "10,50",
       "manobra": "S",
@@ -33,11 +33,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_futura",
       "terminal": "rio",
-      "timestamp": "2026-04-05T18:00:00"
+      "timestamp": "2026-04-05T18:30:00"
     },
     {
       "data": "05/04",
-      "hora": "20:00",
+      "hora": "20:30",
       "navio": "NYK DIANA",
       "calado": "11,50",
       "manobra": "E",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-05T20:00:00"
+      "timestamp": "2026-04-05T20:30:00"
     },
     {
       "data": "05/04",
@@ -460,7 +460,7 @@
     {
       "navio_rio": "NYK DIANA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/04 20:00",
+      "manobra_rio_inicio": "05/04 20:30",
       "manobra_rio_fim": "06/04 10:00",
       "navio_multi": "MSC VANCOUVER",
       "manobra_multi_tipo": "E",
@@ -469,7 +469,7 @@
     {
       "navio_rio": "NYK DIANA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/04 20:00",
+      "manobra_rio_inicio": "05/04 20:30",
       "manobra_rio_fim": "06/04 10:00",
       "navio_multi": "DONAUGRACHT",
       "manobra_multi_tipo": "E",
