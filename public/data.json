@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/04/2026 08:12",
+  "ultima_atualizacao": "06/04/2026 09:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -37,21 +37,6 @@
     },
     {
       "data": "06/04",
-      "hora": "10:30",
-      "navio": "NYK DIANA",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9337688",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-06T10:30:00"
-    },
-    {
-      "data": "06/04",
       "hora": "12:30",
       "navio": "DONAUGRACHT",
       "calado": "6,80",
@@ -61,13 +46,28 @@
       "imo": "9420837",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-04-06T12:30:00"
     },
     {
       "data": "06/04",
-      "hora": "14:00",
+      "hora": "12:30",
+      "navio": "NYK DIANA",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9337688",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
+      "terminal": "rio",
+      "timestamp": "2026-04-06T12:30:00"
+    },
+    {
+      "data": "06/04",
+      "hora": "14:30",
       "navio": "WIELAND",
       "calado": "12,60",
       "manobra": "E",
@@ -78,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-06T14:00:00"
+      "timestamp": "2026-04-06T14:30:00"
     },
     {
       "data": "06/04",
@@ -112,7 +112,7 @@
     },
     {
       "data": "06/04",
-      "hora": "22:00",
+      "hora": "19:00",
       "navio": "INDUSTRIAL MOMENTUM",
       "calado": "6,00",
       "manobra": "M",
@@ -123,7 +123,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-06T22:00:00"
+      "timestamp": "2026-04-06T19:00:00"
     },
     {
       "data": "07/04",
@@ -232,6 +232,21 @@
     },
     {
       "data": "08/04",
+      "hora": "00:00",
+      "navio": "GRANDE NIGERIA",
+      "calado": "8,60",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9246580",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-08T00:00:00"
+    },
+    {
+      "data": "08/04",
       "hora": "07:00",
       "navio": "MAERSK KARUN",
       "calado": "12,60",
@@ -289,6 +304,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-08T16:00:00"
+    },
+    {
+      "data": "09/04",
+      "hora": "04:00",
+      "navio": "GRANDE NIGERIA",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9246580",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-09T04:00:00"
     },
     {
       "data": "09/04",
@@ -490,7 +520,7 @@
     {
       "navio_rio": "WIELAND",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/04 14:00",
+      "manobra_rio_inicio": "06/04 14:30",
       "manobra_rio_fim": "07/04 01:00",
       "navio_multi": "MSC CADIZ",
       "manobra_multi_tipo": "E",
@@ -528,6 +558,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "07/04 07:00",
       "manobra_rio_fim": "08/04 08:00",
+      "navio_multi": "GRANDE NIGERIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "08/04 00:00"
+    },
+    {
+      "navio_rio": "CMA CGM BUZIOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "07/04 07:00",
+      "manobra_rio_fim": "08/04 08:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "08/04 07:00"
@@ -561,12 +600,30 @@
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/04 08:30",
+      "manobra_rio_fim": "08/04 16:00",
+      "navio_multi": "GRANDE NIGERIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "08/04 00:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "07/04 08:30",
       "manobra_rio_fim": "08/04 16:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "08/04 07:00"
+    },
+    {
+      "navio_rio": "EVER FORTUNE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "08/04 10:00",
+      "manobra_rio_fim": "09/04 16:00",
+      "navio_multi": "GRANDE NIGERIA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "09/04 04:00"
     }
   ]
 }
