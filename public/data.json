@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/04/2026 16:39",
+  "ultima_atualizacao": "06/04/2026 17:23",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "06/04",
       "hora": "17:30",
       "navio": "MERCOSUL GUARUJA",
-      "calado": "10,00",
+      "calado": "7,70",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -82,9 +82,9 @@
     },
     {
       "data": "07/04",
-      "hora": "04:00",
+      "hora": "05:00",
       "navio": "WIELAND",
-      "calado": "12,60",
+      "calado": "12,30",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -93,21 +93,6 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-07T04:00:00"
-    },
-    {
-      "data": "07/04",
-      "hora": "05:00",
-      "navio": "MSC CADIZ",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9480203",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
       "timestamp": "2026-04-07T05:00:00"
     },
     {
@@ -142,7 +127,22 @@
     },
     {
       "data": "07/04",
-      "hora": "12:00",
+      "hora": "10:30",
+      "navio": "MSC CADIZ",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9480203",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-07T10:30:00"
+    },
+    {
+      "data": "07/04",
+      "hora": "12:30",
       "navio": "MAERSK KARUN",
       "calado": "12,25",
       "manobra": "E",
@@ -153,13 +153,13 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-07T12:00:00"
+      "timestamp": "2026-04-07T12:30:00"
     },
     {
       "data": "07/04",
-      "hora": "14:00",
+      "hora": "14:30",
       "navio": "MSC VANCOUVER",
-      "calado": "15,05",
+      "calado": "15,03",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -168,7 +168,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-07T14:00:00"
+      "timestamp": "2026-04-07T14:30:00"
     },
     {
       "data": "08/04",
@@ -461,7 +461,7 @@
       "navio_rio": "WIELAND",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "06/04 19:30",
-      "manobra_rio_fim": "07/04 04:00",
+      "manobra_rio_fim": "07/04 05:00",
       "navio_multi": "DONAUGRACHT",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/04 03:00"
@@ -471,9 +471,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "07/04 07:00",
       "manobra_rio_fim": "08/04 08:00",
+      "navio_multi": "MSC CADIZ",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/04 10:30"
+    },
+    {
+      "navio_rio": "CMA CGM BUZIOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/04 07:00",
+      "manobra_rio_fim": "08/04 08:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/04 12:00"
+      "manobra_multi_data_hora": "07/04 12:30"
     },
     {
       "navio_rio": "CMA CGM BUZIOS",
@@ -482,7 +491,7 @@
       "manobra_rio_fim": "08/04 08:00",
       "navio_multi": "MSC VANCOUVER",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/04 14:00"
+      "manobra_multi_data_hora": "07/04 14:30"
     },
     {
       "navio_rio": "CMA CGM BUZIOS",
@@ -507,9 +516,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "07/04 08:30",
       "manobra_rio_fim": "08/04 16:00",
+      "navio_multi": "MSC CADIZ",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/04 10:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/04 08:30",
+      "manobra_rio_fim": "08/04 16:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/04 12:00"
+      "manobra_multi_data_hora": "07/04 12:30"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
@@ -518,7 +536,7 @@
       "manobra_rio_fim": "08/04 16:00",
       "navio_multi": "MSC VANCOUVER",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/04 14:00"
+      "manobra_multi_data_hora": "07/04 14:30"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
