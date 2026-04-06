@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "05/04/2026 20:59",
+  "ultima_atualizacao": "06/04/2026 00:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "05/04",
-      "hora": "20:30",
-      "navio": "NYK DIANA",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9337688",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-05T20:30:00"
-    },
-    {
-      "data": "05/04",
-      "hora": "22:00",
-      "navio": "MERCOSUL GUARUJA",
-      "calado": "7,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9539494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-05T22:00:00"
-    },
     {
       "data": "06/04",
       "hora": "06:30",
@@ -42,7 +12,7 @@
       "calado": "14,40",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9285691",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,7 +27,7 @@
       "calado": "6,80",
       "manobra": "E",
       "beco": "TECONT5",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9420837",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
@@ -72,7 +42,7 @@
       "calado": "11,00",
       "manobra": "S",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9337688",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -87,7 +57,7 @@
       "calado": "9,00",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -102,7 +72,7 @@
       "calado": "12,60",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9654464",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -117,7 +87,7 @@
       "calado": "13,40",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9480203",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -132,7 +102,7 @@
       "calado": "10,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -147,7 +117,7 @@
       "calado": "6,00",
       "manobra": "M",
       "beco": "TECONT4",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9534432",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
@@ -199,6 +169,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-07T07:00:00"
+    },
+    {
+      "data": "07/04",
+      "hora": "08:30",
+      "navio": "COSCO SHIPPING CHILE",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9945887",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-07T08:30:00"
     },
     {
       "data": "07/04",
@@ -259,6 +244,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-08T10:00:00"
+    },
+    {
+      "data": "08/04",
+      "hora": "16:00",
+      "navio": "COSCO SHIPPING CHILE",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9945887",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-08T16:00:00"
     },
     {
       "data": "09/04",
@@ -458,60 +458,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/04 20:30",
-      "manobra_rio_fim": "06/04 10:30",
-      "navio_multi": "MSC VANCOUVER",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/04 06:30"
-    },
-    {
-      "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/04 20:30",
-      "manobra_rio_fim": "06/04 10:30",
-      "navio_multi": "DONAUGRACHT",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/04 08:30"
-    },
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/04 22:00",
-      "manobra_rio_fim": "06/04 18:00",
-      "navio_multi": "MSC VANCOUVER",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/04 06:30"
-    },
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/04 22:00",
-      "manobra_rio_fim": "06/04 18:00",
-      "navio_multi": "DONAUGRACHT",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/04 08:30"
-    },
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/04 22:00",
-      "manobra_rio_fim": "06/04 18:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/04 12:00"
-    },
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/04 22:00",
-      "manobra_rio_fim": "06/04 18:00",
-      "navio_multi": "MSC CADIZ",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/04 16:00"
-    },
-    {
       "navio_rio": "WIELAND",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "06/04 14:00",
@@ -534,6 +480,24 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "07/04 07:00",
       "manobra_rio_fim": "08/04 08:00",
+      "navio_multi": "DONAUGRACHT",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/04 19:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/04 08:30",
+      "manobra_rio_fim": "08/04 16:00",
+      "navio_multi": "MSC VANCOUVER",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/04 13:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/04 08:30",
+      "manobra_rio_fim": "08/04 16:00",
       "navio_multi": "DONAUGRACHT",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/04 19:00"
