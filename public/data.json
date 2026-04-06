@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "06/04/2026 10:42",
+  "ultima_atualizacao": "06/04/2026 11:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "06/04",
-      "hora": "06:30",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "8,70",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-06T06:30:00"
-    },
     {
       "data": "06/04",
       "hora": "08:30",
@@ -54,7 +39,7 @@
       "data": "06/04",
       "hora": "13:30",
       "navio": "NYK DIANA",
-      "calado": "11,00",
+      "calado": "11,60",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -76,7 +61,7 @@
       "imo": "9480203",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-04-06T15:30:00"
     },
