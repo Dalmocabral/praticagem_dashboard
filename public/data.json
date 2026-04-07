@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "07/04/2026 16:44",
+  "ultima_atualizacao": "07/04/2026 17:30",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "07/04",
-      "hora": "14:30",
-      "navio": "MSC VANCOUVER",
-      "calado": "15,05",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9285691",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-07T14:30:00"
-    },
     {
       "data": "07/04",
       "hora": "22:00",
