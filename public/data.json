@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/04/2026 03:09",
+  "ultima_atualizacao": "07/04/2026 04:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "07/04",
-      "hora": "03:00",
-      "navio": "DONAUGRACHT",
-      "calado": "6,35",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9420837",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-07T03:00:00"
-    },
-    {
-      "data": "07/04",
       "hora": "05:00",
       "navio": "WIELAND",
-      "calado": "12,30",
+      "calado": "12,60",
       "manobra": "M",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -39,14 +24,14 @@
       "data": "07/04",
       "hora": "07:00",
       "navio": "CMA CGM BUZIOS",
-      "calado": "14,10",
+      "calado": "14,30",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9938250",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-07T07:00:00"
     },
@@ -61,7 +46,7 @@
       "imo": "9945887",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-04-07T08:30:00"
     },
