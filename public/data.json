@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/04/2026 01:41",
+  "ultima_atualizacao": "07/04/2026 03:09",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -9,7 +9,7 @@
       "data": "07/04",
       "hora": "03:00",
       "navio": "DONAUGRACHT",
-      "calado": "6,70",
+      "calado": "6,35",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9654464",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-07T05:00:00"
     },
@@ -46,7 +46,7 @@
       "imo": "9938250",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-04-07T07:00:00"
     },
