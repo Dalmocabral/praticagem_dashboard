@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/04/2026 17:30",
+  "ultima_atualizacao": "07/04/2026 18:27",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -16,13 +16,13 @@
       "imo": "9624299",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-04-07T22:00:00"
     },
     {
       "data": "08/04",
-      "hora": "02:00",
+      "hora": "05:30",
       "navio": "GRANDE NIGERIA",
       "calado": "8,60",
       "manobra": "E",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-08T02:00:00"
+      "timestamp": "2026-04-08T05:30:00"
     },
     {
       "data": "08/04",
