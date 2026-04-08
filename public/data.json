@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/04/2026 18:56",
+  "ultima_atualizacao": "08/04/2026 19:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -37,7 +37,7 @@
     },
     {
       "data": "09/04",
-      "hora": "08:00",
+      "hora": "09:00",
       "navio": "COSCO SHIPPING CHILE",
       "calado": "14,20",
       "manobra": "S",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-09T08:00:00"
+      "timestamp": "2026-04-09T09:00:00"
     },
     {
       "data": "09/04",
