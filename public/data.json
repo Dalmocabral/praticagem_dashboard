@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "08/04/2026 16:24",
+  "ultima_atualizacao": "08/04/2026 17:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "08/04",
-      "hora": "12:30",
-      "navio": "EVER FORTUNE",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9850563",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-08T12:30:00"
-    },
     {
       "data": "08/04",
       "hora": "16:00",
@@ -502,24 +487,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "EVER FORTUNE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/04 12:30",
-      "manobra_rio_fim": "09/04 09:00",
-      "navio_multi": "MSC MICHELA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "08/04 16:00"
-    },
-    {
-      "navio_rio": "EVER FORTUNE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "08/04 12:30",
-      "manobra_rio_fim": "09/04 09:00",
-      "navio_multi": "GRANDE NIGERIA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/04 02:00"
-    },
     {
       "navio_rio": "SPYROS V",
       "manobra_rio_afetada": "E",
