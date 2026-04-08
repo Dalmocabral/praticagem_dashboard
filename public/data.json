@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/04/2026 09:10",
+  "ultima_atualizacao": "08/04/2026 11:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -31,7 +31,7 @@
       "imo": "9850563",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-08T12:30:00"
     },
@@ -67,21 +67,6 @@
     },
     {
       "data": "09/04",
-      "hora": "07:00",
-      "navio": "MSC MICHELA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9720512",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-09T07:00:00"
-    },
-    {
-      "data": "09/04",
       "hora": "08:00",
       "navio": "COSCO SHIPPING CHILE",
       "calado": "14,20",
@@ -109,6 +94,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-09T10:00:00"
+    },
+    {
+      "data": "09/04",
+      "hora": "13:00",
+      "navio": "MSC MICHELA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9720512",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-09T13:00:00"
     },
     {
       "data": "09/04",
@@ -186,6 +186,21 @@
       "timestamp": "2026-04-10T07:00:00"
     },
     {
+      "data": "10/04",
+      "hora": "09:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-10T09:30:00"
+    },
+    {
       "data": "11/04",
       "hora": "06:00",
       "navio": "MSC ADELE",
@@ -202,7 +217,22 @@
     },
     {
       "data": "11/04",
-      "hora": "12:00",
+      "hora": "09:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-11T09:00:00"
+    },
+    {
+      "data": "11/04",
+      "hora": "16:00",
       "navio": "MSC CATERINA",
       "calado": "12,60",
       "manobra": "E",
@@ -213,7 +243,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-11T12:00:00"
+      "timestamp": "2026-04-11T16:00:00"
     },
     {
       "data": "12/04",
@@ -319,6 +349,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-15T06:30:00"
+    },
+    {
+      "data": "19/04",
+      "hora": "06:30",
+      "navio": "MSC MUGE",
+      "calado": "12,70",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978949",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-19T06:30:00"
+    },
+    {
+      "data": "20/04",
+      "hora": "06:00",
+      "navio": "MSC MUGE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978949",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-20T06:00:00"
     },
     {
       "data": "21/04",
@@ -437,7 +497,16 @@
       "manobra_rio_fim": "09/04 16:00",
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/04 07:00"
+      "manobra_multi_data_hora": "09/04 13:00"
+    },
+    {
+      "navio_rio": "SPYROS V",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "09/04 10:00",
+      "manobra_rio_fim": "09/04 22:00",
+      "navio_multi": "MSC MICHELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "09/04 13:00"
     },
     {
       "navio_rio": "XIN CHONG QING",
