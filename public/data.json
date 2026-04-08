@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "07/04/2026 22:52",
+  "ultima_atualizacao": "08/04/2026 01:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "07/04",
-      "hora": "22:00",
-      "navio": "MAERSK KARUN",
-      "calado": "12,55",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9624299",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-07T22:00:00"
-    },
     {
       "data": "08/04",
       "hora": "05:30",
@@ -31,7 +16,7 @@
       "imo": "9246580",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-04-08T05:30:00"
     },
@@ -67,7 +52,7 @@
     },
     {
       "data": "08/04",
-      "hora": "18:00",
+      "hora": "16:00",
       "navio": "MSC MICHELA",
       "calado": "13,25",
       "manobra": "E",
@@ -78,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-08T18:00:00"
+      "timestamp": "2026-04-08T16:00:00"
     },
     {
       "data": "09/04",
@@ -449,7 +434,7 @@
       "manobra_rio_fim": "09/04 16:00",
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "08/04 18:00"
+      "manobra_multi_data_hora": "08/04 16:00"
     },
     {
       "navio_rio": "EVER FORTUNE",
