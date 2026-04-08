@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/04/2026 20:50",
+  "ultima_atualizacao": "07/04/2026 22:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -12,7 +12,7 @@
       "calado": "12,55",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "hoje",
+      "status": "passado",
       "imo": "9624299",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -27,7 +27,7 @@
       "calado": "8,60",
       "manobra": "E",
       "beco": "TECONT5",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9246580",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
@@ -42,7 +42,7 @@
       "calado": "14,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9938250",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,7 +57,7 @@
       "calado": "14,50",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9850563",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -69,31 +69,16 @@
       "data": "08/04",
       "hora": "18:00",
       "navio": "MSC MICHELA",
-      "calado": "12,60",
+      "calado": "13,25",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9720512",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-08T18:00:00"
-    },
-    {
-      "data": "08/04",
-      "hora": "20:00",
-      "navio": "SPYROS V",
-      "calado": "11,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9453365",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-08T20:00:00"
     },
     {
       "data": "09/04",
@@ -142,10 +127,10 @@
     },
     {
       "data": "09/04",
-      "hora": "14:00",
+      "hora": "10:00",
       "navio": "SPYROS V",
-      "calado": "10,80",
-      "manobra": "S",
+      "calado": "11,00",
+      "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
       "imo": "9453365",
@@ -153,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-09T14:00:00"
+      "timestamp": "2026-04-09T10:00:00"
     },
     {
       "data": "09/04",
@@ -184,6 +169,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-09T18:00:00"
+    },
+    {
+      "data": "09/04",
+      "hora": "22:00",
+      "navio": "SPYROS V",
+      "calado": "10,80",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9453365",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-09T22:00:00"
     },
     {
       "data": "10/04",
@@ -465,24 +465,6 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "08/04 14:00",
       "manobra_rio_fim": "09/04 16:00",
-      "navio_multi": "MSC MICHELA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/04 07:00"
-    },
-    {
-      "navio_rio": "SPYROS V",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/04 20:00",
-      "manobra_rio_fim": "09/04 14:00",
-      "navio_multi": "GRANDE NIGERIA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/04 04:00"
-    },
-    {
-      "navio_rio": "SPYROS V",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "08/04 20:00",
-      "manobra_rio_fim": "09/04 14:00",
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "09/04 07:00"
