@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/04/2026 12:41",
+  "ultima_atualizacao": "08/04/2026 13:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -31,7 +31,7 @@
       "imo": "9720512",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-08T16:00:00"
     },
@@ -172,6 +172,21 @@
     },
     {
       "data": "10/04",
+      "hora": "09:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-10T09:00:00"
+    },
+    {
+      "data": "10/04",
       "hora": "17:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,40",
@@ -184,6 +199,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-10T17:00:00"
+    },
+    {
+      "data": "10/04",
+      "hora": "21:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,50",
+      "manobra": "M",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-10T21:00:00"
+    },
+    {
+      "data": "11/04",
+      "hora": "05:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-11T05:00:00"
     },
     {
       "data": "11/04",
@@ -492,6 +537,15 @@
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "10/04 00:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/04 09:00",
+      "manobra_rio_fim": "10/04 21:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/04 17:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
