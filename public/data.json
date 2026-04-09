@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/04/2026 06:59",
+  "ultima_atualizacao": "09/04/2026 08:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "09/04",
-      "hora": "09:00",
+      "hora": "10:00",
       "navio": "COSCO SHIPPING CHILE",
       "calado": "14,20",
       "manobra": "S",
@@ -18,11 +18,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-04-09T09:00:00"
+      "timestamp": "2026-04-09T10:00:00"
     },
     {
       "data": "09/04",
-      "hora": "11:00",
+      "hora": "12:00",
       "navio": "SPYROS V",
       "calado": "11,00",
       "manobra": "E",
@@ -31,13 +31,13 @@
       "imo": "9453365",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
-      "timestamp": "2026-04-09T11:00:00"
+      "timestamp": "2026-04-09T12:00:00"
     },
     {
       "data": "09/04",
-      "hora": "13:00",
+      "hora": "14:00",
       "navio": "MSC MICHELA",
       "calado": "11,30",
       "manobra": "S",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-09T13:00:00"
+      "timestamp": "2026-04-09T14:00:00"
     },
     {
       "data": "09/04",
@@ -262,6 +262,21 @@
     },
     {
       "data": "12/04",
+      "hora": "06:00",
+      "navio": "MSC ROCHELLE",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9141297",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-12T06:00:00"
+    },
+    {
+      "data": "12/04",
       "hora": "12:00",
       "navio": "MSC CATERINA",
       "calado": "12,60",
@@ -292,6 +307,21 @@
     },
     {
       "data": "13/04",
+      "hora": "07:00",
+      "navio": "MSC ROCHELLE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9141297",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-13T07:00:00"
+    },
+    {
+      "data": "13/04",
       "hora": "16:00",
       "navio": "LAEM CHABANG EXPRESS",
       "calado": "12,60",
@@ -304,6 +334,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-13T16:00:00"
+    },
+    {
+      "data": "14/04",
+      "hora": "04:00",
+      "navio": "MSC ODESSA V",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9456965",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-14T04:00:00"
     },
     {
       "data": "14/04",
@@ -364,6 +409,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-15T06:30:00"
+    },
+    {
+      "data": "15/04",
+      "hora": "07:30",
+      "navio": "MSC ODESSA V",
+      "calado": "12,70",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9456965",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-15T07:30:00"
     },
     {
       "data": "19/04",
@@ -490,11 +550,11 @@
     {
       "navio_rio": "SPYROS V",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/04 11:00",
+      "manobra_rio_inicio": "09/04 12:00",
       "manobra_rio_fim": "09/04 22:00",
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/04 13:00"
+      "manobra_multi_data_hora": "09/04 14:00"
     },
     {
       "navio_rio": "XIN CHONG QING",
