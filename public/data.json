@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "09/04/2026 15:14",
+  "ultima_atualizacao": "09/04/2026 16:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "09/04",
-      "hora": "14:00",
-      "navio": "MSC MICHELA",
-      "calado": "11,30",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9720512",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-09T14:00:00"
-    },
     {
       "data": "09/04",
       "hora": "16:00",
