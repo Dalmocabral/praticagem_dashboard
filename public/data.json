@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "09/04/2026 12:56",
+  "ultima_atualizacao": "09/04/2026 14:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "09/04",
-      "hora": "10:00",
-      "navio": "COSCO SHIPPING CHILE",
-      "calado": "14,20",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9945887",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-09T10:00:00"
-    },
-    {
-      "data": "09/04",
-      "hora": "12:00",
-      "navio": "SPYROS V",
-      "calado": "10,70",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9453365",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-09T12:00:00"
-    },
     {
       "data": "09/04",
       "hora": "14:00",
@@ -61,7 +31,7 @@
       "imo": "9850563",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-09T16:00:00"
     },
@@ -69,14 +39,14 @@
       "data": "09/04",
       "hora": "18:00",
       "navio": "XIN CHONG QING",
-      "calado": "11,40",
+      "calado": "11,60",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9262118",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-04-09T18:00:00"
     },
@@ -97,7 +67,7 @@
     },
     {
       "data": "10/04",
-      "hora": "07:00",
+      "hora": "04:30",
       "navio": "XIN CHONG QING",
       "calado": "11,00",
       "manobra": "S",
@@ -108,7 +78,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-10T07:00:00"
+      "timestamp": "2026-04-10T04:30:00"
+    },
+    {
+      "data": "10/04",
+      "hora": "06:30",
+      "navio": "MSC ADELE",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1016692",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-10T06:30:00"
     },
     {
       "data": "10/04",
@@ -124,21 +109,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-10T09:00:00"
-    },
-    {
-      "data": "10/04",
-      "hora": "10:30",
-      "navio": "MSC ADELE",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-10T10:30:00"
     },
     {
       "data": "10/04",
@@ -547,24 +517,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "SPYROS V",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/04 12:00",
-      "manobra_rio_fim": "10/04 02:00",
-      "navio_multi": "MSC MICHELA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/04 14:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/04 09:00",
-      "manobra_rio_fim": "10/04 21:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/04 10:30"
-    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
