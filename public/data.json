@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "09/04/2026 17:35",
+  "ultima_atualizacao": "09/04/2026 18:30",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
   },
   "navios": [
-    {
-      "data": "09/04",
-      "hora": "16:00",
-      "navio": "EVER FORTUNE",
-      "calado": "14,10",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9850563",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-09T16:00:00"
-    },
     {
       "data": "09/04",
       "hora": "18:00",
@@ -82,7 +67,7 @@
     },
     {
       "data": "10/04",
-      "hora": "09:00",
+      "hora": "08:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "E",
@@ -93,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-10T09:00:00"
+      "timestamp": "2026-04-10T08:30:00"
     },
     {
       "data": "10/04",
@@ -216,6 +201,21 @@
       "timestamp": "2026-04-11T16:00:00"
     },
     {
+      "data": "11/04",
+      "hora": "23:00",
+      "navio": "DUSSELDORF EXPRESS",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9143556",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-11T23:00:00"
+    },
+    {
       "data": "12/04",
       "hora": "06:00",
       "navio": "MSC ROCHELLE",
@@ -259,6 +259,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-12T14:00:00"
+    },
+    {
+      "data": "12/04",
+      "hora": "16:00",
+      "navio": "DUSSELDORF EXPRESS",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9143556",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-12T16:00:00"
     },
     {
       "data": "13/04",
@@ -505,7 +520,7 @@
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/04 09:00",
+      "manobra_rio_inicio": "10/04 08:30",
       "manobra_rio_fim": "10/04 21:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
@@ -537,6 +552,33 @@
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "11/04 06:00"
+    },
+    {
+      "navio_rio": "DUSSELDORF EXPRESS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/04 23:00",
+      "manobra_rio_fim": "12/04 16:00",
+      "navio_multi": "MSC ROCHELLE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "12/04 06:00"
+    },
+    {
+      "navio_rio": "DUSSELDORF EXPRESS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "11/04 23:00",
+      "manobra_rio_fim": "12/04 16:00",
+      "navio_multi": "MSC CATERINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "12/04 12:00"
+    },
+    {
+      "navio_rio": "DUSSELDORF EXPRESS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "11/04 23:00",
+      "manobra_rio_fim": "12/04 16:00",
+      "navio_multi": "LAEM CHABANG EXPRESS",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "12/04 14:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
