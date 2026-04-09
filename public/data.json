@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/04/2026 11:13",
+  "ultima_atualizacao": "09/04/2026 12:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -61,7 +61,7 @@
       "imo": "9850563",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-04-09T16:00:00"
     },
@@ -71,7 +71,7 @@
       "navio": "XIN CHONG QING",
       "calado": "11,40",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9262118",
       "tipo_navio": "CONTAINER SHIP",
@@ -101,7 +101,7 @@
       "navio": "XIN CHONG QING",
       "calado": "11,00",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9262118",
       "tipo_navio": "CONTAINER SHIP",
