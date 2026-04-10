@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/04/2026 11:38",
+  "ultima_atualizacao": "10/04/2026 12:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -16,7 +16,7 @@
       "imo": "9350020",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-10T15:00:00"
     },
@@ -217,7 +217,7 @@
     },
     {
       "data": "12/04",
-      "hora": "23:00",
+      "hora": "21:00",
       "navio": "SPARROWHAWK",
       "calado": "8,00",
       "manobra": "S",
@@ -226,6 +226,21 @@
       "imo": "9956903",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-12T21:00:00"
+    },
+    {
+      "data": "12/04",
+      "hora": "23:00",
+      "navio": "MERCOSUL GUARUJA",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9539494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-12T23:00:00"
@@ -244,6 +259,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-13T07:00:00"
+    },
+    {
+      "data": "13/04",
+      "hora": "11:00",
+      "navio": "MERCOSUL GUARUJA",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9539494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-13T11:00:00"
     },
     {
       "data": "13/04",
@@ -503,7 +533,7 @@
       "navio_rio": "SPARROWHAWK",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "11/04 11:00",
-      "manobra_rio_fim": "12/04 23:00",
+      "manobra_rio_fim": "12/04 21:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "11/04 16:00"
@@ -512,7 +542,7 @@
       "navio_rio": "SPARROWHAWK",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "11/04 11:00",
-      "manobra_rio_fim": "12/04 23:00",
+      "manobra_rio_fim": "12/04 21:00",
       "navio_multi": "MSC ROCHELLE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "12/04 06:00"
@@ -521,7 +551,7 @@
       "navio_rio": "SPARROWHAWK",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "11/04 11:00",
-      "manobra_rio_fim": "12/04 23:00",
+      "manobra_rio_fim": "12/04 21:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "12/04 12:00"
@@ -530,7 +560,7 @@
       "navio_rio": "SPARROWHAWK",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "11/04 11:00",
-      "manobra_rio_fim": "12/04 23:00",
+      "manobra_rio_fim": "12/04 21:00",
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "12/04 14:00"
@@ -561,6 +591,15 @@
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "12/04 14:00"
+    },
+    {
+      "navio_rio": "MERCOSUL GUARUJA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "12/04 23:00",
+      "manobra_rio_fim": "13/04 11:00",
+      "navio_multi": "MSC ROCHELLE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/04 07:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
