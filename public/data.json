@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/04/2026 06:54",
+  "ultima_atualizacao": "10/04/2026 07:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -61,7 +61,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-10T10:30:00"
     },
@@ -129,7 +129,7 @@
       "data": "11/04",
       "hora": "06:00",
       "navio": "MSC ADELE",
-      "calado": "12,60",
+      "calado": "14,20",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
