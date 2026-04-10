@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/04/2026 02:07",
+  "ultima_atualizacao": "10/04/2026 04:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -9,7 +9,7 @@
       "data": "10/04",
       "hora": "04:30",
       "navio": "XIN CHONG QING",
-      "calado": "11,00",
+      "calado": "11,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "1016692",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-10T06:30:00"
     },
