@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "10/04/2026 16:29",
+  "ultima_atualizacao": "10/04/2026 17:04",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 10/04/2026 14:39 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "10/04",
-      "hora": "15:00",
-      "navio": "APL NEW JERSEY",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9350020",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-10T15:00:00"
-    },
     {
       "data": "10/04",
       "hora": "23:00",
@@ -562,24 +547,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/04 15:00",
-      "manobra_rio_fim": "11/04 07:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/04 23:00"
-    },
-    {
-      "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/04 15:00",
-      "manobra_rio_fim": "11/04 07:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/04 06:00"
-    },
     {
       "navio_rio": "SPARROWHAWK",
       "manobra_rio_afetada": "E",
