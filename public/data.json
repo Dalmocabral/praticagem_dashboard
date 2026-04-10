@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/04/2026 15:31",
+  "ultima_atualizacao": "10/04/2026 16:29",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 10/04/2026 14:39 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -22,21 +22,6 @@
     },
     {
       "data": "10/04",
-      "hora": "21:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,50",
-      "manobra": "M",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-10T21:00:00"
-    },
-    {
-      "data": "10/04",
       "hora": "23:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,40",
@@ -52,18 +37,18 @@
     },
     {
       "data": "11/04",
-      "hora": "05:00",
+      "hora": "01:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT4",
+      "calado": "9,50",
+      "manobra": "M",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-11T05:00:00"
+      "terminal": "rio",
+      "timestamp": "2026-04-11T01:00:00"
     },
     {
       "data": "11/04",
@@ -94,6 +79,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-11T07:00:00"
+    },
+    {
+      "data": "11/04",
+      "hora": "09:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-11T09:00:00"
     },
     {
       "data": "11/04",
@@ -191,7 +191,7 @@
       "navio": "LAEM CHABANG EXPRESS",
       "calado": "14,50",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9768007",
       "tipo_navio": "CONTAINER SHIP",
@@ -311,7 +311,7 @@
       "navio": "LAEM CHABANG EXPRESS",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9768007",
       "tipo_navio": "CONTAINER SHIP",
@@ -570,15 +570,6 @@
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "10/04 23:00"
-    },
-    {
-      "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/04 15:00",
-      "manobra_rio_fim": "11/04 07:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/04 05:00"
     },
     {
       "navio_rio": "APL NEW JERSEY",
