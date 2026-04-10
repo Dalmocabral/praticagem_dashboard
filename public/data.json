@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/04/2026 20:51",
+  "ultima_atualizacao": "09/04/2026 23:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -12,7 +12,7 @@
       "calado": "11,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9262118",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -27,7 +27,7 @@
       "calado": "14,00",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "1016692",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -42,7 +42,7 @@
       "calado": "10,80",
       "manobra": "S",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9453365",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,7 +57,7 @@
       "calado": "9,00",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -72,7 +72,7 @@
       "calado": "13,70",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9350020",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -82,33 +82,33 @@
     },
     {
       "data": "10/04",
-      "hora": "17:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "8,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-10T17:00:00"
-    },
-    {
-      "data": "10/04",
       "hora": "21:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,50",
       "manobra": "M",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-10T21:00:00"
+    },
+    {
+      "data": "10/04",
+      "hora": "23:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-10T23:00:00"
     },
     {
       "data": "11/04",
@@ -503,22 +503,13 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/04 10:30",
-      "manobra_rio_fim": "10/04 21:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/04 17:00"
-    },
-    {
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "10/04 15:00",
       "manobra_rio_fim": "11/04 07:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/04 17:00"
+      "manobra_multi_data_hora": "10/04 23:00"
     },
     {
       "navio_rio": "APL NEW JERSEY",
