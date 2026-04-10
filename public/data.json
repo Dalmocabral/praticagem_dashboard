@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/04/2026 17:54",
+  "ultima_atualizacao": "10/04/2026 18:43",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 10/04/2026 14:39 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -544,6 +544,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-29T07:00:00"
+    },
+    {
+      "data": "29/04",
+      "hora": "15:00",
+      "navio": "KOTA EBONY",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9968853",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-29T15:00:00"
+    },
+    {
+      "data": "30/04",
+      "hora": "06:00",
+      "navio": "KOTA EBONY",
+      "calado": "13,90",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9968853",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-30T06:00:00"
     }
   ],
   "conflitos": [
