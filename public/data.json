@@ -1,8 +1,8 @@
 {
-  "ultima_atualizacao": "10/04/2026 14:33",
+  "ultima_atualizacao": "10/04/2026 15:31",
   "barra_info": {
-    "restrita": false,
-    "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
+    "restrita": true,
+    "mensagem": "BARRA RESTRITA DESDE 10/04/2026 14:39 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
     {
@@ -142,7 +142,7 @@
     },
     {
       "data": "12/04",
-      "hora": "06:00",
+      "hora": "08:00",
       "navio": "MSC AMALFI",
       "calado": "12,60",
       "manobra": "S",
@@ -153,11 +153,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-12T06:00:00"
+      "timestamp": "2026-04-12T08:00:00"
     },
     {
       "data": "12/04",
-      "hora": "07:00",
+      "hora": "10:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "S",
@@ -168,11 +168,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-12T07:00:00"
+      "timestamp": "2026-04-12T10:00:00"
     },
     {
       "data": "12/04",
-      "hora": "09:00",
+      "hora": "12:00",
       "navio": "MSC CATERINA",
       "calado": "12,60",
       "manobra": "E",
@@ -183,7 +183,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-12T09:00:00"
+      "timestamp": "2026-04-12T12:00:00"
     },
     {
       "data": "12/04",
@@ -605,7 +605,7 @@
       "manobra_rio_fim": "12/04 21:00",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/04 06:00"
+      "manobra_multi_data_hora": "12/04 08:00"
     },
     {
       "navio_rio": "SPARROWHAWK",
@@ -614,7 +614,7 @@
       "manobra_rio_fim": "12/04 21:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/04 07:00"
+      "manobra_multi_data_hora": "12/04 10:00"
     },
     {
       "navio_rio": "SPARROWHAWK",
@@ -623,7 +623,7 @@
       "manobra_rio_fim": "12/04 21:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/04 09:00"
+      "manobra_multi_data_hora": "12/04 12:00"
     },
     {
       "navio_rio": "SPARROWHAWK",
@@ -641,7 +641,7 @@
       "manobra_rio_fim": "12/04 16:00",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/04 06:00"
+      "manobra_multi_data_hora": "12/04 08:00"
     },
     {
       "navio_rio": "DUSSELDORF EXPRESS",
@@ -650,7 +650,7 @@
       "manobra_rio_fim": "12/04 16:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/04 07:00"
+      "manobra_multi_data_hora": "12/04 10:00"
     },
     {
       "navio_rio": "DUSSELDORF EXPRESS",
@@ -659,7 +659,7 @@
       "manobra_rio_fim": "12/04 16:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/04 09:00"
+      "manobra_multi_data_hora": "12/04 12:00"
     },
     {
       "navio_rio": "DUSSELDORF EXPRESS",
