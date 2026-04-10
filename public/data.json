@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/04/2026 12:35",
+  "ultima_atualizacao": "10/04/2026 13:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -247,6 +247,21 @@
     },
     {
       "data": "13/04",
+      "hora": "01:00",
+      "navio": "MERCOSUL ITAJAI",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9697002",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-13T01:00:00"
+    },
+    {
+      "data": "13/04",
       "hora": "07:00",
       "navio": "MSC ROCHELLE",
       "calado": "12,60",
@@ -304,6 +319,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-14T04:00:00"
+    },
+    {
+      "data": "14/04",
+      "hora": "06:00",
+      "navio": "MERCOSUL ITAJAI",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9697002",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-14T06:00:00"
     },
     {
       "data": "14/04",
@@ -600,6 +630,33 @@
       "navio_multi": "MSC ROCHELLE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "13/04 07:00"
+    },
+    {
+      "navio_rio": "MERCOSUL ITAJAI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/04 01:00",
+      "manobra_rio_fim": "14/04 06:00",
+      "navio_multi": "MSC ROCHELLE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/04 07:00"
+    },
+    {
+      "navio_rio": "MERCOSUL ITAJAI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "13/04 01:00",
+      "manobra_rio_fim": "14/04 06:00",
+      "navio_multi": "LAEM CHABANG EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/04 16:00"
+    },
+    {
+      "navio_rio": "MERCOSUL ITAJAI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "13/04 01:00",
+      "manobra_rio_fim": "14/04 06:00",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/04 04:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
