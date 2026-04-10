@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/04/2026 08:56",
+  "ultima_atualizacao": "10/04/2026 10:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/03/2026 09:12"
@@ -24,7 +24,7 @@
       "data": "10/04",
       "hora": "10:30",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
+      "calado": "7,90",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -157,7 +157,7 @@
     },
     {
       "data": "11/04",
-      "hora": "23:00",
+      "hora": "19:00",
       "navio": "DUSSELDORF EXPRESS",
       "calado": "11,00",
       "manobra": "E",
@@ -168,7 +168,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-11T23:00:00"
+      "timestamp": "2026-04-11T19:00:00"
     },
     {
       "data": "12/04",
@@ -501,8 +501,8 @@
     },
     {
       "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "11/04 23:00",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "11/04 19:00",
       "manobra_rio_fim": "12/04 16:00",
       "navio_multi": "MSC ROCHELLE",
       "manobra_multi_tipo": "E",
@@ -511,7 +511,7 @@
     {
       "navio_rio": "DUSSELDORF EXPRESS",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/04 23:00",
+      "manobra_rio_inicio": "11/04 19:00",
       "manobra_rio_fim": "12/04 16:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "S",
@@ -520,7 +520,7 @@
     {
       "navio_rio": "DUSSELDORF EXPRESS",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/04 23:00",
+      "manobra_rio_inicio": "11/04 19:00",
       "manobra_rio_fim": "12/04 16:00",
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "E",
