@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/04/2026 19:02",
+  "ultima_atualizacao": "11/04/2026 19:49",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/04/2026 17:03 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies. Entrada e saída de navios na Barra Grande com calado maior que 11,00 m."
@@ -22,6 +22,21 @@
     },
     {
       "data": "12/04",
+      "hora": "08:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-12T08:00:00"
+    },
+    {
+      "data": "12/04",
       "hora": "09:00",
       "navio": "APL NEW JERSEY",
       "calado": "13,80",
@@ -37,18 +52,18 @@
     },
     {
       "data": "12/04",
-      "hora": "10:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "S",
+      "hora": "11:00",
+      "navio": "MSC AMALFI",
+      "calado": "10,00",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9506394",
+      "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-12T10:00:00"
+      "timestamp": "2026-04-12T11:00:00"
     },
     {
       "data": "12/04",
@@ -79,21 +94,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-12T16:00:00"
-    },
-    {
-      "data": "12/04",
-      "hora": "18:00",
-      "navio": "MSC AMALFI",
-      "calado": "10,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9605279",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-12T18:00:00"
     },
     {
       "data": "12/04",
@@ -146,7 +146,7 @@
       "navio": "MSC AMALFI",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
@@ -524,7 +524,16 @@
       "manobra_rio_fim": "12/04 16:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/04 10:00"
+      "manobra_multi_data_hora": "12/04 08:00"
+    },
+    {
+      "navio_rio": "DUSSELDORF EXPRESS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "11/04 23:00",
+      "manobra_rio_fim": "12/04 16:00",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "12/04 11:00"
     },
     {
       "navio_rio": "DUSSELDORF EXPRESS",
