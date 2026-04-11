@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/04/2026 11:00",
+  "ultima_atualizacao": "11/04/2026 11:50",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 10/04/2026 22:36 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -22,21 +22,6 @@
     },
     {
       "data": "11/04",
-      "hora": "15:00",
-      "navio": "APL NEW JERSEY",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9350020",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-11T15:00:00"
-    },
-    {
-      "data": "11/04",
       "hora": "17:00",
       "navio": "SPARROWHAWK",
       "calado": "8,10",
@@ -53,12 +38,12 @@
     {
       "data": "11/04",
       "hora": "18:30",
-      "navio": "MSC AMALFI",
-      "calado": "10,00",
+      "navio": "MSC CATERINA",
+      "calado": "12,60",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
-      "imo": "9605279",
+      "imo": "9705005",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -82,18 +67,18 @@
     },
     {
       "data": "12/04",
-      "hora": "08:00",
-      "navio": "MSC AMALFI",
-      "calado": "12,60",
+      "hora": "09:00",
+      "navio": "APL NEW JERSEY",
+      "calado": "13,80",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9605279",
+      "imo": "9350020",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-12T08:00:00"
+      "terminal": "rio",
+      "timestamp": "2026-04-12T09:00:00"
     },
     {
       "data": "12/04",
@@ -115,8 +100,8 @@
       "hora": "12:00",
       "navio": "MSC CATERINA",
       "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT3",
+      "manobra": "S",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9705005",
       "tipo_navio": "CONTAINER SHIP",
@@ -131,7 +116,7 @@
       "navio": "LAEM CHABANG EXPRESS",
       "calado": "14,50",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9768007",
       "tipo_navio": "CONTAINER SHIP",
@@ -154,6 +139,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-12T16:00:00"
+    },
+    {
+      "data": "12/04",
+      "hora": "18:00",
+      "navio": "MSC AMALFI",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9605279",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-12T18:00:00"
     },
     {
       "data": "12/04",
@@ -202,21 +202,6 @@
     },
     {
       "data": "13/04",
-      "hora": "10:00",
-      "navio": "MSC CATERINA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-13T10:00:00"
-    },
-    {
-      "data": "13/04",
       "hora": "11:00",
       "navio": "MERCOSUL GUARUJA",
       "calado": "10,00",
@@ -251,7 +236,7 @@
       "navio": "LAEM CHABANG EXPRESS",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9768007",
       "tipo_navio": "CONTAINER SHIP",
@@ -259,6 +244,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-13T16:00:00"
+    },
+    {
+      "data": "13/04",
+      "hora": "18:00",
+      "navio": "MSC AMALFI",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9605279",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-13T18:00:00"
     },
     {
       "data": "14/04",
@@ -537,7 +537,7 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "11/04 17:00",
       "manobra_rio_fim": "12/04 21:00",
-      "navio_multi": "MSC AMALFI",
+      "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "11/04 18:30"
     },
@@ -546,15 +546,6 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "11/04 17:00",
       "manobra_rio_fim": "12/04 21:00",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/04 08:00"
-    },
-    {
-      "navio_rio": "SPARROWHAWK",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/04 17:00",
-      "manobra_rio_fim": "12/04 21:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "12/04 10:00"
@@ -565,7 +556,7 @@
       "manobra_rio_inicio": "11/04 17:00",
       "manobra_rio_fim": "12/04 21:00",
       "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "E",
+      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "12/04 12:00"
     },
     {
@@ -578,13 +569,13 @@
       "manobra_multi_data_hora": "12/04 14:00"
     },
     {
-      "navio_rio": "DUSSELDORF EXPRESS",
+      "navio_rio": "SPARROWHAWK",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/04 23:00",
-      "manobra_rio_fim": "12/04 16:00",
+      "manobra_rio_inicio": "11/04 17:00",
+      "manobra_rio_fim": "12/04 21:00",
       "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/04 08:00"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "12/04 18:00"
     },
     {
       "navio_rio": "DUSSELDORF EXPRESS",
@@ -601,7 +592,7 @@
       "manobra_rio_inicio": "11/04 23:00",
       "manobra_rio_fim": "12/04 16:00",
       "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "E",
+      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "12/04 12:00"
     },
     {
@@ -612,24 +603,6 @@
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "12/04 14:00"
-    },
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/04 23:00",
-      "manobra_rio_fim": "13/04 11:00",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/04 10:00"
-    },
-    {
-      "navio_rio": "MERCOSUL ITAJAI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/04 01:00",
-      "manobra_rio_fim": "14/04 06:00",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/04 10:00"
     },
     {
       "navio_rio": "MERCOSUL ITAJAI",
@@ -648,6 +621,15 @@
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "13/04 16:00"
+    },
+    {
+      "navio_rio": "MERCOSUL ITAJAI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "13/04 01:00",
+      "manobra_rio_fim": "14/04 06:00",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/04 18:00"
     },
     {
       "navio_rio": "MERCOSUL ITAJAI",
