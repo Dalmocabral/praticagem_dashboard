@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/04/2026 11:50",
+  "ultima_atualizacao": "11/04/2026 12:27",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 10/04/2026 22:36 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -37,7 +37,7 @@
     },
     {
       "data": "11/04",
-      "hora": "18:30",
+      "hora": "19:30",
       "navio": "MSC CATERINA",
       "calado": "12,60",
       "manobra": "E",
@@ -48,13 +48,13 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-11T18:30:00"
+      "timestamp": "2026-04-11T19:30:00"
     },
     {
       "data": "11/04",
       "hora": "23:00",
       "navio": "DUSSELDORF EXPRESS",
-      "calado": "11,00",
+      "calado": "10,80",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -539,7 +539,7 @@
       "manobra_rio_fim": "12/04 21:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "11/04 18:30"
+      "manobra_multi_data_hora": "11/04 19:30"
     },
     {
       "navio_rio": "SPARROWHAWK",
