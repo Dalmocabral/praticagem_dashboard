@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "11/04/2026 01:02",
+  "ultima_atualizacao": "11/04/2026 02:37",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 10/04/2026 22:36 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "10/04",
-      "hora": "23:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,70",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "passado",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-10T23:00:00"
-    },
-    {
-      "data": "11/04",
-      "hora": "01:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,40",
-      "manobra": "M",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-11T01:00:00"
-    },
     {
       "data": "11/04",
       "hora": "06:00",
@@ -46,7 +16,7 @@
       "imo": "1016692",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-04-11T06:00:00"
     },
