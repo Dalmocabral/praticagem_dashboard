@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/04/2026 19:49",
+  "ultima_atualizacao": "11/04/2026 20:24",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/04/2026 17:03 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies. Entrada e saída de navios na Barra Grande com calado maior que 11,00 m."
@@ -16,7 +16,7 @@
       "imo": "9143556",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-11T23:00:00"
     },
@@ -71,7 +71,7 @@
       "navio": "LAEM CHABANG EXPRESS",
       "calado": "14,50",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9768007",
       "tipo_navio": "CONTAINER SHIP",
@@ -131,7 +131,7 @@
       "navio": "LAEM CHABANG EXPRESS",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9768007",
       "tipo_navio": "CONTAINER SHIP",
