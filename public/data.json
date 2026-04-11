@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "11/04/2026 02:37",
+  "ultima_atualizacao": "11/04/2026 03:42",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 10/04/2026 22:36 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "11/04",
-      "hora": "06:00",
-      "navio": "MSC ADELE",
-      "calado": "14,20",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-11T06:00:00"
-    },
     {
       "data": "11/04",
       "hora": "09:00",
@@ -34,6 +19,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-11T09:00:00"
+    },
+    {
+      "data": "11/04",
+      "hora": "10:00",
+      "navio": "MSC ADELE",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "1016692",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-11T10:00:00"
     },
     {
       "data": "11/04",
