@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "11/04/2026 17:54",
+  "ultima_atualizacao": "11/04/2026 18:37",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/04/2026 17:03 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies. Entrada e saída de navios na Barra Grande com calado maior que 11,00 m."
   },
   "navios": [
-    {
-      "data": "11/04",
-      "hora": "13:00",
-      "navio": "MSC ADELE",
-      "calado": "14,40",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-11T13:00:00"
-    },
     {
       "data": "11/04",
       "hora": "23:00",
@@ -232,21 +217,6 @@
     },
     {
       "data": "14/04",
-      "hora": "04:00",
-      "navio": "MSC ODESSA V",
-      "calado": "8,40",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-14T04:00:00"
-    },
-    {
-      "data": "14/04",
       "hora": "06:00",
       "navio": "MERCOSUL GUARUJA",
       "calado": "10,00",
@@ -322,6 +292,21 @@
     },
     {
       "data": "14/04",
+      "hora": "18:00",
+      "navio": "MSC ODESSA V",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9456965",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-14T18:00:00"
+    },
+    {
+      "data": "14/04",
       "hora": "22:00",
       "navio": "MERCOSUL GUARUJA",
       "calado": "10,00",
@@ -367,18 +352,18 @@
     },
     {
       "data": "15/04",
-      "hora": "07:30",
+      "hora": "10:30",
       "navio": "MSC ODESSA V",
       "calado": "12,70",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9456965",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-15T07:30:00"
+      "timestamp": "2026-04-15T10:30:00"
     },
     {
       "data": "19/04",
@@ -650,6 +635,15 @@
       "manobra_multi_data_hora": "14/04 16:00"
     },
     {
+      "navio_rio": "MERCOSUL GUARUJA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/04 06:00",
+      "manobra_rio_fim": "14/04 22:00",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/04 18:00"
+    },
+    {
       "navio_rio": "COSCO SHIPPING BRAZIL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "14/04 08:00",
@@ -675,6 +669,15 @@
       "navio_multi": "MSC ROCHELLE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/04 16:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING BRAZIL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/04 08:00",
+      "manobra_rio_fim": "15/04 06:30",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/04 18:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
