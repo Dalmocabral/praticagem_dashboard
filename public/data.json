@@ -1,8 +1,8 @@
 {
-  "ultima_atualizacao": "10/04/2026 22:23",
+  "ultima_atualizacao": "11/04/2026 01:02",
   "barra_info": {
     "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 10/04/2026 14:39 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
+    "mensagem": "BARRA RESTRITA DESDE 10/04/2026 22:36 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
     {
@@ -24,7 +24,7 @@
       "data": "11/04",
       "hora": "01:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,50",
+      "calado": "8,40",
       "manobra": "M",
       "beco": "TECONT1",
       "status": "hoje",
