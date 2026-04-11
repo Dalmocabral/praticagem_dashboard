@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/04/2026 10:04",
+  "ultima_atualizacao": "11/04/2026 11:00",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 10/04/2026 22:36 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -31,7 +31,7 @@
       "imo": "9350020",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-04-11T15:00:00"
     },
