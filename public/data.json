@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/04/2026 14:28",
+  "ultima_atualizacao": "11/04/2026 15:00",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 10/04/2026 22:36 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -141,6 +141,21 @@
       "timestamp": "2026-04-12T18:00:00"
     },
     {
+      "data": "12/04",
+      "hora": "20:00",
+      "navio": "SPARROWHAWK",
+      "calado": "8,10",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9956903",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-12T20:00:00"
+    },
+    {
       "data": "13/04",
       "hora": "01:00",
       "navio": "MERCOSUL ITAJAI",
@@ -199,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-13T18:00:00"
+    },
+    {
+      "data": "14/04",
+      "hora": "01:00",
+      "navio": "SPARROWHAWK",
+      "calado": "8,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9956903",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-14T01:00:00"
     },
     {
       "data": "14/04",
@@ -528,6 +558,33 @@
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "12/04 14:00"
+    },
+    {
+      "navio_rio": "SPARROWHAWK",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "12/04 20:00",
+      "manobra_rio_fim": "14/04 01:00",
+      "navio_multi": "MSC ROCHELLE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/04 13:00"
+    },
+    {
+      "navio_rio": "SPARROWHAWK",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "12/04 20:00",
+      "manobra_rio_fim": "14/04 01:00",
+      "navio_multi": "LAEM CHABANG EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/04 16:00"
+    },
+    {
+      "navio_rio": "SPARROWHAWK",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "12/04 20:00",
+      "manobra_rio_fim": "14/04 01:00",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/04 18:00"
     },
     {
       "navio_rio": "MERCOSUL ITAJAI",
