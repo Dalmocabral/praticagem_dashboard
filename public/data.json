@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "11/04/2026 21:00",
+  "ultima_atualizacao": "12/04/2026 00:41",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/04/2026 17:03 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies. Entrada e saída de navios na Barra Grande com calado maior que 11,00 m."
   },
   "navios": [
-    {
-      "data": "11/04",
-      "hora": "23:00",
-      "navio": "DUSSELDORF EXPRESS",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9143556",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-11T23:00:00"
-    },
     {
       "data": "12/04",
       "hora": "08:00",
@@ -217,7 +202,7 @@
     },
     {
       "data": "14/04",
-      "hora": "06:00",
+      "hora": "04:00",
       "navio": "MERCOSUL GUARUJA",
       "calado": "10,00",
       "manobra": "E",
@@ -228,7 +213,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-14T06:00:00"
+      "timestamp": "2026-04-14T04:00:00"
     },
     {
       "data": "14/04",
@@ -518,33 +503,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/04 23:00",
-      "manobra_rio_fim": "12/04 16:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/04 08:00"
-    },
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/04 23:00",
-      "manobra_rio_fim": "12/04 16:00",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/04 11:00"
-    },
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/04 23:00",
-      "manobra_rio_fim": "12/04 16:00",
-      "navio_multi": "LAEM CHABANG EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/04 14:00"
-    },
-    {
       "navio_rio": "SPARROWHAWK",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "12/04 20:00",
@@ -619,7 +577,7 @@
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/04 06:00",
+      "manobra_rio_inicio": "14/04 04:00",
       "manobra_rio_fim": "14/04 22:00",
       "navio_multi": "VICTORIA HIGHWAY",
       "manobra_multi_tipo": "E",
@@ -628,7 +586,7 @@
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/04 06:00",
+      "manobra_rio_inicio": "14/04 04:00",
       "manobra_rio_fim": "14/04 22:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "S",
@@ -637,7 +595,7 @@
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/04 06:00",
+      "manobra_rio_inicio": "14/04 04:00",
       "manobra_rio_fim": "14/04 22:00",
       "navio_multi": "MSC ROCHELLE",
       "manobra_multi_tipo": "S",
@@ -646,7 +604,7 @@
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/04 06:00",
+      "manobra_rio_inicio": "14/04 04:00",
       "manobra_rio_fim": "14/04 22:00",
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "E",
