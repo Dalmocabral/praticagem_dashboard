@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/04/2026 05:07",
+  "ultima_atualizacao": "12/04/2026 06:05",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/04/2026 17:03 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies. Entrada e saída de navios na Barra Grande com calado maior que 11,00 m."
@@ -31,7 +31,7 @@
       "imo": "9350020",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-12T09:00:00"
     },
