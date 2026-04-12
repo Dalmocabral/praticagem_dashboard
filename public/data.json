@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/04/2026 11:09",
+  "ultima_atualizacao": "12/04/2026 11:58",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/04/2026 10:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrito para navios com calado maior que 11,00m."
@@ -52,6 +52,21 @@
     },
     {
       "data": "12/04",
+      "hora": "16:00",
+      "navio": "SPARROWHAWK",
+      "calado": "8,10",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9956903",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-12T16:00:00"
+    },
+    {
+      "data": "12/04",
       "hora": "18:00",
       "navio": "DUSSELDORF EXPRESS",
       "calado": "11,00",
@@ -64,21 +79,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-12T18:00:00"
-    },
-    {
-      "data": "12/04",
-      "hora": "20:00",
-      "navio": "SPARROWHAWK",
-      "calado": "8,10",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9956903",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-12T20:00:00"
     },
     {
       "data": "13/04",
@@ -520,7 +520,7 @@
     {
       "navio_rio": "SPARROWHAWK",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/04 20:00",
+      "manobra_rio_inicio": "12/04 16:00",
       "manobra_rio_fim": "14/04 06:00",
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "S",
@@ -529,7 +529,7 @@
     {
       "navio_rio": "SPARROWHAWK",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/04 20:00",
+      "manobra_rio_inicio": "12/04 16:00",
       "manobra_rio_fim": "14/04 06:00",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
@@ -538,7 +538,7 @@
     {
       "navio_rio": "SPARROWHAWK",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/04 20:00",
+      "manobra_rio_inicio": "12/04 16:00",
       "manobra_rio_fim": "14/04 06:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
@@ -547,7 +547,7 @@
     {
       "navio_rio": "SPARROWHAWK",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/04 20:00",
+      "manobra_rio_inicio": "12/04 16:00",
       "manobra_rio_fim": "14/04 06:00",
       "navio_multi": "MSC ROCHELLE",
       "manobra_multi_tipo": "E",
