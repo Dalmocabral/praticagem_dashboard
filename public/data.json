@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/04/2026 08:36",
+  "ultima_atualizacao": "12/04/2026 09:02",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/04/2026 17:03 Canal Varrido Fechado. Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra Grande restrita para calado maior que 11,00 m."
@@ -114,7 +114,7 @@
       "data": "13/04",
       "hora": "18:00",
       "navio": "MSC AMALFI",
-      "calado": "12,60",
+      "calado": "9,10",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
