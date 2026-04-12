@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/04/2026 14:51",
+  "ultima_atualizacao": "12/04/2026 15:40",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/04/2026 10:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrito para navios com calado maior que 11,00m."
@@ -61,7 +61,7 @@
       "imo": "9143556",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-12T18:00:00"
     },
