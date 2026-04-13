@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/04/2026 08:45",
+  "ultima_atualizacao": "13/04/2026 09:51",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/04/2026 10:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrito para navios com calado maior que 11,00m."
@@ -66,34 +66,34 @@
       "timestamp": "2026-04-13T17:30:00"
     },
     {
-      "data": "14/04",
-      "hora": "00:00",
+      "data": "13/04",
+      "hora": "19:30",
       "navio": "MERCOSUL GUARUJA",
-      "calado": "10,00",
+      "calado": "11,00",
       "manobra": "S",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-14T00:00:00"
+      "timestamp": "2026-04-13T19:30:00"
     },
     {
-      "data": "14/04",
-      "hora": "02:00",
+      "data": "13/04",
+      "hora": "21:30",
       "navio": "MERCOSUL ITAJAI",
       "calado": "10,00",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9697002",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-14T02:00:00"
+      "timestamp": "2026-04-13T21:30:00"
     },
     {
       "data": "14/04",
@@ -429,8 +429,8 @@
   "conflitos": [
     {
       "navio_rio": "MERCOSUL ITAJAI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/04 02:00",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "13/04 21:30",
       "manobra_rio_fim": "14/04 22:00",
       "navio_multi": "VICTORIA HIGHWAY",
       "manobra_multi_tipo": "E",
@@ -439,7 +439,7 @@
     {
       "navio_rio": "MERCOSUL ITAJAI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/04 02:00",
+      "manobra_rio_inicio": "13/04 21:30",
       "manobra_rio_fim": "14/04 22:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "S",
@@ -448,7 +448,7 @@
     {
       "navio_rio": "MERCOSUL ITAJAI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/04 02:00",
+      "manobra_rio_inicio": "13/04 21:30",
       "manobra_rio_fim": "14/04 22:00",
       "navio_multi": "MSC ROCHELLE",
       "manobra_multi_tipo": "S",
@@ -457,7 +457,7 @@
     {
       "navio_rio": "MERCOSUL ITAJAI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/04 02:00",
+      "manobra_rio_inicio": "13/04 21:30",
       "manobra_rio_fim": "14/04 22:00",
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "E",
