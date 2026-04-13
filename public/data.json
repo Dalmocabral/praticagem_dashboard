@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/04/2026 09:51",
+  "ultima_atualizacao": "13/04/2026 11:45",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/04/2026 10:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrito para navios com calado maior que 11,00m."
@@ -31,7 +31,7 @@
       "imo": "9768007",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-13T14:00:00"
     },
@@ -202,6 +202,21 @@
     },
     {
       "data": "15/04",
+      "hora": "00:30",
+      "navio": "MAERSK FREEPORT",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9991202",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-15T00:30:00"
+    },
+    {
+      "data": "15/04",
       "hora": "04:00",
       "navio": "VICTORIA HIGHWAY",
       "calado": "10,00",
@@ -234,7 +249,7 @@
       "data": "15/04",
       "hora": "08:30",
       "navio": "COSCO SHIPPING ARGENTINA",
-      "calado": "13,50",
+      "calado": "13,20",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -261,10 +276,25 @@
       "timestamp": "2026-04-15T10:30:00"
     },
     {
+      "data": "15/04",
+      "hora": "16:30",
+      "navio": "MAERSK FREEPORT",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9991202",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-15T16:30:00"
+    },
+    {
       "data": "16/04",
-      "hora": "08:30",
+      "hora": "15:30",
       "navio": "COSCO SHIPPING ARGENTINA",
-      "calado": "14,00",
+      "calado": "13,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -273,7 +303,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-16T08:30:00"
+      "timestamp": "2026-04-16T15:30:00"
     },
     {
       "data": "19/04",
@@ -509,10 +539,28 @@
       "manobra_multi_data_hora": "15/04 04:00"
     },
     {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/04 00:30",
+      "manobra_rio_fim": "15/04 16:30",
+      "navio_multi": "VICTORIA HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/04 04:00"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/04 00:30",
+      "manobra_rio_fim": "15/04 16:30",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/04 10:30"
+    },
+    {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "15/04 08:30",
-      "manobra_rio_fim": "16/04 08:30",
+      "manobra_rio_fim": "16/04 15:30",
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/04 10:30"
