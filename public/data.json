@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/04/2026 13:02",
+  "ultima_atualizacao": "13/04/2026 14:17",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/04/2026 10:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrito para navios com calado maior que 11,00m."
@@ -24,7 +24,7 @@
       "data": "13/04",
       "hora": "16:00",
       "navio": "MSC CATERINA",
-      "calado": "12,60",
+      "calado": "12,65",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9141297",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-04-13T17:30:00"
     },
@@ -69,7 +69,7 @@
       "data": "13/04",
       "hora": "21:30",
       "navio": "MERCOSUL ITAJAI",
-      "calado": "10,00",
+      "calado": "8,20",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
