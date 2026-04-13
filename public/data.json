@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/04/2026 00:50",
+  "ultima_atualizacao": "13/04/2026 03:11",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/04/2026 10:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrito para navios com calado maior que 11,00m."
@@ -16,9 +16,24 @@
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-13T06:00:00"
+    },
+    {
+      "data": "13/04",
+      "hora": "10:00",
+      "navio": "MSC AMALFI",
+      "calado": "9,10",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9605279",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-13T10:00:00"
     },
     {
       "data": "13/04",
@@ -38,21 +53,6 @@
     {
       "data": "13/04",
       "hora": "18:00",
-      "navio": "MSC AMALFI",
-      "calado": "9,10",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9605279",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-13T18:00:00"
-    },
-    {
-      "data": "13/04",
-      "hora": "20:00",
       "navio": "MSC CATERINA",
       "calado": "12,60",
       "manobra": "E",
@@ -63,11 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-13T20:00:00"
+      "timestamp": "2026-04-13T18:00:00"
     },
     {
       "data": "13/04",
-      "hora": "22:00",
+      "hora": "19:30",
       "navio": "MSC ROCHELLE",
       "calado": "12,60",
       "manobra": "E",
@@ -78,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-13T22:00:00"
+      "timestamp": "2026-04-13T19:30:00"
     },
     {
       "data": "14/04",
@@ -444,6 +444,15 @@
   "conflitos": [
     {
       "navio_rio": "MERCOSUL GUARUJA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/04 06:00",
+      "manobra_rio_fim": "14/04 00:00",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/04 10:00"
+    },
+    {
+      "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "13/04 06:00",
       "manobra_rio_fim": "14/04 00:00",
@@ -456,18 +465,9 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "13/04 06:00",
       "manobra_rio_fim": "14/04 00:00",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/04 18:00"
-    },
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/04 06:00",
-      "manobra_rio_fim": "14/04 00:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/04 20:00"
+      "manobra_multi_data_hora": "13/04 18:00"
     },
     {
       "navio_rio": "MERCOSUL GUARUJA",
@@ -476,7 +476,7 @@
       "manobra_rio_fim": "14/04 00:00",
       "navio_multi": "MSC ROCHELLE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/04 22:00"
+      "manobra_multi_data_hora": "13/04 19:30"
     },
     {
       "navio_rio": "MERCOSUL ITAJAI",
