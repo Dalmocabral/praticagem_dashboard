@@ -1,15 +1,15 @@
 {
-  "ultima_atualizacao": "13/04/2026 15:42",
+  "ultima_atualizacao": "13/04/2026 16:55",
   "barra_info": {
-    "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 12/04/2026 10:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrito para navios com calado maior que 11,00m."
+    "restrita": false,
+    "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
     {
       "data": "13/04",
       "hora": "16:00",
       "navio": "MSC CATERINA",
-      "calado": "12,60",
+      "calado": "12,65",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -22,22 +22,7 @@
     },
     {
       "data": "13/04",
-      "hora": "17:30",
-      "navio": "MSC ROCHELLE",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9141297",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-13T17:30:00"
-    },
-    {
-      "data": "13/04",
-      "hora": "19:30",
+      "hora": "20:00",
       "navio": "MERCOSUL GUARUJA",
       "calado": "11,60",
       "manobra": "S",
@@ -48,11 +33,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_futura",
       "terminal": "rio",
-      "timestamp": "2026-04-13T19:30:00"
+      "timestamp": "2026-04-13T20:00:00"
     },
     {
       "data": "13/04",
-      "hora": "21:30",
+      "hora": "22:00",
       "navio": "MERCOSUL ITAJAI",
       "calado": "8,20",
       "manobra": "E",
@@ -63,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-13T21:30:00"
+      "timestamp": "2026-04-13T22:00:00"
     },
     {
       "data": "14/04",
@@ -98,36 +83,6 @@
     {
       "data": "14/04",
       "hora": "10:00",
-      "navio": "VICTORIA HIGHWAY",
-      "calado": "10,00",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9827255",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-14T10:00:00"
-    },
-    {
-      "data": "14/04",
-      "hora": "12:00",
-      "navio": "MSC ROCHELLE",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9141297",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-14T12:00:00"
-    },
-    {
-      "data": "14/04",
-      "hora": "14:00",
       "navio": "MAERSK CHAMBAL",
       "calado": "12,60",
       "manobra": "E",
@@ -138,11 +93,26 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-14T14:00:00"
+      "timestamp": "2026-04-14T10:00:00"
     },
     {
       "data": "14/04",
-      "hora": "16:00",
+      "hora": "12:00",
+      "navio": "VICTORIA HIGHWAY",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9827255",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-14T12:00:00"
+    },
+    {
+      "data": "14/04",
+      "hora": "14:00",
       "navio": "MSC CATERINA",
       "calado": "12,60",
       "manobra": "S",
@@ -153,26 +123,26 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
+      "timestamp": "2026-04-14T14:00:00"
+    },
+    {
+      "data": "14/04",
+      "hora": "16:00",
+      "navio": "MSC ROCHELLE",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9141297",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
       "timestamp": "2026-04-14T16:00:00"
     },
     {
       "data": "14/04",
       "hora": "18:00",
-      "navio": "MSC ODESSA V",
-      "calado": "8,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-14T18:00:00"
-    },
-    {
-      "data": "14/04",
-      "hora": "22:00",
       "navio": "MERCOSUL ITAJAI",
       "calado": "10,00",
       "manobra": "S",
@@ -183,7 +153,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-14T22:00:00"
+      "timestamp": "2026-04-14T18:00:00"
     },
     {
       "data": "15/04",
@@ -263,9 +233,24 @@
     {
       "data": "15/04",
       "hora": "11:30",
-      "navio": "MSC ODESSA V",
-      "calado": "12,70",
+      "navio": "MSC ROCHELLE",
+      "calado": "12,60",
       "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9141297",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-15T11:30:00"
+    },
+    {
+      "data": "15/04",
+      "hora": "13:30",
+      "navio": "MSC ODESSA V",
+      "calado": "8,40",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9456965",
@@ -273,7 +258,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-15T11:30:00"
+      "timestamp": "2026-04-15T13:30:00"
     },
     {
       "data": "15/04",
@@ -289,6 +274,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-15T16:30:00"
+    },
+    {
+      "data": "16/04",
+      "hora": "06:30",
+      "navio": "MSC ODESSA V",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9456965",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-16T06:30:00"
     },
     {
       "data": "16/04",
@@ -460,65 +460,38 @@
     {
       "navio_rio": "MERCOSUL ITAJAI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/04 21:30",
-      "manobra_rio_fim": "14/04 22:00",
-      "navio_multi": "VICTORIA HIGHWAY",
+      "manobra_rio_inicio": "13/04 22:00",
+      "manobra_rio_fim": "14/04 18:00",
+      "navio_multi": "MAERSK CHAMBAL",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "14/04 10:00"
     },
     {
       "navio_rio": "MERCOSUL ITAJAI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/04 21:30",
-      "manobra_rio_fim": "14/04 22:00",
-      "navio_multi": "MSC ROCHELLE",
-      "manobra_multi_tipo": "S",
+      "manobra_rio_inicio": "13/04 22:00",
+      "manobra_rio_fim": "14/04 18:00",
+      "navio_multi": "VICTORIA HIGHWAY",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "14/04 12:00"
     },
     {
       "navio_rio": "MERCOSUL ITAJAI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/04 21:30",
-      "manobra_rio_fim": "14/04 22:00",
-      "navio_multi": "MAERSK CHAMBAL",
-      "manobra_multi_tipo": "E",
+      "manobra_rio_inicio": "13/04 22:00",
+      "manobra_rio_fim": "14/04 18:00",
+      "navio_multi": "MSC CATERINA",
+      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/04 14:00"
     },
     {
       "navio_rio": "MERCOSUL ITAJAI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/04 21:30",
-      "manobra_rio_fim": "14/04 22:00",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/04 16:00"
-    },
-    {
-      "navio_rio": "MERCOSUL ITAJAI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/04 21:30",
-      "manobra_rio_fim": "14/04 22:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/04 18:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/04 08:00",
-      "manobra_rio_fim": "15/04 06:30",
-      "navio_multi": "VICTORIA HIGHWAY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/04 10:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/04 08:00",
-      "manobra_rio_fim": "15/04 06:30",
+      "manobra_rio_inicio": "13/04 22:00",
+      "manobra_rio_fim": "14/04 18:00",
       "navio_multi": "MSC ROCHELLE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/04 12:00"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/04 16:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
@@ -527,7 +500,16 @@
       "manobra_rio_fim": "15/04 06:30",
       "navio_multi": "MAERSK CHAMBAL",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/04 14:00"
+      "manobra_multi_data_hora": "14/04 10:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING BRAZIL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/04 08:00",
+      "manobra_rio_fim": "15/04 06:30",
+      "navio_multi": "VICTORIA HIGHWAY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/04 12:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
@@ -536,16 +518,16 @@
       "manobra_rio_fim": "15/04 06:30",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/04 16:00"
+      "manobra_multi_data_hora": "14/04 14:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "14/04 08:00",
       "manobra_rio_fim": "15/04 06:30",
-      "navio_multi": "MSC ODESSA V",
+      "navio_multi": "MSC ROCHELLE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/04 18:00"
+      "manobra_multi_data_hora": "14/04 16:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
@@ -579,9 +561,18 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "15/04 00:30",
       "manobra_rio_fim": "15/04 16:30",
-      "navio_multi": "MSC ODESSA V",
+      "navio_multi": "MSC ROCHELLE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/04 11:30"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/04 00:30",
+      "manobra_rio_fim": "15/04 16:30",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "15/04 13:30"
     },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
@@ -597,9 +588,27 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "15/04 08:30",
       "manobra_rio_fim": "16/04 15:30",
-      "navio_multi": "MSC ODESSA V",
+      "navio_multi": "MSC ROCHELLE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/04 11:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/04 08:30",
+      "manobra_rio_fim": "16/04 15:30",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "15/04 13:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/04 08:30",
+      "manobra_rio_fim": "16/04 15:30",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/04 06:30"
     }
   ]
 }
