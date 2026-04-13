@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "13/04/2026 16:55",
+  "ultima_atualizacao": "13/04/2026 18:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "13/04",
-      "hora": "16:00",
-      "navio": "MSC CATERINA",
-      "calado": "12,65",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-13T16:00:00"
-    },
     {
       "data": "13/04",
       "hora": "20:00",
@@ -31,7 +16,7 @@
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-13T20:00:00"
     },
@@ -46,7 +31,7 @@
       "imo": "9697002",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-04-13T22:00:00"
     },
@@ -304,6 +289,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-16T15:30:00"
+    },
+    {
+      "data": "16/04",
+      "hora": "18:00",
+      "navio": "MSC JULIE",
+      "calado": "11,10",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9704996",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-16T18:00:00"
+    },
+    {
+      "data": "17/04",
+      "hora": "06:00",
+      "navio": "MSC JULIE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9704996",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-17T06:00:00"
     },
     {
       "data": "19/04",
