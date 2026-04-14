@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/04/2026 04:07",
+  "ultima_atualizacao": "14/04/2026 05:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -9,7 +9,7 @@
       "data": "14/04",
       "hora": "06:00",
       "navio": "SPARROWHAWK",
-      "calado": "8,00",
+      "calado": "6,15",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9945837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-14T08:00:00"
     },
