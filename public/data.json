@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "14/04/2026 14:04",
+  "ultima_atualizacao": "14/04/2026 15:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "14/04",
-      "hora": "12:00",
-      "navio": "MAERSK CHAMBAL",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9525376",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-14T12:00:00"
-    },
     {
       "data": "14/04",
       "hora": "14:00",
@@ -61,7 +46,7 @@
       "imo": "9141297",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-14T18:00:00"
     },
