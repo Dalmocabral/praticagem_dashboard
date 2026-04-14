@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/04/2026 19:29",
+  "ultima_atualizacao": "14/04/2026 20:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -69,7 +69,7 @@
       "data": "15/04",
       "hora": "09:00",
       "navio": "MAERSK FREEPORT",
-      "calado": "13,70",
+      "calado": "13,50",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
