@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/04/2026 02:22",
+  "ultima_atualizacao": "14/04/2026 04:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -16,7 +16,7 @@
       "imo": "9956903",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-14T06:00:00"
     },
@@ -24,14 +24,14 @@
       "data": "14/04",
       "hora": "08:00",
       "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "14,00",
+      "calado": "14,20",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9945837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-04-14T08:00:00"
     },
