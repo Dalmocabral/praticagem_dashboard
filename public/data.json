@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "14/04/2026 11:27",
+  "ultima_atualizacao": "14/04/2026 12:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "14/04",
-      "hora": "10:00",
-      "navio": "VICTORIA HIGHWAY",
-      "calado": "8,90",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9827255",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-14T10:00:00"
-    },
     {
       "data": "14/04",
       "hora": "12:00",
@@ -39,7 +24,7 @@
       "data": "14/04",
       "hora": "14:00",
       "navio": "MERCOSUL ITAJAI",
-      "calado": "10,00",
+      "calado": "8,15",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -52,7 +37,7 @@
     },
     {
       "data": "14/04",
-      "hora": "15:00",
+      "hora": "16:00",
       "navio": "MSC CATERINA",
       "calado": "12,30",
       "manobra": "S",
@@ -63,11 +48,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-04-14T15:00:00"
+      "timestamp": "2026-04-14T16:00:00"
     },
     {
       "data": "14/04",
-      "hora": "17:00",
+      "hora": "18:00",
       "navio": "MSC ROCHELLE",
       "calado": "12,60",
       "manobra": "E",
@@ -78,22 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-14T17:00:00"
-    },
-    {
-      "data": "15/04",
-      "hora": "00:30",
-      "navio": "MAERSK FREEPORT",
-      "calado": "12,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9991202",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-15T00:30:00"
+      "timestamp": "2026-04-14T18:00:00"
     },
     {
       "data": "15/04",
@@ -187,10 +157,10 @@
     },
     {
       "data": "15/04",
-      "hora": "16:30",
+      "hora": "15:00",
       "navio": "MAERSK FREEPORT",
       "calado": "12,50",
-      "manobra": "S",
+      "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
       "imo": "9991202",
@@ -198,7 +168,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-15T16:30:00"
+      "timestamp": "2026-04-15T15:00:00"
     },
     {
       "data": "16/04",
@@ -214,6 +184,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-16T06:30:00"
+    },
+    {
+      "data": "16/04",
+      "hora": "07:30",
+      "navio": "MAERSK FREEPORT",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9991202",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-16T07:30:00"
     },
     {
       "data": "16/04",
@@ -413,42 +398,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/04 00:30",
-      "manobra_rio_fim": "15/04 16:30",
-      "navio_multi": "VICTORIA HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/04 04:00"
-    },
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 00:30",
-      "manobra_rio_fim": "15/04 16:30",
-      "navio_multi": "MAERSK CHAMBAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/04 10:30"
-    },
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 00:30",
-      "manobra_rio_fim": "15/04 16:30",
-      "navio_multi": "MSC ROCHELLE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/04 11:30"
-    },
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 00:30",
-      "manobra_rio_fim": "15/04 16:30",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/04 13:30"
-    },
-    {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "15/04 08:30",
@@ -480,6 +429,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "15/04 08:30",
       "manobra_rio_fim": "16/04 15:30",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/04 06:30"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/04 15:00",
+      "manobra_rio_fim": "16/04 07:30",
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/04 06:30"
