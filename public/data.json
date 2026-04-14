@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "14/04/2026 17:38",
+  "ultima_atualizacao": "14/04/2026 18:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "14/04",
-      "hora": "16:00",
-      "navio": "MSC CATERINA",
-      "calado": "12,30",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-14T16:00:00"
-    },
     {
       "data": "14/04",
       "hora": "18:00",
@@ -82,21 +67,6 @@
     },
     {
       "data": "15/04",
-      "hora": "09:00",
-      "navio": "COSCO SHIPPING ARGENTINA",
-      "calado": "13,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9945849",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-15T09:00:00"
-    },
-    {
-      "data": "15/04",
       "hora": "11:00",
       "navio": "MSC ROCHELLE",
       "calado": "12,60",
@@ -109,6 +79,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-15T11:00:00"
+    },
+    {
+      "data": "15/04",
+      "hora": "13:00",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "calado": "13,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-15T13:00:00"
     },
     {
       "data": "15/04",
@@ -430,16 +415,7 @@
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/04 09:00",
-      "manobra_rio_fim": "16/04 15:30",
-      "navio_multi": "MSC ROCHELLE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/04 11:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING ARGENTINA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/04 09:00",
+      "manobra_rio_inicio": "15/04 13:00",
       "manobra_rio_fim": "16/04 15:30",
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "E",
@@ -448,7 +424,7 @@
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/04 09:00",
+      "manobra_rio_inicio": "15/04 13:00",
       "manobra_rio_fim": "16/04 15:30",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "E",
@@ -457,7 +433,7 @@
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/04 09:00",
+      "manobra_rio_inicio": "15/04 13:00",
       "manobra_rio_fim": "16/04 15:30",
       "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "E",
@@ -466,7 +442,7 @@
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 09:00",
+      "manobra_rio_inicio": "15/04 13:00",
       "manobra_rio_fim": "16/04 15:30",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "S",
@@ -475,7 +451,7 @@
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 09:00",
+      "manobra_rio_inicio": "15/04 13:00",
       "manobra_rio_fim": "16/04 15:30",
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "S",
@@ -484,7 +460,7 @@
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 09:00",
+      "manobra_rio_inicio": "15/04 13:00",
       "manobra_rio_fim": "16/04 15:30",
       "navio_multi": "MSC JULIE",
       "manobra_multi_tipo": "E",
