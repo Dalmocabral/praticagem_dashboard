@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/04/2026 16:46",
+  "ultima_atualizacao": "14/04/2026 17:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -156,6 +156,21 @@
       "timestamp": "2026-04-15T16:30:00"
     },
     {
+      "data": "15/04",
+      "hora": "18:00",
+      "navio": "MSC ELODIE",
+      "calado": "10,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9704972",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-15T18:00:00"
+    },
+    {
       "data": "16/04",
       "hora": "05:00",
       "navio": "GOODWOOD",
@@ -229,6 +244,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-16T15:30:00"
+    },
+    {
+      "data": "16/04",
+      "hora": "16:30",
+      "navio": "MSC ELODIE",
+      "calado": "11,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9704972",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-16T16:30:00"
     },
     {
       "data": "17/04",
@@ -426,6 +456,15 @@
     },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/04 09:00",
+      "manobra_rio_fim": "16/04 15:30",
+      "navio_multi": "MSC ELODIE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "15/04 18:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "15/04 09:00",
       "manobra_rio_fim": "16/04 15:30",
@@ -468,6 +507,15 @@
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "15/04 16:30"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/04 13:00",
+      "manobra_rio_fim": "16/04 07:30",
+      "navio_multi": "MSC ELODIE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "15/04 18:00"
     },
     {
       "navio_rio": "MAERSK FREEPORT",
