@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "14/04/2026 09:42",
+  "ultima_atualizacao": "14/04/2026 11:27",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "14/04",
-      "hora": "08:00",
-      "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-14T08:00:00"
-    },
     {
       "data": "14/04",
       "hora": "10:00",
@@ -61,7 +46,7 @@
       "imo": "9697002",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-14T14:00:00"
     },
@@ -76,7 +61,7 @@
       "imo": "9705005",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-04-14T15:00:00"
     },
@@ -427,51 +412,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/04 08:00",
-      "manobra_rio_fim": "15/04 06:30",
-      "navio_multi": "VICTORIA HIGHWAY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/04 10:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/04 08:00",
-      "manobra_rio_fim": "15/04 06:30",
-      "navio_multi": "MAERSK CHAMBAL",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/04 12:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/04 08:00",
-      "manobra_rio_fim": "15/04 06:30",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/04 15:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/04 08:00",
-      "manobra_rio_fim": "15/04 06:30",
-      "navio_multi": "MSC ROCHELLE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/04 17:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/04 08:00",
-      "manobra_rio_fim": "15/04 06:30",
-      "navio_multi": "VICTORIA HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/04 04:00"
-    },
     {
       "navio_rio": "MAERSK FREEPORT",
       "manobra_rio_afetada": "E",
