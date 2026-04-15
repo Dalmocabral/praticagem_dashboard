@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/04/2026 08:39",
+  "ultima_atualizacao": "15/04/2026 09:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -37,22 +37,7 @@
     },
     {
       "data": "15/04",
-      "hora": "11:00",
-      "navio": "MSC ROCHELLE",
-      "calado": "12,95",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9141297",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-15T11:00:00"
-    },
-    {
-      "data": "15/04",
-      "hora": "13:00",
+      "hora": "12:00",
       "navio": "COSCO SHIPPING ARGENTINA",
       "calado": "13,20",
       "manobra": "E",
@@ -61,28 +46,43 @@
       "imo": "9945849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
-      "timestamp": "2026-04-15T13:00:00"
+      "timestamp": "2026-04-15T12:00:00"
     },
     {
       "data": "15/04",
-      "hora": "15:00",
+      "hora": "14:00",
+      "navio": "MSC ROCHELLE",
+      "calado": "12,95",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9141297",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-15T14:00:00"
+    },
+    {
+      "data": "15/04",
+      "hora": "16:00",
       "navio": "MSC ODESSA V",
       "calado": "8,40",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "hoje",
       "imo": "9456965",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-15T15:00:00"
+      "timestamp": "2026-04-15T16:00:00"
     },
     {
       "data": "15/04",
-      "hora": "16:30",
+      "hora": "18:00",
       "navio": "GOODWOOD",
       "calado": "8,90",
       "manobra": "E",
@@ -93,22 +93,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-15T16:30:00"
+      "timestamp": "2026-04-15T18:00:00"
     },
     {
       "data": "15/04",
-      "hora": "18:00",
-      "navio": "MSC ELODIE",
-      "calado": "10,60",
-      "manobra": "E",
-      "beco": "TECONT2",
+      "hora": "23:00",
+      "navio": "MAERSK FREEPORT",
+      "calado": "14,27",
+      "manobra": "S",
+      "beco": "TECONT1",
       "status": "hoje",
-      "imo": "9704972",
+      "imo": "9991202",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-15T18:00:00"
+      "terminal": "rio",
+      "timestamp": "2026-04-15T23:00:00"
     },
     {
       "data": "16/04",
@@ -142,33 +142,48 @@
     },
     {
       "data": "16/04",
-      "hora": "06:30",
+      "hora": "06:00",
+      "navio": "MSC ELODIE",
+      "calado": "10,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9704972",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-16T06:00:00"
+    },
+    {
+      "data": "16/04",
+      "hora": "08:00",
       "navio": "MSC ODESSA V",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9456965",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-16T06:30:00"
+      "timestamp": "2026-04-16T08:00:00"
     },
     {
       "data": "16/04",
-      "hora": "09:30",
+      "hora": "11:00",
       "navio": "MSC JULIE",
       "calado": "11,10",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9704996",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-16T09:30:00"
+      "timestamp": "2026-04-16T11:00:00"
     },
     {
       "data": "16/04",
@@ -186,27 +201,12 @@
       "timestamp": "2026-04-16T15:30:00"
     },
     {
-      "data": "16/04",
-      "hora": "16:30",
-      "navio": "MSC ELODIE",
-      "calado": "11,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-16T16:30:00"
-    },
-    {
       "data": "17/04",
       "hora": "06:00",
       "navio": "MSC JULIE",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9704996",
       "tipo_navio": "CONTAINER SHIP",
@@ -214,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-17T06:00:00"
+    },
+    {
+      "data": "17/04",
+      "hora": "07:00",
+      "navio": "MSC ELODIE",
+      "calado": "11,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9704972",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-17T07:00:00"
     },
     {
       "data": "17/04",
@@ -413,36 +428,63 @@
   ],
   "conflitos": [
     {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/04 09:00",
+      "manobra_rio_fim": "15/04 23:00",
+      "navio_multi": "MSC ROCHELLE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/04 14:00"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/04 09:00",
+      "manobra_rio_fim": "15/04 23:00",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "15/04 16:00"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/04 09:00",
+      "manobra_rio_fim": "15/04 23:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "15/04 18:00"
+    },
+    {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/04 13:00",
+      "manobra_rio_inicio": "15/04 12:00",
+      "manobra_rio_fim": "16/04 15:30",
+      "navio_multi": "MSC ROCHELLE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/04 14:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/04 12:00",
       "manobra_rio_fim": "16/04 15:30",
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/04 15:00"
+      "manobra_multi_data_hora": "15/04 16:00"
     },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/04 13:00",
+      "manobra_rio_inicio": "15/04 12:00",
       "manobra_rio_fim": "16/04 15:30",
       "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/04 16:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING ARGENTINA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/04 13:00",
-      "manobra_rio_fim": "16/04 15:30",
-      "navio_multi": "MSC ELODIE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "15/04 18:00"
     },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 13:00",
+      "manobra_rio_inicio": "15/04 12:00",
       "manobra_rio_fim": "16/04 15:30",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "S",
@@ -451,20 +493,29 @@
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 13:00",
+      "manobra_rio_inicio": "15/04 12:00",
       "manobra_rio_fim": "16/04 15:30",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/04 06:30"
+      "navio_multi": "MSC ELODIE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/04 06:00"
     },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 13:00",
+      "manobra_rio_inicio": "15/04 12:00",
+      "manobra_rio_fim": "16/04 15:30",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/04 08:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/04 12:00",
       "manobra_rio_fim": "16/04 15:30",
       "navio_multi": "MSC JULIE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/04 09:30"
+      "manobra_multi_data_hora": "16/04 11:00"
     },
     {
       "navio_rio": "ATLANTIC DAWN",
@@ -474,24 +525,6 @@
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/04 05:00"
-    },
-    {
-      "navio_rio": "ATLANTIC DAWN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/04 03:00",
-      "manobra_rio_fim": "17/04 17:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/04 06:30"
-    },
-    {
-      "navio_rio": "ATLANTIC DAWN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/04 03:00",
-      "manobra_rio_fim": "17/04 17:00",
-      "navio_multi": "MSC JULIE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/04 09:30"
     },
     {
       "navio_rio": "ATLANTIC DAWN",
@@ -499,8 +532,26 @@
       "manobra_rio_inicio": "16/04 03:00",
       "manobra_rio_fim": "17/04 17:00",
       "navio_multi": "MSC ELODIE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/04 06:00"
+    },
+    {
+      "navio_rio": "ATLANTIC DAWN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/04 03:00",
+      "manobra_rio_fim": "17/04 17:00",
+      "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/04 16:30"
+      "manobra_multi_data_hora": "16/04 08:00"
+    },
+    {
+      "navio_rio": "ATLANTIC DAWN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/04 03:00",
+      "manobra_rio_fim": "17/04 17:00",
+      "navio_multi": "MSC JULIE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/04 11:00"
     },
     {
       "navio_rio": "ATLANTIC DAWN",
@@ -510,6 +561,15 @@
       "navio_multi": "MSC JULIE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "17/04 06:00"
+    },
+    {
+      "navio_rio": "ATLANTIC DAWN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/04 03:00",
+      "manobra_rio_fim": "17/04 17:00",
+      "navio_multi": "MSC ELODIE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/04 07:00"
     }
   ]
 }
