@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/04/2026 17:28",
+  "ultima_atualizacao": "15/04/2026 18:31",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -19,21 +19,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-15T12:00:00"
-    },
-    {
-      "data": "15/04",
-      "hora": "16:00",
-      "navio": "MSC ODESSA V",
-      "calado": "8,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-15T16:00:00"
     },
     {
       "data": "15/04",
@@ -382,15 +367,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "COSCO SHIPPING ARGENTINA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/04 12:00",
-      "manobra_rio_fim": "16/04 15:30",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/04 16:00"
-    },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
