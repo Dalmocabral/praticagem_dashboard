@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "15/04/2026 07:38",
+  "ultima_atualizacao": "15/04/2026 08:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "15/04",
-      "hora": "05:00",
-      "navio": "VICTORIA HIGHWAY",
-      "calado": "9,20",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9827255",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-15T05:00:00"
-    },
-    {
-      "data": "15/04",
-      "hora": "06:00",
-      "navio": "MAERSK CHAMBAL",
-      "calado": "14,30",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9525376",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-15T06:00:00"
-    },
     {
       "data": "15/04",
       "hora": "07:00",
@@ -76,7 +46,7 @@
       "imo": "9141297",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-15T11:00:00"
     },
@@ -139,21 +109,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-15T18:00:00"
-    },
-    {
-      "data": "15/04",
-      "hora": "20:00",
-      "navio": "MAERSK FREEPORT",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9991202",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-15T20:00:00"
     },
     {
       "data": "16/04",
@@ -457,42 +412,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/04 09:00",
-      "manobra_rio_fim": "15/04 20:00",
-      "navio_multi": "MSC ROCHELLE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/04 11:00"
-    },
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 09:00",
-      "manobra_rio_fim": "15/04 20:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/04 15:00"
-    },
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 09:00",
-      "manobra_rio_fim": "15/04 20:00",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/04 16:30"
-    },
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 09:00",
-      "manobra_rio_fim": "15/04 20:00",
-      "navio_multi": "MSC ELODIE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/04 18:00"
-    },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
