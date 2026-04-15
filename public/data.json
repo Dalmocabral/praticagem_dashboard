@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "14/04/2026 20:26",
+  "ultima_atualizacao": "14/04/2026 21:09",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "14/04",
-      "hora": "18:00",
-      "navio": "MSC ROCHELLE",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9141297",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-14T18:00:00"
-    },
     {
       "data": "15/04",
       "hora": "04:00",
@@ -27,7 +12,7 @@
       "calado": "10,00",
       "manobra": "S",
       "beco": "TECONT5",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9827255",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -42,7 +27,7 @@
       "calado": "14,30",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9525376",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,7 +42,7 @@
       "calado": "13,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9945837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -72,7 +57,7 @@
       "calado": "13,50",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9991202",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -87,7 +72,7 @@
       "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9141297",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -102,7 +87,7 @@
       "calado": "13,20",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9945849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -117,7 +102,7 @@
       "calado": "8,40",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9456965",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -132,7 +117,7 @@
       "calado": "8,90",
       "manobra": "E",
       "beco": "TECONT5",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9701140",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -147,7 +132,7 @@
       "calado": "10,60",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9704972",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -162,13 +147,28 @@
       "calado": "12,50",
       "manobra": "S",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9991202",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-15T20:00:00"
+    },
+    {
+      "data": "16/04",
+      "hora": "03:00",
+      "navio": "ATLANTIC DAWN",
+      "calado": "5,80",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9671450",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-16T03:00:00"
     },
     {
       "data": "16/04",
@@ -259,6 +259,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-17T06:00:00"
+    },
+    {
+      "data": "17/04",
+      "hora": "17:00",
+      "navio": "ATLANTIC DAWN",
+      "calado": "5,80",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9671450",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-17T17:00:00"
     },
     {
       "data": "19/04",
@@ -501,6 +516,51 @@
       "navio_multi": "MSC JULIE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "16/04 09:30"
+    },
+    {
+      "navio_rio": "ATLANTIC DAWN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/04 03:00",
+      "manobra_rio_fim": "17/04 17:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/04 05:00"
+    },
+    {
+      "navio_rio": "ATLANTIC DAWN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/04 03:00",
+      "manobra_rio_fim": "17/04 17:00",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/04 06:30"
+    },
+    {
+      "navio_rio": "ATLANTIC DAWN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/04 03:00",
+      "manobra_rio_fim": "17/04 17:00",
+      "navio_multi": "MSC JULIE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/04 09:30"
+    },
+    {
+      "navio_rio": "ATLANTIC DAWN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/04 03:00",
+      "manobra_rio_fim": "17/04 17:00",
+      "navio_multi": "MSC ELODIE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/04 16:30"
+    },
+    {
+      "navio_rio": "ATLANTIC DAWN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/04 03:00",
+      "manobra_rio_fim": "17/04 17:00",
+      "navio_multi": "MSC JULIE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/04 06:00"
     }
   ]
 }
