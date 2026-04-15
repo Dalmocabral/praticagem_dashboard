@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/04/2026 00:42",
+  "ultima_atualizacao": "15/04/2026 02:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "15/04",
-      "hora": "04:00",
+      "hora": "05:00",
       "navio": "VICTORIA HIGHWAY",
       "calado": "10,00",
       "manobra": "S",
@@ -16,9 +16,9 @@
       "imo": "9827255",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-04-15T04:00:00"
+      "timestamp": "2026-04-15T05:00:00"
     },
     {
       "data": "15/04",
@@ -31,7 +31,7 @@
       "imo": "9525376",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-04-15T06:00:00"
     },
