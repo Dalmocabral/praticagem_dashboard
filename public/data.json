@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "15/04/2026 11:22",
+  "ultima_atualizacao": "15/04/2026 12:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "15/04",
-      "hora": "07:00",
-      "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "13,40",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-15T07:00:00"
-    },
-    {
-      "data": "15/04",
-      "hora": "09:00",
-      "navio": "MAERSK FREEPORT",
-      "calado": "13,55",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9991202",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-15T09:00:00"
-    },
     {
       "data": "15/04",
       "hora": "12:00",
@@ -54,7 +24,7 @@
       "data": "15/04",
       "hora": "14:00",
       "navio": "MSC ROCHELLE",
-      "calado": "12,95",
+      "calado": "13,00",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -76,7 +46,7 @@
       "imo": "9456965",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-04-15T16:00:00"
     },
@@ -427,33 +397,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/04 09:00",
-      "manobra_rio_fim": "15/04 23:00",
-      "navio_multi": "MSC ROCHELLE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/04 14:00"
-    },
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/04 09:00",
-      "manobra_rio_fim": "15/04 23:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/04 16:00"
-    },
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/04 09:00",
-      "manobra_rio_fim": "15/04 23:00",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/04 18:00"
-    },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
