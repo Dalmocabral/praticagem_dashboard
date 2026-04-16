@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/04/2026 07:41",
+  "ultima_atualizacao": "16/04/2026 08:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -39,14 +39,14 @@
       "data": "16/04",
       "hora": "12:00",
       "navio": "MSC JULIE",
-      "calado": "11,10",
+      "calado": "11,30",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9704996",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-04-16T12:00:00"
     },
@@ -69,7 +69,7 @@
       "data": "16/04",
       "hora": "16:30",
       "navio": "MSC ELODIE",
-      "calado": "12,90",
+      "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -79,6 +79,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-16T16:30:00"
+    },
+    {
+      "data": "16/04",
+      "hora": "23:30",
+      "navio": "GRANDE BUENOS AIRES",
+      "calado": "9,50",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9253210",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-16T23:30:00"
     },
     {
       "data": "17/04",
