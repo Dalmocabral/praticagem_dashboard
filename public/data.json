@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/04/2026 04:47",
+  "ultima_atualizacao": "16/04/2026 06:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,22 +7,7 @@
   "navios": [
     {
       "data": "16/04",
-      "hora": "04:00",
-      "navio": "ATLANTIC DAWN",
-      "calado": "6,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9671450",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-16T04:00:00"
-    },
-    {
-      "data": "16/04",
-      "hora": "09:00",
+      "hora": "07:30",
       "navio": "GOODWOOD",
       "calado": "8,30",
       "manobra": "S",
@@ -31,9 +16,9 @@
       "imo": "9701140",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-04-16T09:00:00"
+      "timestamp": "2026-04-16T07:30:00"
     },
     {
       "data": "16/04",
@@ -46,7 +31,7 @@
       "imo": "9456965",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-04-16T10:00:00"
     },
@@ -306,51 +291,5 @@
       "timestamp": "2026-05-06T06:30:00"
     }
   ],
-  "conflitos": [
-    {
-      "navio_rio": "ATLANTIC DAWN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/04 04:00",
-      "manobra_rio_fim": "17/04 17:00",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/04 09:00"
-    },
-    {
-      "navio_rio": "ATLANTIC DAWN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/04 04:00",
-      "manobra_rio_fim": "17/04 17:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/04 10:00"
-    },
-    {
-      "navio_rio": "ATLANTIC DAWN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/04 04:00",
-      "manobra_rio_fim": "17/04 17:00",
-      "navio_multi": "MSC JULIE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/04 12:00"
-    },
-    {
-      "navio_rio": "ATLANTIC DAWN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/04 04:00",
-      "manobra_rio_fim": "17/04 17:00",
-      "navio_multi": "MSC ELODIE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/04 16:30"
-    },
-    {
-      "navio_rio": "ATLANTIC DAWN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/04 04:00",
-      "manobra_rio_fim": "17/04 17:00",
-      "navio_multi": "MSC JULIE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/04 06:00"
-    }
-  ]
+  "conflitos": []
 }
