@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/04/2026 08:44",
+  "ultima_atualizacao": "16/04/2026 09:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -24,7 +24,7 @@
       "data": "16/04",
       "hora": "10:00",
       "navio": "MSC ODESSA V",
-      "calado": "8,50",
+      "calado": "8,70",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -46,39 +46,9 @@
       "imo": "9704996",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-16T12:00:00"
-    },
-    {
-      "data": "16/04",
-      "hora": "15:30",
-      "navio": "COSCO SHIPPING ARGENTINA",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945849",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-16T15:30:00"
-    },
-    {
-      "data": "16/04",
-      "hora": "16:30",
-      "navio": "MSC ELODIE",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-16T16:30:00"
     },
     {
       "data": "16/04",
@@ -98,6 +68,21 @@
     {
       "data": "17/04",
       "hora": "06:00",
+      "navio": "MSC ELODIE",
+      "calado": "12,90",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9704972",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-17T06:00:00"
+    },
+    {
+      "data": "17/04",
+      "hora": "07:00",
       "navio": "MSC JULIE",
       "calado": "12,60",
       "manobra": "S",
@@ -108,7 +93,52 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-17T06:00:00"
+      "timestamp": "2026-04-17T07:00:00"
+    },
+    {
+      "data": "17/04",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-17T08:00:00"
+    },
+    {
+      "data": "17/04",
+      "hora": "10:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-17T10:00:00"
+    },
+    {
+      "data": "17/04",
+      "hora": "16:00",
+      "navio": "GRANDE BUENOS AIRES",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9253210",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-17T16:00:00"
     },
     {
       "data": "17/04",
@@ -124,6 +154,66 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-17T17:00:00"
+    },
+    {
+      "data": "17/04",
+      "hora": "20:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "M",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-17T20:00:00"
+    },
+    {
+      "data": "17/04",
+      "hora": "22:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-17T22:00:00"
+    },
+    {
+      "data": "18/04",
+      "hora": "07:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-18T07:00:00"
+    },
+    {
+      "data": "19/04",
+      "hora": "04:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-19T04:30:00"
     },
     {
       "data": "19/04",
@@ -306,5 +396,15 @@
       "timestamp": "2026-05-06T06:30:00"
     }
   ],
-  "conflitos": []
+  "conflitos": [
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "17/04 10:00",
+      "manobra_rio_fim": "17/04 20:00",
+      "navio_multi": "GRANDE BUENOS AIRES",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/04 16:00"
+    }
+  ]
 }
