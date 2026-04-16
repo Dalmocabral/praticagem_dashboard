@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/04/2026 06:07",
+  "ultima_atualizacao": "16/04/2026 07:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -9,7 +9,7 @@
       "data": "16/04",
       "hora": "07:30",
       "navio": "GOODWOOD",
-      "calado": "8,30",
+      "calado": "9,20",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9456965",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-16T10:00:00"
     },
@@ -69,7 +69,7 @@
       "data": "16/04",
       "hora": "16:30",
       "navio": "MSC ELODIE",
-      "calado": "11,60",
+      "calado": "12,90",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
