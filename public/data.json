@@ -1,24 +1,24 @@
 {
-  "ultima_atualizacao": "16/04/2026 13:45",
+  "ultima_atualizacao": "16/04/2026 14:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
     {
-      "data": "16/04",
-      "hora": "23:30",
+      "data": "17/04",
+      "hora": "04:00",
       "navio": "GRANDE BUENOS AIRES",
       "calado": "9,50",
       "manobra": "E",
       "beco": "TECONT5",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9253210",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-16T23:30:00"
+      "timestamp": "2026-04-17T04:00:00"
     },
     {
       "data": "17/04",
@@ -97,18 +97,18 @@
     },
     {
       "data": "17/04",
-      "hora": "16:00",
-      "navio": "GRANDE BUENOS AIRES",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT5",
+      "hora": "14:00",
+      "navio": "CARDIFF",
+      "calado": "13,60",
+      "manobra": "E",
+      "beco": "TECONT1",
       "status": "futuro",
-      "imo": "9253210",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9629457",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-17T16:00:00"
+      "terminal": "rio",
+      "timestamp": "2026-04-17T14:00:00"
     },
     {
       "data": "17/04",
@@ -142,6 +142,21 @@
     },
     {
       "data": "18/04",
+      "hora": "00:00",
+      "navio": "GRANDE BUENOS AIRES",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9253210",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-18T00:00:00"
+    },
+    {
+      "data": "18/04",
       "hora": "06:30",
       "navio": "MSC MAXINE",
       "calado": "14,60",
@@ -172,6 +187,21 @@
     },
     {
       "data": "18/04",
+      "hora": "09:30",
+      "navio": "CARDIFF",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9629457",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-18T09:30:00"
+    },
+    {
+      "data": "18/04",
       "hora": "16:00",
       "navio": "MSC MAXINE",
       "calado": "14,60",
@@ -184,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-18T16:00:00"
+    },
+    {
+      "data": "18/04",
+      "hora": "18:00",
+      "navio": "LORI",
+      "calado": "10,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9631125",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-18T18:00:00"
     },
     {
       "data": "19/04",
@@ -214,6 +259,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-19T06:30:00"
+    },
+    {
+      "data": "19/04",
+      "hora": "08:30",
+      "navio": "LORI",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9631125",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-19T08:30:00"
     },
     {
       "data": "20/04",
@@ -383,13 +443,58 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "LOG-IN PANTANAL",
+      "navio_rio": "CARDIFF",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/04 10:00",
-      "manobra_rio_fim": "17/04 20:00",
+      "manobra_rio_inicio": "17/04 14:00",
+      "manobra_rio_fim": "18/04 09:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "17/04 22:00"
+    },
+    {
+      "navio_rio": "CARDIFF",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "17/04 14:00",
+      "manobra_rio_fim": "18/04 09:30",
       "navio_multi": "GRANDE BUENOS AIRES",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/04 16:00"
+      "manobra_multi_data_hora": "18/04 00:00"
+    },
+    {
+      "navio_rio": "CARDIFF",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "17/04 14:00",
+      "manobra_rio_fim": "18/04 09:30",
+      "navio_multi": "MSC MAXINE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "18/04 06:30"
+    },
+    {
+      "navio_rio": "CARDIFF",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "17/04 14:00",
+      "manobra_rio_fim": "18/04 09:30",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/04 08:30"
+    },
+    {
+      "navio_rio": "LORI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/04 18:00",
+      "manobra_rio_fim": "19/04 08:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/04 04:30"
+    },
+    {
+      "navio_rio": "LORI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/04 18:00",
+      "manobra_rio_fim": "19/04 08:30",
+      "navio_multi": "MSC MUGE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/04 06:30"
     }
   ]
 }
