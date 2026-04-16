@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "16/04/2026 11:59",
+  "ultima_atualizacao": "16/04/2026 13:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "16/04",
-      "hora": "12:00",
-      "navio": "MSC JULIE",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9704996",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-16T12:00:00"
-    },
     {
       "data": "16/04",
       "hora": "23:30",
@@ -97,6 +82,21 @@
     },
     {
       "data": "17/04",
+      "hora": "12:00",
+      "navio": "ATLANTIC DAWN",
+      "calado": "6,10",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9671450",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-17T12:00:00"
+    },
+    {
+      "data": "17/04",
       "hora": "16:00",
       "navio": "GRANDE BUENOS AIRES",
       "calado": "9,00",
@@ -109,21 +109,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-17T16:00:00"
-    },
-    {
-      "data": "17/04",
-      "hora": "17:00",
-      "navio": "ATLANTIC DAWN",
-      "calado": "5,80",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9671450",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-17T17:00:00"
     },
     {
       "data": "17/04",
