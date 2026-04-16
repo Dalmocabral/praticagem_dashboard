@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "16/04/2026 02:53",
+  "ultima_atualizacao": "16/04/2026 04:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "16/04",
-      "hora": "02:00",
-      "navio": "MSC ELODIE",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9704972",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-16T02:00:00"
-    },
     {
       "data": "16/04",
       "hora": "04:00",
@@ -34,21 +19,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-16T04:00:00"
-    },
-    {
-      "data": "16/04",
-      "hora": "06:00",
-      "navio": "MSC ODESSA V",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-16T06:00:00"
     },
     {
       "data": "16/04",
@@ -67,7 +37,22 @@
     },
     {
       "data": "16/04",
-      "hora": "11:00",
+      "hora": "10:00",
+      "navio": "MSC ODESSA V",
+      "calado": "8,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9456965",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-16T10:00:00"
+    },
+    {
+      "data": "16/04",
+      "hora": "12:00",
       "navio": "MSC JULIE",
       "calado": "11,10",
       "manobra": "E",
@@ -78,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-16T11:00:00"
+      "timestamp": "2026-04-16T12:00:00"
     },
     {
       "data": "16/04",
@@ -327,15 +312,6 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "16/04 04:00",
       "manobra_rio_fim": "17/04 17:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/04 06:00"
-    },
-    {
-      "navio_rio": "ATLANTIC DAWN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/04 04:00",
-      "manobra_rio_fim": "17/04 17:00",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/04 09:00"
@@ -345,9 +321,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "16/04 04:00",
       "manobra_rio_fim": "17/04 17:00",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/04 10:00"
+    },
+    {
+      "navio_rio": "ATLANTIC DAWN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/04 04:00",
+      "manobra_rio_fim": "17/04 17:00",
       "navio_multi": "MSC JULIE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/04 11:00"
+      "manobra_multi_data_hora": "16/04 12:00"
     },
     {
       "navio_rio": "ATLANTIC DAWN",
