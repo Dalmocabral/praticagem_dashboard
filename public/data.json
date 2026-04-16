@@ -1,10 +1,25 @@
 {
-  "ultima_atualizacao": "16/04/2026 18:24",
+  "ultima_atualizacao": "16/04/2026 19:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
+    {
+      "data": "17/04",
+      "hora": "01:00",
+      "navio": "ATLANTIC DAWN",
+      "calado": "6,10",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9671450",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-17T01:00:00"
+    },
     {
       "data": "17/04",
       "hora": "04:00",
@@ -79,21 +94,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-17T10:00:00"
-    },
-    {
-      "data": "17/04",
-      "hora": "12:00",
-      "navio": "ATLANTIC DAWN",
-      "calado": "6,10",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9671450",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-17T12:00:00"
     },
     {
       "data": "17/04",
