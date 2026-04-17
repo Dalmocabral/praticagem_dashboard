@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/04/2026 00:27",
+  "ultima_atualizacao": "17/04/2026 02:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,31 +7,16 @@
   "navios": [
     {
       "data": "17/04",
-      "hora": "01:00",
-      "navio": "ATLANTIC DAWN",
-      "calado": "6,20",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9671450",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-17T01:00:00"
-    },
-    {
-      "data": "17/04",
       "hora": "04:00",
       "navio": "GRANDE BUENOS AIRES",
-      "calado": "9,50",
+      "calado": "9,70",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9253210",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-17T04:00:00"
     },
@@ -46,7 +31,7 @@
       "imo": "9704972",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-04-17T06:00:00"
     },
