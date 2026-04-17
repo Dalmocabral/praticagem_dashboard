@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "17/04/2026 19:01",
+  "ultima_atualizacao": "17/04/2026 19:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "17/04",
-      "hora": "15:00",
-      "navio": "CARDIFF",
-      "calado": "13,10",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9629457",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-17T15:00:00"
-    },
     {
       "data": "17/04",
       "hora": "20:00",
@@ -61,7 +46,7 @@
       "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-04-17T23:30:00"
     },
@@ -472,42 +457,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CARDIFF",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/04 15:00",
-      "manobra_rio_fim": "18/04 09:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/04 22:00"
-    },
-    {
-      "navio_rio": "CARDIFF",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/04 15:00",
-      "manobra_rio_fim": "18/04 09:30",
-      "navio_multi": "MSC MAXINE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/04 23:30"
-    },
-    {
-      "navio_rio": "CARDIFF",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/04 15:00",
-      "manobra_rio_fim": "18/04 09:30",
-      "navio_multi": "GRANDE BUENOS AIRES",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/04 01:30"
-    },
-    {
-      "navio_rio": "CARDIFF",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/04 15:00",
-      "manobra_rio_fim": "18/04 09:30",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/04 03:00"
-    },
     {
       "navio_rio": "LORI",
       "manobra_rio_afetada": "S",
