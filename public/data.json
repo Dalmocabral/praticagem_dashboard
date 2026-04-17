@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/04/2026 15:08",
+  "ultima_atualizacao": "17/04/2026 16:31",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -31,7 +31,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-04-17T20:00:00"
     },
@@ -112,7 +112,7 @@
     },
     {
       "data": "18/04",
-      "hora": "14:00",
+      "hora": "12:30",
       "navio": "MSC MAXINE",
       "calado": "14,60",
       "manobra": "S",
@@ -123,7 +123,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-18T14:00:00"
+      "timestamp": "2026-04-18T12:30:00"
+    },
+    {
+      "data": "18/04",
+      "hora": "14:30",
+      "navio": "MSC JULIE",
+      "calado": "11,10",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9704996",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-18T14:30:00"
     },
     {
       "data": "18/04",
@@ -289,6 +304,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-20T06:00:00"
+    },
+    {
+      "data": "20/04",
+      "hora": "17:00",
+      "navio": "MSC JULIE",
+      "calado": "11,10",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9704996",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-20T17:00:00"
     },
     {
       "data": "21/04",
