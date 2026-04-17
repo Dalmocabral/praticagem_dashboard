@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "17/04/2026 04:12",
+  "ultima_atualizacao": "17/04/2026 05:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "17/04",
-      "hora": "04:00",
-      "navio": "GRANDE BUENOS AIRES",
-      "calado": "9,70",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9253210",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-17T04:00:00"
-    },
     {
       "data": "17/04",
       "hora": "06:00",
@@ -38,6 +23,21 @@
     {
       "data": "17/04",
       "hora": "07:00",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "calado": "13,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9945849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "rio",
+      "timestamp": "2026-04-17T07:00:00"
+    },
+    {
+      "data": "17/04",
+      "hora": "08:00",
       "navio": "MSC JULIE",
       "calado": "12,60",
       "manobra": "S",
@@ -48,21 +48,6 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-04-17T07:00:00"
-    },
-    {
-      "data": "17/04",
-      "hora": "08:00",
-      "navio": "COSCO SHIPPING ARGENTINA",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945849",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "rio",
       "timestamp": "2026-04-17T08:00:00"
     },
     {
