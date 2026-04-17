@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/04/2026 19:58",
+  "ultima_atualizacao": "17/04/2026 20:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -39,14 +39,14 @@
       "data": "17/04",
       "hora": "23:30",
       "navio": "MSC MAXINE",
-      "calado": "14,60",
+      "calado": "14,30",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-17T23:30:00"
     },
