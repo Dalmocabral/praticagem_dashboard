@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "18/04/2026 07:09",
+  "ultima_atualizacao": "18/04/2026 08:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "18/04",
-      "hora": "06:00",
-      "navio": "CARDIFF",
-      "calado": "13,30",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9629457",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-18T06:00:00"
-    },
     {
       "data": "18/04",
       "hora": "12:30",
