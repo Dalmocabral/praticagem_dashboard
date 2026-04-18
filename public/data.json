@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "17/04/2026 23:02",
+  "ultima_atualizacao": "18/04/2026 01:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "17/04",
-      "hora": "22:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "passado",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-17T22:00:00"
-    },
     {
       "data": "17/04",
       "hora": "23:30",
@@ -39,7 +24,7 @@
       "data": "18/04",
       "hora": "01:30",
       "navio": "GRANDE BUENOS AIRES",
-      "calado": "9,00",
+      "calado": "8,60",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -52,22 +37,22 @@
     },
     {
       "data": "18/04",
-      "hora": "03:00",
+      "hora": "02:30",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
+      "calado": "8,40",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-04-18T03:00:00"
+      "timestamp": "2026-04-18T02:30:00"
     },
     {
       "data": "18/04",
-      "hora": "09:30",
+      "hora": "06:00",
       "navio": "CARDIFF",
       "calado": "13,50",
       "manobra": "S",
@@ -78,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-18T09:30:00"
+      "timestamp": "2026-04-18T06:00:00"
     },
     {
       "data": "18/04",
