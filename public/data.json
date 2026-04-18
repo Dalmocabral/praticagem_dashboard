@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "18/04/2026 17:01",
+  "ultima_atualizacao": "18/04/2026 17:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "18/04",
-      "hora": "14:30",
-      "navio": "MSC MAXINE",
-      "calado": "14,90",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9720287",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-18T14:30:00"
-    },
     {
       "data": "18/04",
       "hora": "16:30",
@@ -67,7 +52,7 @@
     },
     {
       "data": "19/04",
-      "hora": "04:30",
+      "hora": "07:30",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "S",
@@ -78,22 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-19T04:30:00"
-    },
-    {
-      "data": "19/04",
-      "hora": "06:30",
-      "navio": "MSC MUGE",
-      "calado": "12,70",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9978949",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-19T06:30:00"
+      "timestamp": "2026-04-19T07:30:00"
     },
     {
       "data": "19/04",
@@ -113,12 +83,12 @@
     {
       "data": "19/04",
       "hora": "10:30",
-      "navio": "MSC ATHENS",
-      "calado": "14,20",
+      "navio": "MSC MUGE",
+      "calado": "12,70",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9618305",
+      "imo": "9978949",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -154,6 +124,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-19T15:00:00"
+    },
+    {
+      "data": "19/04",
+      "hora": "16:30",
+      "navio": "MSC ATHENS",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9618305",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-19T16:30:00"
     },
     {
       "data": "20/04",
@@ -404,25 +389,16 @@
       "manobra_rio_fim": "19/04 08:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/04 04:30"
-    },
-    {
-      "navio_rio": "LORI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/04 18:00",
-      "manobra_rio_fim": "19/04 08:30",
-      "navio_multi": "MSC MUGE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/04 06:30"
+      "manobra_multi_data_hora": "19/04 07:30"
     },
     {
       "navio_rio": "NAVIOS VERMILION",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "18/04 22:00",
       "manobra_rio_fim": "19/04 13:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/04 04:30"
+      "manobra_multi_data_hora": "19/04 07:30"
     },
     {
       "navio_rio": "NAVIOS VERMILION",
@@ -431,16 +407,16 @@
       "manobra_rio_fim": "19/04 13:00",
       "navio_multi": "MSC MUGE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/04 06:30"
+      "manobra_multi_data_hora": "19/04 10:30"
     },
     {
-      "navio_rio": "NAVIOS VERMILION",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/04 22:00",
-      "manobra_rio_fim": "19/04 13:00",
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/04 15:00",
+      "manobra_rio_fim": "20/04 03:00",
       "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/04 10:30"
+      "manobra_multi_data_hora": "19/04 16:30"
     },
     {
       "navio_rio": "CMA CGM BUZIOS",
