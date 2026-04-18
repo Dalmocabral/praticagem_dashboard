@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "18/04/2026 17:50",
+  "ultima_atualizacao": "18/04/2026 18:28",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "18/04",
-      "hora": "16:30",
-      "navio": "MSC JULIE",
-      "calado": "11,10",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9704996",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-18T16:30:00"
-    },
     {
       "data": "18/04",
       "hora": "18:00",
@@ -46,7 +31,7 @@
       "imo": "9324837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-04-18T22:00:00"
     },
@@ -172,7 +157,7 @@
     },
     {
       "data": "20/04",
-      "hora": "07:00",
+      "hora": "10:00",
       "navio": "MSC ATHENS",
       "calado": "14,50",
       "manobra": "S",
@@ -183,7 +168,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-20T07:00:00"
+      "timestamp": "2026-04-20T10:00:00"
     },
     {
       "data": "20/04",
