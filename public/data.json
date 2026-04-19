@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "19/04/2026 12:10",
+  "ultima_atualizacao": "19/04/2026 12:55",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "19/04",
-      "hora": "11:00",
-      "navio": "MSC MUGE",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9978949",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-19T11:00:00"
-    },
     {
       "data": "19/04",
       "hora": "13:00",
@@ -61,9 +46,24 @@
       "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-04-19T16:30:00"
+    },
+    {
+      "data": "19/04",
+      "hora": "18:30",
+      "navio": "MSC JULIE",
+      "calado": "11,10",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9704996",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-19T18:30:00"
     },
     {
       "data": "20/04",
@@ -139,21 +139,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-20T15:00:00"
-    },
-    {
-      "data": "20/04",
-      "hora": "17:00",
-      "navio": "MSC JULIE",
-      "calado": "11,10",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9704996",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-20T17:00:00"
     },
     {
       "data": "20/04",
@@ -437,13 +422,13 @@
       "manobra_multi_data_hora": "19/04 16:30"
     },
     {
-      "navio_rio": "CMA CGM BUZIOS",
+      "navio_rio": "CMA CGM SANTOS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/04 15:00",
-      "manobra_rio_fim": "21/04 14:00",
+      "manobra_rio_inicio": "19/04 15:00",
+      "manobra_rio_fim": "20/04 05:00",
       "navio_multi": "MSC JULIE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/04 17:00"
+      "manobra_multi_data_hora": "19/04 18:30"
     },
     {
       "navio_rio": "CMA CGM BUZIOS",
