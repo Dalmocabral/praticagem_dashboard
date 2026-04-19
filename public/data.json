@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/04/2026 15:06",
+  "ultima_atualizacao": "19/04/2026 16:09",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -46,7 +46,7 @@
       "imo": "9704996",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-19T18:30:00"
     },
@@ -156,8 +156,8 @@
       "timestamp": "2026-04-20T20:00:00"
     },
     {
-      "data": "21/04",
-      "hora": "03:00",
+      "data": "20/04",
+      "hora": "22:00",
       "navio": "COPIAPO",
       "calado": "10,20",
       "manobra": "E",
@@ -168,7 +168,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-21T03:00:00"
+      "timestamp": "2026-04-20T22:00:00"
     },
     {
       "data": "21/04",
@@ -426,12 +426,12 @@
     },
     {
       "navio_rio": "CMA CGM BUZIOS",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "20/04 15:00",
       "manobra_rio_fim": "21/04 14:00",
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/04 03:00"
+      "manobra_multi_data_hora": "20/04 22:00"
     },
     {
       "navio_rio": "MAERSK MONTE AZUL",
@@ -440,7 +440,7 @@
       "manobra_rio_fim": "21/04 13:00",
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/04 03:00"
+      "manobra_multi_data_hora": "20/04 22:00"
     },
     {
       "navio_rio": "CMA CGM KRYPTON",
