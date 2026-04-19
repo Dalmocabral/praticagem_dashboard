@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "19/04/2026 00:48",
+  "ultima_atualizacao": "19/04/2026 02:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "18/04",
-      "hora": "22:00",
-      "navio": "NAVIOS VERMILION",
-      "calado": "12,35",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9324837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-18T22:00:00"
-    },
     {
       "data": "19/04",
       "hora": "07:30",
@@ -352,24 +337,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "NAVIOS VERMILION",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/04 22:00",
-      "manobra_rio_fim": "19/04 13:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/04 07:30"
-    },
-    {
-      "navio_rio": "NAVIOS VERMILION",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/04 22:00",
-      "manobra_rio_fim": "19/04 13:00",
-      "navio_multi": "MSC MUGE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/04 10:30"
-    },
     {
       "navio_rio": "CMA CGM SANTOS",
       "manobra_rio_afetada": "E",
