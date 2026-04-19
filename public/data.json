@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/04/2026 11:28",
+  "ultima_atualizacao": "19/04/2026 12:10",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -24,7 +24,7 @@
       "data": "19/04",
       "hora": "13:00",
       "navio": "NAVIOS VERMILION",
-      "calado": "12,30",
+      "calado": "12,25",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9649835",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-19T15:00:00"
     },
