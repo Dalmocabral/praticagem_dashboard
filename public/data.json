@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "19/04/2026 16:09",
+  "ultima_atualizacao": "19/04/2026 16:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "19/04",
-      "hora": "15:00",
-      "navio": "CMA CGM SANTOS",
-      "calado": "9,80",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-19T15:00:00"
-    },
     {
       "data": "19/04",
       "hora": "16:30",
@@ -397,24 +382,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/04 15:00",
-      "manobra_rio_fim": "20/04 05:00",
-      "navio_multi": "MSC ATHENS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/04 16:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/04 15:00",
-      "manobra_rio_fim": "20/04 05:00",
-      "navio_multi": "MSC JULIE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/04 18:30"
-    },
     {
       "navio_rio": "CMA CGM BUZIOS",
       "manobra_rio_afetada": "E",
