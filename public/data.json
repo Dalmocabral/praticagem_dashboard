@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/04/2026 10:42",
+  "ultima_atualizacao": "19/04/2026 11:28",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -46,7 +46,7 @@
       "imo": "9649835",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-04-19T15:00:00"
     },
@@ -171,6 +171,21 @@
       "timestamp": "2026-04-20T18:00:00"
     },
     {
+      "data": "20/04",
+      "hora": "20:00",
+      "navio": "MAERSK MONTE AZUL",
+      "calado": "12,40",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9348053",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-20T20:00:00"
+    },
+    {
       "data": "21/04",
       "hora": "03:00",
       "navio": "COPIAPO",
@@ -184,6 +199,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-21T03:00:00"
+    },
+    {
+      "data": "21/04",
+      "hora": "13:00",
+      "navio": "MAERSK MONTE AZUL",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9348053",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-21T13:00:00"
     },
     {
       "data": "21/04",
@@ -429,6 +459,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "20/04 15:00",
       "manobra_rio_fim": "21/04 14:00",
+      "navio_multi": "COPIAPO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/04 03:00"
+    },
+    {
+      "navio_rio": "MAERSK MONTE AZUL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/04 20:00",
+      "manobra_rio_fim": "21/04 13:00",
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "21/04 03:00"
