@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/04/2026 07:56",
+  "ultima_atualizacao": "19/04/2026 08:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -39,14 +39,14 @@
       "data": "19/04",
       "hora": "11:00",
       "navio": "MSC MUGE",
-      "calado": "12,70",
+      "calado": "12,60",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9978949",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-19T11:00:00"
     },
@@ -146,7 +146,7 @@
       "navio": "CMA CGM BUZIOS",
       "calado": "14,40",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9938250",
       "tipo_navio": "CONTAINER SHIP",
@@ -172,7 +172,22 @@
     },
     {
       "data": "21/04",
-      "hora": "07:00",
+      "hora": "14:00",
+      "navio": "CMA CGM BUZIOS",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938250",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-21T14:00:00"
+    },
+    {
+      "data": "21/04",
+      "hora": "16:00",
       "navio": "CMA CGM KRYPTON",
       "calado": "14,60",
       "manobra": "E",
@@ -183,37 +198,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-21T07:00:00"
-    },
-    {
-      "data": "21/04",
-      "hora": "16:00",
-      "navio": "CMA CGM BUZIOS",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9938250",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
       "timestamp": "2026-04-21T16:00:00"
-    },
-    {
-      "data": "22/04",
-      "hora": "06:30",
-      "navio": "CMA CGM KRYPTON",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9996733",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-22T06:30:00"
     },
     {
       "data": "22/04",
@@ -229,6 +214,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-22T08:30:00"
+    },
+    {
+      "data": "22/04",
+      "hora": "14:30",
+      "navio": "CMA CGM KRYPTON",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996733",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-22T14:30:00"
     },
     {
       "data": "23/04",
@@ -350,7 +350,7 @@
       "navio_rio": "CMA CGM BUZIOS",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "20/04 15:00",
-      "manobra_rio_fim": "21/04 16:00",
+      "manobra_rio_fim": "21/04 14:00",
       "navio_multi": "MSC JULIE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "20/04 17:00"
