@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/04/2026 12:55",
+  "ultima_atualizacao": "19/04/2026 13:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -24,7 +24,7 @@
       "data": "19/04",
       "hora": "15:00",
       "navio": "CMA CGM SANTOS",
-      "calado": "9,30",
+      "calado": "9,80",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-19T16:30:00"
     },
@@ -114,7 +114,7 @@
       "data": "20/04",
       "hora": "13:00",
       "navio": "MSC MUGE",
-      "calado": "12,60",
+      "calado": "10,90",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
