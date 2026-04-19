@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "19/04/2026 19:49",
+  "ultima_atualizacao": "19/04/2026 20:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "19/04",
-      "hora": "18:30",
-      "navio": "MSC JULIE",
-      "calado": "11,10",
-      "manobra": "M",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9704996",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-19T18:30:00"
-    },
     {
       "data": "20/04",
       "hora": "05:00",
