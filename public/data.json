@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/04/2026 07:19",
+  "ultima_atualizacao": "20/04/2026 08:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -16,7 +16,7 @@
       "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-20T11:00:00"
     },
@@ -24,7 +24,7 @@
       "data": "20/04",
       "hora": "13:00",
       "navio": "MAERSK CHACHAI",
-      "calado": "10,80",
+      "calado": "10,70",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
