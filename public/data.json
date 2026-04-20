@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/04/2026 17:32",
+  "ultima_atualizacao": "20/04/2026 18:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -46,7 +46,7 @@
       "imo": "9978949",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-04-20T22:00:00"
     },
@@ -94,6 +94,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-21T04:00:00"
+    },
+    {
+      "data": "21/04",
+      "hora": "07:00",
+      "navio": "MSC JULIE",
+      "calado": "11,10",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9704996",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-21T07:00:00"
     },
     {
       "data": "21/04",
@@ -404,6 +419,15 @@
       "manobra_multi_data_hora": "21/04 04:00"
     },
     {
+      "navio_rio": "CMA CGM BUZIOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "20/04 16:00",
+      "manobra_rio_fim": "21/04 14:00",
+      "navio_multi": "MSC JULIE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/04 07:00"
+    },
+    {
       "navio_rio": "MAERSK MONTE AZUL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "20/04 20:00",
@@ -438,6 +462,15 @@
       "navio_multi": "MSC DAMLA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "21/04 04:00"
+    },
+    {
+      "navio_rio": "MAERSK MONTE AZUL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "20/04 20:00",
+      "manobra_rio_fim": "21/04 13:00",
+      "navio_multi": "MSC JULIE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/04 07:00"
     },
     {
       "navio_rio": "CMA CGM KRYPTON",
