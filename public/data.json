@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/04/2026 05:28",
+  "ultima_atualizacao": "20/04/2026 07:19",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,22 +7,7 @@
   "navios": [
     {
       "data": "20/04",
-      "hora": "03:30",
-      "navio": "CMA CGM SANTOS",
-      "calado": "9,70",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-20T03:30:00"
-    },
-    {
-      "data": "20/04",
-      "hora": "08:00",
+      "hora": "11:00",
       "navio": "MSC ATHENS",
       "calado": "14,50",
       "manobra": "S",
@@ -31,34 +16,19 @@
       "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
+      "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-04-20T08:00:00"
+      "timestamp": "2026-04-20T11:00:00"
     },
     {
       "data": "20/04",
-      "hora": "10:00",
+      "hora": "13:00",
       "navio": "MAERSK CHACHAI",
       "calado": "10,80",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9525388",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-20T10:00:00"
-    },
-    {
-      "data": "20/04",
-      "hora": "13:00",
-      "navio": "MSC MUGE",
-      "calado": "10,90",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9978949",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -83,12 +53,12 @@
     {
       "data": "20/04",
       "hora": "18:00",
-      "navio": "MAERSK CHACHAI",
-      "calado": "12,60",
+      "navio": "MSC MUGE",
+      "calado": "10,90",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9525388",
+      "imo": "9978949",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -124,6 +94,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-20T22:00:00"
+    },
+    {
+      "data": "21/04",
+      "hora": "00:00",
+      "navio": "MAERSK CHACHAI",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9525388",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-21T00:00:00"
     },
     {
       "data": "21/04",
@@ -387,7 +372,7 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "20/04 15:00",
       "manobra_rio_fim": "21/04 14:00",
-      "navio_multi": "MAERSK CHACHAI",
+      "navio_multi": "MSC MUGE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "20/04 18:00"
     },
@@ -401,6 +386,15 @@
       "manobra_multi_data_hora": "20/04 22:00"
     },
     {
+      "navio_rio": "CMA CGM BUZIOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/04 15:00",
+      "manobra_rio_fim": "21/04 14:00",
+      "navio_multi": "MAERSK CHACHAI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/04 00:00"
+    },
+    {
       "navio_rio": "MAERSK MONTE AZUL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "20/04 20:00",
@@ -408,6 +402,15 @@
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "20/04 22:00"
+    },
+    {
+      "navio_rio": "MAERSK MONTE AZUL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/04 20:00",
+      "manobra_rio_fim": "21/04 13:00",
+      "navio_multi": "MAERSK CHACHAI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/04 00:00"
     },
     {
       "navio_rio": "CMA CGM KRYPTON",
