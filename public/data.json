@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/04/2026 08:49",
+  "ultima_atualizacao": "20/04/2026 10:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -9,7 +9,7 @@
       "data": "20/04",
       "hora": "11:00",
       "navio": "MSC ATHENS",
-      "calado": "14,50",
+      "calado": "14,20",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -31,13 +31,13 @@
       "imo": "9525388",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-20T13:00:00"
     },
     {
       "data": "20/04",
-      "hora": "15:00",
+      "hora": "16:00",
       "navio": "CMA CGM BUZIOS",
       "calado": "14,40",
       "manobra": "E",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-20T15:00:00"
+      "timestamp": "2026-04-20T16:00:00"
     },
     {
       "data": "20/04",
@@ -352,7 +352,7 @@
     },
     {
       "data": "13/05",
-      "hora": "06:00",
+      "hora": "06:30",
       "navio": "COSCO SHIPPING MEXICO",
       "calado": "14,30",
       "manobra": "S",
@@ -363,14 +363,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-13T06:00:00"
+      "timestamp": "2026-05-13T06:30:00"
     }
   ],
   "conflitos": [
     {
       "navio_rio": "CMA CGM BUZIOS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/04 15:00",
+      "manobra_rio_inicio": "20/04 16:00",
       "manobra_rio_fim": "21/04 14:00",
       "navio_multi": "MSC MUGE",
       "manobra_multi_tipo": "S",
@@ -379,7 +379,7 @@
     {
       "navio_rio": "CMA CGM BUZIOS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/04 15:00",
+      "manobra_rio_inicio": "20/04 16:00",
       "manobra_rio_fim": "21/04 14:00",
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "E",
@@ -388,7 +388,7 @@
     {
       "navio_rio": "CMA CGM BUZIOS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/04 15:00",
+      "manobra_rio_inicio": "20/04 16:00",
       "manobra_rio_fim": "21/04 14:00",
       "navio_multi": "MAERSK CHACHAI",
       "manobra_multi_tipo": "S",
