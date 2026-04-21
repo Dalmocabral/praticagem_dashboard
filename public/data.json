@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "21/04/2026 02:54",
+  "ultima_atualizacao": "21/04/2026 05:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "20/04",
-      "hora": "23:00",
-      "navio": "MSC MUGE",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "passado",
-      "imo": "9978949",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-20T23:00:00"
-    },
-    {
-      "data": "21/04",
-      "hora": "01:00",
-      "navio": "COPIAPO",
-      "calado": "10,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9687526",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-21T01:00:00"
-    },
     {
       "data": "21/04",
       "hora": "03:00",
@@ -69,14 +39,14 @@
       "data": "21/04",
       "hora": "06:00",
       "navio": "MSC DAMLA",
-      "calado": "12,25",
+      "calado": "12,30",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9250983",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-21T06:00:00"
     },
