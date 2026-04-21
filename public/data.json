@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/04/2026 21:05",
+  "ultima_atualizacao": "21/04/2026 00:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "20/04",
-      "hora": "20:00",
-      "navio": "MAERSK MONTE AZUL",
-      "calado": "12,40",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9348053",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-20T20:00:00"
-    },
-    {
-      "data": "20/04",
       "hora": "23:00",
       "navio": "MSC MUGE",
-      "calado": "10,90",
+      "calado": "11,00",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "passado",
@@ -46,7 +31,7 @@
       "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-21T01:00:00"
     },
@@ -61,7 +46,7 @@
       "imo": "9704996",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-21T03:00:00"
     },
@@ -76,7 +61,7 @@
       "imo": "9525388",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-04-21T04:00:00"
     },
@@ -99,7 +84,7 @@
       "data": "21/04",
       "hora": "13:00",
       "navio": "MAERSK MONTE AZUL",
-      "calado": "12,60",
+      "calado": "13,11",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -114,7 +99,7 @@
       "data": "21/04",
       "hora": "14:00",
       "navio": "CMA CGM BUZIOS",
-      "calado": "14,00",
+      "calado": "14,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -397,51 +382,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK MONTE AZUL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/04 20:00",
-      "manobra_rio_fim": "21/04 13:00",
-      "navio_multi": "MSC MUGE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/04 23:00"
-    },
-    {
-      "navio_rio": "MAERSK MONTE AZUL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/04 20:00",
-      "manobra_rio_fim": "21/04 13:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/04 01:00"
-    },
-    {
-      "navio_rio": "MAERSK MONTE AZUL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/04 20:00",
-      "manobra_rio_fim": "21/04 13:00",
-      "navio_multi": "MSC JULIE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/04 03:00"
-    },
-    {
-      "navio_rio": "MAERSK MONTE AZUL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/04 20:00",
-      "manobra_rio_fim": "21/04 13:00",
-      "navio_multi": "MAERSK CHACHAI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/04 04:00"
-    },
-    {
-      "navio_rio": "MAERSK MONTE AZUL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "20/04 20:00",
-      "manobra_rio_fim": "21/04 13:00",
-      "navio_multi": "MSC DAMLA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/04 06:00"
-    },
     {
       "navio_rio": "CMA CGM KRYPTON",
       "manobra_rio_afetada": "E",
