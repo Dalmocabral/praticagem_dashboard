@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "21/04/2026 12:42",
+  "ultima_atualizacao": "21/04/2026 13:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "21/04",
-      "hora": "03:00",
-      "navio": "MSC JULIE",
-      "calado": "11,10",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9704996",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-21T03:00:00"
-    },
-    {
-      "data": "21/04",
-      "hora": "04:00",
-      "navio": "MAERSK CHACHAI",
-      "calado": "10,90",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9525388",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-21T04:00:00"
-    },
     {
       "data": "21/04",
       "hora": "13:00",
@@ -61,7 +31,7 @@
       "imo": "9938250",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-21T16:00:00"
     },
