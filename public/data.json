@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/04/2026 06:48",
+  "ultima_atualizacao": "21/04/2026 07:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -34,21 +34,6 @@
       "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-21T04:00:00"
-    },
-    {
-      "data": "21/04",
-      "hora": "06:00",
-      "navio": "MSC DAMLA",
-      "calado": "12,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9250983",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-21T06:00:00"
     },
     {
       "data": "21/04",
@@ -99,7 +84,7 @@
       "data": "21/04",
       "hora": "18:00",
       "navio": "COPIAPO",
-      "calado": "9,90",
+      "calado": "10,10",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -114,7 +99,7 @@
       "data": "22/04",
       "hora": "06:00",
       "navio": "MSC DAMLA",
-      "calado": "12,25",
+      "calado": "13,55",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -124,6 +109,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-22T06:00:00"
+    },
+    {
+      "data": "22/04",
+      "hora": "08:00",
+      "navio": "MSC PAMELA",
+      "calado": "11,90",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-22T08:00:00"
     },
     {
       "data": "22/04",
@@ -169,6 +169,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-22T19:00:00"
+    },
+    {
+      "data": "23/04",
+      "hora": "03:30",
+      "navio": "MSC PAMELA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-23T03:30:00"
     },
     {
       "data": "23/04",
@@ -369,6 +384,33 @@
       "navio_multi": "MSC DAMLA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "22/04 06:00"
+    },
+    {
+      "navio_rio": "CMA CGM KRYPTON",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "21/04 16:00",
+      "manobra_rio_fim": "22/04 14:30",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "22/04 08:00"
+    },
+    {
+      "navio_rio": "EVER FAIR",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/04 16:30",
+      "manobra_rio_fim": "23/04 16:00",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/04 03:30"
+    },
+    {
+      "navio_rio": "NAVIOS AMARILLO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/04 19:00",
+      "manobra_rio_fim": "23/04 15:00",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/04 03:30"
     }
   ]
 }
