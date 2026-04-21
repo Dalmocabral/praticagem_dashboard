@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/04/2026 15:49",
+  "ultima_atualizacao": "21/04/2026 16:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -31,7 +31,7 @@
       "imo": "9368895",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-21T19:00:00"
     },
@@ -49,21 +49,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-21T21:00:00"
-    },
-    {
-      "data": "22/04",
-      "hora": "05:00",
-      "navio": "VIKING BRASILIA",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9368895",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-22T05:00:00"
     },
     {
       "data": "22/04",
@@ -109,6 +94,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-22T09:30:00"
+    },
+    {
+      "data": "22/04",
+      "hora": "11:30",
+      "navio": "VIKING BRASILIA",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9368895",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-22T11:30:00"
     },
     {
       "data": "22/04",
@@ -412,6 +412,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "CMA CGM KRYPTON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/04 09:30",
+      "manobra_rio_fim": "23/04 10:30",
+      "navio_multi": "VIKING BRASILIA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/04 11:30"
+    },
     {
       "navio_rio": "CMA CGM KRYPTON",
       "manobra_rio_afetada": "S",
