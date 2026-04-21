@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/04/2026 11:07",
+  "ultima_atualizacao": "21/04/2026 12:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -52,7 +52,7 @@
     },
     {
       "data": "21/04",
-      "hora": "14:00",
+      "hora": "16:00",
       "navio": "CMA CGM BUZIOS",
       "calado": "14,50",
       "manobra": "S",
@@ -61,22 +61,7 @@
       "imo": "9938250",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-21T14:00:00"
-    },
-    {
-      "data": "21/04",
-      "hora": "16:00",
-      "navio": "CMA CGM KRYPTON",
-      "calado": "14,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996733",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-04-21T16:00:00"
     },
@@ -157,10 +142,10 @@
     },
     {
       "data": "22/04",
-      "hora": "14:30",
+      "hora": "09:30",
       "navio": "CMA CGM KRYPTON",
-      "calado": "14,00",
-      "manobra": "S",
+      "calado": "14,30",
+      "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9996733",
@@ -168,7 +153,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-22T14:30:00"
+      "timestamp": "2026-04-22T09:30:00"
     },
     {
       "data": "22/04",
@@ -214,6 +199,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-23T06:30:00"
+    },
+    {
+      "data": "23/04",
+      "hora": "14:00",
+      "navio": "CMA CGM KRYPTON",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996733",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-23T14:00:00"
     },
     {
       "data": "23/04",
@@ -399,39 +399,12 @@
   "conflitos": [
     {
       "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/04 16:00",
-      "manobra_rio_fim": "22/04 14:30",
-      "navio_multi": "VIKING BRASILIA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/04 19:00"
-    },
-    {
-      "navio_rio": "CMA CGM KRYPTON",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/04 16:00",
-      "manobra_rio_fim": "22/04 14:30",
-      "navio_multi": "VIKING BRASILIA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/04 05:00"
-    },
-    {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/04 16:00",
-      "manobra_rio_fim": "22/04 14:30",
-      "navio_multi": "MSC DAMLA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/04 06:00"
-    },
-    {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/04 16:00",
-      "manobra_rio_fim": "22/04 14:30",
+      "manobra_rio_inicio": "22/04 09:30",
+      "manobra_rio_fim": "23/04 14:00",
       "navio_multi": "MSC PAMELA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "22/04 08:00"
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/04 06:30"
     },
     {
       "navio_rio": "EVER FAIR",
