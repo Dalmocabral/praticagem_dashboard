@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/04/2026 07:56",
+  "ultima_atualizacao": "21/04/2026 09:05",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -34,21 +34,6 @@
       "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-21T04:00:00"
-    },
-    {
-      "data": "21/04",
-      "hora": "13:00",
-      "navio": "MAERSK MONTE AZUL",
-      "calado": "13,11",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9348053",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-21T13:00:00"
     },
     {
       "data": "21/04",
@@ -94,6 +79,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-21T18:00:00"
+    },
+    {
+      "data": "21/04",
+      "hora": "21:00",
+      "navio": "MAERSK MONTE AZUL",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9348053",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-21T21:00:00"
     },
     {
       "data": "22/04",
