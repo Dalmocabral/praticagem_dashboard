@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/04/2026 14:45",
+  "ultima_atualizacao": "21/04/2026 15:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -9,7 +9,7 @@
       "data": "21/04",
       "hora": "16:00",
       "navio": "CMA CGM BUZIOS",
-      "calado": "14,50",
+      "calado": "14,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9368895",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-04-21T19:00:00"
     },
@@ -112,21 +112,6 @@
     },
     {
       "data": "22/04",
-      "hora": "16:30",
-      "navio": "EVER FAIR",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9850886",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-22T16:30:00"
-    },
-    {
-      "data": "22/04",
       "hora": "19:00",
       "navio": "NAVIOS AMARILLO",
       "calado": "10,00",
@@ -187,6 +172,21 @@
     },
     {
       "data": "23/04",
+      "hora": "12:30",
+      "navio": "EVER FAIR",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850886",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-23T12:30:00"
+    },
+    {
+      "data": "23/04",
       "hora": "15:00",
       "navio": "NAVIOS AMARILLO",
       "calado": "11,00",
@@ -199,21 +199,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-23T15:00:00"
-    },
-    {
-      "data": "23/04",
-      "hora": "16:00",
-      "navio": "EVER FAIR",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9850886",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-23T16:00:00"
     },
     {
       "data": "24/04",
@@ -229,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-24T06:00:00"
+    },
+    {
+      "data": "24/04",
+      "hora": "07:00",
+      "navio": "EVER FAIR",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850886",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-24T07:00:00"
     },
     {
       "data": "24/04",
@@ -431,24 +431,6 @@
       "manobra_multi_data_hora": "23/04 08:30"
     },
     {
-      "navio_rio": "EVER FAIR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/04 16:30",
-      "manobra_rio_fim": "23/04 16:00",
-      "navio_multi": "MSC PAMELA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/04 06:30"
-    },
-    {
-      "navio_rio": "EVER FAIR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/04 16:30",
-      "manobra_rio_fim": "23/04 16:00",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/04 08:30"
-    },
-    {
       "navio_rio": "NAVIOS AMARILLO",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "22/04 19:00",
@@ -465,6 +447,15 @@
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/04 08:30"
+    },
+    {
+      "navio_rio": "EVER FAIR",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/04 12:30",
+      "manobra_rio_fim": "24/04 07:00",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/04 06:00"
     }
   ]
 }
