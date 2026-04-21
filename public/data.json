@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/04/2026 09:05",
+  "ultima_atualizacao": "21/04/2026 11:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -37,6 +37,21 @@
     },
     {
       "data": "21/04",
+      "hora": "13:00",
+      "navio": "COPIAPO",
+      "calado": "10,10",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9687526",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
+      "timestamp": "2026-04-21T13:00:00"
+    },
+    {
+      "data": "21/04",
       "hora": "14:00",
       "navio": "CMA CGM BUZIOS",
       "calado": "14,50",
@@ -46,7 +61,7 @@
       "imo": "9938250",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-21T14:00:00"
     },
@@ -67,24 +82,24 @@
     },
     {
       "data": "21/04",
-      "hora": "18:00",
-      "navio": "COPIAPO",
-      "calado": "10,10",
-      "manobra": "S",
-      "beco": "TECONT3",
+      "hora": "19:00",
+      "navio": "VIKING BRASILIA",
+      "calado": "8,60",
+      "manobra": "E",
+      "beco": "TECONT5",
       "status": "hoje",
-      "imo": "9687526",
-      "tipo_navio": "CONTAINER SHIP",
+      "imo": "9368895",
+      "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-21T18:00:00"
+      "timestamp": "2026-04-21T19:00:00"
     },
     {
       "data": "21/04",
       "hora": "21:00",
       "navio": "MAERSK MONTE AZUL",
-      "calado": "12,60",
+      "calado": "13,11",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -94,6 +109,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-21T21:00:00"
+    },
+    {
+      "data": "22/04",
+      "hora": "05:00",
+      "navio": "VIKING BRASILIA",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9368895",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-22T05:00:00"
     },
     {
       "data": "22/04",
@@ -114,7 +144,7 @@
       "data": "22/04",
       "hora": "08:00",
       "navio": "MSC PAMELA",
-      "calado": "11,90",
+      "calado": "13,30",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
@@ -172,7 +202,7 @@
     },
     {
       "data": "23/04",
-      "hora": "03:30",
+      "hora": "06:30",
       "navio": "MSC PAMELA",
       "calado": "12,60",
       "manobra": "S",
@@ -183,7 +213,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-23T03:30:00"
+      "timestamp": "2026-04-23T06:30:00"
     },
     {
       "data": "23/04",
@@ -372,9 +402,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "21/04 16:00",
       "manobra_rio_fim": "22/04 14:30",
-      "navio_multi": "COPIAPO",
+      "navio_multi": "VIKING BRASILIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/04 19:00"
+    },
+    {
+      "navio_rio": "CMA CGM KRYPTON",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "21/04 16:00",
+      "manobra_rio_fim": "22/04 14:30",
+      "navio_multi": "VIKING BRASILIA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/04 18:00"
+      "manobra_multi_data_hora": "22/04 05:00"
     },
     {
       "navio_rio": "CMA CGM KRYPTON",
@@ -396,21 +435,21 @@
     },
     {
       "navio_rio": "EVER FAIR",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "22/04 16:30",
       "manobra_rio_fim": "23/04 16:00",
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/04 03:30"
+      "manobra_multi_data_hora": "23/04 06:30"
     },
     {
       "navio_rio": "NAVIOS AMARILLO",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "22/04 19:00",
       "manobra_rio_fim": "23/04 15:00",
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/04 03:30"
+      "manobra_multi_data_hora": "23/04 06:30"
     }
   ]
 }
