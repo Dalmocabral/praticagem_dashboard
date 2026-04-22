@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/04/2026 11:43",
+  "ultima_atualizacao": "22/04/2026 12:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -24,7 +24,7 @@
       "data": "22/04",
       "hora": "14:30",
       "navio": "VIKING BRASILIA",
-      "calado": "9,00",
+      "calado": "8,80",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-04-22T16:30:00"
     },
@@ -187,7 +187,7 @@
     },
     {
       "data": "24/04",
-      "hora": "13:30",
+      "hora": "11:00",
       "navio": "MSC JUDITH",
       "calado": "14,20",
       "manobra": "E",
@@ -198,7 +198,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-24T13:30:00"
+      "timestamp": "2026-04-24T11:00:00"
     },
     {
       "data": "25/04",
