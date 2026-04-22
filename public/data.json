@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/04/2026 06:08",
+  "ultima_atualizacao": "22/04/2026 07:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "22/04",
-      "hora": "06:00",
-      "navio": "MSC DAMLA",
-      "calado": "13,10",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9250983",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-22T06:00:00"
-    },
-    {
-      "data": "22/04",
       "hora": "08:00",
       "navio": "MSC PAMELA",
-      "calado": "13,30",
+      "calado": "12,90",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -46,7 +31,7 @@
       "imo": "9996733",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-22T09:30:00"
     },
