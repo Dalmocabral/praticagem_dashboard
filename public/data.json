@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/04/2026 21:04",
+  "ultima_atualizacao": "22/04/2026 00:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -67,7 +67,7 @@
     },
     {
       "data": "22/04",
-      "hora": "13:30",
+      "hora": "14:30",
       "navio": "VIKING BRASILIA",
       "calado": "9,00",
       "manobra": "S",
@@ -78,7 +78,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-22T13:30:00"
+      "timestamp": "2026-04-22T14:30:00"
+    },
+    {
+      "data": "22/04",
+      "hora": "16:30",
+      "navio": "GRANDE AMBURGO",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9246607",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-22T16:30:00"
     },
     {
       "data": "22/04",
@@ -169,6 +184,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-23T15:00:00"
+    },
+    {
+      "data": "23/04",
+      "hora": "16:00",
+      "navio": "GRANDE AMBURGO",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9246607",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-23T16:00:00"
     },
     {
       "data": "24/04",
@@ -389,7 +419,16 @@
       "manobra_rio_fim": "23/04 10:30",
       "navio_multi": "VIKING BRASILIA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/04 13:30"
+      "manobra_multi_data_hora": "22/04 14:30"
+    },
+    {
+      "navio_rio": "CMA CGM KRYPTON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/04 09:30",
+      "manobra_rio_fim": "23/04 10:30",
+      "navio_multi": "GRANDE AMBURGO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "22/04 16:30"
     },
     {
       "navio_rio": "CMA CGM KRYPTON",
@@ -426,6 +465,15 @@
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/04 08:30"
+    },
+    {
+      "navio_rio": "EVER FAIR",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/04 12:30",
+      "manobra_rio_fim": "24/04 07:00",
+      "navio_multi": "GRANDE AMBURGO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/04 16:00"
     },
     {
       "navio_rio": "EVER FAIR",
