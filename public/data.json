@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "22/04/2026 20:29",
+  "ultima_atualizacao": "22/04/2026 22:11",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "22/04",
-      "hora": "18:00",
-      "navio": "NAVIOS AMARILLO",
-      "calado": "11,60",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9324849",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-22T18:00:00"
-    },
     {
       "data": "23/04",
       "hora": "05:30",
@@ -27,7 +12,7 @@
       "calado": "9,50",
       "manobra": "S",
       "beco": "TECONT5",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
@@ -42,7 +27,7 @@
       "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9290531",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,7 +42,7 @@
       "calado": "14,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9996733",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -69,10 +54,10 @@
       "data": "23/04",
       "hora": "09:30",
       "navio": "MSC AMALFI",
-      "calado": "11,20",
+      "calado": "14,00",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -87,7 +72,7 @@
       "calado": "14,50",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9850886",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -102,7 +87,7 @@
       "calado": "11,00",
       "manobra": "S",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9324849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -186,6 +171,21 @@
       "timestamp": "2026-04-24T21:00:00"
     },
     {
+      "data": "24/04",
+      "hora": "23:00",
+      "navio": "SWANSEA",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9629469",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-24T23:00:00"
+    },
+    {
       "data": "25/04",
       "hora": "05:00",
       "navio": "LOG-IN PANTANAL",
@@ -214,6 +214,51 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-25T06:00:00"
+    },
+    {
+      "data": "25/04",
+      "hora": "15:00",
+      "navio": "SWANSEA",
+      "calado": "12,80",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9629469",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-25T15:00:00"
+    },
+    {
+      "data": "26/04",
+      "hora": "05:00",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "11,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-26T05:00:00"
+    },
+    {
+      "data": "26/04",
+      "hora": "23:00",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "11,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-26T23:00:00"
     },
     {
       "data": "28/04",
@@ -368,33 +413,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "NAVIOS AMARILLO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/04 18:00",
-      "manobra_rio_fim": "23/04 15:00",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/04 05:30"
-    },
-    {
-      "navio_rio": "NAVIOS AMARILLO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/04 18:00",
-      "manobra_rio_fim": "23/04 15:00",
-      "navio_multi": "MSC PAMELA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/04 06:30"
-    },
-    {
-      "navio_rio": "NAVIOS AMARILLO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/04 18:00",
-      "manobra_rio_fim": "23/04 15:00",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/04 09:30"
-    },
-    {
       "navio_rio": "EVER FAIR",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "23/04 11:30",
@@ -411,6 +429,24 @@
       "navio_multi": "MSC JUDITH",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/04 11:00"
+    },
+    {
+      "navio_rio": "SWANSEA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/04 23:00",
+      "manobra_rio_fim": "25/04 15:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "25/04 05:00"
+    },
+    {
+      "navio_rio": "SWANSEA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/04 23:00",
+      "manobra_rio_fim": "25/04 15:00",
+      "navio_multi": "MSC JUDITH",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "25/04 06:00"
     }
   ]
 }
