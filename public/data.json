@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/04/2026 08:21",
+  "ultima_atualizacao": "23/04/2026 09:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -39,14 +39,14 @@
       "data": "23/04",
       "hora": "11:30",
       "navio": "EVER FAIR",
-      "calado": "14,50",
+      "calado": "14,40",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9850886",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-23T11:30:00"
     },
@@ -156,21 +156,6 @@
       "timestamp": "2026-04-24T21:00:00"
     },
     {
-      "data": "24/04",
-      "hora": "23:00",
-      "navio": "SWANSEA",
-      "calado": "12,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9629469",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-24T23:00:00"
-    },
-    {
       "data": "25/04",
       "hora": "05:00",
       "navio": "LOG-IN PANTANAL",
@@ -202,7 +187,22 @@
     },
     {
       "data": "25/04",
-      "hora": "15:00",
+      "hora": "08:00",
+      "navio": "SWANSEA",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9629469",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-25T08:00:00"
+    },
+    {
+      "data": "25/04",
+      "hora": "16:00",
       "navio": "SWANSEA",
       "calado": "12,80",
       "manobra": "S",
@@ -213,7 +213,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-25T15:00:00"
+      "timestamp": "2026-04-25T16:00:00"
     },
     {
       "data": "26/04",
@@ -423,24 +423,6 @@
       "navio_multi": "MSC JUDITH",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/04 11:00"
-    },
-    {
-      "navio_rio": "SWANSEA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/04 23:00",
-      "manobra_rio_fim": "25/04 15:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/04 05:00"
-    },
-    {
-      "navio_rio": "SWANSEA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/04 23:00",
-      "manobra_rio_fim": "25/04 15:00",
-      "navio_multi": "MSC JUDITH",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/04 06:00"
     }
   ]
 }
