@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "23/04/2026 11:15",
+  "ultima_atualizacao": "23/04/2026 13:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "23/04",
-      "hora": "09:30",
-      "navio": "MSC AMALFI",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9605279",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-23T09:30:00"
-    },
     {
       "data": "23/04",
       "hora": "11:30",
@@ -39,7 +24,7 @@
       "data": "23/04",
       "hora": "13:30",
       "navio": "GRANDE AMBURGO",
-      "calado": "9,50",
+      "calado": "9,00",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -61,7 +46,7 @@
       "imo": "9324849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-04-23T15:00:00"
     },
@@ -97,7 +82,7 @@
     },
     {
       "data": "24/04",
-      "hora": "09:00",
+      "hora": "11:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,70",
       "manobra": "E",
@@ -108,11 +93,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-24T09:00:00"
+      "timestamp": "2026-04-24T11:00:00"
     },
     {
       "data": "24/04",
-      "hora": "11:00",
+      "hora": "12:30",
       "navio": "MSC JUDITH",
       "calado": "14,20",
       "manobra": "E",
@@ -123,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-24T11:00:00"
+      "timestamp": "2026-04-24T12:30:00"
     },
     {
       "data": "24/04",
@@ -403,11 +388,11 @@
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/04 09:00",
+      "manobra_rio_inicio": "24/04 11:00",
       "manobra_rio_fim": "24/04 21:00",
       "navio_multi": "MSC JUDITH",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/04 11:00"
+      "manobra_multi_data_hora": "24/04 12:30"
     }
   ]
 }
