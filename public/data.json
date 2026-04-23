@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/04/2026 01:23",
+  "ultima_atualizacao": "23/04/2026 03:23",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -16,7 +16,7 @@
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-23T05:30:00"
     },
@@ -31,7 +31,7 @@
       "imo": "9290531",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-04-23T06:30:00"
     },
