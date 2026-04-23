@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "23/04/2026 13:12",
+  "ultima_atualizacao": "23/04/2026 14:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "23/04",
-      "hora": "11:30",
-      "navio": "EVER FAIR",
-      "calado": "14,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9850886",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-23T11:30:00"
-    },
     {
       "data": "23/04",
       "hora": "13:30",
@@ -39,7 +24,7 @@
       "data": "23/04",
       "hora": "15:00",
       "navio": "NAVIOS AMARILLO",
-      "calado": "11,00",
+      "calado": "11,70",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -101,7 +86,7 @@
       "navio": "MSC JUDITH",
       "calado": "14,20",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9299549",
       "tipo_navio": "CONTAINER SHIP",
@@ -146,7 +131,7 @@
       "navio": "MSC JUDITH",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9299549",
       "tipo_navio": "CONTAINER SHIP",
@@ -159,7 +144,7 @@
       "data": "25/04",
       "hora": "08:00",
       "navio": "SWANSEA",
-      "calado": "12,50",
+      "calado": "13,50",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -184,6 +169,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-25T16:00:00"
+    },
+    {
+      "data": "25/04",
+      "hora": "18:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-25T18:00:00"
     },
     {
       "data": "26/04",
@@ -214,6 +214,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-26T23:00:00"
+    },
+    {
+      "data": "27/04",
+      "hora": "06:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-27T06:00:00"
     },
     {
       "data": "28/04",
@@ -367,24 +382,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "EVER FAIR",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/04 11:30",
-      "manobra_rio_fim": "24/04 07:00",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/04 13:30"
-    },
-    {
-      "navio_rio": "EVER FAIR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/04 11:30",
-      "manobra_rio_fim": "24/04 07:00",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/04 00:00"
-    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
