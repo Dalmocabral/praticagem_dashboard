@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/04/2026 06:59",
+  "ultima_atualizacao": "24/04/2026 08:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -31,7 +31,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-24T11:00:00"
     },
@@ -52,7 +52,7 @@
     },
     {
       "data": "24/04",
-      "hora": "14:00",
+      "hora": "17:00",
       "navio": "MARIANNA I",
       "calado": "12,90",
       "manobra": "E",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-24T14:00:00"
+      "timestamp": "2026-04-24T17:00:00"
     },
     {
       "data": "24/04",
@@ -383,7 +383,7 @@
       "manobra_rio_fim": "24/04 21:00",
       "navio_multi": "MARIANNA I",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/04 14:00"
+      "manobra_multi_data_hora": "24/04 17:00"
     },
     {
       "navio_rio": "SWANSEA",
