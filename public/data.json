@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/04/2026 16:35",
+  "ultima_atualizacao": "24/04/2026 17:28",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -31,7 +31,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-04-24T21:00:00"
     },
@@ -171,8 +171,38 @@
       "timestamp": "2026-04-27T06:00:00"
     },
     {
+      "data": "27/04",
+      "hora": "16:00",
+      "navio": "COSCO SHIPPING BRAZIL",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-27T16:00:00"
+    },
+    {
       "data": "28/04",
-      "hora": "06:30",
+      "hora": "14:00",
+      "navio": "COSCO SHIPPING BRAZIL",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-28T14:00:00"
+    },
+    {
+      "data": "28/04",
+      "hora": "16:00",
       "navio": "CMA CGM COBALT",
       "calado": "14,00",
       "manobra": "E",
@@ -183,11 +213,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-28T06:30:00"
+      "timestamp": "2026-04-28T16:00:00"
     },
     {
       "data": "29/04",
-      "hora": "07:00",
+      "hora": "14:00",
       "navio": "CMA CGM COBALT",
       "calado": "13,50",
       "manobra": "S",
@@ -198,11 +228,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-29T07:00:00"
+      "timestamp": "2026-04-29T14:00:00"
     },
     {
       "data": "29/04",
-      "hora": "10:00",
+      "hora": "16:00",
       "navio": "KOTA EBONY",
       "calado": "14,60",
       "manobra": "E",
@@ -213,11 +243,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-29T10:00:00"
+      "timestamp": "2026-04-29T16:00:00"
     },
     {
       "data": "30/04",
-      "hora": "06:00",
+      "hora": "14:00",
       "navio": "KOTA EBONY",
       "calado": "13,90",
       "manobra": "S",
@@ -228,7 +258,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-30T06:00:00"
+      "timestamp": "2026-04-30T14:00:00"
     },
     {
       "data": "02/05",
