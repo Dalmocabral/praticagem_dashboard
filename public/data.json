@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "24/04/2026 12:38",
+  "ultima_atualizacao": "24/04/2026 13:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "24/04",
-      "hora": "11:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-24T11:00:00"
-    },
     {
       "data": "24/04",
       "hora": "12:30",
@@ -46,7 +31,7 @@
       "imo": "9162227",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-04-24T17:00:00"
     },
@@ -352,24 +337,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/04 11:00",
-      "manobra_rio_fim": "24/04 21:00",
-      "navio_multi": "MSC JUDITH",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/04 12:30"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/04 11:00",
-      "manobra_rio_fim": "24/04 21:00",
-      "navio_multi": "MARIANNA I",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/04 17:00"
-    },
     {
       "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "E",
