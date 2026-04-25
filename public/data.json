@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "25/04/2026 03:51",
+  "ultima_atualizacao": "25/04/2026 05:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "25/04",
-      "hora": "02:30",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,50",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-25T02:30:00"
-    },
     {
       "data": "25/04",
       "hora": "13:00",
