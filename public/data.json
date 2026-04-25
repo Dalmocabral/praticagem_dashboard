@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/04/2026 12:51",
+  "ultima_atualizacao": "25/04/2026 13:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "25/04",
-      "hora": "15:30",
+      "hora": "15:00",
       "navio": "MARIANNA I",
       "calado": "14,20",
       "manobra": "S",
@@ -18,7 +18,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-04-25T15:30:00"
+      "timestamp": "2026-04-25T15:00:00"
     },
     {
       "data": "25/04",
