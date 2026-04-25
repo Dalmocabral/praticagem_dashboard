@@ -1,30 +1,15 @@
 {
-  "ultima_atualizacao": "25/04/2026 00:21",
+  "ultima_atualizacao": "25/04/2026 02:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
     {
-      "data": "24/04",
-      "hora": "23:00",
-      "navio": "SWANSEA",
-      "calado": "13,55",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9629469",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-24T23:00:00"
-    },
-    {
       "data": "25/04",
       "hora": "02:30",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,70",
+      "calado": "8,50",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "hoje",
@@ -442,15 +427,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "SWANSEA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/04 23:00",
-      "manobra_rio_fim": "25/04 13:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/04 02:30"
-    },
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
