@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "25/04/2026 11:57",
+  "ultima_atualizacao": "25/04/2026 12:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "25/04",
-      "hora": "10:30",
-      "navio": "SWANSEA",
-      "calado": "13,60",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9629469",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-25T10:30:00"
-    },
     {
       "data": "25/04",
       "hora": "15:30",
@@ -31,7 +16,7 @@
       "imo": "9162227",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-25T15:30:00"
     },
