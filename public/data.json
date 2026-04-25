@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/04/2026 20:55",
+  "ultima_atualizacao": "25/04/2026 00:21",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,42 +7,12 @@
   "navios": [
     {
       "data": "24/04",
-      "hora": "17:00",
-      "navio": "MARIANNA I",
-      "calado": "12,90",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9162227",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-24T17:00:00"
-    },
-    {
-      "data": "24/04",
-      "hora": "21:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,50",
-      "manobra": "M",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-04-24T21:00:00"
-    },
-    {
-      "data": "24/04",
       "hora": "23:00",
       "navio": "SWANSEA",
       "calado": "13,55",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "hoje",
+      "status": "passado",
       "imo": "9629469",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -52,18 +22,18 @@
     },
     {
       "data": "25/04",
-      "hora": "05:00",
+      "hora": "02:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,70",
       "manobra": "S",
       "beco": "TECONT4",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-04-25T05:00:00"
+      "timestamp": "2026-04-25T02:30:00"
     },
     {
       "data": "25/04",
@@ -72,7 +42,7 @@
       "calado": "12,80",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9629469",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -87,7 +57,7 @@
       "calado": "13,50",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9162227",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -102,7 +72,7 @@
       "calado": "13,00",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9299549",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -117,7 +87,7 @@
       "calado": "8,40",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -479,7 +449,7 @@
       "manobra_rio_fim": "25/04 13:00",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/04 05:00"
+      "manobra_multi_data_hora": "25/04 02:30"
     },
     {
       "navio_rio": "CMA CGM VERACRUZ",
