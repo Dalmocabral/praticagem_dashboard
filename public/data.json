@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/04/2026 08:05",
+  "ultima_atualizacao": "26/04/2026 08:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -9,7 +9,7 @@
       "data": "26/04",
       "hora": "10:00",
       "navio": "CMA CGM VERACRUZ",
-      "calado": "11,50",
+      "calado": "10,00",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -52,7 +52,7 @@
     },
     {
       "data": "27/04",
-      "hora": "06:00",
+      "hora": "05:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "S",
@@ -63,17 +63,32 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-27T06:00:00"
+      "timestamp": "2026-04-27T05:00:00"
     },
     {
       "data": "27/04",
-      "hora": "08:00",
+      "hora": "06:00",
       "navio": "MSC BREMEN",
       "calado": "13,50",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
       "imo": "9369734",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-27T06:00:00"
+    },
+    {
+      "data": "27/04",
+      "hora": "08:00",
+      "navio": "LE HAVRE",
+      "calado": "10,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -139,6 +154,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-28T06:00:00"
+    },
+    {
+      "data": "28/04",
+      "hora": "08:00",
+      "navio": "LE HAVRE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9307243",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-28T08:00:00"
     },
     {
       "data": "28/04",
@@ -413,7 +443,7 @@
       "manobra_rio_fim": "27/04 14:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/04 06:00"
+      "manobra_multi_data_hora": "27/04 05:00"
     },
     {
       "navio_rio": "CMA CGM VERACRUZ",
@@ -422,7 +452,25 @@
       "manobra_rio_fim": "27/04 14:00",
       "navio_multi": "MSC BREMEN",
       "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "27/04 06:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "26/04 10:00",
+      "manobra_rio_fim": "27/04 14:00",
+      "navio_multi": "LE HAVRE",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "27/04 08:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING BRAZIL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "27/04 16:00",
+      "manobra_rio_fim": "28/04 13:30",
+      "navio_multi": "LE HAVRE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/04 08:00"
     },
     {
       "navio_rio": "EVER FEAT",
