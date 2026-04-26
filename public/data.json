@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/04/2026 07:09",
+  "ultima_atualizacao": "26/04/2026 08:05",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -31,7 +31,7 @@
       "imo": "9369734",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-04-26T12:00:00"
     },
@@ -39,7 +39,7 @@
       "data": "26/04",
       "hora": "15:00",
       "navio": "XIN CHONG QING",
-      "calado": "11,00",
+      "calado": "12,50",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -142,7 +142,7 @@
     },
     {
       "data": "28/04",
-      "hora": "14:00",
+      "hora": "13:30",
       "navio": "COSCO SHIPPING BRAZIL",
       "calado": "13,50",
       "manobra": "S",
@@ -153,11 +153,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-28T14:00:00"
+      "timestamp": "2026-04-28T13:30:00"
     },
     {
       "data": "28/04",
-      "hora": "16:00",
+      "hora": "15:30",
       "navio": "CMA CGM COBALT",
       "calado": "14,00",
       "manobra": "E",
@@ -168,11 +168,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-28T16:00:00"
+      "timestamp": "2026-04-28T15:30:00"
     },
     {
       "data": "29/04",
-      "hora": "14:00",
+      "hora": "13:30",
       "navio": "CMA CGM COBALT",
       "calado": "13,50",
       "manobra": "S",
@@ -183,11 +183,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-29T14:00:00"
+      "timestamp": "2026-04-29T13:30:00"
     },
     {
       "data": "29/04",
-      "hora": "16:00",
+      "hora": "15:30",
       "navio": "KOTA EBONY",
       "calado": "14,60",
       "manobra": "E",
@@ -198,7 +198,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-29T16:00:00"
+      "timestamp": "2026-04-29T15:30:00"
     },
     {
       "data": "30/04",
