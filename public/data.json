@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/04/2026 08:54",
+  "ultima_atualizacao": "26/04/2026 10:14",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -31,7 +31,7 @@
       "imo": "9369734",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-26T12:00:00"
     },
@@ -84,7 +84,7 @@
       "data": "27/04",
       "hora": "08:00",
       "navio": "LE HAVRE",
-      "calado": "10,40",
+      "calado": "11,80",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
