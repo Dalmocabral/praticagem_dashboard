@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/04/2026 18:50",
+  "ultima_atualizacao": "26/04/2026 19:31",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -126,6 +126,21 @@
       "timestamp": "2026-04-28T10:00:00"
     },
     {
+      "data": "28/04",
+      "hora": "12:00",
+      "navio": "COSCO SHIPPING BRAZIL",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9945837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-28T12:00:00"
+    },
+    {
       "data": "29/04",
       "hora": "13:30",
       "navio": "CMA CGM COBALT",
@@ -154,6 +169,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-29T15:30:00"
+    },
+    {
+      "data": "30/04",
+      "hora": "06:00",
+      "navio": "COSCO SHIPPING BRAZIL",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9945837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-04-30T06:00:00"
     },
     {
       "data": "30/04",
