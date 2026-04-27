@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "27/04/2026 08:18",
+  "ultima_atualizacao": "27/04/2026 09:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "27/04",
-      "hora": "08:00",
-      "navio": "LE HAVRE",
-      "calado": "11,80",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9307243",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-27T08:00:00"
-    },
     {
       "data": "27/04",
       "hora": "12:00",
@@ -31,7 +16,7 @@
       "imo": "9369734",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-27T12:00:00"
     },
@@ -39,7 +24,7 @@
       "data": "27/04",
       "hora": "14:00",
       "navio": "MAERSK MONTE ALEGRE",
-      "calado": "13,70",
+      "calado": "13,65",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -52,7 +37,22 @@
     },
     {
       "data": "27/04",
-      "hora": "16:00",
+      "hora": "16:30",
+      "navio": "MAERSK CHACHAI",
+      "calado": "13,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9525388",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-27T16:30:00"
+    },
+    {
+      "data": "27/04",
+      "hora": "18:30",
       "navio": "BBC VERMONT",
       "calado": "6,40",
       "manobra": "E",
@@ -63,22 +63,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-27T16:00:00"
-    },
-    {
-      "data": "27/04",
-      "hora": "18:00",
-      "navio": "MAERSK CHACHAI",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9525388",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-27T18:00:00"
+      "timestamp": "2026-04-27T18:30:00"
     },
     {
       "data": "28/04",
@@ -402,18 +387,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "27/04 14:00",
       "manobra_rio_fim": "28/04 06:00",
-      "navio_multi": "BBC VERMONT",
+      "navio_multi": "MAERSK CHACHAI",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/04 16:00"
+      "manobra_multi_data_hora": "27/04 16:30"
     },
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "27/04 14:00",
       "manobra_rio_fim": "28/04 06:00",
-      "navio_multi": "MAERSK CHACHAI",
+      "navio_multi": "BBC VERMONT",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/04 18:00"
+      "manobra_multi_data_hora": "27/04 18:30"
     },
     {
       "navio_rio": "EVER FEAT",
