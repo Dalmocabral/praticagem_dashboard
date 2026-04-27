@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "27/04/2026 12:11",
+  "ultima_atualizacao": "27/04/2026 13:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "27/04",
-      "hora": "12:00",
-      "navio": "MSC BREMEN",
-      "calado": "13,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9369734",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-27T12:00:00"
-    },
     {
       "data": "27/04",
       "hora": "14:00",
@@ -46,7 +31,7 @@
       "imo": "9525388",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-27T16:30:00"
     },
