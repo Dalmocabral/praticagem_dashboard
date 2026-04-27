@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/04/2026 03:38",
+  "ultima_atualizacao": "27/04/2026 06:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -9,7 +9,7 @@
       "data": "27/04",
       "hora": "06:00",
       "navio": "CMA CGM VERACRUZ",
-      "calado": "11,60",
+      "calado": "11,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-04-27T08:00:00"
     },
