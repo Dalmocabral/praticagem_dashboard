@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/04/2026 20:22",
+  "ultima_atualizacao": "26/04/2026 21:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,28 +7,43 @@
   "navios": [
     {
       "data": "27/04",
-      "hora": "06:30",
+      "hora": "02:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-27T02:00:00"
+    },
+    {
+      "data": "27/04",
+      "hora": "06:00",
       "navio": "MSC BREMEN",
       "calado": "13,50",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9369734",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-27T06:30:00"
+      "timestamp": "2026-04-27T06:00:00"
     },
     {
       "data": "27/04",
       "hora": "08:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "S",
+      "navio": "LE HAVRE",
+      "calado": "11,80",
+      "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
+      "status": "hoje",
+      "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -42,7 +57,7 @@
       "calado": "13,70",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9348065",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,28 +72,13 @@
       "calado": "11,60",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-27T14:00:00"
-    },
-    {
-      "data": "27/04",
-      "hora": "16:00",
-      "navio": "LE HAVRE",
-      "calado": "11,80",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9307243",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-27T16:00:00"
     },
     {
       "data": "28/04",
@@ -382,15 +382,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK MONTE ALEGRE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/04 12:00",
-      "manobra_rio_fim": "28/04 06:00",
-      "navio_multi": "LE HAVRE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/04 16:00"
-    },
     {
       "navio_rio": "EVER FEAT",
       "manobra_rio_afetada": "E",
