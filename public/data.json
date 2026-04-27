@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "27/04/2026 18:55",
+  "ultima_atualizacao": "27/04/2026 19:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "27/04",
-      "hora": "18:30",
-      "navio": "BBC VERMONT",
-      "calado": "6,40",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9357236",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-04-27T18:30:00"
-    },
     {
       "data": "28/04",
       "hora": "06:00",
@@ -112,7 +97,7 @@
     },
     {
       "data": "29/04",
-      "hora": "13:30",
+      "hora": "08:00",
       "navio": "CMA CGM COBALT",
       "calado": "13,50",
       "manobra": "S",
@@ -123,11 +108,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-29T13:30:00"
+      "timestamp": "2026-04-29T08:00:00"
     },
     {
       "data": "29/04",
-      "hora": "15:30",
+      "hora": "10:00",
       "navio": "KOTA EBONY",
       "calado": "14,60",
       "manobra": "E",
@@ -138,7 +123,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-29T15:30:00"
+      "timestamp": "2026-04-29T10:00:00"
     },
     {
       "data": "30/04",
@@ -416,7 +401,7 @@
       "navio_rio": "CMA CGM COBALT",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/04 10:00",
-      "manobra_rio_fim": "29/04 13:30",
+      "manobra_rio_fim": "29/04 08:00",
       "navio_multi": "MAERSK CHACHAI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "28/04 14:00"
@@ -425,7 +410,7 @@
       "navio_rio": "CMA CGM COBALT",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/04 10:00",
-      "manobra_rio_fim": "29/04 13:30",
+      "manobra_rio_fim": "29/04 08:00",
       "navio_multi": "BBC VERMONT",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "28/04 16:00"
