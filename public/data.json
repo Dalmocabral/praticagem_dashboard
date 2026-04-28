@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "28/04/2026 18:37",
+  "ultima_atualizacao": "28/04/2026 19:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "29/04",
-      "hora": "01:00",
-      "navio": "BBC VERMONT",
-      "calado": "6,60",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "futuro",
-      "imo": "9357236",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-29T01:00:00"
-    },
     {
       "data": "29/04",
       "hora": "08:00",
@@ -64,6 +49,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-29T12:00:00"
+    },
+    {
+      "data": "29/04",
+      "hora": "18:00",
+      "navio": "BBC VERMONT",
+      "calado": "6,60",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9357236",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-29T18:00:00"
     },
     {
       "data": "30/04",
@@ -367,6 +367,24 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "KOTA EBONY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "29/04 10:00",
+      "manobra_rio_fim": "30/04 14:00",
+      "navio_multi": "BBC VERMONT",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "29/04 18:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING BRAZIL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "29/04 12:00",
+      "manobra_rio_fim": "30/04 15:30",
+      "navio_multi": "BBC VERMONT",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "29/04 18:00"
+    },
     {
       "navio_rio": "EVER FEAT",
       "manobra_rio_afetada": "E",
