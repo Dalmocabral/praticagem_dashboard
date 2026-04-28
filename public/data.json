@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/04/2026 19:38",
+  "ultima_atualizacao": "28/04/2026 20:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -37,21 +37,6 @@
     },
     {
       "data": "29/04",
-      "hora": "12:00",
-      "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9945837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-04-29T12:00:00"
-    },
-    {
-      "data": "29/04",
       "hora": "18:00",
       "navio": "BBC VERMONT",
       "calado": "6,60",
@@ -67,7 +52,7 @@
     },
     {
       "data": "30/04",
-      "hora": "14:00",
+      "hora": "13:30",
       "navio": "KOTA EBONY",
       "calado": "13,90",
       "manobra": "S",
@@ -78,15 +63,15 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-04-30T14:00:00"
+      "timestamp": "2026-04-30T13:30:00"
     },
     {
       "data": "30/04",
       "hora": "15:30",
       "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "13,50",
-      "manobra": "S",
-      "beco": "TECONT1",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9945837",
       "tipo_navio": "CONTAINER SHIP",
@@ -94,6 +79,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-30T15:30:00"
+    },
+    {
+      "data": "01/05",
+      "hora": "15:30",
+      "navio": "COSCO SHIPPING BRAZIL",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-01T15:30:00"
     },
     {
       "data": "02/05",
@@ -371,16 +371,7 @@
       "navio_rio": "KOTA EBONY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "29/04 10:00",
-      "manobra_rio_fim": "30/04 14:00",
-      "navio_multi": "BBC VERMONT",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/04 18:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "29/04 12:00",
-      "manobra_rio_fim": "30/04 15:30",
+      "manobra_rio_fim": "30/04 13:30",
       "navio_multi": "BBC VERMONT",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "29/04 18:00"
