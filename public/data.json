@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "28/04/2026 10:04",
+  "ultima_atualizacao": "28/04/2026 12:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "28/04",
-      "hora": "09:00",
-      "navio": "CMA CGM COBALT",
-      "calado": "14,45",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996680",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-04-28T09:00:00"
-    },
     {
       "data": "28/04",
       "hora": "15:30",
@@ -31,7 +16,7 @@
       "imo": "9525388",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-04-28T15:30:00"
     },
@@ -276,6 +261,36 @@
       "timestamp": "2026-05-07T09:00:00"
     },
     {
+      "data": "10/05",
+      "hora": "21:00",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "12,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-10T21:00:00"
+    },
+    {
+      "data": "11/05",
+      "hora": "16:30",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-11T16:30:00"
+    },
+    {
       "data": "12/05",
       "hora": "08:00",
       "navio": "COSCO SHIPPING MEXICO",
@@ -367,24 +382,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM COBALT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "28/04 09:00",
-      "manobra_rio_fim": "29/04 08:00",
-      "navio_multi": "MAERSK CHACHAI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/04 15:30"
-    },
-    {
-      "navio_rio": "CMA CGM COBALT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "28/04 09:00",
-      "manobra_rio_fim": "29/04 08:00",
-      "navio_multi": "BBC VERMONT",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/04 19:00"
-    },
     {
       "navio_rio": "EVER FEAT",
       "manobra_rio_afetada": "E",
