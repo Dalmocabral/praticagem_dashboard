@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/04/2026 10:01",
+  "ultima_atualizacao": "29/04/2026 12:24",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -22,18 +22,18 @@
     },
     {
       "data": "29/04",
-      "hora": "10:00",
-      "navio": "KOTA EBONY",
-      "calado": "14,60",
+      "hora": "15:30",
+      "navio": "COSCO SHIPPING BRAZIL",
+      "calado": "14,00",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "hoje",
-      "imo": "9968853",
+      "imo": "9945837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
-      "timestamp": "2026-04-29T10:00:00"
+      "timestamp": "2026-04-29T15:30:00"
     },
     {
       "data": "29/04",
@@ -49,6 +49,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-04-29T18:00:00"
+    },
+    {
+      "data": "30/04",
+      "hora": "11:00",
+      "navio": "CAPE SOUNIO",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9727625",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-30T11:00:00"
     },
     {
       "data": "30/04",
@@ -69,9 +84,9 @@
       "data": "30/04",
       "hora": "15:30",
       "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9945837",
       "tipo_navio": "CONTAINER SHIP",
@@ -82,18 +97,18 @@
     },
     {
       "data": "01/05",
-      "hora": "15:30",
-      "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "13,50",
+      "hora": "06:00",
+      "navio": "CAPE SOUNIO",
+      "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9945837",
+      "imo": "9727625",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-01T15:30:00"
+      "terminal": "multi",
+      "timestamp": "2026-05-01T06:00:00"
     },
     {
       "data": "02/05",
@@ -398,13 +413,22 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "KOTA EBONY",
+      "navio_rio": "COSCO SHIPPING BRAZIL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "29/04 10:00",
-      "manobra_rio_fim": "30/04 13:30",
+      "manobra_rio_inicio": "29/04 15:30",
+      "manobra_rio_fim": "30/04 15:30",
       "navio_multi": "BBC VERMONT",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "29/04 18:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING BRAZIL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "29/04 15:30",
+      "manobra_rio_fim": "30/04 15:30",
+      "navio_multi": "CAPE SOUNIO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "30/04 11:00"
     },
     {
       "navio_rio": "EVER FEAT",
