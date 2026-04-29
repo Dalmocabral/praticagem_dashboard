@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/04/2026 14:05",
+  "ultima_atualizacao": "29/04/2026 15:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -37,7 +37,7 @@
     },
     {
       "data": "29/04",
-      "hora": "18:00",
+      "hora": "22:00",
       "navio": "BBC VERMONT",
       "calado": "6,60",
       "manobra": "S",
@@ -46,9 +46,9 @@
       "imo": "9357236",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-29T18:00:00"
+      "timestamp": "2026-04-29T22:00:00"
     },
     {
       "data": "30/04",
@@ -96,6 +96,21 @@
       "timestamp": "2026-04-30T15:30:00"
     },
     {
+      "data": "30/04",
+      "hora": "23:00",
+      "navio": "MSC LEILA",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1016654",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-30T23:00:00"
+    },
+    {
       "data": "01/05",
       "hora": "06:00",
       "navio": "CAPE SOUNIO",
@@ -109,6 +124,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-01T06:00:00"
+    },
+    {
+      "data": "01/05",
+      "hora": "15:30",
+      "navio": "MSC LEILA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1016654",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-01T15:30:00"
     },
     {
       "data": "02/05",
@@ -419,7 +449,7 @@
       "manobra_rio_fim": "30/04 15:30",
       "navio_multi": "BBC VERMONT",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/04 18:00"
+      "manobra_multi_data_hora": "29/04 22:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
