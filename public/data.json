@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/04/2026 06:36",
+  "ultima_atualizacao": "29/04/2026 08:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -31,7 +31,7 @@
       "imo": "9968853",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-04-29T10:00:00"
     },
@@ -304,6 +304,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-13T06:30:00"
+    },
+    {
+      "data": "15/05",
+      "hora": "06:30",
+      "navio": "MSC CHLOE",
+      "calado": "14,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9720483",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-15T06:30:00"
+    },
+    {
+      "data": "16/05",
+      "hora": "06:30",
+      "navio": "MSC CHLOE",
+      "calado": "14,70",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9720483",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-16T06:30:00"
     },
     {
       "data": "18/05",
