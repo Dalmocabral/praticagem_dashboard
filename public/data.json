@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/04/2026 15:45",
+  "ultima_atualizacao": "29/04/2026 17:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -36,19 +36,19 @@
       "timestamp": "2026-04-29T15:30:00"
     },
     {
-      "data": "29/04",
-      "hora": "22:00",
+      "data": "30/04",
+      "hora": "03:00",
       "navio": "BBC VERMONT",
       "calado": "6,60",
       "manobra": "S",
       "beco": "TECONT4",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9357236",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-04-29T22:00:00"
+      "timestamp": "2026-04-30T03:00:00"
     },
     {
       "data": "30/04",
@@ -204,7 +204,7 @@
       "data": "05/05",
       "hora": "08:00",
       "navio": "CMA CGM THORIUM",
-      "calado": "14,00",
+      "calado": "14,40",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -449,7 +449,7 @@
       "manobra_rio_fim": "30/04 15:30",
       "navio_multi": "BBC VERMONT",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/04 22:00"
+      "manobra_multi_data_hora": "30/04 03:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
