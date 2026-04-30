@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "30/04/2026 01:05",
+  "ultima_atualizacao": "30/04/2026 03:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "30/04",
-      "hora": "01:00",
-      "navio": "BBC VERMONT",
-      "calado": "6,80",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9357236",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-04-30T01:00:00"
-    },
-    {
-      "data": "30/04",
-      "hora": "11:00",
-      "navio": "CAPE SOUNIO",
-      "calado": "10,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9727625",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-04-30T11:00:00"
-    },
     {
       "data": "30/04",
       "hora": "13:30",
@@ -64,6 +34,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-04-30T15:30:00"
+    },
+    {
+      "data": "30/04",
+      "hora": "17:30",
+      "navio": "CAPE SOUNIO",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9727625",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-04-30T17:30:00"
     },
     {
       "data": "01/05",
