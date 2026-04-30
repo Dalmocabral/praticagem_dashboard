@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "30/04/2026 18:29",
+  "ultima_atualizacao": "30/04/2026 19:31",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -189,7 +189,7 @@
       "data": "02/05",
       "hora": "12:30",
       "navio": "MAERSK ACADIA",
-      "calado": "12,60",
+      "calado": "10,60",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
