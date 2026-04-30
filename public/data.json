@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/04/2026 21:10",
+  "ultima_atualizacao": "30/04/2026 01:05",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,18 +7,18 @@
   "navios": [
     {
       "data": "30/04",
-      "hora": "03:00",
+      "hora": "01:00",
       "navio": "BBC VERMONT",
-      "calado": "6,60",
+      "calado": "6,80",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "hoje",
       "imo": "9357236",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-04-30T03:00:00"
+      "timestamp": "2026-04-30T01:00:00"
     },
     {
       "data": "30/04",
