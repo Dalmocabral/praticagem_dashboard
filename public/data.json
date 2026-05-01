@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/05/2026 11:43",
+  "ultima_atualizacao": "01/05/2026 12:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -61,7 +61,7 @@
       "imo": "9727625",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-05-01T16:30:00"
     },
@@ -259,6 +259,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-03T09:30:00"
+    },
+    {
+      "data": "03/05",
+      "hora": "11:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-03T11:00:00"
+    },
+    {
+      "data": "04/05",
+      "hora": "05:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,30",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-04T05:00:00"
     },
     {
       "data": "04/05",
