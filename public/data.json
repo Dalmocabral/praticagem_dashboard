@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "01/05/2026 16:58",
+  "ultima_atualizacao": "01/05/2026 18:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "01/05",
-      "hora": "13:00",
-      "navio": "MSC LEILA",
-      "calado": "13,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1016654",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-01T13:00:00"
-    },
-    {
-      "data": "01/05",
-      "hora": "16:30",
-      "navio": "CAPE SOUNIO",
-      "calado": "11,30",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9727625",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-01T16:30:00"
-    },
     {
       "data": "01/05",
       "hora": "18:30",
