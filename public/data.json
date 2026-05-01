@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "01/05/2026 13:40",
+  "ultima_atualizacao": "01/05/2026 14:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "01/05",
-      "hora": "11:30",
-      "navio": "VICTORIA HIGHWAY",
-      "calado": "9,50",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9827255",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-01T11:30:00"
-    },
     {
       "data": "01/05",
       "hora": "13:00",
@@ -67,7 +52,7 @@
     },
     {
       "data": "01/05",
-      "hora": "19:00",
+      "hora": "18:30",
       "navio": "TWEED",
       "calado": "7,10",
       "manobra": "E",
@@ -76,9 +61,9 @@
       "imo": "9865740",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
-      "timestamp": "2026-05-01T19:00:00"
+      "timestamp": "2026-05-01T18:30:00"
     },
     {
       "data": "02/05",
@@ -187,7 +172,7 @@
     },
     {
       "data": "02/05",
-      "hora": "19:00",
+      "hora": "18:30",
       "navio": "TWEED",
       "calado": "7,10",
       "manobra": "S",
@@ -198,11 +183,26 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-02T19:00:00"
+      "timestamp": "2026-05-02T18:30:00"
+    },
+    {
+      "data": "02/05",
+      "hora": "20:30",
+      "navio": "SUNNY PHOENIX",
+      "calado": "12,40",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9227027",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-02T20:30:00"
     },
     {
       "data": "03/05",
-      "hora": "00:30",
+      "hora": "01:30",
       "navio": "MAERSK ACADIA",
       "calado": "12,60",
       "manobra": "S",
@@ -213,7 +213,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-03T00:30:00"
+      "timestamp": "2026-05-03T01:30:00"
+    },
+    {
+      "data": "03/05",
+      "hora": "05:30",
+      "navio": "SUNNY PHOENIX",
+      "calado": "12,30",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9227027",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-03T05:30:00"
     },
     {
       "data": "03/05",
@@ -307,7 +322,7 @@
     },
     {
       "data": "04/05",
-      "hora": "08:00",
+      "hora": "09:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,40",
       "manobra": "E",
@@ -318,7 +333,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-04T08:00:00"
+      "timestamp": "2026-05-04T09:00:00"
     },
     {
       "data": "05/05",
@@ -589,8 +604,8 @@
     {
       "navio_rio": "TWEED",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/05 19:00",
-      "manobra_rio_fim": "02/05 19:00",
+      "manobra_rio_inicio": "01/05 18:30",
+      "manobra_rio_fim": "02/05 18:30",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/05 05:00"
@@ -598,8 +613,8 @@
     {
       "navio_rio": "TWEED",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/05 19:00",
-      "manobra_rio_fim": "02/05 19:00",
+      "manobra_rio_inicio": "01/05 18:30",
+      "manobra_rio_fim": "02/05 18:30",
       "navio_multi": "MSC LEILA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/05 06:00"
@@ -607,8 +622,8 @@
     {
       "navio_rio": "TWEED",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/05 19:00",
-      "manobra_rio_fim": "02/05 19:00",
+      "manobra_rio_inicio": "01/05 18:30",
+      "manobra_rio_fim": "02/05 18:30",
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "02/05 08:00"
@@ -616,8 +631,8 @@
     {
       "navio_rio": "TWEED",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/05 19:00",
-      "manobra_rio_fim": "02/05 19:00",
+      "manobra_rio_inicio": "01/05 18:30",
+      "manobra_rio_fim": "02/05 18:30",
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "02/05 09:30"
@@ -625,8 +640,8 @@
     {
       "navio_rio": "TWEED",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/05 19:00",
-      "manobra_rio_fim": "02/05 19:00",
+      "manobra_rio_inicio": "01/05 18:30",
+      "manobra_rio_fim": "02/05 18:30",
       "navio_multi": "VICTORIA HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/05 17:00"
@@ -635,7 +650,7 @@
       "navio_rio": "MAERSK ACADIA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "02/05 12:30",
-      "manobra_rio_fim": "03/05 00:30",
+      "manobra_rio_fim": "03/05 01:30",
       "navio_multi": "VICTORIA HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/05 17:00"
