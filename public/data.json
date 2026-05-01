@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/05/2026 07:52",
+  "ultima_atualizacao": "01/05/2026 08:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,48 +7,33 @@
   "navios": [
     {
       "data": "01/05",
-      "hora": "06:30",
-      "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "14,20",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "hora": "11:30",
+      "navio": "VICTORIA HIGHWAY",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONT5",
       "status": "hoje",
-      "imo": "9945837",
-      "tipo_navio": "CONTAINER SHIP",
+      "imo": "9827255",
+      "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-05-01T06:30:00"
-    },
-    {
-      "data": "01/05",
-      "hora": "10:30",
-      "navio": "CAPE SOUNIO",
-      "calado": "11,30",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9727625",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
-      "timestamp": "2026-05-01T10:30:00"
+      "timestamp": "2026-05-01T11:30:00"
     },
     {
       "data": "01/05",
-      "hora": "12:30",
+      "hora": "13:00",
       "navio": "MSC LEILA",
       "calado": "13,30",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "hoje",
       "imo": "1016654",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-01T12:30:00"
+      "timestamp": "2026-05-01T13:00:00"
     },
     {
       "data": "01/05",
@@ -67,18 +52,18 @@
     },
     {
       "data": "01/05",
-      "hora": "17:00",
-      "navio": "VICTORIA HIGHWAY",
-      "calado": "10,00",
-      "manobra": "E",
-      "beco": "TECONT5",
+      "hora": "16:30",
+      "navio": "CAPE SOUNIO",
+      "calado": "11,30",
+      "manobra": "S",
+      "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9827255",
-      "tipo_navio": "VEHICLES CARRIER",
+      "imo": "9727625",
+      "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-01T17:00:00"
+      "timestamp": "2026-05-01T16:30:00"
     },
     {
       "data": "01/05",
@@ -131,7 +116,7 @@
       "navio": "MSC LEILA",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "1016654",
       "tipo_navio": "CONTAINER SHIP",
@@ -567,9 +552,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "01/05 14:30",
       "manobra_rio_fim": "02/05 00:00",
-      "navio_multi": "VICTORIA HIGHWAY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/05 17:00"
+      "navio_multi": "CAPE SOUNIO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/05 16:30"
     },
     {
       "navio_rio": "TWEED",
