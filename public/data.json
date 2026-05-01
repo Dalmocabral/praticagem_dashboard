@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/05/2026 14:43",
+  "ultima_atualizacao": "01/05/2026 15:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -61,7 +61,7 @@
       "imo": "9865740",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-01T18:30:00"
     },
@@ -113,6 +113,21 @@
     {
       "data": "02/05",
       "hora": "08:00",
+      "navio": "MSC BIANCA",
+      "calado": "14,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9770749",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-02T08:00:00"
+    },
+    {
+      "data": "02/05",
+      "hora": "08:00",
       "navio": "XIAMEN EXPRESS",
       "calado": "10,80",
       "manobra": "E",
@@ -124,21 +139,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-02T08:00:00"
-    },
-    {
-      "data": "02/05",
-      "hora": "09:30",
-      "navio": "MSC BIANCA",
-      "calado": "14,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9770749",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-02T09:30:00"
     },
     {
       "data": "02/05",
@@ -251,7 +251,7 @@
       "navio": "MSC BIANCA",
       "calado": "13,50",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9770749",
       "tipo_navio": "CONTAINER SHIP",
@@ -291,6 +291,36 @@
       "timestamp": "2026-05-03T11:00:00"
     },
     {
+      "data": "03/05",
+      "hora": "13:00",
+      "navio": "COPIAPO",
+      "calado": "13,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9687526",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-03T13:00:00"
+    },
+    {
+      "data": "03/05",
+      "hora": "15:00",
+      "navio": "GINGA OCELOT",
+      "calado": "10,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9581423",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-03T15:00:00"
+    },
+    {
       "data": "04/05",
       "hora": "05:00",
       "navio": "MERCOSUL FORTALEZA",
@@ -322,6 +352,21 @@
     },
     {
       "data": "04/05",
+      "hora": "07:00",
+      "navio": "COPIAPO",
+      "calado": "13,89",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9687526",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-04T07:00:00"
+    },
+    {
+      "data": "04/05",
       "hora": "09:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,40",
@@ -334,6 +379,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-04T09:00:00"
+    },
+    {
+      "data": "05/05",
+      "hora": "06:00",
+      "navio": "GINGA OCELOT",
+      "calado": "8,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9581423",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-05T06:00:00"
     },
     {
       "data": "05/05",
@@ -624,7 +684,7 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "01/05 18:30",
       "manobra_rio_fim": "02/05 18:30",
-      "navio_multi": "XIAMEN EXPRESS",
+      "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "02/05 08:00"
     },
@@ -633,9 +693,9 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "01/05 18:30",
       "manobra_rio_fim": "02/05 18:30",
-      "navio_multi": "MSC BIANCA",
+      "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/05 09:30"
+      "manobra_multi_data_hora": "02/05 08:00"
     },
     {
       "navio_rio": "TWEED",
@@ -654,6 +714,42 @@
       "navio_multi": "VICTORIA HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/05 17:00"
+    },
+    {
+      "navio_rio": "MERCOSUL FORTALEZA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/05 11:00",
+      "manobra_rio_fim": "04/05 05:00",
+      "navio_multi": "COPIAPO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/05 13:00"
+    },
+    {
+      "navio_rio": "GINGA OCELOT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/05 15:00",
+      "manobra_rio_fim": "05/05 06:00",
+      "navio_multi": "MSC INSA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "04/05 06:00"
+    },
+    {
+      "navio_rio": "GINGA OCELOT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/05 15:00",
+      "manobra_rio_fim": "05/05 06:00",
+      "navio_multi": "COPIAPO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "04/05 07:00"
+    },
+    {
+      "navio_rio": "GINGA OCELOT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/05 15:00",
+      "manobra_rio_fim": "05/05 06:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "04/05 09:00"
     },
     {
       "navio_rio": "CMA CGM THORIUM",
