@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/05/2026 15:48",
+  "ultima_atualizacao": "01/05/2026 16:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -19,21 +19,6 @@
       "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-01T13:00:00"
-    },
-    {
-      "data": "01/05",
-      "hora": "14:30",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,40",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-01T14:30:00"
     },
     {
       "data": "01/05",
@@ -127,18 +112,18 @@
     },
     {
       "data": "02/05",
-      "hora": "08:00",
+      "hora": "09:30",
       "navio": "XIAMEN EXPRESS",
       "calado": "10,80",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-02T08:00:00"
+      "timestamp": "2026-05-02T09:30:00"
     },
     {
       "data": "02/05",
@@ -236,7 +221,7 @@
       "navio": "XIAMEN EXPRESS",
       "calado": "10,10",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
@@ -653,15 +638,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/05 14:30",
-      "manobra_rio_fim": "02/05 00:00",
-      "navio_multi": "CAPE SOUNIO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/05 16:30"
-    },
-    {
       "navio_rio": "TWEED",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "01/05 18:30",
@@ -695,7 +671,7 @@
       "manobra_rio_fim": "02/05 18:30",
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/05 08:00"
+      "manobra_multi_data_hora": "02/05 09:30"
     },
     {
       "navio_rio": "TWEED",
