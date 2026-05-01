@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/05/2026 18:03",
+  "ultima_atualizacao": "01/05/2026 19:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -24,7 +24,7 @@
       "data": "02/05",
       "hora": "00:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
+      "calado": "8,60",
       "manobra": "M",
       "beco": "TECONT1",
       "status": "futuro",
@@ -604,6 +604,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-20T06:30:00"
+    },
+    {
+      "data": "27/05",
+      "hora": "15:30",
+      "navio": "KOTA EMBUN",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9968865",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-27T15:30:00"
+    },
+    {
+      "data": "28/05",
+      "hora": "15:30",
+      "navio": "KOTA EMBUN",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9968865",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-28T15:30:00"
     }
   ],
   "conflitos": [
