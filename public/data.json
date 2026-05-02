@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/05/2026 13:28",
+  "ultima_atualizacao": "02/05/2026 14:27",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,18 +7,18 @@
   "navios": [
     {
       "data": "02/05",
-      "hora": "12:30",
-      "navio": "MAERSK ACADIA",
-      "calado": "10,70",
-      "manobra": "E",
-      "beco": "TECONT1",
+      "hora": "16:00",
+      "navio": "TWEED",
+      "calado": "7,10",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
-      "imo": "9928188",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
+      "imo": "9865740",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-05-02T12:30:00"
+      "timestamp": "2026-05-02T16:00:00"
     },
     {
       "data": "02/05",
@@ -31,24 +31,9 @@
       "imo": "9827255",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-02T17:00:00"
-    },
-    {
-      "data": "02/05",
-      "hora": "18:30",
-      "navio": "TWEED",
-      "calado": "7,10",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9865740",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-02T18:30:00"
     },
     {
       "data": "02/05",
@@ -547,15 +532,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK ACADIA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/05 12:30",
-      "manobra_rio_fim": "03/05 01:30",
-      "navio_multi": "VICTORIA HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/05 17:00"
-    },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
       "manobra_rio_afetada": "E",
