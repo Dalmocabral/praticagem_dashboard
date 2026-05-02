@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/05/2026 21:02",
+  "ultima_atualizacao": "02/05/2026 00:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,9 +7,9 @@
   "navios": [
     {
       "data": "02/05",
-      "hora": "00:00",
+      "hora": "00:30",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,60",
+      "calado": "8,50",
       "manobra": "M",
       "beco": "TECONT1",
       "status": "hoje",
@@ -18,7 +18,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-05-02T00:00:00"
+      "timestamp": "2026-05-02T00:30:00"
     },
     {
       "data": "02/05",
@@ -26,7 +26,7 @@
       "navio": "LOG-IN PANTANAL",
       "calado": "9,20",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
@@ -39,7 +39,7 @@
       "data": "02/05",
       "hora": "06:00",
       "navio": "MSC LEILA",
-      "calado": "12,60",
+      "calado": "14,50",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
