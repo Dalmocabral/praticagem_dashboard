@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/05/2026 04:57",
+  "ultima_atualizacao": "02/05/2026 06:16",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -46,7 +46,7 @@
       "imo": "9770749",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-02T08:00:00"
     },
@@ -54,14 +54,14 @@
       "data": "02/05",
       "hora": "09:30",
       "navio": "XIAMEN EXPRESS",
-      "calado": "10,80",
+      "calado": "10,70",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-05-02T09:30:00"
     },
