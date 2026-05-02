@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "02/05/2026 18:09",
+  "ultima_atualizacao": "02/05/2026 18:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "02/05",
-      "hora": "17:00",
-      "navio": "VICTORIA HIGHWAY",
-      "calado": "9,50",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9827255",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-02T17:00:00"
-    },
     {
       "data": "02/05",
       "hora": "19:00",
