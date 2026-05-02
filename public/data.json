@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "02/05/2026 09:00",
+  "ultima_atualizacao": "02/05/2026 10:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "02/05",
-      "hora": "06:00",
-      "navio": "MSC LEILA",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1016654",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-02T06:00:00"
-    },
-    {
-      "data": "02/05",
-      "hora": "08:00",
-      "navio": "MSC BIANCA",
-      "calado": "14,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9770749",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-02T08:00:00"
-    },
     {
       "data": "02/05",
       "hora": "09:30",
@@ -61,7 +31,7 @@
       "imo": "9928188",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-02T12:30:00"
     },
