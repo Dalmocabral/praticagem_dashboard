@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/05/2026 14:27",
+  "ultima_atualizacao": "02/05/2026 15:30",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -37,7 +37,7 @@
     },
     {
       "data": "02/05",
-      "hora": "20:30",
+      "hora": "19:00",
       "navio": "SUNNY PHOENIX",
       "calado": "12,40",
       "manobra": "E",
@@ -46,9 +46,9 @@
       "imo": "9227027",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
-      "timestamp": "2026-05-02T20:30:00"
+      "timestamp": "2026-05-02T19:00:00"
     },
     {
       "data": "03/05",
