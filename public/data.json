@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/05/2026 12:57",
+  "ultima_atualizacao": "03/05/2026 14:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -46,7 +46,7 @@
       "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-03T16:30:00"
     },
@@ -126,6 +126,21 @@
       "timestamp": "2026-05-04T15:00:00"
     },
     {
+      "data": "04/05",
+      "hora": "22:00",
+      "navio": "MSC LE HAVRE",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9975583",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-04T22:00:00"
+    },
+    {
       "data": "05/05",
       "hora": "05:00",
       "navio": "GINGA OCELOT",
@@ -172,6 +187,21 @@
     },
     {
       "data": "05/05",
+      "hora": "15:00",
+      "navio": "MSC LE HAVRE",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9975583",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-05T15:00:00"
+    },
+    {
+      "data": "05/05",
       "hora": "16:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
@@ -184,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-05T16:00:00"
+    },
+    {
+      "data": "05/05",
+      "hora": "18:00",
+      "navio": "MSC ODESSA V",
+      "calado": "11,20",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9456965",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-05T18:00:00"
     },
     {
       "data": "06/05",
@@ -199,6 +244,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-06T06:30:00"
+    },
+    {
+      "data": "06/05",
+      "hora": "07:30",
+      "navio": "MSC ODESSA V",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9456965",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-06T07:30:00"
     },
     {
       "data": "06/05",
@@ -443,6 +503,24 @@
   ],
   "conflitos": [
     {
+      "navio_rio": "RDO FORTUNE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "04/05 15:00",
+      "manobra_rio_fim": "05/05 06:00",
+      "navio_multi": "MSC LE HAVRE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "04/05 22:00"
+    },
+    {
+      "navio_rio": "CMA CGM THORIUM",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/05 08:00",
+      "manobra_rio_fim": "06/05 06:30",
+      "navio_multi": "MSC LE HAVRE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/05 15:00"
+    },
+    {
       "navio_rio": "CMA CGM THORIUM",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/05 08:00",
@@ -450,6 +528,15 @@
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "05/05 16:00"
+    },
+    {
+      "navio_rio": "CMA CGM THORIUM",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/05 08:00",
+      "manobra_rio_fim": "06/05 06:30",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "05/05 18:00"
     }
   ]
 }
