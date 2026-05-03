@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "03/05/2026 11:58",
+  "ultima_atualizacao": "03/05/2026 12:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "03/05",
-      "hora": "11:00",
-      "navio": "XIAMEN EXPRESS",
-      "calado": "9,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9630420",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-03T11:00:00"
-    },
     {
       "data": "03/05",
       "hora": "13:00",
@@ -39,14 +24,14 @@
       "data": "03/05",
       "hora": "15:00",
       "navio": "MSC INSA",
-      "calado": "11,20",
+      "calado": "11,00",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-03T15:00:00"
     },
@@ -61,7 +46,7 @@
       "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-05-03T16:30:00"
     },
@@ -69,7 +54,7 @@
       "data": "04/05",
       "hora": "06:00",
       "navio": "MSC INSA",
-      "calado": "12,60",
+      "calado": "10,70",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
