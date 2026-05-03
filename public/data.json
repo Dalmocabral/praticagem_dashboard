@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "03/05/2026 14:01",
+  "ultima_atualizacao": "03/05/2026 14:58",
   "barra_info": {
-    "restrita": false,
-    "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
+    "restrita": true,
+    "mensagem": "BARRA RESTRITA DESDE 03/05/2026 14:34 Embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "03/05",
-      "hora": "13:00",
-      "navio": "MSC BIANCA",
-      "calado": "13,90",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9770749",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-03T13:00:00"
-    },
     {
       "data": "03/05",
       "hora": "15:00",
