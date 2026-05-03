@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/05/2026 03:35",
+  "ultima_atualizacao": "03/05/2026 05:24",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "03/05",
-      "hora": "02:30",
-      "navio": "MAERSK ACADIA",
-      "calado": "10,10",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9928188",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-05-03T02:30:00"
-    },
-    {
-      "data": "03/05",
       "hora": "05:30",
       "navio": "SUNNY PHOENIX",
-      "calado": "12,30",
+      "calado": "12,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -46,7 +31,7 @@
       "imo": "9581423",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-03T07:30:00"
     },
@@ -61,7 +46,7 @@
       "imo": "9784661",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-05-03T09:00:00"
     },
