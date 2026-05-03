@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "03/05/2026 08:31",
+  "ultima_atualizacao": "03/05/2026 09:32",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
   },
   "navios": [
-    {
-      "data": "03/05",
-      "hora": "07:30",
-      "navio": "GINGA OCELOT",
-      "calado": "10,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9581423",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-03T07:30:00"
-    },
     {
       "data": "03/05",
       "hora": "09:00",
@@ -61,7 +46,7 @@
       "imo": "9770749",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-05-03T13:00:00"
     },
@@ -156,8 +141,23 @@
       "timestamp": "2026-05-04T11:00:00"
     },
     {
+      "data": "04/05",
+      "hora": "15:00",
+      "navio": "RDO FORTUNE",
+      "calado": "13,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9623673",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-04T15:00:00"
+    },
+    {
       "data": "05/05",
-      "hora": "06:00",
+      "hora": "05:00",
       "navio": "GINGA OCELOT",
       "calado": "8,00",
       "manobra": "S",
@@ -166,6 +166,21 @@
       "imo": "9581423",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-05T05:00:00"
+    },
+    {
+      "data": "05/05",
+      "hora": "06:00",
+      "navio": "RDO FORTUNE",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9623673",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-05T06:00:00"
@@ -457,69 +472,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "GINGA OCELOT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "03/05 07:30",
-      "manobra_rio_fim": "05/05 06:00",
-      "navio_multi": "XIAMEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/05 11:00"
-    },
-    {
-      "navio_rio": "GINGA OCELOT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "03/05 07:30",
-      "manobra_rio_fim": "05/05 06:00",
-      "navio_multi": "MSC BIANCA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/05 13:00"
-    },
-    {
-      "navio_rio": "GINGA OCELOT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "03/05 07:30",
-      "manobra_rio_fim": "05/05 06:00",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/05 15:00"
-    },
-    {
-      "navio_rio": "GINGA OCELOT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "03/05 07:30",
-      "manobra_rio_fim": "05/05 06:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/05 16:30"
-    },
-    {
-      "navio_rio": "GINGA OCELOT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "03/05 07:30",
-      "manobra_rio_fim": "05/05 06:00",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "04/05 06:00"
-    },
-    {
-      "navio_rio": "GINGA OCELOT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "03/05 07:30",
-      "manobra_rio_fim": "05/05 06:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "04/05 07:00"
-    },
-    {
-      "navio_rio": "GINGA OCELOT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "03/05 07:30",
-      "manobra_rio_fim": "05/05 06:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "04/05 09:00"
-    },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
       "manobra_rio_afetada": "E",
