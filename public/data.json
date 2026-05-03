@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "03/05/2026 17:58",
+  "ultima_atualizacao": "03/05/2026 18:55",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 03/05/2026 14:34 Embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "03/05",
-      "hora": "16:30",
-      "navio": "COPIAPO",
-      "calado": "13,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9687526",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-03T16:30:00"
-    },
     {
       "data": "04/05",
       "hora": "08:00",
@@ -219,7 +204,7 @@
       "data": "05/05",
       "hora": "20:00",
       "navio": "MSC MAGNUM VII",
-      "calado": "12,60",
+      "calado": "12,20",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
