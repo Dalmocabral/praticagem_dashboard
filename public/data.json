@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/05/2026 01:01",
+  "ultima_atualizacao": "03/05/2026 03:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -9,7 +9,7 @@
       "data": "03/05",
       "hora": "02:30",
       "navio": "MAERSK ACADIA",
-      "calado": "10,20",
+      "calado": "10,10",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9227027",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-05-03T05:30:00"
     },
@@ -46,7 +46,7 @@
       "imo": "9581423",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-05-03T07:30:00"
     },
