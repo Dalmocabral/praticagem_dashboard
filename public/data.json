@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/05/2026 07:43",
+  "ultima_atualizacao": "03/05/2026 08:31",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 13/04/2026 15:54"
@@ -46,13 +46,13 @@
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-03T11:00:00"
     },
     {
       "data": "03/05",
-      "hora": "12:00",
+      "hora": "13:00",
       "navio": "MSC BIANCA",
       "calado": "13,90",
       "manobra": "S",
@@ -63,11 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-03T12:00:00"
+      "timestamp": "2026-05-03T13:00:00"
     },
     {
       "data": "03/05",
-      "hora": "14:00",
+      "hora": "15:00",
       "navio": "MSC INSA",
       "calado": "11,20",
       "manobra": "E",
@@ -78,11 +78,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-03T14:00:00"
+      "timestamp": "2026-05-03T15:00:00"
     },
     {
       "data": "03/05",
-      "hora": "16:00",
+      "hora": "16:30",
       "navio": "COPIAPO",
       "calado": "13,00",
       "manobra": "E",
@@ -93,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-03T16:00:00"
+      "timestamp": "2026-05-03T16:30:00"
     },
     {
       "data": "04/05",
@@ -473,7 +473,7 @@
       "manobra_rio_fim": "05/05 06:00",
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/05 12:00"
+      "manobra_multi_data_hora": "03/05 13:00"
     },
     {
       "navio_rio": "GINGA OCELOT",
@@ -482,7 +482,7 @@
       "manobra_rio_fim": "05/05 06:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/05 14:00"
+      "manobra_multi_data_hora": "03/05 15:00"
     },
     {
       "navio_rio": "GINGA OCELOT",
@@ -491,7 +491,7 @@
       "manobra_rio_fim": "05/05 06:00",
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/05 16:00"
+      "manobra_multi_data_hora": "03/05 16:30"
     },
     {
       "navio_rio": "GINGA OCELOT",
@@ -536,7 +536,7 @@
       "manobra_rio_fim": "04/05 11:00",
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/05 12:00"
+      "manobra_multi_data_hora": "03/05 13:00"
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
@@ -545,7 +545,7 @@
       "manobra_rio_fim": "04/05 11:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/05 14:00"
+      "manobra_multi_data_hora": "03/05 15:00"
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
@@ -554,7 +554,7 @@
       "manobra_rio_fim": "04/05 11:00",
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/05 16:00"
+      "manobra_multi_data_hora": "03/05 16:30"
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
