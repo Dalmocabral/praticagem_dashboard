@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "03/05/2026 16:13",
+  "ultima_atualizacao": "03/05/2026 17:02",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 03/05/2026 14:34 Embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "03/05",
-      "hora": "15:00",
-      "navio": "MSC INSA",
-      "calado": "11,00",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-03T15:00:00"
-    },
     {
       "data": "03/05",
       "hora": "16:30",
@@ -34,6 +19,21 @@
       "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-03T16:30:00"
+    },
+    {
+      "data": "04/05",
+      "hora": "08:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,30",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-04T08:00:00"
     },
     {
       "data": "04/05",
@@ -67,21 +67,6 @@
     },
     {
       "data": "04/05",
-      "hora": "11:00",
-      "navio": "MERCOSUL FORTALEZA",
-      "calado": "9,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9784661",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-04T11:00:00"
-    },
-    {
-      "data": "04/05",
       "hora": "13:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,40",
@@ -112,7 +97,7 @@
     },
     {
       "data": "04/05",
-      "hora": "19:00",
+      "hora": "17:00",
       "navio": "JIUYANG BLOSSOM",
       "calado": "8,50",
       "manobra": "E",
@@ -123,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-04T19:00:00"
+      "timestamp": "2026-05-04T17:00:00"
     },
     {
       "data": "04/05",
@@ -554,7 +539,7 @@
       "manobra_rio_fim": "05/05 06:00",
       "navio_multi": "JIUYANG BLOSSOM",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "04/05 19:00"
+      "manobra_multi_data_hora": "04/05 17:00"
     },
     {
       "navio_rio": "RDO FORTUNE",
