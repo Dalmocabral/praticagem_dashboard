@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "04/05/2026 14:57",
+  "ultima_atualizacao": "04/05/2026 16:51",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/05/2026 08:42 Canal varrido fechado. Embarque e desembarque em águas abrigadas e calado restrito a 11,00m."
   },
   "navios": [
-    {
-      "data": "04/05",
-      "hora": "14:00",
-      "navio": "MSC INSA",
-      "calado": "10,70",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-04T14:00:00"
-    },
     {
       "data": "04/05",
       "hora": "16:00",
