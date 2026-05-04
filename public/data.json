@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "04/05/2026 13:20",
+  "ultima_atualizacao": "04/05/2026 14:57",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/05/2026 08:42 Canal varrido fechado. Embarque e desembarque em águas abrigadas e calado restrito a 11,00m."
   },
   "navios": [
-    {
-      "data": "04/05",
-      "hora": "13:00",
-      "navio": "COPIAPO",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9687526",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-04T13:00:00"
-    },
     {
       "data": "04/05",
       "hora": "14:00",
@@ -61,13 +46,13 @@
       "imo": "9318474",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-04T17:30:00"
     },
     {
       "data": "05/05",
-      "hora": "01:30",
+      "hora": "02:00",
       "navio": "MSC LE HAVRE",
       "calado": "11,00",
       "manobra": "E",
@@ -78,11 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-05T01:30:00"
+      "timestamp": "2026-05-05T02:00:00"
     },
     {
       "data": "05/05",
-      "hora": "03:30",
+      "hora": "04:00",
       "navio": "JIUYANG BLOSSOM",
       "calado": "9,20",
       "manobra": "S",
@@ -93,14 +78,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-05T03:30:00"
+      "timestamp": "2026-05-05T04:00:00"
     },
     {
       "data": "05/05",
       "hora": "06:00",
       "navio": "GINGA OCELOT",
-      "calado": "8,00",
-      "manobra": "S",
+      "calado": "9,50",
+      "manobra": "M",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9581423",
