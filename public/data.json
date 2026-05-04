@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "04/05/2026 09:05",
+  "ultima_atualizacao": "04/05/2026 11:29",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/05/2026 08:42 Canal varrido fechado. Embarque e desembarque em águas abrigadas e calado restrito a 11,00m."
   },
   "navios": [
-    {
-      "data": "04/05",
-      "hora": "12:00",
-      "navio": "MSC INSA",
-      "calado": "10,70",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-04T12:00:00"
-    },
     {
       "data": "04/05",
       "hora": "13:00",
@@ -31,43 +16,28 @@
       "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-04T13:00:00"
     },
     {
       "data": "04/05",
-      "hora": "15:00",
-      "navio": "RDO FORTUNE",
-      "calado": "13,50",
-      "manobra": "E",
-      "beco": "TECONT1",
+      "hora": "14:00",
+      "navio": "MSC INSA",
+      "calado": "10,70",
+      "manobra": "S",
+      "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9623673",
+      "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-04T15:00:00"
-    },
-    {
-      "data": "04/05",
-      "hora": "17:00",
-      "navio": "JIUYANG BLOSSOM",
-      "calado": "8,50",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9318474",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-05-04T17:00:00"
+      "timestamp": "2026-05-04T14:00:00"
     },
     {
       "data": "04/05",
-      "hora": "19:00",
+      "hora": "16:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "10,10",
       "manobra": "E",
@@ -78,7 +48,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-04T19:00:00"
+      "timestamp": "2026-05-04T16:00:00"
+    },
+    {
+      "data": "04/05",
+      "hora": "17:30",
+      "navio": "JIUYANG BLOSSOM",
+      "calado": "8,50",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9318474",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-04T17:30:00"
     },
     {
       "data": "05/05",
@@ -97,7 +82,22 @@
     },
     {
       "data": "05/05",
-      "hora": "05:00",
+      "hora": "03:30",
+      "navio": "JIUYANG BLOSSOM",
+      "calado": "9,20",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9318474",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-05T03:30:00"
+    },
+    {
+      "data": "05/05",
+      "hora": "06:00",
       "navio": "GINGA OCELOT",
       "calado": "8,00",
       "manobra": "S",
@@ -108,14 +108,14 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-05T05:00:00"
+      "timestamp": "2026-05-05T06:00:00"
     },
     {
       "data": "05/05",
-      "hora": "06:00",
+      "hora": "11:00",
       "navio": "RDO FORTUNE",
       "calado": "13,50",
-      "manobra": "S",
+      "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
       "imo": "9623673",
@@ -123,11 +123,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-05T06:00:00"
+      "timestamp": "2026-05-05T11:00:00"
     },
     {
       "data": "05/05",
-      "hora": "08:00",
+      "hora": "13:00",
       "navio": "CMA CGM THORIUM",
       "calado": "14,40",
       "manobra": "E",
@@ -138,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-05T08:00:00"
+      "timestamp": "2026-05-05T13:00:00"
     },
     {
       "data": "05/05",
@@ -201,36 +201,6 @@
       "timestamp": "2026-05-05T20:00:00"
     },
     {
-      "data": "05/05",
-      "hora": "22:00",
-      "navio": "JIUYANG BLOSSOM",
-      "calado": "9,20",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9318474",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-05T22:00:00"
-    },
-    {
-      "data": "06/05",
-      "hora": "06:30",
-      "navio": "CMA CGM THORIUM",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9996745",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-06T06:30:00"
-    },
-    {
       "data": "06/05",
       "hora": "07:30",
       "navio": "MSC ODESSA V",
@@ -274,6 +244,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-06T10:30:00"
+    },
+    {
+      "data": "06/05",
+      "hora": "12:30",
+      "navio": "RDO FORTUNE",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9623673",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-06T12:30:00"
+    },
+    {
+      "data": "06/05",
+      "hora": "13:30",
+      "navio": "CMA CGM THORIUM",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996745",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-06T13:30:00"
     },
     {
       "data": "06/05",
@@ -382,6 +382,21 @@
     },
     {
       "data": "13/05",
+      "hora": "13:00",
+      "navio": "DOVER HIGHWAY",
+      "calado": "9,50",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9574107",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-13T13:00:00"
+    },
+    {
+      "data": "13/05",
       "hora": "15:30",
       "navio": "EVER FEAT",
       "calado": "14,40",
@@ -394,6 +409,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-13T15:30:00"
+    },
+    {
+      "data": "14/05",
+      "hora": "04:00",
+      "navio": "DOVER HIGHWAY",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9574107",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-14T04:00:00"
     },
     {
       "data": "14/05",
@@ -535,35 +565,71 @@
     {
       "navio_rio": "RDO FORTUNE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "04/05 15:00",
-      "manobra_rio_fim": "05/05 06:00",
-      "navio_multi": "JIUYANG BLOSSOM",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "04/05 17:00"
+      "manobra_rio_inicio": "05/05 11:00",
+      "manobra_rio_fim": "06/05 12:30",
+      "navio_multi": "MSC LE HAVRE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/05 15:00"
     },
     {
       "navio_rio": "RDO FORTUNE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "04/05 15:00",
-      "manobra_rio_fim": "05/05 06:00",
+      "manobra_rio_inicio": "05/05 11:00",
+      "manobra_rio_fim": "06/05 12:30",
       "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/05 16:00"
+    },
+    {
+      "navio_rio": "RDO FORTUNE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/05 11:00",
+      "manobra_rio_fim": "06/05 12:30",
+      "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "04/05 19:00"
+      "manobra_multi_data_hora": "05/05 18:00"
+    },
+    {
+      "navio_rio": "RDO FORTUNE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/05 11:00",
+      "manobra_rio_fim": "06/05 12:30",
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "05/05 20:00"
     },
     {
       "navio_rio": "RDO FORTUNE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/05 15:00",
-      "manobra_rio_fim": "05/05 06:00",
-      "navio_multi": "MSC LE HAVRE",
+      "manobra_rio_inicio": "05/05 11:00",
+      "manobra_rio_fim": "06/05 12:30",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "06/05 07:30"
+    },
+    {
+      "navio_rio": "RDO FORTUNE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "05/05 11:00",
+      "manobra_rio_fim": "06/05 12:30",
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "06/05 08:30"
+    },
+    {
+      "navio_rio": "RDO FORTUNE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "05/05 11:00",
+      "manobra_rio_fim": "06/05 12:30",
+      "navio_multi": "SANTA LORETTA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/05 01:30"
+      "manobra_multi_data_hora": "06/05 10:30"
     },
     {
       "navio_rio": "CMA CGM THORIUM",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/05 08:00",
-      "manobra_rio_fim": "06/05 06:30",
+      "manobra_rio_inicio": "05/05 13:00",
+      "manobra_rio_fim": "06/05 13:30",
       "navio_multi": "MSC LE HAVRE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "05/05 15:00"
@@ -571,8 +637,8 @@
     {
       "navio_rio": "CMA CGM THORIUM",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/05 08:00",
-      "manobra_rio_fim": "06/05 06:30",
+      "manobra_rio_inicio": "05/05 13:00",
+      "manobra_rio_fim": "06/05 13:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "05/05 16:00"
@@ -580,17 +646,17 @@
     {
       "navio_rio": "CMA CGM THORIUM",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/05 08:00",
-      "manobra_rio_fim": "06/05 06:30",
+      "manobra_rio_inicio": "05/05 13:00",
+      "manobra_rio_fim": "06/05 13:30",
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "05/05 18:00"
     },
     {
       "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/05 08:00",
-      "manobra_rio_fim": "06/05 06:30",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/05 13:00",
+      "manobra_rio_fim": "06/05 13:30",
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "05/05 20:00"
@@ -598,11 +664,38 @@
     {
       "navio_rio": "CMA CGM THORIUM",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/05 08:00",
-      "manobra_rio_fim": "06/05 06:30",
-      "navio_multi": "JIUYANG BLOSSOM",
+      "manobra_rio_inicio": "05/05 13:00",
+      "manobra_rio_fim": "06/05 13:30",
+      "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/05 22:00"
+      "manobra_multi_data_hora": "06/05 07:30"
+    },
+    {
+      "navio_rio": "CMA CGM THORIUM",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "05/05 13:00",
+      "manobra_rio_fim": "06/05 13:30",
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "06/05 08:30"
+    },
+    {
+      "navio_rio": "CMA CGM THORIUM",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "05/05 13:00",
+      "manobra_rio_fim": "06/05 13:30",
+      "navio_multi": "SANTA LORETTA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "06/05 10:30"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "13/05 15:30",
+      "manobra_rio_fim": "14/05 15:30",
+      "navio_multi": "DOVER HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/05 04:00"
     }
   ]
 }
