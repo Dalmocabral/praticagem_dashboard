@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "04/05/2026 16:51",
+  "ultima_atualizacao": "04/05/2026 18:06",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/05/2026 08:42 Canal varrido fechado. Embarque e desembarque em águas abrigadas e calado restrito a 11,00m."
   },
   "navios": [
-    {
-      "data": "04/05",
-      "hora": "16:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,10",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-04T16:00:00"
-    },
     {
       "data": "04/05",
       "hora": "17:30",
@@ -34,21 +19,6 @@
       "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-04T17:30:00"
-    },
-    {
-      "data": "05/05",
-      "hora": "02:00",
-      "navio": "MSC LE HAVRE",
-      "calado": "11,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9975583",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-05T02:00:00"
     },
     {
       "data": "05/05",
@@ -82,6 +52,21 @@
     },
     {
       "data": "05/05",
+      "hora": "08:00",
+      "navio": "MSC ODESSA V",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9456965",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-05T08:00:00"
+    },
+    {
+      "data": "05/05",
       "hora": "11:00",
       "navio": "RDO FORTUNE",
       "calado": "13,50",
@@ -112,21 +97,6 @@
     },
     {
       "data": "05/05",
-      "hora": "15:00",
-      "navio": "MSC LE HAVRE",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9975583",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-05T15:00:00"
-    },
-    {
-      "data": "05/05",
       "hora": "16:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
@@ -139,21 +109,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-05T16:00:00"
-    },
-    {
-      "data": "05/05",
-      "hora": "18:00",
-      "navio": "MSC ODESSA V",
-      "calado": "11,20",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-05T18:00:00"
     },
     {
       "data": "05/05",
@@ -171,8 +126,8 @@
       "timestamp": "2026-05-05T20:00:00"
     },
     {
-      "data": "06/05",
-      "hora": "07:30",
+      "data": "05/05",
+      "hora": "22:00",
       "navio": "MSC ODESSA V",
       "calado": "12,00",
       "manobra": "S",
@@ -183,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-06T07:30:00"
+      "timestamp": "2026-05-05T22:00:00"
     },
     {
       "data": "06/05",
@@ -537,27 +492,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/05 11:00",
       "manobra_rio_fim": "06/05 12:30",
-      "navio_multi": "MSC LE HAVRE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/05 15:00"
-    },
-    {
-      "navio_rio": "RDO FORTUNE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/05 11:00",
-      "manobra_rio_fim": "06/05 12:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "05/05 16:00"
-    },
-    {
-      "navio_rio": "RDO FORTUNE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/05 11:00",
-      "manobra_rio_fim": "06/05 12:30",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/05 18:00"
     },
     {
       "navio_rio": "RDO FORTUNE",
@@ -570,12 +507,12 @@
     },
     {
       "navio_rio": "RDO FORTUNE",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/05 11:00",
       "manobra_rio_fim": "06/05 12:30",
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/05 07:30"
+      "manobra_multi_data_hora": "05/05 22:00"
     },
     {
       "navio_rio": "RDO FORTUNE",
@@ -600,27 +537,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/05 13:00",
       "manobra_rio_fim": "06/05 13:30",
-      "navio_multi": "MSC LE HAVRE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/05 15:00"
-    },
-    {
-      "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/05 13:00",
-      "manobra_rio_fim": "06/05 13:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "05/05 16:00"
-    },
-    {
-      "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/05 13:00",
-      "manobra_rio_fim": "06/05 13:30",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/05 18:00"
     },
     {
       "navio_rio": "CMA CGM THORIUM",
@@ -633,12 +552,12 @@
     },
     {
       "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/05 13:00",
       "manobra_rio_fim": "06/05 13:30",
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/05 07:30"
+      "manobra_multi_data_hora": "05/05 22:00"
     },
     {
       "navio_rio": "CMA CGM THORIUM",
