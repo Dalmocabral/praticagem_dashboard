@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/05/2026 19:14",
+  "ultima_atualizacao": "04/05/2026 20:13",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/05/2026 08:42 Canal varrido fechado. Embarque e desembarque em águas abrigadas e calado restrito a 11,00m."
@@ -217,6 +217,21 @@
     },
     {
       "data": "07/05",
+      "hora": "08:30",
+      "navio": "CMA CGM KRYPTON",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996733",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-07T08:30:00"
+    },
+    {
+      "data": "07/05",
       "hora": "15:00",
       "navio": "BRASILIA HIGHWAY",
       "calado": "8,40",
@@ -229,6 +244,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-07T15:00:00"
+    },
+    {
+      "data": "08/05",
+      "hora": "06:30",
+      "navio": "CMA CGM KRYPTON",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996733",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-08T06:30:00"
     },
     {
       "data": "10/05",
@@ -543,6 +573,15 @@
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "06/05 08:30"
+    },
+    {
+      "navio_rio": "CMA CGM KRYPTON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/05 08:30",
+      "manobra_rio_fim": "08/05 06:30",
+      "navio_multi": "BRASILIA HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/05 15:00"
     },
     {
       "navio_rio": "EVER FEAT",
