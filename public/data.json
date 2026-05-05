@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/05/2026 16:56",
+  "ultima_atualizacao": "05/05/2026 18:10",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/05/2026 08:42 Canal varrido fechado. Embarque e desembarque em águas abrigadas e calado restrito a 11,00m."
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "05/05",
-      "hora": "21:00",
+      "hora": "22:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "S",
@@ -16,9 +16,9 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-05-05T21:00:00"
+      "timestamp": "2026-05-05T22:00:00"
     },
     {
       "data": "06/05",
