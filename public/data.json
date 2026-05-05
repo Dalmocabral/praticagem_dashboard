@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "05/05/2026 05:29",
+  "ultima_atualizacao": "05/05/2026 07:22",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/05/2026 08:42 Canal varrido fechado. Embarque e desembarque em águas abrigadas e calado restrito a 11,00m."
   },
   "navios": [
-    {
-      "data": "05/05",
-      "hora": "05:00",
-      "navio": "JIUYANG BLOSSOM",
-      "calado": "8,74",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9318474",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-05T05:00:00"
-    },
     {
       "data": "05/05",
       "hora": "06:00",
@@ -61,7 +46,7 @@
       "imo": "9623673",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-05-05T11:00:00"
     },
