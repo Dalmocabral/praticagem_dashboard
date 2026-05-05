@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/05/2026 07:22",
+  "ultima_atualizacao": "05/05/2026 08:47",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/05/2026 08:42 Canal varrido fechado. Embarque e desembarque em águas abrigadas e calado restrito a 11,00m."
@@ -46,13 +46,13 @@
       "imo": "9623673",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-05T11:00:00"
     },
     {
       "data": "05/05",
-      "hora": "16:00",
+      "hora": "18:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "S",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-05T16:00:00"
+      "timestamp": "2026-05-05T18:00:00"
     },
     {
       "data": "05/05",
@@ -494,7 +494,7 @@
       "manobra_rio_fim": "06/05 12:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/05 16:00"
+      "manobra_multi_data_hora": "05/05 18:00"
     },
     {
       "navio_rio": "RDO FORTUNE",
