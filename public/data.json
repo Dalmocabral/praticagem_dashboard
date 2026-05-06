@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/05/2026 18:47",
+  "ultima_atualizacao": "06/05/2026 19:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -96,6 +96,21 @@
       "timestamp": "2026-05-07T15:00:00"
     },
     {
+      "data": "07/05",
+      "hora": "17:00",
+      "navio": "MSC LE HAVRE",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9975583",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-07T17:00:00"
+    },
+    {
       "data": "08/05",
       "hora": "06:30",
       "navio": "CMA CGM KRYPTON",
@@ -124,6 +139,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-08T07:30:00"
+    },
+    {
+      "data": "08/05",
+      "hora": "15:00",
+      "navio": "MSC LE HAVRE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9975583",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-08T15:00:00"
     },
     {
       "data": "10/05",
@@ -525,6 +555,15 @@
       "navio_multi": "BRASILIA HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/05 15:00"
+    },
+    {
+      "navio_rio": "CMA CGM KRYPTON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/05 12:30",
+      "manobra_rio_fim": "08/05 06:30",
+      "navio_multi": "MSC LE HAVRE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "07/05 17:00"
     },
     {
       "navio_rio": "EVER FEAT",
