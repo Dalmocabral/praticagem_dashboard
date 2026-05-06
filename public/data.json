@@ -1,10 +1,25 @@
 {
-  "ultima_atualizacao": "06/05/2026 01:05",
+  "ultima_atualizacao": "06/05/2026 03:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
   },
   "navios": [
+    {
+      "data": "06/05",
+      "hora": "03:30",
+      "navio": "MSC ODESSA V",
+      "calado": "11,20",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9456965",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
+      "timestamp": "2026-05-06T03:30:00"
+    },
     {
       "data": "06/05",
       "hora": "06:30",
@@ -16,43 +31,13 @@
       "imo": "9623673",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-05-06T06:30:00"
     },
     {
       "data": "06/05",
-      "hora": "07:30",
-      "navio": "MSC ODESSA V",
-      "calado": "11,20",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-06T07:30:00"
-    },
-    {
-      "data": "06/05",
-      "hora": "11:30",
-      "navio": "CMA CGM THORIUM",
-      "calado": "14,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996745",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-06T11:30:00"
-    },
-    {
-      "data": "06/05",
-      "hora": "13:30",
+      "hora": "08:30",
       "navio": "MSC MAGNUM VII",
       "calado": "12,20",
       "manobra": "E",
@@ -63,22 +48,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-06T13:30:00"
+      "timestamp": "2026-05-06T08:30:00"
     },
     {
       "data": "06/05",
-      "hora": "15:30",
-      "navio": "CMA CGM KRYPTON",
-      "calado": "14,00",
+      "hora": "10:30",
+      "navio": "CMA CGM THORIUM",
+      "calado": "14,40",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
-      "imo": "9996733",
+      "imo": "9996745",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-06T15:30:00"
+      "timestamp": "2026-05-06T10:30:00"
     },
     {
       "data": "06/05",
@@ -142,6 +127,21 @@
     },
     {
       "data": "07/05",
+      "hora": "12:30",
+      "navio": "CMA CGM KRYPTON",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996733",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-07T12:30:00"
+    },
+    {
+      "data": "07/05",
       "hora": "15:00",
       "navio": "BRASILIA HIGHWAY",
       "calado": "8,40",
@@ -161,7 +161,7 @@
       "navio": "CMA CGM KRYPTON",
       "calado": "13,50",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9996733",
       "tipo_navio": "CONTAINER SHIP",
@@ -460,16 +460,7 @@
     {
       "navio_rio": "CMA CGM THORIUM",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/05 11:30",
-      "manobra_rio_fim": "07/05 08:30",
-      "navio_multi": "MSC MAGNUM VII",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/05 13:30"
-    },
-    {
-      "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/05 11:30",
+      "manobra_rio_inicio": "06/05 10:30",
       "manobra_rio_fim": "07/05 08:30",
       "navio_multi": "BRASILIA HIGHWAY",
       "manobra_multi_tipo": "E",
@@ -478,7 +469,7 @@
     {
       "navio_rio": "CMA CGM THORIUM",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "06/05 11:30",
+      "manobra_rio_inicio": "06/05 10:30",
       "manobra_rio_fim": "07/05 08:30",
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "S",
@@ -487,34 +478,7 @@
     {
       "navio_rio": "CMA CGM KRYPTON",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/05 15:30",
-      "manobra_rio_fim": "08/05 06:30",
-      "navio_multi": "BRASILIA HIGHWAY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/05 19:00"
-    },
-    {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/05 15:30",
-      "manobra_rio_fim": "08/05 06:30",
-      "navio_multi": "MSC MAGNUM VII",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/05 06:30"
-    },
-    {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/05 15:30",
-      "manobra_rio_fim": "08/05 06:30",
-      "navio_multi": "SANTA LORETTA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/05 10:30"
-    },
-    {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "06/05 15:30",
+      "manobra_rio_inicio": "07/05 12:30",
       "manobra_rio_fim": "08/05 06:30",
       "navio_multi": "BRASILIA HIGHWAY",
       "manobra_multi_tipo": "S",
