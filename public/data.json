@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/05/2026 08:22",
+  "ultima_atualizacao": "06/05/2026 10:11",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -26,7 +26,7 @@
       "navio": "MSC MAGNUM VII",
       "calado": "12,20",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "hoje",
       "imo": "9252541",
       "tipo_navio": "CONTAINER SHIP",
@@ -71,7 +71,7 @@
       "navio": "MSC MAGNUM VII",
       "calado": "13,70",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9252541",
       "tipo_navio": "CONTAINER SHIP",
@@ -381,6 +381,36 @@
       "timestamp": "2026-05-20T06:30:00"
     },
     {
+      "data": "22/05",
+      "hora": "15:30",
+      "navio": "MSC SABRINA",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9979022",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-22T15:30:00"
+    },
+    {
+      "data": "23/05",
+      "hora": "07:00",
+      "navio": "MSC SABRINA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9979022",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-23T07:00:00"
+    },
+    {
       "data": "26/05",
       "hora": "08:00",
       "navio": "COSCO SHIPPING URUGUAY",
@@ -427,6 +457,21 @@
     },
     {
       "data": "28/05",
+      "hora": "06:30",
+      "navio": "SEATTLE BRIDGE",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9560352",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-28T06:30:00"
+    },
+    {
+      "data": "28/05",
       "hora": "15:30",
       "navio": "KOTA EMBUN",
       "calado": "13,50",
@@ -439,6 +484,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-28T15:30:00"
+    },
+    {
+      "data": "29/05",
+      "hora": "06:30",
+      "navio": "SEATTLE BRIDGE",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9560352",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-29T06:30:00"
     }
   ],
   "conflitos": [
@@ -477,6 +537,15 @@
       "navio_multi": "DOVER HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/05 04:00"
+    },
+    {
+      "navio_rio": "KOTA EMBUN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "27/05 15:30",
+      "manobra_rio_fim": "28/05 15:30",
+      "navio_multi": "SEATTLE BRIDGE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "28/05 06:30"
     }
   ]
 }
