@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/05/2026 03:44",
+  "ultima_atualizacao": "06/05/2026 06:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "06/05",
-      "hora": "03:30",
-      "navio": "MSC ODESSA V",
-      "calado": "11,20",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-06T03:30:00"
-    },
-    {
-      "data": "06/05",
       "hora": "06:30",
       "navio": "RDO FORTUNE",
-      "calado": "13,50",
+      "calado": "13,20",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -46,7 +31,7 @@
       "imo": "9252541",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-06T08:30:00"
     },
