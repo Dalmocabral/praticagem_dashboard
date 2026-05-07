@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/05/2026 14:03",
+  "ultima_atualizacao": "07/05/2026 15:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -19,21 +19,6 @@
       "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-05-07T10:30:00"
-    },
-    {
-      "data": "07/05",
-      "hora": "12:30",
-      "navio": "CMA CGM KRYPTON",
-      "calado": "13,80",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996733",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-07T12:30:00"
     },
     {
       "data": "08/05",
@@ -69,7 +54,7 @@
       "data": "08/05",
       "hora": "06:30",
       "navio": "SANTA LORETTA",
-      "calado": "12,60",
+      "calado": "11,00",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -79,21 +64,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-08T06:30:00"
-    },
-    {
-      "data": "08/05",
-      "hora": "09:30",
-      "navio": "MSC MICHELA",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9720512",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-08T09:30:00"
     },
     {
       "data": "08/05",
@@ -112,7 +82,7 @@
     },
     {
       "data": "08/05",
-      "hora": "17:00",
+      "hora": "18:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "E",
@@ -123,13 +93,13 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-08T17:00:00"
+      "timestamp": "2026-05-08T18:00:00"
     },
     {
       "data": "08/05",
       "hora": "20:00",
       "navio": "MSC LE HAVRE",
-      "calado": "12,60",
+      "calado": "10,60",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -154,6 +124,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-08T22:00:00"
+    },
+    {
+      "data": "09/05",
+      "hora": "06:30",
+      "navio": "MSC MICHELA",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9720512",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-09T06:30:00"
     },
     {
       "data": "09/05",
@@ -668,45 +653,9 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/05 12:30",
-      "manobra_rio_fim": "08/05 11:30",
-      "navio_multi": "MSC LE HAVRE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "08/05 01:00"
-    },
-    {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/05 12:30",
-      "manobra_rio_fim": "08/05 11:30",
-      "navio_multi": "BRASILIA HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/05 03:00"
-    },
-    {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/05 12:30",
-      "manobra_rio_fim": "08/05 11:30",
-      "navio_multi": "SANTA LORETTA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/05 06:30"
-    },
-    {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/05 12:30",
-      "manobra_rio_fim": "08/05 11:30",
-      "navio_multi": "MSC MICHELA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "08/05 09:30"
-    },
-    {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/05 17:00",
+      "manobra_rio_inicio": "08/05 18:00",
       "manobra_rio_fim": "08/05 22:00",
       "navio_multi": "MSC LE HAVRE",
       "manobra_multi_tipo": "S",
