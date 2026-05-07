@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/05/2026 22:22",
+  "ultima_atualizacao": "07/05/2026 01:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -142,7 +142,7 @@
     },
     {
       "data": "08/05",
-      "hora": "14:30",
+      "hora": "13:00",
       "navio": "MSC LE HAVRE",
       "calado": "12,60",
       "manobra": "S",
@@ -153,7 +153,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-08T14:30:00"
+      "timestamp": "2026-05-08T13:00:00"
+    },
+    {
+      "data": "08/05",
+      "hora": "15:00",
+      "navio": "LAEM CHABANG EXPRESS",
+      "calado": "14,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9768007",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-08T15:00:00"
     },
     {
       "data": "09/05",
@@ -169,6 +184,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-09T06:00:00"
+    },
+    {
+      "data": "09/05",
+      "hora": "07:00",
+      "navio": "LAEM CHABANG EXPRESS",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9768007",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-09T07:00:00"
     },
     {
       "data": "10/05",
