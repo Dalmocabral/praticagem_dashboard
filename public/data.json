@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/05/2026 15:57",
+  "ultima_atualizacao": "07/05/2026 17:21",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -129,7 +129,7 @@
       "data": "09/05",
       "hora": "06:30",
       "navio": "MSC MICHELA",
-      "calado": "12,60",
+      "calado": "14,45",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
@@ -189,7 +189,7 @@
       "data": "10/05",
       "hora": "07:30",
       "navio": "MSC MICHELA",
-      "calado": "12,60",
+      "calado": "15,15",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
