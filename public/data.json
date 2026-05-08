@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/05/2026 22:24",
+  "ultima_atualizacao": "08/05/2026 01:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -24,14 +24,14 @@
       "data": "08/05",
       "hora": "03:00",
       "navio": "BRASILIA HIGHWAY",
-      "calado": "8,40",
+      "calado": "8,27",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9519119",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-08T03:00:00"
     },
