@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/05/2026 15:57",
+  "ultima_atualizacao": "08/05/2026 17:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -16,7 +16,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-08T19:30:00"
     },
@@ -144,7 +144,7 @@
       "data": "09/05",
       "hora": "15:00",
       "navio": "CMA CGM RABELAIS",
-      "calado": "12,30",
+      "calado": "14,10",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -157,11 +157,26 @@
     },
     {
       "data": "10/05",
+      "hora": "00:00",
+      "navio": "XIN CHANG SHA",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9312559",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-10T00:00:00"
+    },
+    {
+      "data": "10/05",
       "hora": "04:30",
       "navio": "MERCOSUL GUARUJA",
       "calado": "10,50",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
@@ -221,7 +236,7 @@
       "navio": "MERCOSUL GUARUJA",
       "calado": "10,20",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
@@ -229,6 +244,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-10T16:00:00"
+    },
+    {
+      "data": "10/05",
+      "hora": "19:00",
+      "navio": "XIN CHANG SHA",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9312559",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-10T19:00:00"
     },
     {
       "data": "10/05",
@@ -262,21 +292,6 @@
     },
     {
       "data": "11/05",
-      "hora": "08:30",
-      "navio": "XIN CHANG SHA",
-      "calado": "12,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9312559",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-11T08:30:00"
-    },
-    {
-      "data": "11/05",
       "hora": "15:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
@@ -304,21 +319,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-11T16:30:00"
-    },
-    {
-      "data": "11/05",
-      "hora": "17:30",
-      "navio": "XIN CHANG SHA",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9312559",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-11T17:30:00"
     },
     {
       "data": "12/05",
@@ -761,6 +761,33 @@
       "manobra_multi_data_hora": "09/05 10:30"
     },
     {
+      "navio_rio": "XIN CHANG SHA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/05 00:00",
+      "manobra_rio_fim": "10/05 19:00",
+      "navio_multi": "LAEM CHABANG EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/05 06:30"
+    },
+    {
+      "navio_rio": "XIN CHANG SHA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/05 00:00",
+      "manobra_rio_fim": "10/05 19:00",
+      "navio_multi": "MSC MICHELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/05 07:30"
+    },
+    {
+      "navio_rio": "XIN CHANG SHA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/05 00:00",
+      "manobra_rio_fim": "10/05 19:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/05 09:30"
+    },
+    {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "10/05 04:30",
@@ -786,24 +813,6 @@
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "10/05 09:30"
-    },
-    {
-      "navio_rio": "XIN CHANG SHA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/05 08:30",
-      "manobra_rio_fim": "11/05 17:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/05 15:00"
-    },
-    {
-      "navio_rio": "XIN CHANG SHA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/05 08:30",
-      "manobra_rio_fim": "11/05 17:30",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/05 16:30"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
