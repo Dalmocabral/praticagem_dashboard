@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "08/05/2026 01:37",
+  "ultima_atualizacao": "08/05/2026 03:21",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
   },
   "navios": [
-    {
-      "data": "08/05",
-      "hora": "01:00",
-      "navio": "MSC LE HAVRE",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9975583",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-08T01:00:00"
-    },
     {
       "data": "08/05",
       "hora": "03:00",
@@ -39,14 +24,14 @@
       "data": "08/05",
       "hora": "06:30",
       "navio": "SANTA LORETTA",
-      "calado": "11,00",
+      "calado": "11,10",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9290567",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-05-08T06:30:00"
     },
