@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/05/2026 09:18",
+  "ultima_atualizacao": "08/05/2026 11:20",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -9,7 +9,7 @@
       "data": "08/05",
       "hora": "11:30",
       "navio": "CMA CGM KRYPTON",
-      "calado": "13,50",
+      "calado": "14,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -24,9 +24,9 @@
       "data": "08/05",
       "hora": "20:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
+      "calado": "8,50",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
@@ -38,12 +38,12 @@
     {
       "data": "08/05",
       "hora": "22:00",
-      "navio": "CMA CGM RABELAIS",
-      "calado": "12,50",
+      "navio": "MALIAKOS",
+      "calado": "10,35",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "hoje",
-      "imo": "9406635",
+      "imo": "9464247",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -54,9 +54,9 @@
       "data": "09/05",
       "hora": "02:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,50",
+      "calado": "8,80",
       "manobra": "M",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
@@ -68,12 +68,12 @@
     {
       "data": "09/05",
       "hora": "04:00",
-      "navio": "MALIAKOS",
-      "calado": "10,35",
+      "navio": "CMA CGM RABELAIS",
+      "calado": "12,50",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9464247",
+      "imo": "9406635",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -99,7 +99,7 @@
       "data": "09/05",
       "hora": "07:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "10,00",
+      "calado": "8,90",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -143,12 +143,12 @@
     {
       "data": "09/05",
       "hora": "12:30",
-      "navio": "CMA CGM RABELAIS",
-      "calado": "12,30",
+      "navio": "MALIAKOS",
+      "calado": "10,50",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
-      "imo": "9406635",
+      "imo": "9464247",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -158,12 +158,12 @@
     {
       "data": "09/05",
       "hora": "15:00",
-      "navio": "MALIAKOS",
-      "calado": "10,50",
+      "navio": "CMA CGM RABELAIS",
+      "calado": "12,30",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9464247",
+      "imo": "9406635",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -653,7 +653,7 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CMA CGM RABELAIS",
+      "navio_rio": "MALIAKOS",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "08/05 22:00",
       "manobra_rio_fim": "09/05 12:30",
@@ -662,7 +662,7 @@
       "manobra_multi_data_hora": "09/05 06:00"
     },
     {
-      "navio_rio": "CMA CGM RABELAIS",
+      "navio_rio": "MALIAKOS",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "08/05 22:00",
       "manobra_rio_fim": "09/05 12:30",
@@ -671,7 +671,7 @@
       "manobra_multi_data_hora": "09/05 07:00"
     },
     {
-      "navio_rio": "CMA CGM RABELAIS",
+      "navio_rio": "MALIAKOS",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "08/05 22:00",
       "manobra_rio_fim": "09/05 12:30",
@@ -680,7 +680,7 @@
       "manobra_multi_data_hora": "09/05 09:00"
     },
     {
-      "navio_rio": "CMA CGM RABELAIS",
+      "navio_rio": "MALIAKOS",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "08/05 22:00",
       "manobra_rio_fim": "09/05 12:30",
@@ -689,7 +689,7 @@
       "manobra_multi_data_hora": "09/05 10:30"
     },
     {
-      "navio_rio": "MALIAKOS",
+      "navio_rio": "CMA CGM RABELAIS",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "09/05 04:00",
       "manobra_rio_fim": "09/05 15:00",
@@ -698,7 +698,7 @@
       "manobra_multi_data_hora": "09/05 06:00"
     },
     {
-      "navio_rio": "MALIAKOS",
+      "navio_rio": "CMA CGM RABELAIS",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "09/05 04:00",
       "manobra_rio_fim": "09/05 15:00",
@@ -707,7 +707,7 @@
       "manobra_multi_data_hora": "09/05 07:00"
     },
     {
-      "navio_rio": "MALIAKOS",
+      "navio_rio": "CMA CGM RABELAIS",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "09/05 04:00",
       "manobra_rio_fim": "09/05 15:00",
@@ -716,7 +716,7 @@
       "manobra_multi_data_hora": "09/05 09:00"
     },
     {
-      "navio_rio": "MALIAKOS",
+      "navio_rio": "CMA CGM RABELAIS",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "09/05 04:00",
       "manobra_rio_fim": "09/05 15:00",
