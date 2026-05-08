@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/05/2026 12:56",
+  "ultima_atualizacao": "08/05/2026 14:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -7,22 +7,7 @@
   "navios": [
     {
       "data": "08/05",
-      "hora": "11:30",
-      "navio": "CMA CGM KRYPTON",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996733",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-05-08T11:30:00"
-    },
-    {
-      "data": "08/05",
-      "hora": "20:00",
+      "hora": "19:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,50",
       "manobra": "E",
@@ -33,7 +18,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-08T20:00:00"
+      "timestamp": "2026-05-08T19:30:00"
     },
     {
       "data": "08/05",
