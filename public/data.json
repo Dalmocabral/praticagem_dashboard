@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/05/2026 14:39",
+  "ultima_atualizacao": "08/05/2026 15:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -16,7 +16,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-05-08T19:30:00"
     },
@@ -52,22 +52,7 @@
     },
     {
       "data": "09/05",
-      "hora": "04:00",
-      "navio": "CMA CGM RABELAIS",
-      "calado": "12,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9406635",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-09T04:00:00"
-    },
-    {
-      "data": "09/05",
-      "hora": "06:00",
+      "hora": "03:00",
       "navio": "MSC LE HAVRE",
       "calado": "10,50",
       "manobra": "S",
@@ -78,7 +63,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-09T06:00:00"
+      "timestamp": "2026-05-09T03:00:00"
+    },
+    {
+      "data": "09/05",
+      "hora": "05:00",
+      "navio": "CMA CGM RABELAIS",
+      "calado": "14,15",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9406635",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-09T05:00:00"
     },
     {
       "data": "09/05",
@@ -699,12 +699,12 @@
   "conflitos": [
     {
       "navio_rio": "MALIAKOS",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "08/05 22:00",
       "manobra_rio_fim": "09/05 12:30",
       "navio_multi": "MSC LE HAVRE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/05 06:00"
+      "manobra_multi_data_hora": "09/05 03:00"
     },
     {
       "navio_rio": "MALIAKOS",
@@ -736,16 +736,7 @@
     {
       "navio_rio": "CMA CGM RABELAIS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/05 04:00",
-      "manobra_rio_fim": "09/05 15:00",
-      "navio_multi": "MSC LE HAVRE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/05 06:00"
-    },
-    {
-      "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/05 04:00",
+      "manobra_rio_inicio": "09/05 05:00",
       "manobra_rio_fim": "09/05 15:00",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
@@ -754,7 +745,7 @@
     {
       "navio_rio": "CMA CGM RABELAIS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/05 04:00",
+      "manobra_rio_inicio": "09/05 05:00",
       "manobra_rio_fim": "09/05 15:00",
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "E",
@@ -763,7 +754,7 @@
     {
       "navio_rio": "CMA CGM RABELAIS",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/05 04:00",
+      "manobra_rio_inicio": "09/05 05:00",
       "manobra_rio_fim": "09/05 15:00",
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "E",
