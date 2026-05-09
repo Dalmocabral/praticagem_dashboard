@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "09/05/2026 08:05",
+  "ultima_atualizacao": "09/05/2026 08:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
   },
   "navios": [
-    {
-      "data": "09/05",
-      "hora": "07:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,20",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-09T07:00:00"
-    },
     {
       "data": "09/05",
       "hora": "09:00",
@@ -61,7 +46,7 @@
       "imo": "9464247",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-05-09T12:30:00"
     },
