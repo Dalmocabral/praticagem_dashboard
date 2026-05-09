@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/05/2026 13:35",
+  "ultima_atualizacao": "09/05/2026 14:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -22,24 +22,9 @@
     },
     {
       "data": "09/05",
-      "hora": "12:30",
-      "navio": "MALIAKOS",
-      "calado": "10,05",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9464247",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-05-09T12:30:00"
-    },
-    {
-      "data": "09/05",
       "hora": "15:00",
       "navio": "CMA CGM RABELAIS",
-      "calado": "14,01",
+      "calado": "14,10",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -99,7 +84,7 @@
       "data": "10/05",
       "hora": "06:30",
       "navio": "LAEM CHABANG EXPRESS",
-      "calado": "14,00",
+      "calado": "14,90",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
