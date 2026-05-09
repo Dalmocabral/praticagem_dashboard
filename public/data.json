@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "09/05/2026 03:58",
+  "ultima_atualizacao": "09/05/2026 05:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
   },
   "navios": [
-    {
-      "data": "09/05",
-      "hora": "03:00",
-      "navio": "MSC LE HAVRE",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9975583",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-09T03:00:00"
-    },
     {
       "data": "09/05",
       "hora": "05:00",
@@ -39,14 +24,14 @@
       "data": "09/05",
       "hora": "07:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,90",
+      "calado": "9,20",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-09T07:00:00"
     },
@@ -61,7 +46,7 @@
       "imo": "9720512",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-05-09T09:00:00"
     },
