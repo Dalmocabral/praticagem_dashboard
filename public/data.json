@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/05/2026 06:58",
+  "ultima_atualizacao": "09/05/2026 08:05",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -46,7 +46,7 @@
       "imo": "9768007",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-09T10:30:00"
     },
@@ -202,21 +202,6 @@
     },
     {
       "data": "11/05",
-      "hora": "06:30",
-      "navio": "MSC INIYA V",
-      "calado": "13,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9313931",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-11T06:30:00"
-    },
-    {
-      "data": "11/05",
       "hora": "15:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
@@ -247,6 +232,21 @@
     },
     {
       "data": "12/05",
+      "hora": "06:30",
+      "navio": "MSC MELINE",
+      "calado": "11,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-12T06:30:00"
+    },
+    {
+      "data": "12/05",
       "hora": "08:00",
       "navio": "COSCO SHIPPING MEXICO",
       "calado": "14,30",
@@ -262,10 +262,10 @@
     },
     {
       "data": "12/05",
-      "hora": "10:00",
+      "hora": "09:30",
       "navio": "MSC INIYA V",
-      "calado": "14,00",
-      "manobra": "S",
+      "calado": "13,00",
+      "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
       "imo": "9313931",
@@ -273,7 +273,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-12T10:00:00"
+      "timestamp": "2026-05-12T09:30:00"
     },
     {
       "data": "13/05",
@@ -289,6 +289,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-13T06:30:00"
+    },
+    {
+      "data": "13/05",
+      "hora": "07:30",
+      "navio": "MSC MELINE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-13T07:30:00"
+    },
+    {
+      "data": "13/05",
+      "hora": "08:30",
+      "navio": "MSC INIYA V",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9313931",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-13T08:30:00"
     },
     {
       "data": "13/05",
@@ -682,8 +712,8 @@
       "manobra_rio_inicio": "12/05 08:00",
       "manobra_rio_fim": "13/05 06:30",
       "navio_multi": "MSC INIYA V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/05 10:00"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "12/05 09:30"
     },
     {
       "navio_rio": "EVER FEAT",
