@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/05/2026 11:40",
+  "ultima_atualizacao": "09/05/2026 12:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -54,14 +54,14 @@
       "data": "09/05",
       "hora": "15:00",
       "navio": "CMA CGM RABELAIS",
-      "calado": "14,10",
+      "calado": "14,01",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9406635",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-05-09T15:00:00"
     },
@@ -79,21 +79,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-09T23:00:00"
-    },
-    {
-      "data": "10/05",
-      "hora": "01:00",
-      "navio": "XIN CHANG SHA",
-      "calado": "12,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9312559",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-10T01:00:00"
     },
     {
       "data": "10/05",
@@ -142,10 +127,10 @@
     },
     {
       "data": "10/05",
-      "hora": "08:30",
+      "hora": "09:00",
       "navio": "XIN CHANG SHA",
-      "calado": "12,00",
-      "manobra": "S",
+      "calado": "12,50",
+      "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
       "imo": "9312559",
@@ -153,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-10T08:30:00"
+      "timestamp": "2026-05-10T09:00:00"
     },
     {
       "data": "10/05",
@@ -169,6 +154,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-10T21:00:00"
+    },
+    {
+      "data": "10/05",
+      "hora": "23:00",
+      "navio": "XIN CHANG SHA",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9312559",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-10T23:00:00"
     },
     {
       "data": "11/05",
@@ -334,6 +334,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-12T13:30:00"
+    },
+    {
+      "data": "12/05",
+      "hora": "15:00",
+      "navio": "MAERSK FORTALEZA",
+      "calado": "13,30",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9979278",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-12T15:00:00"
+    },
+    {
+      "data": "13/05",
+      "hora": "04:30",
+      "navio": "MAERSK FORTALEZA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9979278",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-13T04:30:00"
     },
     {
       "data": "13/05",
@@ -698,37 +728,28 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "XIN CHANG SHA",
+      "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/05 01:00",
-      "manobra_rio_fim": "10/05 08:30",
-      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_rio_inicio": "10/05 04:30",
+      "manobra_rio_fim": "11/05 01:00",
+      "navio_multi": "LAEM CHABANG EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/05 06:30"
+    },
+    {
+      "navio_rio": "MERCOSUL GUARUJA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "10/05 04:30",
+      "manobra_rio_fim": "11/05 01:00",
+      "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/05 02:30"
+      "manobra_multi_data_hora": "10/05 21:00"
     },
     {
       "navio_rio": "XIN CHANG SHA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/05 01:00",
-      "manobra_rio_fim": "10/05 08:30",
-      "navio_multi": "LAEM CHABANG EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/05 06:30"
-    },
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/05 04:30",
-      "manobra_rio_fim": "11/05 01:00",
-      "navio_multi": "LAEM CHABANG EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/05 06:30"
-    },
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/05 04:30",
-      "manobra_rio_fim": "11/05 01:00",
+      "manobra_rio_inicio": "10/05 09:00",
+      "manobra_rio_fim": "10/05 23:00",
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "10/05 21:00"
