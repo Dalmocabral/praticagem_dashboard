@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/05/2026 07:03",
+  "ultima_atualizacao": "10/05/2026 08:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -34,6 +34,21 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-10T10:00:00"
+    },
+    {
+      "data": "10/05",
+      "hora": "12:00",
+      "navio": "LAEM CHABANG EXPRESS",
+      "calado": "14,90",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9768007",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
+      "terminal": "multi",
+      "timestamp": "2026-05-10T12:00:00"
     },
     {
       "data": "10/05",
@@ -276,6 +291,21 @@
       "timestamp": "2026-05-12T15:00:00"
     },
     {
+      "data": "12/05",
+      "hora": "17:00",
+      "navio": "MAERSK PANGANI",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9786097",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-12T17:00:00"
+    },
+    {
       "data": "13/05",
       "hora": "04:30",
       "navio": "MAERSK FORTALEZA",
@@ -304,6 +334,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-13T06:30:00"
+    },
+    {
+      "data": "13/05",
+      "hora": "07:30",
+      "navio": "MAERSK PANGANI",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9786097",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-13T07:30:00"
     },
     {
       "data": "13/05",
@@ -654,6 +699,15 @@
   "conflitos": [
     {
       "navio_rio": "XIN CHANG SHA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/05 10:00",
+      "manobra_rio_fim": "10/05 23:00",
+      "navio_multi": "LAEM CHABANG EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/05 12:00"
+    },
+    {
+      "navio_rio": "XIN CHANG SHA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "10/05 10:00",
       "manobra_rio_fim": "10/05 23:00",
@@ -696,6 +750,24 @@
       "navio_multi": "MSC INIYA V",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "12/05 08:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "12/05 13:30",
+      "manobra_rio_fim": "13/05 06:30",
+      "navio_multi": "MAERSK PANGANI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "12/05 17:00"
+    },
+    {
+      "navio_rio": "MAERSK FORTALEZA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "12/05 15:00",
+      "manobra_rio_fim": "13/05 04:30",
+      "navio_multi": "MAERSK PANGANI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "12/05 17:00"
     },
     {
       "navio_rio": "EVER FEAT",
