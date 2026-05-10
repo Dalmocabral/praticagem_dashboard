@@ -1,8 +1,8 @@
 {
-  "ultima_atualizacao": "10/05/2026 17:25",
+  "ultima_atualizacao": "10/05/2026 18:25",
   "barra_info": {
-    "restrita": false,
-    "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
+    "restrita": true,
+    "mensagem": "BARRA RESTRITA DESDE 10/05/2026 17:19 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Suspenso a entrada e saída de navios na Barra Grande com calado maior que 11,00 m."
   },
   "navios": [
     {
@@ -21,53 +21,23 @@
       "timestamp": "2026-05-10T17:30:00"
     },
     {
-      "data": "10/05",
-      "hora": "19:30",
+      "data": "11/05",
+      "hora": "06:30",
       "navio": "BREMERHAVEN EXPRESS",
       "calado": "12,00",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
+      "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-10T19:30:00"
-    },
-    {
-      "data": "10/05",
-      "hora": "21:30",
-      "navio": "MERCOSUL GUARUJA",
-      "calado": "12,20",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9539494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-10T21:30:00"
-    },
-    {
-      "data": "10/05",
-      "hora": "23:30",
-      "navio": "XIN CHANG SHA",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9312559",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-10T23:30:00"
+      "timestamp": "2026-05-11T06:30:00"
     },
     {
       "data": "11/05",
-      "hora": "05:00",
+      "hora": "08:00",
       "navio": "MSC MELINE",
       "calado": "11,60",
       "manobra": "E",
@@ -78,7 +48,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-11T05:00:00"
+      "timestamp": "2026-05-11T08:00:00"
+    },
+    {
+      "data": "11/05",
+      "hora": "10:00",
+      "navio": "MERCOSUL GUARUJA",
+      "calado": "12,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9539494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-11T10:00:00"
     },
     {
       "data": "11/05",
@@ -97,7 +82,7 @@
     },
     {
       "data": "11/05",
-      "hora": "15:00",
+      "hora": "13:30",
       "navio": "CMA CGM COBALT",
       "calado": "14,00",
       "manobra": "E",
@@ -108,7 +93,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-11T15:00:00"
+      "timestamp": "2026-05-11T13:30:00"
+    },
+    {
+      "data": "11/05",
+      "hora": "15:30",
+      "navio": "XIN CHANG SHA",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9312559",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-11T15:30:00"
     },
     {
       "data": "12/05",
@@ -655,7 +655,7 @@
     {
       "navio_rio": "CMA CGM COBALT",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/05 15:00",
+      "manobra_rio_inicio": "11/05 13:30",
       "manobra_rio_fim": "12/05 11:30",
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
@@ -664,7 +664,7 @@
     {
       "navio_rio": "CMA CGM COBALT",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/05 15:00",
+      "manobra_rio_inicio": "11/05 13:30",
       "manobra_rio_fim": "12/05 11:30",
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
@@ -673,7 +673,7 @@
     {
       "navio_rio": "CMA CGM COBALT",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/05 15:00",
+      "manobra_rio_inicio": "11/05 13:30",
       "manobra_rio_fim": "12/05 11:30",
       "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "S",
@@ -682,7 +682,7 @@
     {
       "navio_rio": "CMA CGM COBALT",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/05 15:00",
+      "manobra_rio_inicio": "11/05 13:30",
       "manobra_rio_fim": "12/05 11:30",
       "navio_multi": "MSC INIYA V",
       "manobra_multi_tipo": "E",
