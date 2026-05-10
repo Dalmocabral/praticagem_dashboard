@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/05/2026 01:11",
+  "ultima_atualizacao": "10/05/2026 03:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 06/05/2026 00:56"
@@ -24,7 +24,7 @@
       "data": "10/05",
       "hora": "02:30",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "8,40",
+      "calado": "9,40",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -39,14 +39,14 @@
       "data": "10/05",
       "hora": "04:30",
       "navio": "MERCOSUL GUARUJA",
-      "calado": "10,50",
+      "calado": "10,90",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-10T04:30:00"
     },
@@ -61,7 +61,7 @@
       "imo": "9768007",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-10T06:30:00"
     },
