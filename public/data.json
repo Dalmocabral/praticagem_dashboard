@@ -1,8 +1,8 @@
 {
-  "ultima_atualizacao": "11/05/2026 15:28",
+  "ultima_atualizacao": "11/05/2026 17:21",
   "barra_info": {
     "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 10/05/2026 17:19 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Suspenso a entrada e saída de navios na Barra Grande com calado maior que 11,00 m."
+    "mensagem": "BARRA RESTRITA DESDE 11/05/2026 16:59 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Suspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 10,00 m. Suspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diuno."
   },
   "navios": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "data": "12/05",
-      "hora": "11:30",
+      "hora": "12:00",
       "navio": "MAERSK FORTALEZA",
       "calado": "13,30",
       "manobra": "E",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-12T11:30:00"
+      "timestamp": "2026-05-12T12:00:00"
     },
     {
       "data": "12/05",
@@ -86,7 +86,7 @@
       "navio": "MSC INIYA V",
       "calado": "13,50",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9313931",
       "tipo_navio": "CONTAINER SHIP",
@@ -101,7 +101,7 @@
       "navio": "MAERSK PANGANI",
       "calado": "12,60",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9786097",
       "tipo_navio": "CONTAINER SHIP",
@@ -131,7 +131,7 @@
       "navio": "MAERSK PANGANI",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9786097",
       "tipo_navio": "CONTAINER SHIP",
@@ -146,7 +146,7 @@
       "navio": "MSC INIYA V",
       "calado": "14,70",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9313931",
       "tipo_navio": "CONTAINER SHIP",
@@ -535,7 +535,7 @@
     {
       "navio_rio": "MAERSK FORTALEZA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/05 11:30",
+      "manobra_rio_inicio": "12/05 12:00",
       "manobra_rio_fim": "13/05 09:30",
       "navio_multi": "MSC INIYA V",
       "manobra_multi_tipo": "E",
@@ -544,7 +544,7 @@
     {
       "navio_rio": "MAERSK FORTALEZA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/05 11:30",
+      "manobra_rio_inicio": "12/05 12:00",
       "manobra_rio_fim": "13/05 09:30",
       "navio_multi": "MAERSK PANGANI",
       "manobra_multi_tipo": "E",
@@ -553,7 +553,7 @@
     {
       "navio_rio": "MAERSK FORTALEZA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/05 11:30",
+      "manobra_rio_inicio": "12/05 12:00",
       "manobra_rio_fim": "13/05 09:30",
       "navio_multi": "MAERSK PANGANI",
       "manobra_multi_tipo": "S",
@@ -562,7 +562,7 @@
     {
       "navio_rio": "MAERSK FORTALEZA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/05 11:30",
+      "manobra_rio_inicio": "12/05 12:00",
       "manobra_rio_fim": "13/05 09:30",
       "navio_multi": "MSC INIYA V",
       "manobra_multi_tipo": "S",
