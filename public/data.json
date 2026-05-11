@@ -1,55 +1,10 @@
 {
-  "ultima_atualizacao": "11/05/2026 13:45",
+  "ultima_atualizacao": "11/05/2026 15:28",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 10/05/2026 17:19 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Suspenso a entrada e saída de navios na Barra Grande com calado maior que 11,00 m."
   },
   "navios": [
-    {
-      "data": "11/05",
-      "hora": "08:00",
-      "navio": "MSC MELINE",
-      "calado": "11,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-11T08:00:00"
-    },
-    {
-      "data": "11/05",
-      "hora": "12:00",
-      "navio": "GRANDE SAN PAOLO",
-      "calado": "8,20",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9253208",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-11T12:00:00"
-    },
-    {
-      "data": "11/05",
-      "hora": "14:00",
-      "navio": "XIN CHANG SHA",
-      "calado": "12,70",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9312559",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-05-11T14:00:00"
-    },
     {
       "data": "12/05",
       "hora": "03:00",
@@ -277,6 +232,21 @@
     },
     {
       "data": "14/05",
+      "hora": "09:30",
+      "navio": "MSC KATRINA",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9467445",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-14T09:30:00"
+    },
+    {
+      "data": "14/05",
       "hora": "11:30",
       "navio": "CMA CGM COBALT",
       "calado": "13,80",
@@ -323,17 +293,32 @@
     {
       "data": "15/05",
       "hora": "06:30",
+      "navio": "MSC KATRINA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9467445",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-15T06:30:00"
+    },
+    {
+      "data": "15/05",
+      "hora": "08:30",
       "navio": "MSC CHLOE",
       "calado": "14,60",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9720483",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-15T06:30:00"
+      "timestamp": "2026-05-15T08:30:00"
     },
     {
       "data": "15/05",
@@ -356,7 +341,7 @@
       "navio": "MSC CHLOE",
       "calado": "14,70",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9720483",
       "tipo_navio": "CONTAINER SHIP",
@@ -379,21 +364,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-18T06:00:00"
-    },
-    {
-      "data": "18/05",
-      "hora": "08:00",
-      "navio": "MSC KATRINA",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9467445",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-18T08:00:00"
     },
     {
       "data": "19/05",
@@ -424,21 +394,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-19T08:00:00"
-    },
-    {
-      "data": "19/05",
-      "hora": "10:00",
-      "navio": "MSC KATRINA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9467445",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-19T10:00:00"
     },
     {
       "data": "20/05",
@@ -641,6 +596,15 @@
       "manobra_multi_data_hora": "13/05 21:00"
     },
     {
+      "navio_rio": "CMA CGM COBALT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "13/05 11:30",
+      "manobra_rio_fim": "14/05 11:30",
+      "navio_multi": "MSC KATRINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/05 09:30"
+    },
+    {
       "navio_rio": "EVER FEAT",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "13/05 15:30",
@@ -654,27 +618,18 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "13/05 15:30",
       "manobra_rio_fim": "14/05 15:30",
+      "navio_multi": "MSC KATRINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/05 09:30"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "13/05 15:30",
+      "manobra_rio_fim": "14/05 15:30",
       "navio_multi": "DOVER HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/05 14:00"
-    },
-    {
-      "navio_rio": "CMA CGM MISSISSIPPI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/05 06:00",
-      "manobra_rio_fim": "19/05 06:00",
-      "navio_multi": "MSC KATRINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/05 08:00"
-    },
-    {
-      "navio_rio": "CMA CGM SILVER",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/05 08:00",
-      "manobra_rio_fim": "20/05 06:30",
-      "navio_multi": "MSC KATRINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/05 10:00"
     },
     {
       "navio_rio": "KOTA EMBUN",
