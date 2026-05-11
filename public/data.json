@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/05/2026 01:37",
+  "ultima_atualizacao": "11/05/2026 03:33",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 10/05/2026 17:19 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Suspenso a entrada e saída de navios na Barra Grande com calado maior que 11,00 m."
@@ -16,7 +16,7 @@
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-11T06:30:00"
     },
