@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "12/05/2026 14:35",
+  "ultima_atualizacao": "12/05/2026 16:21",
   "barra_info": {
     "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 11/05/2026 18:52 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. \nSuspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 9,00 m. \nSuspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diuno."
+    "mensagem": "BARRA RESTRITA DESDE 12/05/2026 15:04 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Suspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 10,00 m. Suspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diuno."
   },
   "navios": [
-    {
-      "data": "12/05",
-      "hora": "14:30",
-      "navio": "COSCO SHIPPING MEXICO",
-      "calado": "14,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945863",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-12T14:30:00"
-    },
     {
       "data": "12/05",
       "hora": "16:30",
@@ -532,15 +517,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "COSCO SHIPPING MEXICO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/05 14:30",
-      "manobra_rio_fim": "13/05 06:30",
-      "navio_multi": "MAERSK PANGANI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/05 16:30"
-    },
     {
       "navio_rio": "CMA CGM COBALT",
       "manobra_rio_afetada": "E",
