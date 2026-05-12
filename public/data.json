@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/05/2026 12:26",
+  "ultima_atualizacao": "12/05/2026 14:35",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/05/2026 18:52 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. \nSuspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 9,00 m. \nSuspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diuno."
@@ -31,7 +31,7 @@
       "imo": "9786097",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-12T16:30:00"
     },
@@ -53,12 +53,12 @@
     {
       "data": "13/05",
       "hora": "07:30",
-      "navio": "MAERSK PANGANI",
-      "calado": "13,50",
+      "navio": "MSC MELINE",
+      "calado": "10,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9786097",
+      "imo": "9702077",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -68,12 +68,12 @@
     {
       "data": "13/05",
       "hora": "08:30",
-      "navio": "MSC MELINE",
-      "calado": "10,60",
+      "navio": "MAERSK PANGANI",
+      "calado": "13,50",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9702077",
+      "imo": "9786097",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -97,7 +97,7 @@
     },
     {
       "data": "13/05",
-      "hora": "13:00",
+      "hora": "14:00",
       "navio": "MSC INIYA V",
       "calado": "13,50",
       "manobra": "E",
@@ -108,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-13T13:00:00"
+      "timestamp": "2026-05-13T14:00:00"
     },
     {
       "data": "13/05",
@@ -548,7 +548,7 @@
       "manobra_rio_fim": "14/05 11:30",
       "navio_multi": "MSC INIYA V",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/05 13:00"
+      "manobra_multi_data_hora": "13/05 14:00"
     },
     {
       "navio_rio": "CMA CGM COBALT",
