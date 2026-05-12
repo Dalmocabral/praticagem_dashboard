@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/05/2026 02:07",
+  "ultima_atualizacao": "12/05/2026 05:04",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/05/2026 18:52 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. \nSuspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 9,00 m. \nSuspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diuno."
@@ -9,7 +9,7 @@
       "data": "12/05",
       "hora": "05:00",
       "navio": "GRANDE SAN PAOLO",
-      "calado": "8,30",
+      "calado": "8,10",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -31,7 +31,7 @@
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-12T06:00:00"
     },
