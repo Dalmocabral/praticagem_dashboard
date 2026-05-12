@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/05/2026 22:26",
+  "ultima_atualizacao": "12/05/2026 02:07",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/05/2026 18:52 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. \nSuspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 9,00 m. \nSuspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diuno."
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "12/05",
-      "hora": "04:00",
+      "hora": "05:00",
       "navio": "GRANDE SAN PAOLO",
       "calado": "8,30",
       "manobra": "S",
@@ -16,9 +16,9 @@
       "imo": "9253208",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-05-12T04:00:00"
+      "timestamp": "2026-05-12T05:00:00"
     },
     {
       "data": "12/05",
@@ -31,7 +31,7 @@
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-05-12T06:00:00"
     },
@@ -49,21 +49,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-12T10:00:00"
-    },
-    {
-      "data": "12/05",
-      "hora": "12:00",
-      "navio": "MAERSK FORTALEZA",
-      "calado": "13,30",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9979278",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-12T12:00:00"
     },
     {
       "data": "12/05",
@@ -154,21 +139,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-13T08:30:00"
-    },
-    {
-      "data": "13/05",
-      "hora": "09:30",
-      "navio": "MAERSK FORTALEZA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9979278",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-13T09:30:00"
     },
     {
       "data": "13/05",
@@ -502,42 +472,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK FORTALEZA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/05 12:00",
-      "manobra_rio_fim": "13/05 09:30",
-      "navio_multi": "MSC INIYA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/05 15:00"
-    },
-    {
-      "navio_rio": "MAERSK FORTALEZA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/05 12:00",
-      "manobra_rio_fim": "13/05 09:30",
-      "navio_multi": "MAERSK PANGANI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/05 16:30"
-    },
-    {
-      "navio_rio": "MAERSK FORTALEZA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/05 12:00",
-      "manobra_rio_fim": "13/05 09:30",
-      "navio_multi": "MAERSK PANGANI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/05 07:30"
-    },
-    {
-      "navio_rio": "MAERSK FORTALEZA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/05 12:00",
-      "manobra_rio_fim": "13/05 09:30",
-      "navio_multi": "MSC INIYA V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/05 08:30"
-    },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "E",
