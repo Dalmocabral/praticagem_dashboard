@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "12/05/2026 07:41",
+  "ultima_atualizacao": "12/05/2026 09:29",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/05/2026 18:52 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. \nSuspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 9,00 m. \nSuspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diuno."
   },
   "navios": [
-    {
-      "data": "12/05",
-      "hora": "06:00",
-      "navio": "BREMERHAVEN EXPRESS",
-      "calado": "10,80",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9723253",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-12T06:00:00"
-    },
     {
       "data": "12/05",
       "hora": "13:30",
@@ -49,21 +34,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-12T16:30:00"
-    },
-    {
-      "data": "12/05",
-      "hora": "18:30",
-      "navio": "MSC MELINE",
-      "calado": "10,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-12T18:30:00"
     },
     {
       "data": "13/05",
@@ -97,18 +67,18 @@
     },
     {
       "data": "13/05",
-      "hora": "09:30",
-      "navio": "MSC INIYA V",
-      "calado": "13,50",
-      "manobra": "E",
+      "hora": "08:30",
+      "navio": "MSC MELINE",
+      "calado": "10,60",
+      "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9313931",
+      "imo": "9702077",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-13T09:30:00"
+      "timestamp": "2026-05-13T08:30:00"
     },
     {
       "data": "13/05",
@@ -124,6 +94,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-13T11:30:00"
+    },
+    {
+      "data": "13/05",
+      "hora": "13:00",
+      "navio": "MSC INIYA V",
+      "calado": "13,50",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9313931",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-13T13:00:00"
     },
     {
       "data": "13/05",
@@ -467,13 +452,13 @@
       "manobra_multi_data_hora": "12/05 16:30"
     },
     {
-      "navio_rio": "COSCO SHIPPING MEXICO",
+      "navio_rio": "CMA CGM COBALT",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/05 13:30",
-      "manobra_rio_fim": "13/05 06:30",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/05 18:30"
+      "manobra_rio_inicio": "13/05 11:30",
+      "manobra_rio_fim": "14/05 11:30",
+      "navio_multi": "MSC INIYA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/05 13:00"
     },
     {
       "navio_rio": "CMA CGM COBALT",
