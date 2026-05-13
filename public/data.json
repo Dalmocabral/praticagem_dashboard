@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/05/2026 17:11",
+  "ultima_atualizacao": "13/05/2026 18:46",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/05/2026 07:55 Barra restrita.  Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11M. CANAL VARRIDO FECHADO"
@@ -16,7 +16,7 @@
       "imo": "9574107",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-13T21:00:00"
     },
@@ -321,6 +321,36 @@
       "timestamp": "2026-05-16T06:30:00"
     },
     {
+      "data": "16/05",
+      "hora": "08:30",
+      "navio": "MSC MUGE",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978949",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-16T08:30:00"
+    },
+    {
+      "data": "17/05",
+      "hora": "06:30",
+      "navio": "MSC MUGE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9978949",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-17T06:30:00"
+    },
+    {
       "data": "17/05",
       "hora": "16:00",
       "navio": "CZECH",
@@ -472,7 +502,7 @@
     },
     {
       "data": "27/05",
-      "hora": "15:30",
+      "hora": "10:00",
       "navio": "KOTA EMBUN",
       "calado": "14,50",
       "manobra": "E",
@@ -483,7 +513,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-27T15:30:00"
+      "timestamp": "2026-05-27T10:00:00"
     },
     {
       "data": "28/05",
@@ -643,7 +673,7 @@
     {
       "navio_rio": "KOTA EMBUN",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "27/05 15:30",
+      "manobra_rio_inicio": "27/05 10:00",
       "manobra_rio_fim": "28/05 15:30",
       "navio_multi": "SEATTLE BRIDGE",
       "manobra_multi_tipo": "E",
