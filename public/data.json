@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/05/2026 10:25",
+  "ultima_atualizacao": "13/05/2026 13:03",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/05/2026 07:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Suspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 11,00 m. Suspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diurno."
@@ -16,7 +16,7 @@
       "imo": "9786097",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-13T13:30:00"
     },
@@ -49,6 +49,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-13T21:00:00"
+    },
+    {
+      "data": "14/05",
+      "hora": "04:30",
+      "navio": "ZIM BALTIMORE",
+      "calado": "11,80",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9395953",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-14T04:30:00"
     },
     {
       "data": "14/05",
@@ -93,21 +108,6 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-14T08:30:00"
-    },
-    {
-      "data": "14/05",
-      "hora": "08:30",
-      "navio": "ZIM BALTIMORE",
-      "calado": "11,80",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9395953",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
       "timestamp": "2026-05-14T08:30:00"
     },
     {
@@ -159,7 +159,7 @@
       "data": "14/05",
       "hora": "16:30",
       "navio": "DOVER HIGHWAY",
-      "calado": "9,50",
+      "calado": "8,90",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "futuro",
@@ -506,19 +506,10 @@
       "navio_rio": "ZIM BALTIMORE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "13/05 19:00",
-      "manobra_rio_fim": "14/05 08:30",
+      "manobra_rio_fim": "14/05 04:30",
       "navio_multi": "DOVER HIGHWAY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "13/05 21:00"
-    },
-    {
-      "navio_rio": "ZIM BALTIMORE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/05 19:00",
-      "manobra_rio_fim": "14/05 08:30",
-      "navio_multi": "MSC KATRINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/05 08:30"
     },
     {
       "navio_rio": "EVER FEAT",
