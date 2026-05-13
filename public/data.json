@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "13/05/2026 06:22",
+  "ultima_atualizacao": "13/05/2026 08:00",
   "barra_info": {
     "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 12/05/2026 15:04 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Suspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 10,00 m. Suspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diuno."
+    "mensagem": "BARRA RESTRITA DESDE 13/05/2026 07:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Suspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 11,00 m. Suspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diurno."
   },
   "navios": [
-    {
-      "data": "13/05",
-      "hora": "06:30",
-      "navio": "COSCO SHIPPING MEXICO",
-      "calado": "13,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945863",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-05-13T06:30:00"
-    },
     {
       "data": "13/05",
       "hora": "07:30",
@@ -37,21 +22,6 @@
     },
     {
       "data": "13/05",
-      "hora": "09:30",
-      "navio": "MAERSK PANGANI",
-      "calado": "13,50",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9786097",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-13T09:30:00"
-    },
-    {
-      "data": "13/05",
       "hora": "11:30",
       "navio": "ZIM BALTIMORE",
       "calado": "12,10",
@@ -61,24 +31,24 @@
       "imo": "9395953",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-05-13T11:30:00"
     },
     {
       "data": "13/05",
-      "hora": "14:00",
-      "navio": "MSC INIYA V",
+      "hora": "13:30",
+      "navio": "MAERSK PANGANI",
       "calado": "13,50",
-      "manobra": "E",
-      "beco": "TECONT2",
+      "manobra": "S",
+      "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9313931",
+      "imo": "9786097",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-13T14:00:00"
+      "timestamp": "2026-05-13T13:30:00"
     },
     {
       "data": "13/05",
@@ -94,6 +64,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-13T15:30:00"
+    },
+    {
+      "data": "13/05",
+      "hora": "17:00",
+      "navio": "MSC INIYA V",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9313931",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-13T17:00:00"
     },
     {
       "data": "13/05",
@@ -507,9 +492,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "13/05 11:30",
       "manobra_rio_fim": "14/05 05:30",
+      "navio_multi": "MAERSK PANGANI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/05 13:30"
+    },
+    {
+      "navio_rio": "ZIM BALTIMORE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/05 11:30",
+      "manobra_rio_fim": "14/05 05:30",
       "navio_multi": "MSC INIYA V",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/05 14:00"
+      "manobra_multi_data_hora": "13/05 17:00"
     },
     {
       "navio_rio": "ZIM BALTIMORE",
@@ -519,6 +513,15 @@
       "navio_multi": "DOVER HIGHWAY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "13/05 21:00"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/05 15:30",
+      "manobra_rio_fim": "14/05 15:30",
+      "navio_multi": "MSC INIYA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/05 17:00"
     },
     {
       "navio_rio": "EVER FEAT",
