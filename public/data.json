@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/05/2026 02:30",
+  "ultima_atualizacao": "13/05/2026 03:43",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/05/2026 15:04 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Suspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 10,00 m. Suspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diuno."
@@ -16,7 +16,7 @@
       "imo": "9945863",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-05-13T06:30:00"
     },
@@ -31,7 +31,7 @@
       "imo": "9702077",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-05-13T07:30:00"
     },
