@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/05/2026 19:53",
+  "ultima_atualizacao": "13/05/2026 20:59",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/05/2026 18:58 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11M. CANAL VARRIDO FECHADO PARA MANOBRAS NOTURNAS."
@@ -31,7 +31,7 @@
       "imo": "9395953",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-13T23:00:00"
     },
