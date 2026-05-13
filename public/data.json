@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "13/05/2026 15:10",
+  "ultima_atualizacao": "13/05/2026 17:11",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/05/2026 07:55 Barra restrita.  Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11M. CANAL VARRIDO FECHADO"
   },
   "navios": [
-    {
-      "data": "13/05",
-      "hora": "19:00",
-      "navio": "ZIM BALTIMORE",
-      "calado": "12,10",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9395953",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
-      "terminal": "rio",
-      "timestamp": "2026-05-13T19:00:00"
-    },
     {
       "data": "13/05",
       "hora": "21:00",
@@ -31,9 +16,24 @@
       "imo": "9574107",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-05-13T21:00:00"
+    },
+    {
+      "data": "13/05",
+      "hora": "23:00",
+      "navio": "ZIM BALTIMORE",
+      "calado": "12,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9395953",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-13T23:00:00"
     },
     {
       "data": "14/05",
@@ -127,21 +127,6 @@
     },
     {
       "data": "14/05",
-      "hora": "15:30",
-      "navio": "EVER FEAT",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9850898",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-14T15:30:00"
-    },
-    {
-      "data": "14/05",
       "hora": "16:30",
       "navio": "DOVER HIGHWAY",
       "calado": "8,90",
@@ -199,6 +184,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-15T07:30:00"
+    },
+    {
+      "data": "15/05",
+      "hora": "08:30",
+      "navio": "EVER FEAT",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850898",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-15T08:30:00"
     },
     {
       "data": "15/05",
@@ -533,31 +533,58 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "ZIM BALTIMORE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/05 19:00",
-      "manobra_rio_fim": "14/05 04:30",
-      "navio_multi": "DOVER HIGHWAY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/05 21:00"
-    },
-    {
       "navio_rio": "EVER FEAT",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "14/05 06:30",
-      "manobra_rio_fim": "14/05 15:30",
+      "manobra_rio_fim": "15/05 08:30",
       "navio_multi": "MSC KATRINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "14/05 08:30"
     },
     {
       "navio_rio": "EVER FEAT",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "14/05 06:30",
-      "manobra_rio_fim": "14/05 15:30",
+      "manobra_rio_fim": "15/05 08:30",
       "navio_multi": "MSC INIYA V",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "14/05 13:30"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/05 06:30",
+      "manobra_rio_fim": "15/05 08:30",
+      "navio_multi": "DOVER HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/05 16:30"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/05 06:30",
+      "manobra_rio_fim": "15/05 08:30",
+      "navio_multi": "GRANDE HOUSTON",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/05 18:30"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/05 06:30",
+      "manobra_rio_fim": "15/05 08:30",
+      "navio_multi": "MSC KATRINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/05 06:30"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/05 06:30",
+      "manobra_rio_fim": "15/05 08:30",
+      "navio_multi": "MSC INIYA V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/05 07:30"
     },
     {
       "navio_rio": "CMA CGM COBALT",
