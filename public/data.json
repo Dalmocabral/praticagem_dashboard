@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "13/05/2026 13:03",
+  "ultima_atualizacao": "13/05/2026 15:10",
   "barra_info": {
     "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 13/05/2026 07:55 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Suspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 11,00 m. Suspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diurno."
+    "mensagem": "BARRA RESTRITA DESDE 13/05/2026 07:55 Barra restrita.  Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11M. CANAL VARRIDO FECHADO"
   },
   "navios": [
-    {
-      "data": "13/05",
-      "hora": "13:30",
-      "navio": "MAERSK PANGANI",
-      "calado": "13,50",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9786097",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-13T13:30:00"
-    },
     {
       "data": "13/05",
       "hora": "19:00",
@@ -31,7 +16,7 @@
       "imo": "9395953",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-05-13T19:00:00"
     },
@@ -236,7 +221,7 @@
       "navio": "MSC CHLOE",
       "calado": "14,60",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9720483",
       "tipo_navio": "CONTAINER SHIP",
@@ -244,6 +229,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-15T12:30:00"
+    },
+    {
+      "data": "15/05",
+      "hora": "14:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-15T14:30:00"
     },
     {
       "data": "15/05",
@@ -276,12 +276,42 @@
       "timestamp": "2026-05-15T18:00:00"
     },
     {
+      "data": "15/05",
+      "hora": "21:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,50",
+      "manobra": "M",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-15T21:00:00"
+    },
+    {
+      "data": "16/05",
+      "hora": "04:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-16T04:00:00"
+    },
+    {
       "data": "16/05",
       "hora": "06:30",
       "navio": "MSC CHLOE",
       "calado": "14,70",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9720483",
       "tipo_navio": "CONTAINER SHIP",
@@ -573,6 +603,15 @@
       "navio_multi": "MSC INIYA V",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/05 07:30"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/05 14:30",
+      "manobra_rio_fim": "15/05 21:00",
+      "navio_multi": "GRANDE HOUSTON",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/05 18:00"
     },
     {
       "navio_rio": "KOTA EMBUN",
