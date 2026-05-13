@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/05/2026 22:26",
+  "ultima_atualizacao": "13/05/2026 02:30",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/05/2026 15:04 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Suspensa a entrada e a saída de navios na Barra Grande com calados maiores do que 10,00 m. Suspensa a entrada e a saída de navios utilizando o Canal Varrido – noturno e diuno."
@@ -16,7 +16,7 @@
       "imo": "9945863",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-05-13T06:30:00"
     },
@@ -37,7 +37,7 @@
     },
     {
       "data": "13/05",
-      "hora": "08:30",
+      "hora": "09:30",
       "navio": "MAERSK PANGANI",
       "calado": "13,50",
       "manobra": "S",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-13T08:30:00"
+      "timestamp": "2026-05-13T09:30:00"
     },
     {
       "data": "13/05",
