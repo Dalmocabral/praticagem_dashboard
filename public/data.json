@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/05/2026 01:08",
+  "ultima_atualizacao": "14/05/2026 04:21",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/05/2026 18:58 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11M. CANAL VARRIDO FECHADO PARA MANOBRAS NOTURNAS."
@@ -16,7 +16,7 @@
       "imo": "9850898",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-14T06:30:00"
     },
@@ -31,7 +31,7 @@
       "imo": "9972361",
       "tipo_navio": "LNG TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "pg1",
       "timestamp": "2026-05-14T07:30:00"
     },
