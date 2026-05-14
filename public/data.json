@@ -1,8 +1,8 @@
 {
-  "ultima_atualizacao": "14/05/2026 06:43",
+  "ultima_atualizacao": "14/05/2026 07:24",
   "barra_info": {
-    "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 13/05/2026 18:58 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11M. CANAL VARRIDO FECHADO PARA MANOBRAS NOTURNAS."
+    "restrita": false,
+    "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
   },
   "navios": [
     {
