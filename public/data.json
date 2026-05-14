@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/05/2026 04:21",
+  "ultima_atualizacao": "14/05/2026 06:43",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/05/2026 18:58 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11M. CANAL VARRIDO FECHADO PARA MANOBRAS NOTURNAS."
@@ -24,14 +24,14 @@
       "data": "14/05",
       "hora": "07:30",
       "navio": "HL EDWARD AUSTIN",
-      "calado": "10,50",
+      "calado": "10,85",
       "manobra": "E",
       "beco": "PG-1",
       "status": "hoje",
       "imo": "9972361",
       "tipo_navio": "LNG TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "pg1",
       "timestamp": "2026-05-14T07:30:00"
     },
@@ -46,7 +46,7 @@
       "imo": "9467445",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-14T08:30:00"
     },
