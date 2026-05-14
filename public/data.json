@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "14/05/2026 12:37",
+  "ultima_atualizacao": "14/05/2026 14:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
   },
   "navios": [
-    {
-      "data": "14/05",
-      "hora": "11:30",
-      "navio": "ZIM BALTIMORE",
-      "calado": "12,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9395953",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-14T11:30:00"
-    },
     {
       "data": "14/05",
       "hora": "13:30",
@@ -532,33 +517,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "ZIM BALTIMORE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/05 11:30",
-      "manobra_rio_fim": "15/05 04:00",
-      "navio_multi": "MSC INIYA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/05 13:30"
-    },
-    {
-      "navio_rio": "ZIM BALTIMORE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/05 11:30",
-      "manobra_rio_fim": "15/05 04:00",
-      "navio_multi": "DOVER HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/05 20:00"
-    },
-    {
-      "navio_rio": "ZIM BALTIMORE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/05 11:30",
-      "manobra_rio_fim": "15/05 04:00",
-      "navio_multi": "GRANDE HOUSTON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/05 22:00"
-    },
     {
       "navio_rio": "CMA CGM COBALT",
       "manobra_rio_afetada": "E",
