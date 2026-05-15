@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "15/05/2026 16:54",
+  "ultima_atualizacao": "15/05/2026 17:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
   },
   "navios": [
-    {
-      "data": "15/05",
-      "hora": "15:00",
-      "navio": "HL EDWARD AUSTIN",
-      "calado": "10,40",
-      "manobra": "S",
-      "beco": "PG-1",
-      "status": "hoje",
-      "imo": "9972361",
-      "tipo_navio": "LNG TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_atrasada",
-      "terminal": "pg1",
-      "timestamp": "2026-05-15T15:00:00"
-    },
     {
       "data": "15/05",
       "hora": "21:30",
@@ -31,7 +16,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-05-15T21:30:00"
     },
