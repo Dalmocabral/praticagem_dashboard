@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "15/05/2026 09:11",
+  "ultima_atualizacao": "15/05/2026 10:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
   },
   "navios": [
-    {
-      "data": "15/05",
-      "hora": "06:30",
-      "navio": "MSC KATRINA",
-      "calado": "11,30",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9467445",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-15T06:30:00"
-    },
-    {
-      "data": "15/05",
-      "hora": "07:30",
-      "navio": "MSC INIYA V",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9313931",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-15T07:30:00"
-    },
     {
       "data": "15/05",
       "hora": "08:30",
@@ -76,7 +46,7 @@
       "imo": "9720483",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-15T12:30:00"
     },
@@ -127,7 +97,7 @@
     },
     {
       "data": "16/05",
-      "hora": "04:00",
+      "hora": "05:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,50",
       "manobra": "M",
@@ -138,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-16T04:00:00"
+      "timestamp": "2026-05-16T05:30:00"
     },
     {
       "data": "16/05",
@@ -221,7 +191,7 @@
       "navio": "TINA I",
       "calado": "14,30",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9267156",
       "tipo_navio": "CONTAINER SHIP",
@@ -266,7 +236,7 @@
       "navio": "TINA I",
       "calado": "14,00",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9267156",
       "tipo_navio": "CONTAINER SHIP",
@@ -561,6 +531,21 @@
       "timestamp": "2026-05-29T09:30:00"
     },
     {
+      "data": "30/05",
+      "hora": "07:00",
+      "navio": "CAPE AKRITAS",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9706190",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-30T07:00:00"
+    },
+    {
       "data": "02/06",
       "hora": "08:00",
       "navio": "COSCO SHIPPING PERU",
@@ -589,6 +574,66 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-03T06:30:00"
+    },
+    {
+      "data": "03/06",
+      "hora": "16:00",
+      "navio": "HYUNDAI TOKYO",
+      "calado": "13,50",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9305673",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-03T16:00:00"
+    },
+    {
+      "data": "04/06",
+      "hora": "07:00",
+      "navio": "HYUNDAI TOKYO",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9305673",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-04T07:00:00"
+    },
+    {
+      "data": "06/06",
+      "hora": "07:00",
+      "navio": "MSC SOFIA PAZ",
+      "calado": "13,20",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9695028",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-06T07:00:00"
+    },
+    {
+      "data": "07/06",
+      "hora": "07:00",
+      "navio": "MSC SOFIA PAZ",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9695028",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-07T07:00:00"
     }
   ],
   "conflitos": [
@@ -650,7 +695,7 @@
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "15/05 22:00",
-      "manobra_rio_fim": "16/05 04:00",
+      "manobra_rio_fim": "16/05 05:30",
       "navio_multi": "GRANDE HOUSTON",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/05 01:00"
