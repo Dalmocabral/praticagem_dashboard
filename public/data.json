@@ -1,45 +1,15 @@
 {
-  "ultima_atualizacao": "15/05/2026 01:30",
+  "ultima_atualizacao": "15/05/2026 04:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
   },
   "navios": [
     {
-      "data": "14/05",
-      "hora": "23:00",
-      "navio": "DOVER HIGHWAY",
-      "calado": "8,90",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "passado",
-      "imo": "9574107",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-14T23:00:00"
-    },
-    {
-      "data": "15/05",
-      "hora": "01:00",
-      "navio": "GRANDE HOUSTON",
-      "calado": "8,35",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9782699",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-15T01:00:00"
-    },
-    {
       "data": "15/05",
       "hora": "04:00",
       "navio": "ZIM BALTIMORE",
-      "calado": "11,80",
+      "calado": "12,00",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -54,14 +24,14 @@
       "data": "15/05",
       "hora": "06:30",
       "navio": "MSC KATRINA",
-      "calado": "11,40",
+      "calado": "11,30",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9467445",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-15T06:30:00"
     },
@@ -76,7 +46,7 @@
       "imo": "9313931",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-15T07:30:00"
     },
@@ -91,7 +61,7 @@
       "imo": "9850898",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-05-15T08:30:00"
     },
