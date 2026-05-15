@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/05/2026 10:44",
+  "ultima_atualizacao": "15/05/2026 11:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
@@ -61,7 +61,7 @@
       "imo": "9972361",
       "tipo_navio": "LNG TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "pg1",
       "timestamp": "2026-05-15T15:00:00"
     },
