@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/05/2026 07:08",
+  "ultima_atualizacao": "15/05/2026 09:11",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
@@ -39,7 +39,7 @@
       "data": "15/05",
       "hora": "08:30",
       "navio": "EVER FEAT",
-      "calado": "13,80",
+      "calado": "13,60",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -54,14 +54,14 @@
       "data": "15/05",
       "hora": "10:30",
       "navio": "CMA CGM COBALT",
-      "calado": "14,00",
+      "calado": "13,95",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9996680",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-15T10:30:00"
     },
@@ -76,7 +76,7 @@
       "imo": "9720483",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-05-15T12:30:00"
     },
@@ -97,22 +97,7 @@
     },
     {
       "data": "15/05",
-      "hora": "18:00",
-      "navio": "GRANDE HOUSTON",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9782699",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-15T18:00:00"
-    },
-    {
-      "data": "15/05",
-      "hora": "20:00",
+      "hora": "22:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "E",
@@ -123,7 +108,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-15T20:00:00"
+      "timestamp": "2026-05-15T22:00:00"
+    },
+    {
+      "data": "16/05",
+      "hora": "01:00",
+      "navio": "GRANDE HOUSTON",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9782699",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-16T01:00:00"
     },
     {
       "data": "16/05",
@@ -336,6 +336,21 @@
       "timestamp": "2026-05-18T15:00:00"
     },
     {
+      "data": "18/05",
+      "hora": "17:00",
+      "navio": "MSC ALBANY",
+      "calado": "9,70",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9619438",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-18T17:00:00"
+    },
+    {
       "data": "19/05",
       "hora": "08:00",
       "navio": "CMA CGM SILVER",
@@ -349,6 +364,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-19T08:00:00"
+    },
+    {
+      "data": "19/05",
+      "hora": "10:00",
+      "navio": "MSC ALBANY",
+      "calado": "9,80",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9619438",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-19T10:00:00"
     },
     {
       "data": "20/05",
@@ -396,6 +426,21 @@
       "timestamp": "2026-05-23T07:00:00"
     },
     {
+      "data": "25/05",
+      "hora": "07:00",
+      "navio": "MSC TOGO",
+      "calado": "12,90",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9974486",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-25T07:00:00"
+    },
+    {
       "data": "26/05",
       "hora": "08:00",
       "navio": "COSCO SHIPPING URUGUAY",
@@ -409,6 +454,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-26T08:00:00"
+    },
+    {
+      "data": "26/05",
+      "hora": "10:00",
+      "navio": "MSC TOGO",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9974486",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-26T10:00:00"
     },
     {
       "data": "27/05",
@@ -486,6 +546,21 @@
       "timestamp": "2026-05-29T06:30:00"
     },
     {
+      "data": "29/05",
+      "hora": "09:30",
+      "navio": "CAPE AKRITAS",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9706190",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-29T09:30:00"
+    },
+    {
       "data": "02/06",
       "hora": "08:00",
       "navio": "COSCO SHIPPING PERU",
@@ -528,12 +603,12 @@
     },
     {
       "navio_rio": "CMA CGM COBALT",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "15/05 10:30",
       "manobra_rio_fim": "16/05 14:30",
       "navio_multi": "GRANDE HOUSTON",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/05 18:00"
+      "manobra_multi_data_hora": "16/05 01:00"
     },
     {
       "navio_rio": "CMA CGM COBALT",
@@ -572,6 +647,15 @@
       "manobra_multi_data_hora": "16/05 12:30"
     },
     {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/05 22:00",
+      "manobra_rio_fim": "16/05 04:00",
+      "navio_multi": "GRANDE HOUSTON",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/05 01:00"
+    },
+    {
       "navio_rio": "TINA I",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "16/05 16:30",
@@ -588,6 +672,24 @@
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "17/05 07:30"
+    },
+    {
+      "navio_rio": "CMA CGM SILVER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/05 08:00",
+      "manobra_rio_fim": "20/05 06:30",
+      "navio_multi": "MSC ALBANY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/05 10:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING URUGUAY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/05 08:00",
+      "manobra_rio_fim": "27/05 06:30",
+      "navio_multi": "MSC TOGO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/05 10:00"
     },
     {
       "navio_rio": "KOTA EMBUN",
