@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/05/2026 15:08",
+  "ultima_atualizacao": "15/05/2026 16:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
@@ -22,7 +22,7 @@
     },
     {
       "data": "15/05",
-      "hora": "22:00",
+      "hora": "21:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "E",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-15T22:00:00"
+      "timestamp": "2026-05-15T21:30:00"
     },
     {
       "data": "16/05",
@@ -685,7 +685,7 @@
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/05 22:00",
+      "manobra_rio_inicio": "15/05 21:30",
       "manobra_rio_fim": "16/05 05:30",
       "navio_multi": "GRANDE HOUSTON",
       "manobra_multi_tipo": "S",
