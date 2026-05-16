@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/05/2026 13:12",
+  "ultima_atualizacao": "16/05/2026 14:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
@@ -24,7 +24,7 @@
       "data": "16/05",
       "hora": "15:00",
       "navio": "MSC MUGE",
-      "calado": "13,80",
+      "calado": "13,90",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9705005",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-16T16:30:00"
     },
