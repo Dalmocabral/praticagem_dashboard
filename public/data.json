@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "16/05/2026 11:00",
+  "ultima_atualizacao": "16/05/2026 12:10",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
   },
   "navios": [
-    {
-      "data": "16/05",
-      "hora": "07:00",
-      "navio": "CMA CGM COBALT",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996680",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-05-16T07:00:00"
-    },
     {
       "data": "16/05",
       "hora": "09:00",
@@ -54,7 +39,7 @@
       "data": "16/05",
       "hora": "13:00",
       "navio": "MSC CHLOE",
-      "calado": "14,70",
+      "calado": "14,20",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -76,15 +61,15 @@
       "imo": "9978949",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-16T15:00:00"
     },
     {
       "data": "16/05",
-      "hora": "17:00",
+      "hora": "16:30",
       "navio": "MSC CATERINA",
-      "calado": "12,60",
+      "calado": "14,40",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
@@ -93,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-16T17:00:00"
+      "timestamp": "2026-05-16T16:30:00"
     },
     {
       "data": "16/05",
@@ -126,8 +111,23 @@
       "timestamp": "2026-05-16T20:30:00"
     },
     {
+      "data": "16/05",
+      "hora": "23:00",
+      "navio": "TINA I",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9267156",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-16T23:00:00"
+    },
+    {
       "data": "17/05",
-      "hora": "01:00",
+      "hora": "03:00",
       "navio": "MAERSK EVERGLADES",
       "calado": "12,60",
       "manobra": "S",
@@ -138,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-17T01:00:00"
+      "timestamp": "2026-05-17T03:00:00"
     },
     {
       "data": "17/05",
@@ -172,21 +172,6 @@
     },
     {
       "data": "17/05",
-      "hora": "08:30",
-      "navio": "TINA I",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9267156",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-17T08:30:00"
-    },
-    {
-      "data": "17/05",
       "hora": "10:30",
       "navio": "CMA CGM SANTOS",
       "calado": "10,20",
@@ -202,6 +187,21 @@
     },
     {
       "data": "17/05",
+      "hora": "12:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-17T12:00:00"
+    },
+    {
+      "data": "17/05",
       "hora": "16:00",
       "navio": "CZECH",
       "calado": "11,60",
@@ -214,21 +214,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-17T16:00:00"
-    },
-    {
-      "data": "17/05",
-      "hora": "18:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "8,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-17T18:00:00"
     },
     {
       "data": "17/05",
@@ -671,7 +656,7 @@
       "navio_rio": "TINA I",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "16/05 09:00",
-      "manobra_rio_fim": "17/05 08:30",
+      "manobra_rio_fim": "16/05 23:00",
       "navio_multi": "MSC CHLOE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/05 13:00"
@@ -680,55 +665,46 @@
       "navio_rio": "TINA I",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "16/05 09:00",
-      "manobra_rio_fim": "17/05 08:30",
+      "manobra_rio_fim": "16/05 23:00",
       "navio_multi": "MSC MUGE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "16/05 15:00"
     },
     {
       "navio_rio": "TINA I",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "16/05 09:00",
-      "manobra_rio_fim": "17/05 08:30",
+      "manobra_rio_fim": "16/05 23:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/05 17:00"
+      "manobra_multi_data_hora": "16/05 16:30"
     },
     {
       "navio_rio": "TINA I",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "16/05 09:00",
-      "manobra_rio_fim": "17/05 08:30",
+      "manobra_rio_fim": "16/05 23:00",
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "16/05 20:30"
-    },
-    {
-      "navio_rio": "TINA I",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/05 09:00",
-      "manobra_rio_fim": "17/05 08:30",
-      "navio_multi": "MSC MUGE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/05 06:30"
-    },
-    {
-      "navio_rio": "TINA I",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/05 09:00",
-      "manobra_rio_fim": "17/05 08:30",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/05 07:30"
     },
     {
       "navio_rio": "MAERSK EVERGLADES",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "16/05 18:30",
-      "manobra_rio_fim": "17/05 01:00",
+      "manobra_rio_fim": "17/05 03:00",
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "16/05 20:30"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "17/05 10:30",
+      "manobra_rio_fim": "18/05 02:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "17/05 12:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
@@ -738,15 +714,6 @@
       "navio_multi": "CZECH",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "17/05 16:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/05 10:30",
-      "manobra_rio_fim": "18/05 02:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/05 18:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
