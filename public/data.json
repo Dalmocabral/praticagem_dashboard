@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "16/05/2026 18:27",
+  "ultima_atualizacao": "16/05/2026 19:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
   },
   "navios": [
-    {
-      "data": "16/05",
-      "hora": "16:30",
-      "navio": "MSC CATERINA",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-16T16:30:00"
-    },
     {
       "data": "16/05",
       "hora": "18:30",
@@ -61,7 +46,7 @@
       "imo": "9267156",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-05-16T23:00:00"
     },
