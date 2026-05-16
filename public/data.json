@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "16/05/2026 16:35",
+  "ultima_atualizacao": "16/05/2026 17:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
   },
   "navios": [
-    {
-      "data": "16/05",
-      "hora": "15:00",
-      "navio": "MSC MUGE",
-      "calado": "13,90",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9978949",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-16T15:00:00"
-    },
     {
       "data": "16/05",
       "hora": "16:30",
@@ -69,7 +54,7 @@
       "data": "16/05",
       "hora": "23:00",
       "navio": "TINA I",
-      "calado": "14,00",
+      "calado": "14,30",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
