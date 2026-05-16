@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "16/05/2026 01:04",
+  "ultima_atualizacao": "16/05/2026 03:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
   },
   "navios": [
-    {
-      "data": "16/05",
-      "hora": "01:00",
-      "navio": "GRANDE HOUSTON",
-      "calado": "8,10",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9782699",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-16T01:00:00"
-    },
     {
       "data": "16/05",
       "hora": "07:00",
@@ -31,7 +16,7 @@
       "imo": "9996680",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-05-16T07:00:00"
     },
