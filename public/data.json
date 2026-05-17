@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/05/2026 15:15",
+  "ultima_atualizacao": "17/05/2026 16:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
@@ -16,7 +16,7 @@
       "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-05-17T20:00:00"
     },
@@ -67,6 +67,21 @@
     },
     {
       "data": "18/05",
+      "hora": "09:30",
+      "navio": "GINGA OCELOT",
+      "calado": "7,70",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9581423",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-18T09:30:00"
+    },
+    {
+      "data": "18/05",
       "hora": "12:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
@@ -94,21 +109,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-18T16:00:00"
-    },
-    {
-      "data": "19/05",
-      "hora": "06:00",
-      "navio": "GINGA OCELOT",
-      "calado": "7,70",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9581423",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-19T06:00:00"
     },
     {
       "data": "19/05",
