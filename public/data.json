@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "17/05/2026 12:07",
+  "ultima_atualizacao": "17/05/2026 13:11",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
   },
   "navios": [
-    {
-      "data": "17/05",
-      "hora": "11:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-17T11:00:00"
-    },
     {
       "data": "17/05",
       "hora": "13:00",
