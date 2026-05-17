@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "17/05/2026 10:57",
+  "ultima_atualizacao": "17/05/2026 12:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
   },
   "navios": [
-    {
-      "data": "17/05",
-      "hora": "07:00",
-      "navio": "MSC MUGE",
-      "calado": "14,40",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9978949",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-17T07:00:00"
-    },
-    {
-      "data": "17/05",
-      "hora": "09:30",
-      "navio": "CMA CGM SANTOS",
-      "calado": "10,60",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-17T09:30:00"
-    },
     {
       "data": "17/05",
       "hora": "11:00",
@@ -54,7 +24,7 @@
       "data": "17/05",
       "hora": "13:00",
       "navio": "MSC CATERINA",
-      "calado": "14,65",
+      "calado": "14,70",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -216,6 +186,21 @@
       "timestamp": "2026-05-20T06:30:00"
     },
     {
+      "data": "20/05",
+      "hora": "08:30",
+      "navio": "CMA CGM THORIUM",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996745",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-20T08:30:00"
+    },
+    {
       "data": "21/05",
       "hora": "06:00",
       "navio": "MAERSK KARUN",
@@ -229,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-21T06:00:00"
+    },
+    {
+      "data": "21/05",
+      "hora": "08:00",
+      "navio": "CMA CGM THORIUM",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996745",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-21T08:00:00"
     },
     {
       "data": "21/05",
@@ -518,42 +518,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/05 09:30",
-      "manobra_rio_fim": "18/05 02:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/05 11:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/05 09:30",
-      "manobra_rio_fim": "18/05 02:30",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/05 13:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/05 09:30",
-      "manobra_rio_fim": "18/05 02:30",
-      "navio_multi": "MSC ALBANY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/05 20:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/05 09:30",
-      "manobra_rio_fim": "18/05 02:30",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/05 22:00"
-    },
-    {
       "navio_rio": "NAVIOS DOMINO",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "18/05 05:00",
@@ -570,6 +534,15 @@
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "19/05 10:00"
+    },
+    {
+      "navio_rio": "CMA CGM THORIUM",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "20/05 08:30",
+      "manobra_rio_fim": "21/05 08:00",
+      "navio_multi": "MAERSK KARUN",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/05 06:00"
     },
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
