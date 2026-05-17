@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/05/2026 02:31",
+  "ultima_atualizacao": "17/05/2026 04:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "17/05",
-      "hora": "05:00",
+      "hora": "05:30",
       "navio": "MAERSK EVERGLADES",
       "calado": "10,60",
       "manobra": "S",
@@ -18,11 +18,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-05-17T05:00:00"
+      "timestamp": "2026-05-17T05:30:00"
     },
     {
       "data": "17/05",
-      "hora": "06:30",
+      "hora": "07:00",
       "navio": "MSC MUGE",
       "calado": "14,40",
       "manobra": "S",
@@ -31,30 +31,15 @@
       "imo": "9978949",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-05-17T06:30:00"
-    },
-    {
-      "data": "17/05",
-      "hora": "07:30",
-      "navio": "MSC CATERINA",
-      "calado": "14,65",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-17T07:30:00"
+      "timestamp": "2026-05-17T07:00:00"
     },
     {
       "data": "17/05",
       "hora": "09:30",
       "navio": "CMA CGM SANTOS",
-      "calado": "10,20",
+      "calado": "10,60",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -79,6 +64,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-17T11:00:00"
+    },
+    {
+      "data": "17/05",
+      "hora": "13:00",
+      "navio": "MSC CATERINA",
+      "calado": "14,65",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-17T13:00:00"
     },
     {
       "data": "17/05",
@@ -540,6 +540,15 @@
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "17/05 11:00"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "17/05 09:30",
+      "manobra_rio_fim": "18/05 02:30",
+      "navio_multi": "MSC CATERINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/05 13:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
