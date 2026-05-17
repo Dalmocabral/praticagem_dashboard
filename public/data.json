@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/05/2026 17:34",
+  "ultima_atualizacao": "17/05/2026 18:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
@@ -21,19 +21,19 @@
       "timestamp": "2026-05-17T20:00:00"
     },
     {
-      "data": "17/05",
-      "hora": "22:00",
+      "data": "18/05",
+      "hora": "01:30",
       "navio": "GRANDE AMBURGO",
       "calado": "9,30",
       "manobra": "S",
       "beco": "TECONT5",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-17T22:00:00"
+      "timestamp": "2026-05-18T01:30:00"
     },
     {
       "data": "18/05",
