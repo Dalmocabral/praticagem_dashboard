@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/05/2026 13:11",
+  "ultima_atualizacao": "17/05/2026 14:16",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
@@ -82,7 +82,7 @@
     },
     {
       "data": "18/05",
-      "hora": "09:00",
+      "hora": "12:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "S",
@@ -93,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-18T09:00:00"
+      "timestamp": "2026-05-18T12:00:00"
     },
     {
       "data": "18/05",
@@ -504,12 +504,12 @@
   "conflitos": [
     {
       "navio_rio": "NAVIOS DOMINO",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "18/05 05:00",
       "manobra_rio_fim": "18/05 16:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/05 09:00"
+      "manobra_multi_data_hora": "18/05 12:00"
     },
     {
       "navio_rio": "CMA CGM SILVER",
