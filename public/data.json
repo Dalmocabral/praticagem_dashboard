@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/05/2026 22:51",
+  "ultima_atualizacao": "18/05/2026 03:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
@@ -7,7 +7,37 @@
   "navios": [
     {
       "data": "18/05",
-      "hora": "01:30",
+      "hora": "02:30",
+      "navio": "CMA CGM SANTOS",
+      "calado": "11,55",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9649835",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "rio",
+      "timestamp": "2026-05-18T02:30:00"
+    },
+    {
+      "data": "18/05",
+      "hora": "04:30",
+      "navio": "NAVIOS DOMINO",
+      "calado": "11,20",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9478494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_futura",
+      "terminal": "rio",
+      "timestamp": "2026-05-18T04:30:00"
+    },
+    {
+      "data": "18/05",
+      "hora": "08:00",
       "navio": "GRANDE AMBURGO",
       "calado": "9,30",
       "manobra": "S",
@@ -16,39 +46,9 @@
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-18T01:30:00"
-    },
-    {
-      "data": "18/05",
-      "hora": "02:30",
-      "navio": "CMA CGM SANTOS",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-18T02:30:00"
-    },
-    {
-      "data": "18/05",
-      "hora": "04:30",
-      "navio": "NAVIOS DOMINO",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9478494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-18T04:30:00"
+      "terminal": "multi",
+      "timestamp": "2026-05-18T08:00:00"
     },
     {
       "data": "18/05",
@@ -472,6 +472,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "NAVIOS DOMINO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/05 04:30",
+      "manobra_rio_fim": "18/05 16:00",
+      "navio_multi": "GRANDE AMBURGO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/05 08:00"
+    },
     {
       "navio_rio": "NAVIOS DOMINO",
       "manobra_rio_afetada": "S",
