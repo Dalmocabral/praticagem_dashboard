@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/05/2026 17:44",
+  "ultima_atualizacao": "18/05/2026 18:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
@@ -24,7 +24,7 @@
       "data": "18/05",
       "hora": "19:00",
       "navio": "MSC ALBANY",
-      "calado": "9,30",
+      "calado": "9,40",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9267754",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-05-18T22:00:00"
     },
