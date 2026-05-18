@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/05/2026 11:19",
+  "ultima_atualizacao": "18/05/2026 14:14",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
@@ -9,7 +9,7 @@
       "data": "18/05",
       "hora": "13:00",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
+      "calado": "8,90",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -22,21 +22,6 @@
     },
     {
       "data": "18/05",
-      "hora": "16:00",
-      "navio": "NAVIOS DOMINO",
-      "calado": "11,30",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9478494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-18T16:00:00"
-    },
-    {
-      "data": "18/05",
       "hora": "17:00",
       "navio": "MSC ALBANY",
       "calado": "9,30",
@@ -46,24 +31,24 @@
       "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-18T17:00:00"
     },
     {
       "data": "18/05",
-      "hora": "19:00",
-      "navio": "OCEAN7 ROYAL",
-      "calado": "6,20",
-      "manobra": "E",
+      "hora": "18:00",
+      "navio": "NAVIOS DOMINO",
+      "calado": "11,30",
+      "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
-      "imo": "9267754",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "imo": "9478494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
       "terminal": "rio",
-      "timestamp": "2026-05-18T19:00:00"
+      "timestamp": "2026-05-18T18:00:00"
     },
     {
       "data": "18/05",
@@ -81,10 +66,25 @@
       "timestamp": "2026-05-18T20:30:00"
     },
     {
+      "data": "18/05",
+      "hora": "22:00",
+      "navio": "OCEAN7 ROYAL",
+      "calado": "6,20",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9267754",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-18T22:00:00"
+    },
+    {
       "data": "19/05",
-      "hora": "08:00",
+      "hora": "06:30",
       "navio": "CMA CGM SILVER",
-      "calado": "12,50",
+      "calado": "14,40",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -93,13 +93,13 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-19T08:00:00"
+      "timestamp": "2026-05-19T06:30:00"
     },
     {
       "data": "19/05",
-      "hora": "10:00",
+      "hora": "09:30",
       "navio": "CAPE SOUNIO",
-      "calado": "12,60",
+      "calado": "12,30",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
@@ -108,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-19T10:00:00"
+      "timestamp": "2026-05-19T09:30:00"
     },
     {
       "data": "19/05",
@@ -124,6 +124,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-19T12:00:00"
+    },
+    {
+      "data": "19/05",
+      "hora": "15:30",
+      "navio": "MAERSK RUBICON",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9632480",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-19T15:30:00"
     },
     {
       "data": "20/05",
@@ -169,6 +184,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-20T10:30:00"
+    },
+    {
+      "data": "20/05",
+      "hora": "12:30",
+      "navio": "MAERSK RUBICON",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9632480",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-20T12:30:00"
     },
     {
       "data": "21/05",
@@ -505,25 +535,16 @@
     {
       "navio_rio": "OCEAN7 ROYAL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/05 19:00",
-      "manobra_rio_fim": "22/05 19:00",
-      "navio_multi": "POLARIS LEADER",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/05 20:30"
-    },
-    {
-      "navio_rio": "OCEAN7 ROYAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/05 19:00",
+      "manobra_rio_inicio": "18/05 22:00",
       "manobra_rio_fim": "22/05 19:00",
       "navio_multi": "CAPE SOUNIO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/05 10:00"
+      "manobra_multi_data_hora": "19/05 09:30"
     },
     {
       "navio_rio": "OCEAN7 ROYAL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/05 19:00",
+      "manobra_rio_inicio": "18/05 22:00",
       "manobra_rio_fim": "22/05 19:00",
       "navio_multi": "POLARIS LEADER",
       "manobra_multi_tipo": "S",
@@ -532,7 +553,16 @@
     {
       "navio_rio": "OCEAN7 ROYAL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/05 19:00",
+      "manobra_rio_inicio": "18/05 22:00",
+      "manobra_rio_fim": "22/05 19:00",
+      "navio_multi": "MAERSK RUBICON",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/05 15:30"
+    },
+    {
+      "navio_rio": "OCEAN7 ROYAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/05 22:00",
       "manobra_rio_fim": "22/05 19:00",
       "navio_multi": "CAPE SOUNIO",
       "manobra_multi_tipo": "S",
@@ -540,8 +570,17 @@
     },
     {
       "navio_rio": "OCEAN7 ROYAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/05 22:00",
+      "manobra_rio_fim": "22/05 19:00",
+      "navio_multi": "MAERSK RUBICON",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/05 12:30"
+    },
+    {
+      "navio_rio": "OCEAN7 ROYAL",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/05 19:00",
+      "manobra_rio_inicio": "18/05 22:00",
       "manobra_rio_fim": "22/05 19:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "E",
@@ -550,7 +589,7 @@
     {
       "navio_rio": "OCEAN7 ROYAL",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/05 19:00",
+      "manobra_rio_inicio": "18/05 22:00",
       "manobra_rio_fim": "22/05 19:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "S",
@@ -559,7 +598,7 @@
     {
       "navio_rio": "OCEAN7 ROYAL",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/05 19:00",
+      "manobra_rio_inicio": "18/05 22:00",
       "manobra_rio_fim": "22/05 19:00",
       "navio_multi": "MSC SABRINA",
       "manobra_multi_tipo": "E",
@@ -568,20 +607,29 @@
     {
       "navio_rio": "CMA CGM SILVER",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/05 08:00",
+      "manobra_rio_inicio": "19/05 06:30",
       "manobra_rio_fim": "20/05 06:30",
       "navio_multi": "CAPE SOUNIO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/05 10:00"
+      "manobra_multi_data_hora": "19/05 09:30"
     },
     {
       "navio_rio": "CMA CGM SILVER",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/05 08:00",
+      "manobra_rio_inicio": "19/05 06:30",
       "manobra_rio_fim": "20/05 06:30",
       "navio_multi": "POLARIS LEADER",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "19/05 12:00"
+    },
+    {
+      "navio_rio": "CMA CGM SILVER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/05 06:30",
+      "manobra_rio_fim": "20/05 06:30",
+      "navio_multi": "MAERSK RUBICON",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/05 15:30"
     },
     {
       "navio_rio": "CMA CGM THORIUM",
@@ -591,6 +639,15 @@
       "navio_multi": "CAPE SOUNIO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "20/05 10:30"
+    },
+    {
+      "navio_rio": "CMA CGM THORIUM",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/05 08:30",
+      "manobra_rio_fim": "21/05 08:00",
+      "navio_multi": "MAERSK RUBICON",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/05 12:30"
     },
     {
       "navio_rio": "CMA CGM THORIUM",
