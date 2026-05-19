@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/05/2026 14:20",
+  "ultima_atualizacao": "19/05/2026 16:24",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "19/05",
-      "hora": "14:00",
-      "navio": "CAPE SOUNIO",
-      "calado": "12,10",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9727625",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-19T14:00:00"
-    },
-    {
-      "data": "19/05",
       "hora": "16:00",
       "navio": "POLARIS LEADER",
-      "calado": "8,40",
+      "calado": "8,30",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -229,6 +214,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-23T07:00:00"
+    },
+    {
+      "data": "23/05",
+      "hora": "19:00",
+      "navio": "BOCHEM SHANGHAI",
+      "calado": "10,10",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9956422",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-23T19:00:00"
+    },
+    {
+      "data": "25/05",
+      "hora": "03:00",
+      "navio": "BOCHEM SHANGHAI",
+      "calado": "8,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9956422",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-25T03:00:00"
     },
     {
       "data": "25/05",
