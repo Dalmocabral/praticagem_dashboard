@@ -1,43 +1,13 @@
 {
-  "ultima_atualizacao": "19/05/2026 22:49",
+  "ultima_atualizacao": "20/05/2026 02:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 14/05/2026 07:20"
   },
   "navios": [
     {
-      "data": "19/05",
-      "hora": "23:00",
-      "navio": "ITHACA",
-      "calado": "6,70",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9968449",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-19T23:00:00"
-    },
-    {
       "data": "20/05",
-      "hora": "01:00",
-      "navio": "CAPE SOUNIO",
-      "calado": "12,40",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9727625",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-20T01:00:00"
-    },
-    {
-      "data": "20/05",
-      "hora": "08:00",
+      "hora": "05:00",
       "navio": "ITHACA",
       "calado": "6,00",
       "manobra": "S",
@@ -46,9 +16,9 @@
       "imo": "9968449",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-05-20T08:00:00"
+      "timestamp": "2026-05-20T05:00:00"
     },
     {
       "data": "20/05",
