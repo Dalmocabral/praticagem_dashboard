@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "20/05/2026 19:14",
+  "ultima_atualizacao": "20/05/2026 20:42",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
   },
   "navios": [
-    {
-      "data": "20/05",
-      "hora": "05:00",
-      "navio": "ITHACA",
-      "calado": "6,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9968449",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-20T05:00:00"
-    },
     {
       "data": "20/05",
       "hora": "20:00",
@@ -281,7 +266,7 @@
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
