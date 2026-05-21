@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/05/2026 06:59",
+  "ultima_atualizacao": "21/05/2026 09:55",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
@@ -16,7 +16,7 @@
       "imo": "9996745",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-05-21T13:00:00"
     },
@@ -82,21 +82,6 @@
     },
     {
       "data": "22/05",
-      "hora": "06:30",
-      "navio": "MAERSK RUBICON",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9632480",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-22T06:30:00"
-    },
-    {
-      "data": "22/05",
       "hora": "07:30",
       "navio": "CMA CGM THORIUM",
       "calado": "14,00",
@@ -109,6 +94,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-22T07:30:00"
+    },
+    {
+      "data": "22/05",
+      "hora": "08:30",
+      "navio": "MAERSK RUBICON",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9632480",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-22T08:30:00"
     },
     {
       "data": "22/05",
@@ -127,7 +127,22 @@
     },
     {
       "data": "22/05",
-      "hora": "13:30",
+      "hora": "14:00",
+      "navio": "MSC LUDOVICA",
+      "calado": "13,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9251690",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-22T14:00:00"
+    },
+    {
+      "data": "22/05",
+      "hora": "16:00",
       "navio": "MSC LE HAVRE",
       "calado": "14,40",
       "manobra": "E",
@@ -138,7 +153,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-22T13:30:00"
+      "timestamp": "2026-05-22T16:00:00"
     },
     {
       "data": "22/05",
@@ -154,21 +169,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-22T20:00:00"
-    },
-    {
-      "data": "22/05",
-      "hora": "22:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "8,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-22T22:00:00"
     },
     {
       "data": "23/05",
@@ -232,6 +232,36 @@
     },
     {
       "data": "23/05",
+      "hora": "07:30",
+      "navio": "MSC LUDOVICA",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9251690",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-23T07:30:00"
+    },
+    {
+      "data": "23/05",
+      "hora": "09:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-23T09:30:00"
+    },
+    {
+      "data": "23/05",
       "hora": "12:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,50",
@@ -244,21 +274,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-23T12:00:00"
-    },
-    {
-      "data": "23/05",
-      "hora": "13:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-23T13:00:00"
     },
     {
       "data": "23/05",
@@ -319,6 +334,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-24T07:00:00"
+    },
+    {
+      "data": "24/05",
+      "hora": "11:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-24T11:00:00"
     },
     {
       "data": "24/05",
@@ -659,22 +689,22 @@
       "manobra_multi_data_hora": "22/05 02:30"
     },
     {
-      "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/05 13:00",
-      "manobra_rio_fim": "22/05 07:30",
-      "navio_multi": "MAERSK RUBICON",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/05 06:30"
-    },
-    {
       "navio_rio": "MELINA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "22/05 11:00",
       "manobra_rio_fim": "22/05 20:00",
+      "navio_multi": "MSC LUDOVICA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "22/05 14:00"
+    },
+    {
+      "navio_rio": "MELINA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/05 11:00",
+      "manobra_rio_fim": "22/05 20:00",
       "navio_multi": "MSC LE HAVRE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "22/05 13:30"
+      "manobra_multi_data_hora": "22/05 16:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -695,6 +725,24 @@
       "manobra_multi_data_hora": "23/05 06:30"
     },
     {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/05 02:00",
+      "manobra_rio_fim": "23/05 12:00",
+      "navio_multi": "MSC LUDOVICA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/05 07:30"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/05 02:00",
+      "manobra_rio_fim": "23/05 12:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/05 09:30"
+    },
+    {
       "navio_rio": "BOCHEM SHANGHAI",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/05 19:00",
@@ -711,6 +759,15 @@
       "navio_multi": "MSC SABRINA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/05 07:00"
+    },
+    {
+      "navio_rio": "BOCHEM SHANGHAI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/05 19:00",
+      "manobra_rio_fim": "25/05 03:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/05 11:00"
     },
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
