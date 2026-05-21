@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "21/05/2026 17:15",
+  "ultima_atualizacao": "21/05/2026 18:52",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
   },
   "navios": [
-    {
-      "data": "21/05",
-      "hora": "16:30",
-      "navio": "MAERSK RUBICON",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9632480",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-21T16:30:00"
-    },
     {
       "data": "22/05",
       "hora": "00:30",
