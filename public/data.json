@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "21/05/2026 15:16",
+  "ultima_atualizacao": "21/05/2026 17:15",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
   },
   "navios": [
-    {
-      "data": "21/05",
-      "hora": "13:00",
-      "navio": "CMA CGM THORIUM",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996745",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-21T13:00:00"
-    },
-    {
-      "data": "21/05",
-      "hora": "15:00",
-      "navio": "NC BRISA",
-      "calado": "9,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9612789",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-21T15:00:00"
-    },
     {
       "data": "21/05",
       "hora": "16:30",
@@ -682,42 +652,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/05 13:00",
-      "manobra_rio_fim": "22/05 07:30",
-      "navio_multi": "NC BRISA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/05 15:00"
-    },
-    {
-      "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/05 13:00",
-      "manobra_rio_fim": "22/05 07:30",
-      "navio_multi": "MAERSK RUBICON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/05 16:30"
-    },
-    {
-      "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/05 13:00",
-      "manobra_rio_fim": "22/05 07:30",
-      "navio_multi": "GRAND VEGA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "22/05 00:30"
-    },
-    {
-      "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/05 13:00",
-      "manobra_rio_fim": "22/05 07:30",
-      "navio_multi": "NC BRISA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/05 02:30"
-    },
     {
       "navio_rio": "MELINA",
       "manobra_rio_afetada": "E",
