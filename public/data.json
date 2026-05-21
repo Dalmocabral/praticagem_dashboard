@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/05/2026 20:42",
+  "ultima_atualizacao": "20/05/2026 21:52",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
@@ -12,7 +12,7 @@
       "calado": "5,20",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "hoje",
+      "status": "passado",
       "imo": "9362827",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
@@ -27,7 +27,7 @@
       "calado": "7,00",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9213959",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
@@ -42,7 +42,7 @@
       "calado": "9,60",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9723241",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -52,42 +52,12 @@
     },
     {
       "data": "21/05",
-      "hora": "08:00",
-      "navio": "MAERSK RUBICON",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9632480",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-21T08:00:00"
-    },
-    {
-      "data": "21/05",
-      "hora": "09:30",
-      "navio": "MSC LE HAVRE",
-      "calado": "14,40",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9975583",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-21T09:30:00"
-    },
-    {
-      "data": "21/05",
       "hora": "11:30",
       "navio": "NC BRISA",
       "calado": "9,30",
       "manobra": "E",
       "beco": "TECONT4",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9612789",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -102,7 +72,7 @@
       "calado": "14,00",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9996745",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -112,18 +82,33 @@
     },
     {
       "data": "21/05",
-      "hora": "15:30",
+      "hora": "14:30",
+      "navio": "MAERSK RUBICON",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9632480",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-21T14:30:00"
+    },
+    {
+      "data": "21/05",
+      "hora": "16:00",
       "navio": "MSC LE HAVRE",
       "calado": "14,40",
-      "manobra": "S",
+      "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9975583",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-21T15:30:00"
+      "timestamp": "2026-05-21T16:00:00"
     },
     {
       "data": "22/05",
@@ -187,6 +172,21 @@
     },
     {
       "data": "22/05",
+      "hora": "08:30",
+      "navio": "MSC LE HAVRE",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9975583",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-22T08:30:00"
+    },
+    {
+      "data": "22/05",
       "hora": "11:00",
       "navio": "MELINA",
       "calado": "11,50",
@@ -247,21 +247,6 @@
     },
     {
       "data": "23/05",
-      "hora": "01:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-23T01:00:00"
-    },
-    {
-      "data": "23/05",
       "hora": "02:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
@@ -296,7 +281,7 @@
       "navio": "LOG-IN PANTANAL",
       "calado": "9,50",
       "manobra": "M",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
@@ -349,6 +334,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-23T19:00:00"
+    },
+    {
+      "data": "23/05",
+      "hora": "21:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-23T21:00:00"
     },
     {
       "data": "24/05",
@@ -690,24 +690,6 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "20/05 20:00",
       "manobra_rio_fim": "23/05 00:00",
-      "navio_multi": "MAERSK RUBICON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/05 08:00"
-    },
-    {
-      "navio_rio": "INDUSTRIAL HOBART",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/05 20:00",
-      "manobra_rio_fim": "23/05 00:00",
-      "navio_multi": "MSC LE HAVRE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/05 09:30"
-    },
-    {
-      "navio_rio": "INDUSTRIAL HOBART",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/05 20:00",
-      "manobra_rio_fim": "23/05 00:00",
       "navio_multi": "NC BRISA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "21/05 11:30"
@@ -717,9 +699,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "20/05 20:00",
       "manobra_rio_fim": "23/05 00:00",
+      "navio_multi": "MAERSK RUBICON",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/05 14:30"
+    },
+    {
+      "navio_rio": "INDUSTRIAL HOBART",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/05 20:00",
+      "manobra_rio_fim": "23/05 00:00",
       "navio_multi": "MSC LE HAVRE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/05 15:30"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/05 16:00"
     },
     {
       "navio_rio": "INDUSTRIAL HOBART",
@@ -753,6 +744,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "20/05 20:00",
       "manobra_rio_fim": "23/05 00:00",
+      "navio_multi": "MSC LE HAVRE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/05 08:30"
+    },
+    {
+      "navio_rio": "INDUSTRIAL HOBART",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "20/05 20:00",
+      "manobra_rio_fim": "23/05 00:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "22/05 22:00"
@@ -762,9 +762,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "21/05 13:00",
       "manobra_rio_fim": "22/05 07:30",
+      "navio_multi": "MAERSK RUBICON",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/05 14:30"
+    },
+    {
+      "navio_rio": "CMA CGM THORIUM",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/05 13:00",
+      "manobra_rio_fim": "22/05 07:30",
       "navio_multi": "MSC LE HAVRE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/05 15:30"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/05 16:00"
     },
     {
       "navio_rio": "CMA CGM THORIUM",
@@ -801,6 +810,15 @@
       "navio_multi": "GRAND VEGA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/05 04:00"
+    },
+    {
+      "navio_rio": "BOCHEM SHANGHAI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/05 19:00",
+      "manobra_rio_fim": "25/05 03:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/05 21:00"
     },
     {
       "navio_rio": "BOCHEM SHANGHAI",
