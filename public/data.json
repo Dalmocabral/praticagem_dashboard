@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "22/05/2026 01:38",
+  "ultima_atualizacao": "22/05/2026 05:03",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
   },
   "navios": [
-    {
-      "data": "22/05",
-      "hora": "00:30",
-      "navio": "GRAND VEGA",
-      "calado": "8,10",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9355252",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-22T00:30:00"
-    },
-    {
-      "data": "22/05",
-      "hora": "02:30",
-      "navio": "NC BRISA",
-      "calado": "8,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9612789",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-22T02:30:00"
-    },
     {
       "data": "22/05",
       "hora": "07:30",
@@ -46,7 +16,7 @@
       "imo": "9996745",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-05-22T07:30:00"
     },
@@ -61,7 +31,7 @@
       "imo": "9632480",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-05-22T09:00:00"
     },
