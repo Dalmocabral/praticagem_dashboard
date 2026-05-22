@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/05/2026 05:03",
+  "ultima_atualizacao": "22/05/2026 08:14",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
@@ -22,7 +22,22 @@
     },
     {
       "data": "22/05",
-      "hora": "09:00",
+      "hora": "10:00",
+      "navio": "MELINA",
+      "calado": "11,40",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9401075",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_futura",
+      "terminal": "rio",
+      "timestamp": "2026-05-22T10:00:00"
+    },
+    {
+      "data": "22/05",
+      "hora": "12:00",
       "navio": "MAERSK RUBICON",
       "calado": "14,20",
       "manobra": "S",
@@ -33,22 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-05-22T09:00:00"
-    },
-    {
-      "data": "22/05",
-      "hora": "11:00",
-      "navio": "MELINA",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9401075",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-22T11:00:00"
+      "timestamp": "2026-05-22T12:00:00"
     },
     {
       "data": "22/05",
@@ -337,7 +337,7 @@
     },
     {
       "data": "25/05",
-      "hora": "07:00",
+      "hora": "06:30",
       "navio": "MSC TOGO",
       "calado": "12,90",
       "manobra": "E",
@@ -348,7 +348,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-25T07:00:00"
+      "timestamp": "2026-05-25T06:30:00"
     },
     {
       "data": "26/05",
@@ -610,7 +610,16 @@
     {
       "navio_rio": "MELINA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/05 11:00",
+      "manobra_rio_inicio": "22/05 10:00",
+      "manobra_rio_fim": "22/05 20:00",
+      "navio_multi": "MAERSK RUBICON",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/05 12:00"
+    },
+    {
+      "navio_rio": "MELINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/05 10:00",
       "manobra_rio_fim": "22/05 20:00",
       "navio_multi": "MSC LE HAVRE",
       "manobra_multi_tipo": "E",
@@ -619,7 +628,7 @@
     {
       "navio_rio": "MELINA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/05 11:00",
+      "manobra_rio_inicio": "22/05 10:00",
       "manobra_rio_fim": "22/05 20:00",
       "navio_multi": "MSC LUDOVICA",
       "manobra_multi_tipo": "E",
