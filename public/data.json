@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/05/2026 17:05",
+  "ultima_atualizacao": "22/05/2026 18:34",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
@@ -9,7 +9,7 @@
       "data": "22/05",
       "hora": "18:00",
       "navio": "GRAND VEGA",
-      "calado": "9,00",
+      "calado": "7,70",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -24,7 +24,7 @@
       "data": "22/05",
       "hora": "20:00",
       "navio": "MELINA",
-      "calado": "11,50",
+      "calado": "11,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-05-22T22:00:00"
     },
@@ -292,6 +292,21 @@
     },
     {
       "data": "24/05",
+      "hora": "13:30",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "11,30",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-24T13:30:00"
+    },
+    {
+      "data": "24/05",
       "hora": "15:00",
       "navio": "BOCHEM SHANGHAI",
       "calado": "10,10",
@@ -322,6 +337,36 @@
     },
     {
       "data": "25/05",
+      "hora": "18:00",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "11,20",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-25T18:00:00"
+    },
+    {
+      "data": "25/05",
+      "hora": "20:00",
+      "navio": "SEATTLE C",
+      "calado": "11,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9360910",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-25T20:00:00"
+    },
+    {
+      "data": "25/05",
       "hora": "22:00",
       "navio": "BOCHEM SHANGHAI",
       "calado": "8,20",
@@ -349,6 +394,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-26T08:00:00"
+    },
+    {
+      "data": "26/05",
+      "hora": "13:00",
+      "navio": "SEATTLE C",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9360910",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-26T13:00:00"
     },
     {
       "data": "27/05",
@@ -639,6 +699,15 @@
       "navio_multi": "MSC SABRINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/05 15:30"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/05 13:30",
+      "manobra_rio_fim": "25/05 18:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "25/05 06:30"
     },
     {
       "navio_rio": "BOCHEM SHANGHAI",
