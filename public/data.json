@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "22/05/2026 18:34",
+  "ultima_atualizacao": "22/05/2026 19:38",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
   },
   "navios": [
-    {
-      "data": "22/05",
-      "hora": "18:00",
-      "navio": "GRAND VEGA",
-      "calado": "7,70",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9355252",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-22T18:00:00"
-    },
     {
       "data": "22/05",
       "hora": "20:00",
@@ -46,24 +31,9 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-22T22:00:00"
-    },
-    {
-      "data": "23/05",
-      "hora": "00:00",
-      "navio": "INDUSTRIAL HOBART",
-      "calado": "5,90",
-      "manobra": "M",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9362827",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-23T00:00:00"
     },
     {
       "data": "23/05",
@@ -143,12 +113,12 @@
     {
       "data": "23/05",
       "hora": "09:30",
-      "navio": "MSC LUDOVICA",
-      "calado": "13,60",
+      "navio": "LOG-IN EXPERIENCE",
+      "calado": "8,00",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9251690",
+      "imo": "9961972",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -173,14 +143,14 @@
     {
       "data": "23/05",
       "hora": "13:30",
-      "navio": "SEASPAN EMPIRE",
-      "calado": "11,00",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "navio": "INDUSTRIAL HOBART",
+      "calado": "5,90",
+      "manobra": "M",
+      "beco": "TECONT1",
       "status": "futuro",
-      "imo": "9407160",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "imo": "9362827",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-23T13:30:00"
@@ -188,12 +158,12 @@
     {
       "data": "23/05",
       "hora": "15:30",
-      "navio": "MSC SABRINA",
-      "calado": "14,50",
+      "navio": "MSC LUDOVICA",
+      "calado": "13,60",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9979022",
+      "imo": "9251690",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -202,10 +172,10 @@
     },
     {
       "data": "23/05",
-      "hora": "22:00",
+      "hora": "17:30",
       "navio": "SEASPAN EMPIRE",
-      "calado": "11,00",
-      "manobra": "S",
+      "calado": "10,90",
+      "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9407160",
@@ -213,7 +183,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-23T22:00:00"
+      "timestamp": "2026-05-23T17:30:00"
+    },
+    {
+      "data": "23/05",
+      "hora": "21:00",
+      "navio": "LOG-IN EXPERIENCE",
+      "calado": "8,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9961972",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-23T21:00:00"
     },
     {
       "data": "23/05",
@@ -232,37 +217,22 @@
     },
     {
       "data": "24/05",
-      "hora": "06:30",
-      "navio": "MSC LUDOVICA",
-      "calado": "14,50",
+      "hora": "01:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "11,00",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9251690",
+      "imo": "9407160",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-24T06:30:00"
+      "terminal": "rio",
+      "timestamp": "2026-05-24T01:00:00"
     },
     {
       "data": "24/05",
-      "hora": "07:30",
-      "navio": "MSC SABRINA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9979022",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-24T07:30:00"
-    },
-    {
-      "data": "24/05",
-      "hora": "09:30",
+      "hora": "03:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,40",
       "manobra": "E",
@@ -273,7 +243,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-24T09:30:00"
+      "timestamp": "2026-05-24T03:00:00"
+    },
+    {
+      "data": "24/05",
+      "hora": "06:30",
+      "navio": "MSC LUDOVICA",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9251690",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-24T06:30:00"
     },
     {
       "data": "24/05",
@@ -439,6 +424,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-27T10:00:00"
+    },
+    {
+      "data": "27/05",
+      "hora": "12:00",
+      "navio": "MSC SABRINA",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9979022",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-27T12:00:00"
+    },
+    {
+      "data": "27/05",
+      "hora": "22:00",
+      "navio": "MSC SABRINA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9979022",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-27T22:00:00"
     },
     {
       "data": "28/05",
@@ -651,9 +666,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/05 11:30",
       "manobra_rio_fim": "24/05 11:30",
-      "navio_multi": "MSC SABRINA",
+      "navio_multi": "MSC LUDOVICA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/05 15:30"
+    },
+    {
+      "navio_rio": "CMA CGM PUCCINI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/05 11:30",
+      "manobra_rio_fim": "24/05 11:30",
+      "navio_multi": "LOG-IN EXPERIENCE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/05 21:00"
     },
     {
       "navio_rio": "CMA CGM PUCCINI",
@@ -669,36 +693,36 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "23/05 11:30",
       "manobra_rio_fim": "24/05 11:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "24/05 03:00"
+    },
+    {
+      "navio_rio": "CMA CGM PUCCINI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/05 11:30",
+      "manobra_rio_fim": "24/05 11:30",
       "navio_multi": "MSC LUDOVICA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/05 06:30"
     },
     {
-      "navio_rio": "CMA CGM PUCCINI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/05 11:30",
-      "manobra_rio_fim": "24/05 11:30",
-      "navio_multi": "MSC SABRINA",
+      "navio_rio": "SEASPAN EMPIRE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/05 17:30",
+      "manobra_rio_fim": "24/05 01:00",
+      "navio_multi": "LOG-IN EXPERIENCE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/05 07:30"
-    },
-    {
-      "navio_rio": "CMA CGM PUCCINI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/05 11:30",
-      "manobra_rio_fim": "24/05 11:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/05 09:30"
+      "manobra_multi_data_hora": "23/05 21:00"
     },
     {
       "navio_rio": "SEASPAN EMPIRE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/05 13:30",
-      "manobra_rio_fim": "23/05 22:00",
-      "navio_multi": "MSC SABRINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/05 15:30"
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/05 17:30",
+      "manobra_rio_fim": "24/05 01:00",
+      "navio_multi": "BRASILIA HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/05 23:00"
     },
     {
       "navio_rio": "CMA CGM VERACRUZ",
@@ -717,6 +741,24 @@
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "25/05 06:30"
+    },
+    {
+      "navio_rio": "KOTA EMBUN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "27/05 10:00",
+      "manobra_rio_fim": "28/05 15:30",
+      "navio_multi": "MSC SABRINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "27/05 12:00"
+    },
+    {
+      "navio_rio": "KOTA EMBUN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "27/05 10:00",
+      "manobra_rio_fim": "28/05 15:30",
+      "navio_multi": "MSC SABRINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "27/05 22:00"
     },
     {
       "navio_rio": "KOTA EMBUN",
