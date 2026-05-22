@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/05/2026 19:38",
+  "ultima_atualizacao": "22/05/2026 20:47",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
@@ -262,7 +262,7 @@
     },
     {
       "data": "24/05",
-      "hora": "11:30",
+      "hora": "08:30",
       "navio": "CMA CGM PUCCINI",
       "calado": "14,00",
       "manobra": "S",
@@ -273,7 +273,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-24T11:30:00"
+      "timestamp": "2026-05-24T08:30:00"
     },
     {
       "data": "24/05",
@@ -665,7 +665,7 @@
       "navio_rio": "CMA CGM PUCCINI",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/05 11:30",
-      "manobra_rio_fim": "24/05 11:30",
+      "manobra_rio_fim": "24/05 08:30",
       "navio_multi": "MSC LUDOVICA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/05 15:30"
@@ -674,16 +674,16 @@
       "navio_rio": "CMA CGM PUCCINI",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/05 11:30",
-      "manobra_rio_fim": "24/05 11:30",
+      "manobra_rio_fim": "24/05 08:30",
       "navio_multi": "LOG-IN EXPERIENCE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/05 21:00"
     },
     {
       "navio_rio": "CMA CGM PUCCINI",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "23/05 11:30",
-      "manobra_rio_fim": "24/05 11:30",
+      "manobra_rio_fim": "24/05 08:30",
       "navio_multi": "BRASILIA HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/05 23:00"
@@ -692,7 +692,7 @@
       "navio_rio": "CMA CGM PUCCINI",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "23/05 11:30",
-      "manobra_rio_fim": "24/05 11:30",
+      "manobra_rio_fim": "24/05 08:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/05 03:00"
@@ -701,7 +701,7 @@
       "navio_rio": "CMA CGM PUCCINI",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "23/05 11:30",
-      "manobra_rio_fim": "24/05 11:30",
+      "manobra_rio_fim": "24/05 08:30",
       "navio_multi": "MSC LUDOVICA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/05 06:30"
