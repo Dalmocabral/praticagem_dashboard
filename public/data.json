@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/05/2026 11:04",
+  "ultima_atualizacao": "23/05/2026 12:17",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
@@ -24,7 +24,7 @@
       "data": "23/05",
       "hora": "13:30",
       "navio": "SEASPAN EMPIRE",
-      "calado": "10,90",
+      "calado": "10,60",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9251690",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-05-23T15:30:00"
     },
