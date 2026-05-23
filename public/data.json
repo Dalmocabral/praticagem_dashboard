@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/05/2026 04:55",
+  "ultima_atualizacao": "23/05/2026 07:00",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
@@ -24,7 +24,7 @@
       "data": "23/05",
       "hora": "07:30",
       "navio": "MAERSK RUBICON",
-      "calado": "14,20",
+      "calado": "14,15",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -38,6 +38,21 @@
     {
       "data": "23/05",
       "hora": "09:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "rio",
+      "timestamp": "2026-05-23T09:30:00"
+    },
+    {
+      "data": "23/05",
+      "hora": "11:30",
       "navio": "LOG-IN EXPERIENCE",
       "calado": "8,00",
       "manobra": "E",
@@ -48,21 +63,6 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-23T09:30:00"
-    },
-    {
-      "data": "23/05",
-      "hora": "11:30",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
       "timestamp": "2026-05-23T11:30:00"
     },
     {
@@ -161,7 +161,7 @@
       "navio": "CMA CGM VERACRUZ",
       "calado": "11,30",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
@@ -221,7 +221,7 @@
       "navio": "CMA CGM PUCCINI",
       "calado": "14,40",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9280627",
       "tipo_navio": "CONTAINER SHIP",
@@ -232,22 +232,37 @@
     },
     {
       "data": "24/05",
-      "hora": "13:00",
+      "hora": "08:30",
       "navio": "CMA CGM PUCCINI",
-      "calado": "14,40",
+      "calado": "14,00",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9280627",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-24T13:00:00"
+      "timestamp": "2026-05-24T08:30:00"
     },
     {
       "data": "24/05",
-      "hora": "15:00",
+      "hora": "20:00",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "11,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-24T20:00:00"
+    },
+    {
+      "data": "24/05",
+      "hora": "22:00",
       "navio": "BOCHEM SHANGHAI",
       "calado": "10,10",
       "manobra": "E",
@@ -258,7 +273,7 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-24T15:00:00"
+      "timestamp": "2026-05-24T22:00:00"
     },
     {
       "data": "25/05",
@@ -277,22 +292,22 @@
     },
     {
       "data": "25/05",
-      "hora": "18:00",
-      "navio": "CMA CGM VERACRUZ",
-      "calado": "11,20",
+      "hora": "07:30",
+      "navio": "CMA CGM PUCCINI",
+      "calado": "14,40",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9418377",
+      "imo": "9280627",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-25T18:00:00"
+      "timestamp": "2026-05-25T07:30:00"
     },
     {
       "data": "25/05",
-      "hora": "20:00",
+      "hora": "09:30",
       "navio": "SEATTLE C",
       "calado": "11,60",
       "manobra": "E",
@@ -303,11 +318,26 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-25T20:00:00"
+      "timestamp": "2026-05-25T09:30:00"
     },
     {
-      "data": "25/05",
-      "hora": "22:00",
+      "data": "26/05",
+      "hora": "05:00",
+      "navio": "SEATTLE C",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9360910",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-26T05:00:00"
+    },
+    {
+      "data": "26/05",
+      "hora": "06:00",
       "navio": "BOCHEM SHANGHAI",
       "calado": "8,20",
       "manobra": "S",
@@ -318,7 +348,7 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-25T22:00:00"
+      "timestamp": "2026-05-26T06:00:00"
     },
     {
       "data": "26/05",
@@ -334,21 +364,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-26T08:00:00"
-    },
-    {
-      "data": "26/05",
-      "hora": "13:00",
-      "navio": "SEATTLE C",
-      "calado": "11,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9360910",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-26T13:00:00"
     },
     {
       "data": "27/05",
@@ -629,7 +644,7 @@
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "24/05 01:00",
-      "manobra_rio_fim": "25/05 18:00",
+      "manobra_rio_fim": "24/05 20:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/05 03:00"
@@ -638,25 +653,25 @@
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "24/05 01:00",
-      "manobra_rio_fim": "25/05 18:00",
+      "manobra_rio_fim": "24/05 20:00",
       "navio_multi": "MSC LUDOVICA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/05 06:30"
     },
     {
-      "navio_rio": "CMA CGM VERACRUZ",
+      "navio_rio": "CMA CGM PUCCINI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/05 01:00",
-      "manobra_rio_fim": "25/05 18:00",
+      "manobra_rio_inicio": "24/05 08:30",
+      "manobra_rio_fim": "25/05 07:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "25/05 06:30"
     },
     {
       "navio_rio": "BOCHEM SHANGHAI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/05 15:00",
-      "manobra_rio_fim": "25/05 22:00",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/05 22:00",
+      "manobra_rio_fim": "26/05 06:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "25/05 06:30"
