@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "23/05/2026 02:27",
+  "ultima_atualizacao": "23/05/2026 04:55",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
   },
   "navios": [
-    {
-      "data": "23/05",
-      "hora": "02:30",
-      "navio": "BRASILIA HIGHWAY",
-      "calado": "8,85",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9519119",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-23T02:30:00"
-    },
     {
       "data": "23/05",
       "hora": "06:30",
@@ -31,7 +16,7 @@
       "imo": "9975583",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-23T06:30:00"
     },
@@ -46,7 +31,7 @@
       "imo": "9632480",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-23T07:30:00"
     },
@@ -83,14 +68,14 @@
     {
       "data": "23/05",
       "hora": "13:30",
-      "navio": "INDUSTRIAL HOBART",
-      "calado": "5,90",
-      "manobra": "M",
-      "beco": "TECONT1",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "10,90",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
-      "imo": "9362827",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9407160",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-23T13:30:00"
@@ -109,21 +94,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-23T15:30:00"
-    },
-    {
-      "data": "23/05",
-      "hora": "17:30",
-      "navio": "SEASPAN EMPIRE",
-      "calado": "10,90",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9407160",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-23T17:30:00"
     },
     {
       "data": "23/05",
@@ -157,6 +127,21 @@
     },
     {
       "data": "23/05",
+      "hora": "22:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9407160",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-23T22:00:00"
+    },
+    {
+      "data": "23/05",
       "hora": "23:00",
       "navio": "BRASILIA HIGHWAY",
       "calado": "8,60",
@@ -173,12 +158,12 @@
     {
       "data": "24/05",
       "hora": "01:00",
-      "navio": "SEASPAN EMPIRE",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "11,30",
+      "manobra": "E",
+      "beco": "TECONT1",
       "status": "futuro",
-      "imo": "9407160",
+      "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -202,6 +187,21 @@
     },
     {
       "data": "24/05",
+      "hora": "05:30",
+      "navio": "INDUSTRIAL HOBART",
+      "calado": "5,90",
+      "manobra": "M",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9362827",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-24T05:30:00"
+    },
+    {
+      "data": "24/05",
       "hora": "06:30",
       "navio": "MSC LUDOVICA",
       "calado": "14,50",
@@ -217,18 +217,33 @@
     },
     {
       "data": "24/05",
-      "hora": "13:30",
-      "navio": "CMA CGM VERACRUZ",
-      "calado": "11,30",
+      "hora": "08:30",
+      "navio": "CMA CGM PUCCINI",
+      "calado": "14,40",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9418377",
+      "imo": "9280627",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-24T13:30:00"
+      "timestamp": "2026-05-24T08:30:00"
+    },
+    {
+      "data": "24/05",
+      "hora": "13:00",
+      "navio": "CMA CGM PUCCINI",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9280627",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-24T13:00:00"
     },
     {
       "data": "24/05",
@@ -595,25 +610,43 @@
     {
       "navio_rio": "SEASPAN EMPIRE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/05 17:30",
-      "manobra_rio_fim": "24/05 01:00",
+      "manobra_rio_inicio": "23/05 13:30",
+      "manobra_rio_fim": "23/05 22:00",
+      "navio_multi": "MSC LUDOVICA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/05 15:30"
+    },
+    {
+      "navio_rio": "SEASPAN EMPIRE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/05 13:30",
+      "manobra_rio_fim": "23/05 22:00",
       "navio_multi": "LOG-IN EXPERIENCE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/05 21:00"
     },
     {
-      "navio_rio": "SEASPAN EMPIRE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/05 17:30",
-      "manobra_rio_fim": "24/05 01:00",
-      "navio_multi": "BRASILIA HIGHWAY",
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/05 01:00",
+      "manobra_rio_fim": "25/05 18:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "24/05 03:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/05 01:00",
+      "manobra_rio_fim": "25/05 18:00",
+      "navio_multi": "MSC LUDOVICA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/05 23:00"
+      "manobra_multi_data_hora": "24/05 06:30"
     },
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/05 13:30",
+      "manobra_rio_inicio": "24/05 01:00",
       "manobra_rio_fim": "25/05 18:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
