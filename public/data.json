@@ -1,75 +1,30 @@
 {
-  "ultima_atualizacao": "22/05/2026 22:43",
+  "ultima_atualizacao": "23/05/2026 02:27",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
   },
   "navios": [
     {
-      "data": "22/05",
-      "hora": "22:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "7,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-22T22:00:00"
-    },
-    {
       "data": "23/05",
       "hora": "02:30",
       "navio": "BRASILIA HIGHWAY",
-      "calado": "8,60",
+      "calado": "8,85",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9519119",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-23T02:30:00"
     },
     {
       "data": "23/05",
-      "hora": "04:30",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-23T04:30:00"
-    },
-    {
-      "data": "23/05",
-      "hora": "05:30",
-      "navio": "OCEAN7 ROYAL",
-      "calado": "7,20",
-      "manobra": "M",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9267754",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-23T05:30:00"
-    },
-    {
-      "data": "23/05",
       "hora": "06:30",
       "navio": "MSC LE HAVRE",
-      "calado": "14,40",
+      "calado": "15,26",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -113,12 +68,12 @@
     {
       "data": "23/05",
       "hora": "11:30",
-      "navio": "CMA CGM PUCCINI",
-      "calado": "14,30",
-      "manobra": "E",
-      "beco": "TECONT1",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
-      "imo": "9280627",
+      "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -169,6 +124,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-23T17:30:00"
+    },
+    {
+      "data": "23/05",
+      "hora": "20:00",
+      "navio": "OCEAN7 ROYAL",
+      "calado": "7,20",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9267754",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-23T20:00:00"
     },
     {
       "data": "23/05",
@@ -244,21 +214,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-24T06:30:00"
-    },
-    {
-      "data": "24/05",
-      "hora": "08:30",
-      "navio": "CMA CGM PUCCINI",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9280627",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-24T08:30:00"
     },
     {
       "data": "24/05",
@@ -637,60 +592,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/05 22:00",
-      "manobra_rio_fim": "23/05 04:30",
-      "navio_multi": "BRASILIA HIGHWAY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/05 02:30"
-    },
-    {
-      "navio_rio": "CMA CGM PUCCINI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/05 11:30",
-      "manobra_rio_fim": "24/05 08:30",
-      "navio_multi": "MSC LUDOVICA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/05 15:30"
-    },
-    {
-      "navio_rio": "CMA CGM PUCCINI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/05 11:30",
-      "manobra_rio_fim": "24/05 08:30",
-      "navio_multi": "LOG-IN EXPERIENCE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/05 21:00"
-    },
-    {
-      "navio_rio": "CMA CGM PUCCINI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/05 11:30",
-      "manobra_rio_fim": "24/05 08:30",
-      "navio_multi": "BRASILIA HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/05 23:00"
-    },
-    {
-      "navio_rio": "CMA CGM PUCCINI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/05 11:30",
-      "manobra_rio_fim": "24/05 08:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/05 03:00"
-    },
-    {
-      "navio_rio": "CMA CGM PUCCINI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/05 11:30",
-      "manobra_rio_fim": "24/05 08:30",
-      "navio_multi": "MSC LUDOVICA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/05 06:30"
-    },
     {
       "navio_rio": "SEASPAN EMPIRE",
       "manobra_rio_afetada": "E",
