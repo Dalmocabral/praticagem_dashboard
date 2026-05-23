@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/05/2026 16:54",
+  "ultima_atualizacao": "23/05/2026 17:58",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/05/2026 09:39 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO"
@@ -39,7 +39,7 @@
       "data": "23/05",
       "hora": "19:30",
       "navio": "LOG-IN EXPERIENCE",
-      "calado": "8,00",
+      "calado": "7,80",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -61,7 +61,7 @@
       "imo": "9519119",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-23T20:30:00"
     },
