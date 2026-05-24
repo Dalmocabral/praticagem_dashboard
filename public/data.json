@@ -1,30 +1,15 @@
 {
-  "ultima_atualizacao": "24/05/2026 13:30",
+  "ultima_atualizacao": "24/05/2026 14:35",
   "barra_info": {
-    "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 23/05/2026 20:44 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO NOTURNO."
+    "restrita": false,
+    "mensagem": "BARRA ABERTA DESDE 24/05/2026 13:54"
   },
   "navios": [
     {
       "data": "24/05",
-      "hora": "11:00",
-      "navio": "MSC JUDITH",
-      "calado": "11,70",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9299549",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-24T11:00:00"
-    },
-    {
-      "data": "24/05",
       "hora": "14:30",
       "navio": "OCEAN7 ROYAL",
-      "calado": "7,20",
+      "calado": "7,10",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
