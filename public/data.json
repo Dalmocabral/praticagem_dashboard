@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/05/2026 10:59",
+  "ultima_atualizacao": "24/05/2026 12:17",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 23/05/2026 20:44 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO NOTURNO."
@@ -31,7 +31,7 @@
       "imo": "9267754",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-05-24T14:30:00"
     },
@@ -99,7 +99,7 @@
       "data": "25/05",
       "hora": "06:00",
       "navio": "CMA CGM PUCCINI",
-      "calado": "14,40",
+      "calado": "14,00",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
