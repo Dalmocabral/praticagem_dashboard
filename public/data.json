@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "24/05/2026 09:08",
+  "ultima_atualizacao": "24/05/2026 10:59",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 23/05/2026 20:44 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO NOTURNO."
   },
   "navios": [
-    {
-      "data": "24/05",
-      "hora": "09:00",
-      "navio": "MSC LUDOVICA",
-      "calado": "14,70",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9251690",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-24T09:00:00"
-    },
     {
       "data": "24/05",
       "hora": "11:00",
@@ -46,7 +31,7 @@
       "imo": "9267754",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-05-24T14:30:00"
     },
@@ -112,7 +97,7 @@
     },
     {
       "data": "25/05",
-      "hora": "07:30",
+      "hora": "06:00",
       "navio": "CMA CGM PUCCINI",
       "calado": "14,40",
       "manobra": "S",
@@ -123,11 +108,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-25T07:30:00"
+      "timestamp": "2026-05-25T06:00:00"
     },
     {
       "data": "25/05",
-      "hora": "09:30",
+      "hora": "08:00",
       "navio": "SEATTLE C",
       "calado": "11,60",
       "manobra": "E",
@@ -138,7 +123,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-25T09:30:00"
+      "timestamp": "2026-05-25T08:00:00"
     },
     {
       "data": "25/05",
@@ -491,7 +476,7 @@
       "navio_rio": "CMA CGM PUCCINI",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "24/05 16:30",
-      "manobra_rio_fim": "25/05 07:30",
+      "manobra_rio_fim": "25/05 06:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/05 23:00"
@@ -535,7 +520,7 @@
     {
       "navio_rio": "SEATTLE C",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/05 09:30",
+      "manobra_rio_inicio": "25/05 08:00",
       "manobra_rio_fim": "25/05 20:00",
       "navio_multi": "VALOR",
       "manobra_multi_tipo": "E",
@@ -544,7 +529,7 @@
     {
       "navio_rio": "SEATTLE C",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/05 09:30",
+      "manobra_rio_inicio": "25/05 08:00",
       "manobra_rio_fim": "25/05 20:00",
       "navio_multi": "MSC JUDITH",
       "manobra_multi_tipo": "S",
