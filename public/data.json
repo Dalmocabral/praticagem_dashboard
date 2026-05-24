@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "24/05/2026 18:05",
+  "ultima_atualizacao": "24/05/2026 19:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 24/05/2026 13:54"
   },
   "navios": [
-    {
-      "data": "24/05",
-      "hora": "16:30",
-      "navio": "CMA CGM PUCCINI",
-      "calado": "14,10",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9280627",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-24T16:30:00"
-    },
     {
       "data": "24/05",
       "hora": "21:00",
@@ -46,7 +31,7 @@
       "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-05-24T22:00:00"
     },
@@ -112,7 +97,7 @@
     },
     {
       "data": "25/05",
-      "hora": "15:30",
+      "hora": "19:00",
       "navio": "MSC JUDITH",
       "calado": "12,50",
       "manobra": "S",
@@ -123,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-25T15:30:00"
+      "timestamp": "2026-05-25T19:00:00"
     },
     {
       "data": "25/05",
@@ -503,15 +488,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CMA CGM PUCCINI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/05 16:30",
-      "manobra_rio_fim": "25/05 06:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/05 21:00"
-    },
-    {
       "navio_rio": "BOCHEM SHANGHAI",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "25/05 00:00",
@@ -527,7 +503,7 @@
       "manobra_rio_fim": "26/05 06:00",
       "navio_multi": "MSC JUDITH",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/05 15:30"
+      "manobra_multi_data_hora": "25/05 19:00"
     },
     {
       "navio_rio": "BOCHEM SHANGHAI",
@@ -554,7 +530,7 @@
       "manobra_rio_fim": "25/05 20:00",
       "navio_multi": "MSC JUDITH",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/05 15:30"
+      "manobra_multi_data_hora": "25/05 19:00"
     },
     {
       "navio_rio": "KOTA EMBUN",
