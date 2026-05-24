@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "24/05/2026 15:46",
+  "ultima_atualizacao": "24/05/2026 16:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 24/05/2026 13:54"
   },
   "navios": [
-    {
-      "data": "24/05",
-      "hora": "14:30",
-      "navio": "OCEAN7 ROYAL",
-      "calado": "7,10",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9267754",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-05-24T14:30:00"
-    },
     {
       "data": "24/05",
       "hora": "16:30",
@@ -37,37 +22,7 @@
     },
     {
       "data": "24/05",
-      "hora": "19:00",
-      "navio": "CMA CGM VERACRUZ",
-      "calado": "11,20",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9418377",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-24T19:00:00"
-    },
-    {
-      "data": "24/05",
       "hora": "21:00",
-      "navio": "BOCHEM SHANGHAI",
-      "calado": "10,10",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9956422",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-24T21:00:00"
-    },
-    {
-      "data": "24/05",
-      "hora": "23:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "S",
@@ -78,7 +33,37 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-24T23:00:00"
+      "timestamp": "2026-05-24T21:00:00"
+    },
+    {
+      "data": "24/05",
+      "hora": "22:00",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "11,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-24T22:00:00"
+    },
+    {
+      "data": "25/05",
+      "hora": "00:00",
+      "navio": "BOCHEM SHANGHAI",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9956422",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-25T00:00:00"
     },
     {
       "data": "25/05",
@@ -129,7 +114,7 @@
       "data": "25/05",
       "hora": "15:30",
       "navio": "MSC JUDITH",
-      "calado": "12,60",
+      "calado": "12,50",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -524,21 +509,12 @@
       "manobra_rio_fim": "25/05 06:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/05 23:00"
+      "manobra_multi_data_hora": "24/05 21:00"
     },
     {
       "navio_rio": "BOCHEM SHANGHAI",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/05 21:00",
-      "manobra_rio_fim": "26/05 06:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/05 23:00"
-    },
-    {
-      "navio_rio": "BOCHEM SHANGHAI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/05 21:00",
+      "manobra_rio_inicio": "25/05 00:00",
       "manobra_rio_fim": "26/05 06:00",
       "navio_multi": "VALOR",
       "manobra_multi_tipo": "E",
@@ -547,7 +523,7 @@
     {
       "navio_rio": "BOCHEM SHANGHAI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/05 21:00",
+      "manobra_rio_inicio": "25/05 00:00",
       "manobra_rio_fim": "26/05 06:00",
       "navio_multi": "MSC JUDITH",
       "manobra_multi_tipo": "S",
@@ -556,7 +532,7 @@
     {
       "navio_rio": "BOCHEM SHANGHAI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/05 21:00",
+      "manobra_rio_inicio": "25/05 00:00",
       "manobra_rio_fim": "26/05 06:00",
       "navio_multi": "VALOR",
       "manobra_multi_tipo": "S",
