@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/05/2026 06:33",
+  "ultima_atualizacao": "24/05/2026 08:00",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 23/05/2026 20:44 Barra restrita. Embarque e desembarque em águas abrigadas para navios e supplies e calado máximo 11,50m. CANAL VARRIDO FECHADO NOTURNO."
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "24/05",
-      "hora": "08:30",
+      "hora": "09:00",
       "navio": "MSC LUDOVICA",
       "calado": "14,70",
       "manobra": "S",
@@ -18,22 +18,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-05-24T08:30:00"
+      "timestamp": "2026-05-24T09:00:00"
     },
     {
       "data": "24/05",
-      "hora": "12:30",
+      "hora": "11:00",
       "navio": "MSC JUDITH",
-      "calado": "12,60",
+      "calado": "11,70",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9299549",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
-      "timestamp": "2026-05-24T12:30:00"
+      "timestamp": "2026-05-24T11:00:00"
     },
     {
       "data": "24/05",
@@ -142,6 +142,21 @@
     },
     {
       "data": "25/05",
+      "hora": "13:00",
+      "navio": "VALOR",
+      "calado": "10,50",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9628154",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-25T13:00:00"
+    },
+    {
+      "data": "25/05",
       "hora": "15:30",
       "navio": "MSC JUDITH",
       "calado": "12,60",
@@ -169,6 +184,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-25T20:00:00"
+    },
+    {
+      "data": "26/05",
+      "hora": "05:00",
+      "navio": "VALOR",
+      "calado": "10,10",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9628154",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-26T05:00:00"
     },
     {
       "data": "26/05",
@@ -477,12 +507,39 @@
     },
     {
       "navio_rio": "BOCHEM SHANGHAI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/05 20:30",
+      "manobra_rio_fim": "26/05 06:00",
+      "navio_multi": "VALOR",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "25/05 13:00"
+    },
+    {
+      "navio_rio": "BOCHEM SHANGHAI",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "24/05 20:30",
       "manobra_rio_fim": "26/05 06:00",
       "navio_multi": "MSC JUDITH",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "25/05 15:30"
+    },
+    {
+      "navio_rio": "BOCHEM SHANGHAI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/05 20:30",
+      "manobra_rio_fim": "26/05 06:00",
+      "navio_multi": "VALOR",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/05 05:00"
+    },
+    {
+      "navio_rio": "SEATTLE C",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "25/05 09:30",
+      "manobra_rio_fim": "25/05 20:00",
+      "navio_multi": "VALOR",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "25/05 13:00"
     },
     {
       "navio_rio": "SEATTLE C",
