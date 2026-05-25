@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "25/05/2026 01:58",
+  "ultima_atualizacao": "25/05/2026 09:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 24/05/2026 13:54"
   },
   "navios": [
-    {
-      "data": "25/05",
-      "hora": "06:00",
-      "navio": "CMA CGM PUCCINI",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9280627",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-25T06:00:00"
-    },
     {
       "data": "25/05",
       "hora": "08:00",
@@ -31,7 +16,7 @@
       "imo": "9360910",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-25T08:00:00"
     },
