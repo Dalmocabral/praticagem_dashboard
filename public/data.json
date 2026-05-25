@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/05/2026 17:42",
+  "ultima_atualizacao": "25/05/2026 18:55",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 24/05/2026 13:54"
@@ -22,7 +22,7 @@
     },
     {
       "data": "25/05",
-      "hora": "20:00",
+      "hora": "21:00",
       "navio": "SEATTLE C",
       "calado": "11,50",
       "manobra": "S",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-05-25T20:00:00"
+      "timestamp": "2026-05-25T21:00:00"
     },
     {
       "data": "26/05",
@@ -367,6 +367,21 @@
     },
     {
       "data": "03/06",
+      "hora": "14:00",
+      "navio": "COSCO SHIPPING DANUBE",
+      "calado": "13,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9731913",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-03T14:00:00"
+    },
+    {
+      "data": "03/06",
       "hora": "16:00",
       "navio": "HYUNDAI TOKYO",
       "calado": "13,50",
@@ -394,6 +409,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-04T07:00:00"
+    },
+    {
+      "data": "04/06",
+      "hora": "09:00",
+      "navio": "COSCO SHIPPING DANUBE",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9731913",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-04T09:00:00"
     },
     {
       "data": "05/06",
@@ -484,6 +514,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-07T08:00:00"
+    },
+    {
+      "data": "10/06",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING RHINE",
+      "calado": "13,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9731951",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-10T08:00:00"
     },
     {
       "data": "15/06",
@@ -579,6 +624,24 @@
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/06 10:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING DANUBE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/06 14:00",
+      "manobra_rio_fim": "04/06 09:00",
+      "navio_multi": "HYUNDAI TOKYO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/06 16:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING DANUBE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "03/06 14:00",
+      "manobra_rio_fim": "04/06 09:00",
+      "navio_multi": "HYUNDAI TOKYO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "04/06 07:00"
     }
   ]
 }
