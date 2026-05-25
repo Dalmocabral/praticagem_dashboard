@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/05/2026 09:43",
+  "ultima_atualizacao": "25/05/2026 12:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 24/05/2026 13:54"
@@ -7,37 +7,7 @@
   "navios": [
     {
       "data": "25/05",
-      "hora": "08:00",
-      "navio": "SEATTLE C",
-      "calado": "11,60",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9360910",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-25T08:00:00"
-    },
-    {
-      "data": "25/05",
       "hora": "15:30",
-      "navio": "MSC YAMUNA VI",
-      "calado": "13,10",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9288409",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-25T15:30:00"
-    },
-    {
-      "data": "25/05",
-      "hora": "19:00",
       "navio": "MSC JUDITH",
       "calado": "12,50",
       "manobra": "S",
@@ -46,9 +16,24 @@
       "imo": "9299549",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
+      "timestamp": "2026-05-25T15:30:00"
+    },
+    {
+      "data": "25/05",
+      "hora": "17:30",
+      "navio": "VALOR",
+      "calado": "10,50",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9628154",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-25T19:00:00"
+      "timestamp": "2026-05-25T17:30:00"
     },
     {
       "data": "25/05",
@@ -66,19 +51,19 @@
       "timestamp": "2026-05-25T20:00:00"
     },
     {
-      "data": "25/05",
-      "hora": "22:00",
+      "data": "26/05",
+      "hora": "05:00",
       "navio": "VALOR",
-      "calado": "10,50",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
+      "calado": "10,40",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
       "imo": "9628154",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-25T22:00:00"
+      "timestamp": "2026-05-26T05:00:00"
     },
     {
       "data": "26/05",
@@ -127,33 +112,18 @@
     },
     {
       "data": "26/05",
-      "hora": "12:00",
-      "navio": "VALOR",
-      "calado": "10,10",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-26T12:00:00"
-    },
-    {
-      "data": "26/05",
-      "hora": "15:30",
+      "hora": "11:30",
       "navio": "MSC YAMUNA VI",
       "calado": "13,10",
-      "manobra": "S",
-      "beco": "TECONT3",
+      "manobra": "E",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9288409",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-26T15:30:00"
+      "timestamp": "2026-05-26T11:30:00"
     },
     {
       "data": "27/05",
@@ -184,6 +154,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-05-27T06:30:00"
+    },
+    {
+      "data": "27/05",
+      "hora": "07:30",
+      "navio": "MSC YAMUNA VI",
+      "calado": "13,10",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9288409",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-05-27T07:30:00"
     },
     {
       "data": "27/05",
@@ -336,6 +321,21 @@
       "timestamp": "2026-05-30T07:00:00"
     },
     {
+      "data": "01/06",
+      "hora": "06:30",
+      "navio": "MSC ADELE",
+      "calado": "12,40",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1016692",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-01T06:30:00"
+    },
+    {
       "data": "02/06",
       "hora": "08:00",
       "navio": "COSCO SHIPPING PERU",
@@ -349,6 +349,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-02T08:00:00"
+    },
+    {
+      "data": "02/06",
+      "hora": "10:00",
+      "navio": "MSC ADELE",
+      "calado": "12,40",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1016692",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-02T10:00:00"
     },
     {
       "data": "03/06",
@@ -458,49 +473,13 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "SEATTLE C",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/05 08:00",
-      "manobra_rio_fim": "25/05 20:00",
+      "navio_rio": "COSCO SHIPPING URUGUAY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/05 08:00",
+      "manobra_rio_fim": "27/05 06:30",
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "25/05 15:30"
-    },
-    {
-      "navio_rio": "SEATTLE C",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/05 08:00",
-      "manobra_rio_fim": "25/05 20:00",
-      "navio_multi": "MSC JUDITH",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/05 19:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/05 08:00",
-      "manobra_rio_fim": "27/05 06:30",
-      "navio_multi": "VALOR",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/05 12:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/05 08:00",
-      "manobra_rio_fim": "27/05 06:30",
-      "navio_multi": "MSC YAMUNA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/05 15:30"
-    },
-    {
-      "navio_rio": "WIELAND",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/05 10:00",
-      "manobra_rio_fim": "27/05 04:00",
-      "navio_multi": "VALOR",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/05 12:00"
+      "manobra_multi_data_hora": "26/05 11:30"
     },
     {
       "navio_rio": "WIELAND",
@@ -508,8 +487,8 @@
       "manobra_rio_inicio": "26/05 10:00",
       "manobra_rio_fim": "27/05 04:00",
       "navio_multi": "MSC YAMUNA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/05 15:30"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/05 11:30"
     },
     {
       "navio_rio": "KOTA EMBUN",
@@ -546,6 +525,15 @@
       "navio_multi": "SEATTLE BRIDGE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "29/05 06:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/06 08:00",
+      "manobra_rio_fim": "03/06 06:30",
+      "navio_multi": "MSC ADELE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/06 10:00"
     }
   ]
 }
