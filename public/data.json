@@ -1,39 +1,24 @@
 {
-  "ultima_atualizacao": "25/05/2026 18:55",
+  "ultima_atualizacao": "25/05/2026 20:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 24/05/2026 13:54"
   },
   "navios": [
     {
-      "data": "25/05",
-      "hora": "17:30",
-      "navio": "VALOR",
-      "calado": "10,45",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-25T17:30:00"
-    },
-    {
-      "data": "25/05",
-      "hora": "21:00",
+      "data": "26/05",
+      "hora": "01:00",
       "navio": "SEATTLE C",
       "calado": "11,50",
       "manobra": "S",
       "beco": "TECONT1",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9360910",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
+      "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-25T21:00:00"
+      "timestamp": "2026-05-26T01:00:00"
     },
     {
       "data": "26/05",
@@ -52,10 +37,10 @@
     },
     {
       "data": "26/05",
-      "hora": "06:00",
+      "hora": "06:30",
       "navio": "BOCHEM SHANGHAI",
-      "calado": "8,10",
-      "manobra": "S",
+      "calado": "8,30",
+      "manobra": "M",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9956422",
@@ -63,7 +48,7 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-26T06:00:00"
+      "timestamp": "2026-05-26T06:30:00"
     },
     {
       "data": "26/05",
@@ -531,6 +516,21 @@
       "timestamp": "2026-06-10T08:00:00"
     },
     {
+      "data": "11/06",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING RHINE",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9731951",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-11T08:00:00"
+    },
+    {
       "data": "15/06",
       "hora": "08:00",
       "navio": "MSC PALAK",
@@ -559,6 +559,66 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-16T06:30:00"
+    },
+    {
+      "data": "16/06",
+      "hora": "08:30",
+      "navio": "CMA CGM BAHIA",
+      "calado": "13,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-16T08:30:00"
+    },
+    {
+      "data": "17/06",
+      "hora": "06:30",
+      "navio": "CMA CGM BAHIA",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-17T06:30:00"
+    },
+    {
+      "data": "18/06",
+      "hora": "00:00",
+      "navio": "ONE GEORGE WASHINGTON",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9302073",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-18T00:00:00"
+    },
+    {
+      "data": "18/06",
+      "hora": "15:00",
+      "navio": "ONE GEORGE WASHINGTON",
+      "calado": "8,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9302073",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-18T15:00:00"
     }
   ],
   "conflitos": [
