@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/05/2026 18:23",
+  "ultima_atualizacao": "26/05/2026 19:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 24/05/2026 13:54"
@@ -97,7 +97,7 @@
     },
     {
       "data": "27/05",
-      "hora": "20:00",
+      "hora": "15:30",
       "navio": "FELIXSTOWE",
       "calado": "12,00",
       "manobra": "E",
@@ -108,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-27T20:00:00"
+      "timestamp": "2026-05-27T15:30:00"
     },
     {
       "data": "28/05",
@@ -621,8 +621,8 @@
     },
     {
       "navio_rio": "FELIXSTOWE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/05 20:00",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "27/05 15:30",
       "manobra_rio_fim": "28/05 13:30",
       "navio_multi": "GRANDE TOKYO",
       "manobra_multi_tipo": "S",
@@ -631,7 +631,7 @@
     {
       "navio_rio": "FELIXSTOWE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "27/05 20:00",
+      "manobra_rio_inicio": "27/05 15:30",
       "manobra_rio_fim": "28/05 13:30",
       "navio_multi": "SEATTLE BRIDGE",
       "manobra_multi_tipo": "E",
@@ -640,7 +640,7 @@
     {
       "navio_rio": "FELIXSTOWE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "27/05 20:00",
+      "manobra_rio_inicio": "27/05 15:30",
       "manobra_rio_fim": "28/05 13:30",
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "S",
