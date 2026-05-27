@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/05/2026 01:43",
+  "ultima_atualizacao": "27/05/2026 05:31",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 26/05/2026 20:26 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno."
@@ -31,7 +31,7 @@
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-27T06:30:00"
     },
@@ -46,7 +46,7 @@
       "imo": "9945851",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-05-27T08:30:00"
     },
