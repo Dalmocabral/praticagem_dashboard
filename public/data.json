@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/05/2026 19:22",
+  "ultima_atualizacao": "27/05/2026 20:44",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 26/05/2026 20:26 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno."
@@ -22,7 +22,7 @@
     },
     {
       "data": "28/05",
-      "hora": "01:00",
+      "hora": "00:00",
       "navio": "XIAMEN EXPRESS",
       "calado": "15,20",
       "manobra": "M",
@@ -31,9 +31,9 @@
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-05-28T01:00:00"
+      "timestamp": "2026-05-28T00:00:00"
     },
     {
       "data": "28/05",
