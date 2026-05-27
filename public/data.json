@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "27/05/2026 05:31",
+  "ultima_atualizacao": "27/05/2026 10:06",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 26/05/2026 20:26 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno."
   },
   "navios": [
-    {
-      "data": "27/05",
-      "hora": "04:30",
-      "navio": "GRANDE TOKYO",
-      "calado": "9,80",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "1020605",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-27T04:30:00"
-    },
     {
       "data": "27/05",
       "hora": "06:30",
@@ -39,7 +24,7 @@
       "data": "27/05",
       "hora": "08:30",
       "navio": "COSCO SHIPPING URUGUAY",
-      "calado": "13,50",
+      "calado": "13,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -61,7 +46,7 @@
       "imo": "9968865",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-27T10:30:00"
     },
@@ -76,13 +61,13 @@
       "imo": "9288409",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-05-27T12:30:00"
     },
     {
       "data": "27/05",
-      "hora": "13:30",
+      "hora": "16:00",
       "navio": "WIELAND",
       "calado": "10,00",
       "manobra": "S",
@@ -93,11 +78,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-27T13:30:00"
+      "timestamp": "2026-05-27T16:00:00"
     },
     {
       "data": "27/05",
-      "hora": "15:30",
+      "hora": "22:00",
       "navio": "FELIXSTOWE",
       "calado": "12,00",
       "manobra": "E",
@@ -108,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-27T15:30:00"
+      "timestamp": "2026-05-27T22:00:00"
     },
     {
       "data": "28/05",
@@ -142,26 +127,11 @@
     },
     {
       "data": "28/05",
-      "hora": "08:30",
-      "navio": "KOTA EMBUN",
-      "calado": "13,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9968865",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-28T08:30:00"
-    },
-    {
-      "data": "28/05",
       "hora": "10:30",
       "navio": "COSCO SHIPPING MEXICO",
       "calado": "14,00",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9945863",
       "tipo_navio": "CONTAINER SHIP",
@@ -218,12 +188,12 @@
     {
       "data": "29/05",
       "hora": "07:30",
-      "navio": "COSCO SHIPPING MEXICO",
+      "navio": "KOTA EMBUN",
       "calado": "13,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9945863",
+      "imo": "9968865",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -244,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-29T09:30:00"
+    },
+    {
+      "data": "29/05",
+      "hora": "11:30",
+      "navio": "COSCO SHIPPING MEXICO",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9945863",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-29T11:30:00"
     },
     {
       "data": "30/05",
@@ -596,33 +581,51 @@
       "navio_rio": "KOTA EMBUN",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "27/05 10:30",
-      "manobra_rio_fim": "28/05 08:30",
+      "manobra_rio_fim": "29/05 07:30",
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "27/05 12:30"
     },
     {
       "navio_rio": "KOTA EMBUN",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "27/05 10:30",
-      "manobra_rio_fim": "28/05 08:30",
+      "manobra_rio_fim": "29/05 07:30",
       "navio_multi": "GRANDE TOKYO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "28/05 04:00"
     },
     {
       "navio_rio": "KOTA EMBUN",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "27/05 10:30",
-      "manobra_rio_fim": "28/05 08:30",
+      "manobra_rio_fim": "29/05 07:30",
       "navio_multi": "SEATTLE BRIDGE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "28/05 06:30"
     },
     {
-      "navio_rio": "FELIXSTOWE",
+      "navio_rio": "KOTA EMBUN",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "27/05 15:30",
+      "manobra_rio_inicio": "27/05 10:30",
+      "manobra_rio_fim": "29/05 07:30",
+      "navio_multi": "XIAMEN EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/05 12:30"
+    },
+    {
+      "navio_rio": "KOTA EMBUN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "27/05 10:30",
+      "manobra_rio_fim": "29/05 07:30",
+      "navio_multi": "SEATTLE BRIDGE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "29/05 06:30"
+    },
+    {
+      "navio_rio": "FELIXSTOWE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "27/05 22:00",
       "manobra_rio_fim": "28/05 13:30",
       "navio_multi": "GRANDE TOKYO",
       "manobra_multi_tipo": "S",
@@ -631,7 +634,7 @@
     {
       "navio_rio": "FELIXSTOWE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "27/05 15:30",
+      "manobra_rio_inicio": "27/05 22:00",
       "manobra_rio_fim": "28/05 13:30",
       "navio_multi": "SEATTLE BRIDGE",
       "manobra_multi_tipo": "E",
@@ -640,7 +643,7 @@
     {
       "navio_rio": "FELIXSTOWE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "27/05 15:30",
+      "manobra_rio_inicio": "27/05 22:00",
       "manobra_rio_fim": "28/05 13:30",
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "S",
@@ -650,7 +653,7 @@
       "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/05 10:30",
-      "manobra_rio_fim": "29/05 07:30",
+      "manobra_rio_fim": "29/05 11:30",
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "28/05 12:30"
@@ -659,10 +662,19 @@
       "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "28/05 10:30",
-      "manobra_rio_fim": "29/05 07:30",
+      "manobra_rio_fim": "29/05 11:30",
       "navio_multi": "SEATTLE BRIDGE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "29/05 06:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "28/05 10:30",
+      "manobra_rio_fim": "29/05 11:30",
+      "navio_multi": "CAPE AKRITAS",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "29/05 09:30"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
