@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/05/2026 14:42",
+  "ultima_atualizacao": "28/05/2026 16:57",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 26/05/2026 20:26 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno."
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "29/05",
-      "hora": "03:00",
+      "hora": "04:30",
       "navio": "GRANDE NIGERIA",
       "calado": "8,50",
       "manobra": "E",
@@ -18,11 +18,11 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-29T03:00:00"
+      "timestamp": "2026-05-29T04:30:00"
     },
     {
       "data": "29/05",
-      "hora": "06:30",
+      "hora": "07:30",
       "navio": "KOTA EMBUN",
       "calado": "13,50",
       "manobra": "S",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-05-29T06:30:00"
+      "timestamp": "2026-05-29T07:30:00"
     },
     {
       "data": "29/05",
@@ -202,21 +202,6 @@
     },
     {
       "data": "30/05",
-      "hora": "04:00",
-      "navio": "BOCHEM SHANGHAI",
-      "calado": "10,00",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9956422",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-05-30T04:00:00"
-    },
-    {
-      "data": "30/05",
       "hora": "06:30",
       "navio": "MSC MELINE",
       "calado": "12,60",
@@ -337,6 +322,21 @@
     },
     {
       "data": "31/05",
+      "hora": "08:30",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "12,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-31T08:30:00"
+    },
+    {
+      "data": "31/05",
       "hora": "14:30",
       "navio": "CAPE AKRITAS",
       "calado": "12,60",
@@ -379,6 +379,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-05-31T17:30:00"
+    },
+    {
+      "data": "31/05",
+      "hora": "19:30",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "11,90",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-05-31T19:30:00"
     },
     {
       "data": "01/06",
@@ -773,51 +788,6 @@
       "manobra_multi_data_hora": "29/05 23:00"
     },
     {
-      "navio_rio": "BOCHEM SHANGHAI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "30/05 04:00",
-      "manobra_rio_fim": "31/05 06:30",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/05 06:30"
-    },
-    {
-      "navio_rio": "BOCHEM SHANGHAI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "30/05 04:00",
-      "manobra_rio_fim": "31/05 06:30",
-      "navio_multi": "MSC TOGO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/05 07:30"
-    },
-    {
-      "navio_rio": "BOCHEM SHANGHAI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "30/05 04:00",
-      "manobra_rio_fim": "31/05 06:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/05 09:30"
-    },
-    {
-      "navio_rio": "BOCHEM SHANGHAI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "30/05 04:00",
-      "manobra_rio_fim": "31/05 06:30",
-      "navio_multi": "CAPE AKRITAS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/05 11:30"
-    },
-    {
-      "navio_rio": "BOCHEM SHANGHAI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/05 04:00",
-      "manobra_rio_fim": "31/05 06:30",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/05 20:00"
-    },
-    {
       "navio_rio": "DUSSELDORF EXPRESS",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "30/05 13:30",
@@ -825,6 +795,33 @@
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "30/05 20:00"
+    },
+    {
+      "navio_rio": "MERCOSUL FORTALEZA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/05 08:30",
+      "manobra_rio_fim": "31/05 19:30",
+      "navio_multi": "CAPE AKRITAS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "31/05 14:30"
+    },
+    {
+      "navio_rio": "MERCOSUL FORTALEZA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/05 08:30",
+      "manobra_rio_fim": "31/05 19:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "31/05 15:30"
+    },
+    {
+      "navio_rio": "MERCOSUL FORTALEZA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/05 08:30",
+      "manobra_rio_fim": "31/05 19:30",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "31/05 17:30"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
