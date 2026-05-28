@@ -1,55 +1,10 @@
 {
-  "ultima_atualizacao": "28/05/2026 05:21",
+  "ultima_atualizacao": "28/05/2026 07:02",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 26/05/2026 20:26 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno."
   },
   "navios": [
-    {
-      "data": "27/05",
-      "hora": "17:00",
-      "navio": "WIELAND",
-      "calado": "12,20",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9654464",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-05-27T17:00:00"
-    },
-    {
-      "data": "28/05",
-      "hora": "02:30",
-      "navio": "MSC SABRINA",
-      "calado": "12,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9979022",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-05-28T02:30:00"
-    },
-    {
-      "data": "28/05",
-      "hora": "04:30",
-      "navio": "GRANDE TOKYO",
-      "calado": "9,40",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "1020605",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-28T04:30:00"
-    },
     {
       "data": "28/05",
       "hora": "06:30",
@@ -69,52 +24,52 @@
       "data": "28/05",
       "hora": "08:30",
       "navio": "COSCO SHIPPING MEXICO",
-      "calado": "14,00",
+      "calado": "13,50",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9945863",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-28T08:30:00"
     },
     {
-      "data": "28/05",
-      "hora": "19:00",
+      "data": "29/05",
+      "hora": "02:30",
       "navio": "MSC SABRINA",
-      "calado": "12,60",
+      "calado": "11,30",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9979022",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-28T19:00:00"
+      "timestamp": "2026-05-29T02:30:00"
     },
     {
-      "data": "28/05",
-      "hora": "21:00",
+      "data": "29/05",
+      "hora": "04:30",
       "navio": "MSC TOGO",
       "calado": "11,00",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9974486",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-28T21:00:00"
+      "timestamp": "2026-05-29T04:30:00"
     },
     {
       "data": "29/05",
       "hora": "06:30",
       "navio": "SEATTLE BRIDGE",
-      "calado": "13,50",
+      "calado": "12,80",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -654,21 +609,21 @@
   "conflitos": [
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "28/05 08:30",
       "manobra_rio_fim": "29/05 11:30",
       "navio_multi": "MSC SABRINA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/05 19:00"
+      "manobra_multi_data_hora": "29/05 02:30"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "28/05 08:30",
       "manobra_rio_fim": "29/05 11:30",
       "navio_multi": "MSC TOGO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "28/05 21:00"
+      "manobra_multi_data_hora": "29/05 04:30"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
