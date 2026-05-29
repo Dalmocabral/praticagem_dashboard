@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/05/2026 03:01",
+  "ultima_atualizacao": "29/05/2026 04:41",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 26/05/2026 20:26 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno."
@@ -31,13 +31,13 @@
       "imo": "9968865",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-05-29T07:30:00"
     },
     {
       "data": "29/05",
-      "hora": "08:30",
+      "hora": "09:30",
       "navio": "SEATTLE BRIDGE",
       "calado": "12,80",
       "manobra": "S",
@@ -48,11 +48,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-29T08:30:00"
+      "timestamp": "2026-05-29T09:30:00"
     },
     {
       "data": "29/05",
-      "hora": "09:30",
+      "hora": "10:30",
       "navio": "MSC SABRINA",
       "calado": "11,30",
       "manobra": "S",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-29T09:30:00"
+      "timestamp": "2026-05-29T10:30:00"
     },
     {
       "data": "29/05",
