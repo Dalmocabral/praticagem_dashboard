@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "30/05/2026 09:13",
+  "ultima_atualizacao": "30/05/2026 11:08",
   "barra_info": {
-    "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 26/05/2026 20:26 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno."
+    "restrita": false,
+    "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
   },
   "navios": [
-    {
-      "data": "30/05",
-      "hora": "09:00",
-      "navio": "MSC MELINE",
-      "calado": "14,70",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-30T09:00:00"
-    },
     {
       "data": "30/05",
       "hora": "10:00",
@@ -61,7 +46,7 @@
       "imo": "9227039",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-05-30T14:00:00"
     },
@@ -69,7 +54,7 @@
       "data": "30/05",
       "hora": "16:00",
       "navio": "DUSSELDORF EXPRESS",
-      "calado": "10,30",
+      "calado": "10,40",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -217,7 +202,7 @@
     },
     {
       "data": "31/05",
-      "hora": "21:30",
+      "hora": "16:30",
       "navio": "MSC MAXINE",
       "calado": "10,80",
       "manobra": "E",
@@ -228,7 +213,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-31T21:30:00"
+      "timestamp": "2026-05-31T16:30:00"
     },
     {
       "data": "01/06",
@@ -291,6 +276,36 @@
       "timestamp": "2026-06-01T11:00:00"
     },
     {
+      "data": "01/06",
+      "hora": "13:00",
+      "navio": "SANTA LORETTA",
+      "calado": "10,80",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9290567",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-01T13:00:00"
+    },
+    {
+      "data": "01/06",
+      "hora": "15:00",
+      "navio": "MSC INSA",
+      "calado": "13,80",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1016666",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-01T15:00:00"
+    },
+    {
       "data": "02/06",
       "hora": "08:00",
       "navio": "COSCO SHIPPING PERU",
@@ -304,6 +319,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-02T08:00:00"
+    },
+    {
+      "data": "02/06",
+      "hora": "10:00",
+      "navio": "SANTA LORETTA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9290567",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-02T10:00:00"
+    },
+    {
+      "data": "02/06",
+      "hora": "11:00",
+      "navio": "MSC INSA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1016666",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-02T11:00:00"
     },
     {
       "data": "03/06",
@@ -648,12 +693,12 @@
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "31/05 08:30",
       "manobra_rio_fim": "01/06 05:30",
       "navio_multi": "MSC MAXINE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/05 21:30"
+      "manobra_multi_data_hora": "31/05 16:30"
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
@@ -663,6 +708,24 @@
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "01/06 04:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/06 08:00",
+      "manobra_rio_fim": "03/06 06:30",
+      "navio_multi": "SANTA LORETTA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/06 10:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/06 08:00",
+      "manobra_rio_fim": "03/06 06:30",
+      "navio_multi": "MSC INSA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/06 11:00"
     },
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
