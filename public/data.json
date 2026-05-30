@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "30/05/2026 12:36",
+  "ultima_atualizacao": "30/05/2026 13:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
@@ -24,7 +24,7 @@
       "data": "30/05",
       "hora": "14:00",
       "navio": "FELIXSTOWE",
-      "calado": "12,00",
+      "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9143556",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-30T16:00:00"
     },
@@ -61,7 +61,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-05-30T17:30:00"
     },
@@ -172,7 +172,7 @@
     },
     {
       "data": "31/05",
-      "hora": "14:30",
+      "hora": "17:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "S",
@@ -183,11 +183,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-31T14:30:00"
+      "timestamp": "2026-05-31T17:00:00"
     },
     {
       "data": "31/05",
-      "hora": "16:30",
+      "hora": "19:00",
       "navio": "MSC MAXINE",
       "calado": "10,80",
       "manobra": "E",
@@ -198,7 +198,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-05-31T16:30:00"
+      "timestamp": "2026-05-31T19:00:00"
     },
     {
       "data": "01/06",
@@ -674,7 +674,7 @@
       "manobra_rio_fim": "01/06 05:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/05 14:30"
+      "manobra_multi_data_hora": "31/05 17:00"
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
@@ -683,7 +683,7 @@
       "manobra_rio_fim": "01/06 05:30",
       "navio_multi": "MSC MAXINE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/05 16:30"
+      "manobra_multi_data_hora": "31/05 19:00"
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
