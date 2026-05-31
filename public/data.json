@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/05/2026 03:02",
+  "ultima_atualizacao": "31/05/2026 06:21",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "31/05",
-      "hora": "04:30",
-      "navio": "ITHACA",
-      "calado": "8,40",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9968449",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-05-31T04:30:00"
-    },
-    {
-      "data": "31/05",
       "hora": "05:30",
       "navio": "DUSSELDORF EXPRESS",
-      "calado": "10,00",
+      "calado": "9,80",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -39,14 +24,14 @@
       "data": "31/05",
       "hora": "06:30",
       "navio": "BOCHEM SHANGHAI",
-      "calado": "10,00",
+      "calado": "6,70",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9956422",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-05-31T06:30:00"
     },
@@ -61,7 +46,7 @@
       "imo": "9784661",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-05-31T08:30:00"
     },
@@ -96,36 +81,6 @@
       "timestamp": "2026-05-31T12:30:00"
     },
     {
-      "data": "31/05",
-      "hora": "17:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-31T17:00:00"
-    },
-    {
-      "data": "31/05",
-      "hora": "19:00",
-      "navio": "MSC MAXINE",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9720287",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-05-31T19:00:00"
-    },
-    {
       "data": "01/06",
       "hora": "04:30",
       "navio": "GOODWOOD",
@@ -157,6 +112,21 @@
     },
     {
       "data": "01/06",
+      "hora": "06:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-01T06:30:00"
+    },
+    {
+      "data": "01/06",
       "hora": "07:30",
       "navio": "CAPE AKRITAS",
       "calado": "12,60",
@@ -172,22 +142,7 @@
     },
     {
       "data": "01/06",
-      "hora": "11:00",
-      "navio": "MSC MAXINE",
-      "calado": "10,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9720287",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-01T11:00:00"
-    },
-    {
-      "data": "01/06",
-      "hora": "13:00",
+      "hora": "09:30",
       "navio": "SANTA LORETTA",
       "calado": "10,80",
       "manobra": "E",
@@ -198,11 +153,41 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-01T13:00:00"
+      "timestamp": "2026-06-01T09:30:00"
     },
     {
       "data": "01/06",
-      "hora": "15:00",
+      "hora": "11:30",
+      "navio": "MSC MAXINE",
+      "calado": "10,80",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9720287",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-01T11:30:00"
+    },
+    {
+      "data": "02/06",
+      "hora": "04:30",
+      "navio": "MSC MAXINE",
+      "calado": "10,80",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9720287",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-02T04:30:00"
+    },
+    {
+      "data": "02/06",
+      "hora": "06:30",
       "navio": "MSC INSA",
       "calado": "13,80",
       "manobra": "E",
@@ -213,7 +198,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-01T15:00:00"
+      "timestamp": "2026-06-02T06:30:00"
     },
     {
       "data": "02/06",
@@ -247,7 +232,7 @@
     },
     {
       "data": "02/06",
-      "hora": "11:00",
+      "hora": "15:30",
       "navio": "MSC INSA",
       "calado": "12,60",
       "manobra": "S",
@@ -258,7 +243,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-02T11:00:00"
+      "timestamp": "2026-06-02T15:30:00"
     },
     {
       "data": "03/06",
@@ -567,24 +552,6 @@
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/05 08:30",
-      "manobra_rio_fim": "01/06 05:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/05 17:00"
-    },
-    {
-      "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/05 08:30",
-      "manobra_rio_fim": "01/06 05:30",
-      "navio_multi": "MSC MAXINE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/05 19:00"
-    },
-    {
-      "navio_rio": "MERCOSUL FORTALEZA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "31/05 08:30",
       "manobra_rio_fim": "01/06 05:30",
@@ -608,7 +575,7 @@
       "manobra_rio_fim": "03/06 06:30",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/06 11:00"
+      "manobra_multi_data_hora": "02/06 15:30"
     },
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
