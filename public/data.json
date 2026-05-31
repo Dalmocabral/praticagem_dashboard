@@ -1,10 +1,25 @@
 {
-  "ultima_atualizacao": "31/05/2026 18:43",
+  "ultima_atualizacao": "31/05/2026 19:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
   },
   "navios": [
+    {
+      "data": "31/05",
+      "hora": "23:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,80",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
+      "terminal": "rio",
+      "timestamp": "2026-05-31T23:00:00"
+    },
     {
       "data": "01/06",
       "hora": "04:30",
@@ -19,21 +34,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-01T04:30:00"
-    },
-    {
-      "data": "01/06",
-      "hora": "05:30",
-      "navio": "MERCOSUL FORTALEZA",
-      "calado": "11,90",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9784661",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-01T05:30:00"
     },
     {
       "data": "01/06",
