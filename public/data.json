@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/05/2026 11:27",
+  "ultima_atualizacao": "31/05/2026 12:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
@@ -247,6 +247,21 @@
     },
     {
       "data": "03/06",
+      "hora": "09:30",
+      "navio": "CMA CGM SILVER",
+      "calado": "13,80",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9996769",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-03T09:30:00"
+    },
+    {
+      "data": "03/06",
       "hora": "14:00",
       "navio": "COSCO SHIPPING DANUBE",
       "calado": "13,50",
@@ -289,6 +304,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-04T07:00:00"
+    },
+    {
+      "data": "04/06",
+      "hora": "08:00",
+      "navio": "CMA CGM SILVER",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9996769",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-04T08:00:00"
     },
     {
       "data": "04/06",
@@ -543,6 +573,24 @@
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/06 15:30"
+    },
+    {
+      "navio_rio": "CMA CGM SILVER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/06 09:30",
+      "manobra_rio_fim": "04/06 08:00",
+      "navio_multi": "HYUNDAI TOKYO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/06 16:00"
+    },
+    {
+      "navio_rio": "CMA CGM SILVER",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "03/06 09:30",
+      "manobra_rio_fim": "04/06 08:00",
+      "navio_multi": "HYUNDAI TOKYO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "04/06 07:00"
     },
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
