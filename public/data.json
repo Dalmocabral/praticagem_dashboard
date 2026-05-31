@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/05/2026 08:14",
+  "ultima_atualizacao": "31/05/2026 09:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
@@ -39,14 +39,14 @@
       "data": "31/05",
       "hora": "12:30",
       "navio": "GOODWOOD",
-      "calado": "9,00",
+      "calado": "9,20",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9701140",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-31T12:30:00"
     },
@@ -202,6 +202,21 @@
     },
     {
       "data": "02/06",
+      "hora": "13:30",
+      "navio": "MAERSK FREEPORT",
+      "calado": "13,70",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9991202",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-02T13:30:00"
+    },
+    {
+      "data": "02/06",
       "hora": "15:30",
       "navio": "MSC INSA",
       "calado": "12,60",
@@ -229,6 +244,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-03T06:30:00"
+    },
+    {
+      "data": "03/06",
+      "hora": "07:30",
+      "navio": "MAERSK FREEPORT",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9991202",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-03T07:30:00"
     },
     {
       "data": "03/06",
@@ -543,6 +573,15 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "02/06 08:00",
       "manobra_rio_fim": "03/06 06:30",
+      "navio_multi": "MSC INSA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/06 15:30"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/06 13:30",
+      "manobra_rio_fim": "03/06 07:30",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/06 15:30"
