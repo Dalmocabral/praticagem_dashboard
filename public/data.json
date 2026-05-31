@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "31/05/2026 09:50",
+  "ultima_atualizacao": "31/05/2026 11:09",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
   },
   "navios": [
-    {
-      "data": "31/05",
-      "hora": "08:30",
-      "navio": "MERCOSUL FORTALEZA",
-      "calado": "10,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9784661",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-05-31T08:30:00"
-    },
     {
       "data": "31/05",
       "hora": "10:30",
@@ -532,33 +517,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/05 08:30",
-      "manobra_rio_fim": "01/06 05:30",
-      "navio_multi": "CAPE AKRITAS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/05 10:30"
-    },
-    {
-      "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/05 08:30",
-      "manobra_rio_fim": "01/06 05:30",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/05 12:30"
-    },
-    {
-      "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "31/05 08:30",
-      "manobra_rio_fim": "01/06 05:30",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/06 04:30"
-    },
     {
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "E",
