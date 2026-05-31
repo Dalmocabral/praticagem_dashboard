@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/05/2026 06:21",
+  "ultima_atualizacao": "31/05/2026 08:14",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
@@ -7,39 +7,9 @@
   "navios": [
     {
       "data": "31/05",
-      "hora": "05:30",
-      "navio": "DUSSELDORF EXPRESS",
-      "calado": "9,80",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9143556",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-05-31T05:30:00"
-    },
-    {
-      "data": "31/05",
-      "hora": "06:30",
-      "navio": "BOCHEM SHANGHAI",
-      "calado": "6,70",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9956422",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-05-31T06:30:00"
-    },
-    {
-      "data": "31/05",
       "hora": "08:30",
       "navio": "MERCOSUL FORTALEZA",
-      "calado": "12,00",
+      "calado": "10,50",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -61,7 +31,7 @@
       "imo": "9706190",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-05-31T10:30:00"
     },
