@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/06/2026 10:16",
+  "ultima_atualizacao": "01/06/2026 16:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
@@ -7,89 +7,59 @@
   "navios": [
     {
       "data": "01/06",
-      "hora": "11:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,10",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-01T11:00:00"
-    },
-    {
-      "data": "01/06",
       "hora": "15:30",
       "navio": "CAPE AKRITAS",
-      "calado": "13,00",
+      "calado": "13,10",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9706190",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-01T15:30:00"
     },
     {
       "data": "01/06",
       "hora": "17:30",
-      "navio": "SANTA LORETTA",
+      "navio": "MSC MAXINE",
       "calado": "10,80",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9290567",
+      "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-01T17:30:00"
     },
     {
-      "data": "01/06",
-      "hora": "19:30",
-      "navio": "MSC MAXINE",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9720287",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-01T19:30:00"
-    },
-    {
       "data": "02/06",
-      "hora": "04:30",
-      "navio": "MSC MAXINE",
-      "calado": "10,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9720287",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-02T04:30:00"
-    },
-    {
-      "data": "02/06",
-      "hora": "06:30",
+      "hora": "00:00",
       "navio": "MSC INSA",
-      "calado": "13,80",
+      "calado": "13,70",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
       "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-02T00:00:00"
+    },
+    {
+      "data": "02/06",
+      "hora": "06:30",
+      "navio": "GLOVIS CRYSTAL",
+      "calado": "9,40",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9707003",
+      "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
@@ -112,32 +82,32 @@
     },
     {
       "data": "02/06",
-      "hora": "10:00",
-      "navio": "SANTA LORETTA",
-      "calado": "12,60",
+      "hora": "11:30",
+      "navio": "MSC MAXINE",
+      "calado": "10,80",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9290567",
+      "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-02T10:00:00"
+      "timestamp": "2026-06-02T11:30:00"
     },
     {
       "data": "02/06",
       "hora": "13:30",
-      "navio": "MAERSK FREEPORT",
-      "calado": "14,50",
+      "navio": "MAERSK KARUN",
+      "calado": "12,30",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9991202",
+      "imo": "9624299",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "rio",
+      "terminal": "multi",
       "timestamp": "2026-06-02T13:30:00"
     },
     {
@@ -156,6 +126,51 @@
       "timestamp": "2026-06-02T15:30:00"
     },
     {
+      "data": "02/06",
+      "hora": "17:30",
+      "navio": "MSC CAROLINA",
+      "calado": "12,20",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9295397",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-02T17:30:00"
+    },
+    {
+      "data": "02/06",
+      "hora": "19:00",
+      "navio": "MAERSK FREEPORT",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9991202",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-02T19:00:00"
+    },
+    {
+      "data": "03/06",
+      "hora": "01:00",
+      "navio": "GLOVIS CRYSTAL",
+      "calado": "9,40",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9707003",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-03T01:00:00"
+    },
+    {
       "data": "03/06",
       "hora": "06:30",
       "navio": "COSCO SHIPPING PERU",
@@ -172,7 +187,37 @@
     },
     {
       "data": "03/06",
-      "hora": "07:30",
+      "hora": "08:30",
+      "navio": "MAERSK KARUN",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9624299",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-03T08:30:00"
+    },
+    {
+      "data": "03/06",
+      "hora": "11:00",
+      "navio": "MSC CAROLINA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9295397",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-03T11:00:00"
+    },
+    {
+      "data": "03/06",
+      "hora": "12:00",
       "navio": "MAERSK FREEPORT",
       "calado": "12,50",
       "manobra": "S",
@@ -183,7 +228,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-03T07:30:00"
+      "timestamp": "2026-06-03T12:00:00"
     },
     {
       "data": "03/06",
@@ -214,6 +259,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-03T16:00:00"
+    },
+    {
+      "data": "03/06",
+      "hora": "17:30",
+      "navio": "SANTA LORETTA",
+      "calado": "10,80",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9290567",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-03T17:30:00"
     },
     {
       "data": "04/06",
@@ -259,6 +319,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-04T10:00:00"
+    },
+    {
+      "data": "04/06",
+      "hora": "12:00",
+      "navio": "SANTA LORETTA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9290567",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-04T12:00:00"
     },
     {
       "data": "05/06",
@@ -492,9 +567,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "02/06 08:00",
       "manobra_rio_fim": "03/06 06:30",
-      "navio_multi": "SANTA LORETTA",
+      "navio_multi": "MSC MAXINE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/06 10:00"
+      "manobra_multi_data_hora": "02/06 11:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/06 08:00",
+      "manobra_rio_fim": "03/06 06:30",
+      "navio_multi": "MAERSK KARUN",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "02/06 13:30"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
@@ -506,13 +590,49 @@
       "manobra_multi_data_hora": "02/06 15:30"
     },
     {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/06 08:00",
+      "manobra_rio_fim": "03/06 06:30",
+      "navio_multi": "MSC CAROLINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "02/06 17:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/06 08:00",
+      "manobra_rio_fim": "03/06 06:30",
+      "navio_multi": "GLOVIS CRYSTAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/06 01:00"
+    },
+    {
       "navio_rio": "MAERSK FREEPORT",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/06 13:30",
-      "manobra_rio_fim": "03/06 07:30",
-      "navio_multi": "MSC INSA",
+      "manobra_rio_inicio": "02/06 19:00",
+      "manobra_rio_fim": "03/06 12:00",
+      "navio_multi": "GLOVIS CRYSTAL",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/06 15:30"
+      "manobra_multi_data_hora": "03/06 01:00"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/06 19:00",
+      "manobra_rio_fim": "03/06 12:00",
+      "navio_multi": "MAERSK KARUN",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/06 08:30"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/06 19:00",
+      "manobra_rio_fim": "03/06 12:00",
+      "navio_multi": "MSC CAROLINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/06 11:00"
     },
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
@@ -525,12 +645,30 @@
     },
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/06 14:00",
+      "manobra_rio_fim": "04/06 08:00",
+      "navio_multi": "SANTA LORETTA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/06 17:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING DANUBE",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "03/06 14:00",
       "manobra_rio_fim": "04/06 08:00",
       "navio_multi": "HYUNDAI TOKYO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "04/06 07:00"
+    },
+    {
+      "navio_rio": "CMA CGM SILVER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "04/06 10:00",
+      "manobra_rio_fim": "05/06 07:00",
+      "navio_multi": "SANTA LORETTA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "04/06 12:00"
     }
   ]
 }
