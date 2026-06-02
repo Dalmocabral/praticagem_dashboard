@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/06/2026 03:54",
+  "ultima_atualizacao": "02/06/2026 08:21",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
@@ -24,7 +24,7 @@
       "data": "02/06",
       "hora": "06:30",
       "navio": "GLOVIS CRYSTAL",
-      "calado": "9,40",
+      "calado": "9,30",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9945875",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-06-02T08:00:00"
     },
@@ -61,7 +61,7 @@
       "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-06-02T11:30:00"
     },
