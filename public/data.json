@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "03/06/2026 08:12",
+  "ultima_atualizacao": "03/06/2026 10:06",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
   },
   "navios": [
-    {
-      "data": "03/06",
-      "hora": "06:30",
-      "navio": "GLOVIS CRYSTAL",
-      "calado": "9,50",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9707003",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-03T06:30:00"
-    },
     {
       "data": "03/06",
       "hora": "09:00",
@@ -37,31 +22,16 @@
     },
     {
       "data": "03/06",
-      "hora": "11:00",
-      "navio": "MSC CAROLINA",
-      "calado": "14,29",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9295397",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-03T11:00:00"
-    },
-    {
-      "data": "03/06",
       "hora": "12:00",
       "navio": "MAERSK FREEPORT",
-      "calado": "14,00",
+      "calado": "14,40",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9991202",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-03T12:00:00"
     },
@@ -76,19 +46,19 @@
       "imo": "9731913",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-06-03T14:00:00"
     },
     {
       "data": "03/06",
       "hora": "16:00",
-      "navio": "HYUNDAI TOKYO",
-      "calado": "13,50",
-      "manobra": "E",
-      "beco": "TECONT3",
+      "navio": "MSC CAROLINA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
       "status": "hoje",
-      "imo": "9305673",
+      "imo": "9295397",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -97,18 +67,18 @@
     },
     {
       "data": "03/06",
-      "hora": "19:30",
-      "navio": "SINAR SUMATERA",
-      "calado": "7,30",
-      "manobra": "S",
-      "beco": "TECONT4",
+      "hora": "18:00",
+      "navio": "HYUNDAI TOKYO",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT2",
       "status": "hoje",
-      "imo": "1015375",
+      "imo": "9305673",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-03T19:30:00"
+      "timestamp": "2026-06-03T18:00:00"
     },
     {
       "data": "03/06",
@@ -124,6 +94,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-03T22:00:00"
+    },
+    {
+      "data": "04/06",
+      "hora": "00:00",
+      "navio": "SINAR SUMATERA",
+      "calado": "7,30",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "1015375",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-04T00:00:00"
     },
     {
       "data": "04/06",
@@ -161,7 +146,7 @@
       "navio": "HYUNDAI TOKYO",
       "calado": "13,00",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9305673",
       "tipo_navio": "CONTAINER SHIP",
@@ -247,7 +232,7 @@
     },
     {
       "data": "05/06",
-      "hora": "16:30",
+      "hora": "16:00",
       "navio": "MSC MADHU B",
       "calado": "15,15",
       "manobra": "E",
@@ -258,7 +243,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-05T16:30:00"
+      "timestamp": "2026-06-05T16:00:00"
     },
     {
       "data": "06/06",
@@ -462,8 +447,8 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "03/06 14:00",
       "manobra_rio_fim": "04/06 08:00",
-      "navio_multi": "HYUNDAI TOKYO",
-      "manobra_multi_tipo": "E",
+      "navio_multi": "MSC CAROLINA",
+      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "03/06 16:00"
     },
     {
@@ -471,9 +456,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "03/06 14:00",
       "manobra_rio_fim": "04/06 08:00",
+      "navio_multi": "HYUNDAI TOKYO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/06 18:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING DANUBE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "03/06 14:00",
+      "manobra_rio_fim": "04/06 08:00",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/06 19:30"
+      "manobra_multi_data_hora": "04/06 00:00"
     },
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
@@ -492,6 +486,15 @@
       "navio_multi": "HYUNDAI TOKYO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "04/06 07:00"
+    },
+    {
+      "navio_rio": "LONCOMILLA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/06 22:00",
+      "manobra_rio_fim": "04/06 06:00",
+      "navio_multi": "SINAR SUMATERA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "04/06 00:00"
     },
     {
       "navio_rio": "LONCOMILLA",
