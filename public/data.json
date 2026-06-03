@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "03/06/2026 18:54",
+  "ultima_atualizacao": "03/06/2026 20:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
   },
   "navios": [
-    {
-      "data": "03/06",
-      "hora": "15:00",
-      "navio": "MAERSK FREEPORT",
-      "calado": "14,40",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9991202",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-03T15:00:00"
-    },
-    {
-      "data": "03/06",
-      "hora": "17:00",
-      "navio": "MSC CAROLINA",
-      "calado": "14,50",
-      "manobra": "M",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9295397",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-03T17:00:00"
-    },
     {
       "data": "03/06",
       "hora": "19:00",
@@ -54,7 +24,7 @@
       "data": "03/06",
       "hora": "21:30",
       "navio": "SINAR SUMATERA",
-      "calado": "7,30",
+      "calado": "8,40",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "hoje",
