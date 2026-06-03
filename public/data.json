@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/06/2026 15:55",
+  "ultima_atualizacao": "03/06/2026 18:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
@@ -46,24 +46,24 @@
       "imo": "9290567",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-03T19:00:00"
     },
     {
-      "data": "04/06",
-      "hora": "00:00",
+      "data": "03/06",
+      "hora": "21:30",
       "navio": "SINAR SUMATERA",
       "calado": "7,30",
       "manobra": "S",
       "beco": "TECONT4",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-04T00:00:00"
+      "timestamp": "2026-06-03T21:30:00"
     },
     {
       "data": "04/06",
