@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/06/2026 10:06",
+  "ultima_atualizacao": "03/06/2026 10:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
@@ -22,22 +22,7 @@
     },
     {
       "data": "03/06",
-      "hora": "12:00",
-      "navio": "MAERSK FREEPORT",
-      "calado": "14,40",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9991202",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-03T12:00:00"
-    },
-    {
-      "data": "03/06",
-      "hora": "14:00",
+      "hora": "13:00",
       "navio": "COSCO SHIPPING DANUBE",
       "calado": "13,50",
       "manobra": "E",
@@ -46,13 +31,28 @@
       "imo": "9731913",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
-      "timestamp": "2026-06-03T14:00:00"
+      "timestamp": "2026-06-03T13:00:00"
     },
     {
       "data": "03/06",
-      "hora": "16:00",
+      "hora": "15:00",
+      "navio": "MAERSK FREEPORT",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9991202",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-03T15:00:00"
+    },
+    {
+      "data": "03/06",
+      "hora": "18:00",
       "navio": "MSC CAROLINA",
       "calado": "12,60",
       "manobra": "S",
@@ -63,11 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-03T16:00:00"
+      "timestamp": "2026-06-03T18:00:00"
     },
     {
       "data": "03/06",
-      "hora": "18:00",
+      "hora": "20:00",
       "navio": "HYUNDAI TOKYO",
       "calado": "12,60",
       "manobra": "E",
@@ -78,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-03T18:00:00"
+      "timestamp": "2026-06-03T20:00:00"
     },
     {
       "data": "03/06",
@@ -445,25 +445,25 @@
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "03/06 14:00",
+      "manobra_rio_inicio": "03/06 13:00",
       "manobra_rio_fim": "04/06 08:00",
       "navio_multi": "MSC CAROLINA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/06 16:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING DANUBE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "03/06 14:00",
-      "manobra_rio_fim": "04/06 08:00",
-      "navio_multi": "HYUNDAI TOKYO",
-      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "03/06 18:00"
     },
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/06 13:00",
+      "manobra_rio_fim": "04/06 08:00",
+      "navio_multi": "HYUNDAI TOKYO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/06 20:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING DANUBE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "03/06 14:00",
+      "manobra_rio_inicio": "03/06 13:00",
       "manobra_rio_fim": "04/06 08:00",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
@@ -472,7 +472,7 @@
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "03/06 14:00",
+      "manobra_rio_inicio": "03/06 13:00",
       "manobra_rio_fim": "04/06 08:00",
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "S",
@@ -481,7 +481,7 @@
     {
       "navio_rio": "COSCO SHIPPING DANUBE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "03/06 14:00",
+      "manobra_rio_inicio": "03/06 13:00",
       "manobra_rio_fim": "04/06 08:00",
       "navio_multi": "HYUNDAI TOKYO",
       "manobra_multi_tipo": "S",
