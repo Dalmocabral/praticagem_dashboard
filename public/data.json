@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/06/2026 16:09",
+  "ultima_atualizacao": "04/06/2026 18:03",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/06/2026 12:39 Barra restrita para calados acima de 11,50 m com o embarque e desembarque em águas abrigadas para navios e supplies. CANAL VARRIDO FECHADO PARA SAÍDA."
@@ -22,21 +22,6 @@
     },
     {
       "data": "05/06",
-      "hora": "03:00",
-      "navio": "LONCOMILLA",
-      "calado": "11,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9437385",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-05T03:00:00"
-    },
-    {
-      "data": "05/06",
       "hora": "05:00",
       "navio": "MSC ADELE",
       "calado": "10,60",
@@ -49,6 +34,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-05T05:00:00"
+    },
+    {
+      "data": "05/06",
+      "hora": "07:00",
+      "navio": "LONCOMILLA",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9437385",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-05T07:00:00"
     },
     {
       "data": "05/06",
