@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/06/2026 03:58",
+  "ultima_atualizacao": "04/06/2026 06:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
@@ -24,14 +24,14 @@
       "data": "04/06",
       "hora": "07:00",
       "navio": "COSCO SHIPPING DANUBE",
-      "calado": "13,00",
+      "calado": "12,20",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9731913",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-04T07:00:00"
     },
@@ -39,14 +39,14 @@
       "data": "04/06",
       "hora": "09:00",
       "navio": "HYUNDAI TOKYO",
-      "calado": "13,80",
+      "calado": "13,70",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9305673",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-04T09:00:00"
     },
@@ -61,7 +61,7 @@
       "imo": "9996769",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-06-04T10:30:00"
     },
