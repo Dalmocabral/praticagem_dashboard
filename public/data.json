@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/06/2026 13:44",
+  "ultima_atualizacao": "04/06/2026 16:09",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/06/2026 12:39 Barra restrita para calados acima de 11,50 m com o embarque e desembarque em águas abrigadas para navios e supplies. CANAL VARRIDO FECHADO PARA SAÍDA."
@@ -7,22 +7,7 @@
   "navios": [
     {
       "data": "04/06",
-      "hora": "12:30",
-      "navio": "LONCOMILLA",
-      "calado": "12,45",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9437385",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-04T12:30:00"
-    },
-    {
-      "data": "04/06",
-      "hora": "17:00",
+      "hora": "17:30",
       "navio": "SANTA LORETTA",
       "calado": "11,20",
       "manobra": "S",
@@ -31,9 +16,9 @@
       "imo": "9290567",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-04T17:00:00"
+      "timestamp": "2026-06-04T17:30:00"
     },
     {
       "data": "05/06",
@@ -457,15 +442,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "LONCOMILLA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "04/06 12:30",
-      "manobra_rio_fim": "05/06 03:00",
-      "navio_multi": "SANTA LORETTA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "04/06 17:00"
-    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
