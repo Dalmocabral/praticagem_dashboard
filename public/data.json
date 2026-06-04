@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/06/2026 09:44",
+  "ultima_atualizacao": "04/06/2026 10:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 30/05/2026 10:57"
@@ -52,7 +52,7 @@
     },
     {
       "data": "04/06",
-      "hora": "13:30",
+      "hora": "12:30",
       "navio": "LONCOMILLA",
       "calado": "12,50",
       "manobra": "E",
@@ -61,9 +61,9 @@
       "imo": "9437385",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
-      "timestamp": "2026-06-04T13:30:00"
+      "timestamp": "2026-06-04T12:30:00"
     },
     {
       "data": "04/06",
@@ -112,21 +112,6 @@
     },
     {
       "data": "05/06",
-      "hora": "06:00",
-      "navio": "HYUNDAI TOKYO",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9305673",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-05T06:00:00"
-    },
-    {
-      "data": "05/06",
       "hora": "09:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
@@ -139,6 +124,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-05T09:00:00"
+    },
+    {
+      "data": "05/06",
+      "hora": "11:00",
+      "navio": "HYUNDAI TOKYO",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9305673",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-05T11:00:00"
     },
     {
       "data": "05/06",
@@ -409,6 +409,66 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-18T15:00:00"
+    },
+    {
+      "data": "19/06",
+      "hora": "07:00",
+      "navio": "MSC NAOMI",
+      "calado": "12,80",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9704984",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-19T07:00:00"
+    },
+    {
+      "data": "20/06",
+      "hora": "06:30",
+      "navio": "MSC NAOMI",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9704984",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-20T06:30:00"
+    },
+    {
+      "data": "27/06",
+      "hora": "07:00",
+      "navio": "NAVARINO",
+      "calado": "13,70",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9400289",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-27T07:00:00"
+    },
+    {
+      "data": "28/06",
+      "hora": "07:00",
+      "navio": "NAVARINO",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9400289",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-28T07:00:00"
     }
   ],
   "conflitos": [
@@ -437,12 +497,12 @@
       "manobra_rio_fim": "05/06 12:00",
       "navio_multi": "HYUNDAI TOKYO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/06 06:00"
+      "manobra_multi_data_hora": "05/06 11:00"
     },
     {
       "navio_rio": "LONCOMILLA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "04/06 13:30",
+      "manobra_rio_inicio": "04/06 12:30",
       "manobra_rio_fim": "05/06 03:00",
       "navio_multi": "SANTA LORETTA",
       "manobra_multi_tipo": "S",
@@ -451,11 +511,20 @@
     {
       "navio_rio": "LONCOMILLA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/06 13:30",
+      "manobra_rio_inicio": "04/06 12:30",
       "manobra_rio_fim": "05/06 03:00",
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "05/06 01:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/06 09:00",
+      "manobra_rio_fim": "05/06 20:00",
+      "navio_multi": "HYUNDAI TOKYO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/06 11:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
