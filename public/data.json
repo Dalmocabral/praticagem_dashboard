@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/06/2026 15:31",
+  "ultima_atualizacao": "05/06/2026 17:31",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -39,7 +39,7 @@
       "data": "05/06",
       "hora": "17:30",
       "navio": "SINAR SUMATERA",
-      "calado": "11,50",
+      "calado": "5,80",
       "manobra": "E",
       "beco": "TECONT4",
       "status": "hoje",
@@ -67,21 +67,6 @@
     },
     {
       "data": "06/06",
-      "hora": "07:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-06T07:00:00"
-    },
-    {
-      "data": "06/06",
       "hora": "09:00",
       "navio": "LORI",
       "calado": "9,75",
@@ -97,9 +82,24 @@
     },
     {
       "data": "06/06",
+      "hora": "12:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-06T12:00:00"
+    },
+    {
+      "data": "06/06",
       "hora": "13:30",
       "navio": "MSC ADELE",
-      "calado": "10,60",
+      "calado": "10,50",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -247,7 +247,7 @@
     },
     {
       "data": "07/06",
-      "hora": "12:00",
+      "hora": "14:30",
       "navio": "CMA CGM FRANCOISE SAGAN",
       "calado": "12,40",
       "manobra": "S",
@@ -258,7 +258,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-07T12:00:00"
+      "timestamp": "2026-06-07T14:30:00"
     },
     {
       "data": "07/06",
@@ -289,6 +289,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-08T00:00:00"
+    },
+    {
+      "data": "08/06",
+      "hora": "02:00",
+      "navio": "XIN WEI HAI",
+      "calado": "12,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9312573",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-08T02:00:00"
     },
     {
       "data": "08/06",
@@ -334,6 +349,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-08T10:30:00"
+    },
+    {
+      "data": "08/06",
+      "hora": "15:30",
+      "navio": "XIN WEI HAI",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9312573",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-08T15:30:00"
     },
     {
       "data": "09/06",
@@ -602,7 +632,7 @@
       "manobra_rio_fim": "06/06 19:00",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/06 07:00"
+      "manobra_multi_data_hora": "06/06 12:00"
     },
     {
       "navio_rio": "CLARITY",
@@ -630,6 +660,15 @@
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "06/06 17:00"
+    },
+    {
+      "navio_rio": "LORI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "06/06 09:00",
+      "manobra_rio_fim": "06/06 22:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "06/06 12:00"
     },
     {
       "navio_rio": "LORI",
@@ -698,7 +737,7 @@
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "07/06 02:00",
-      "manobra_rio_fim": "07/06 12:00",
+      "manobra_rio_fim": "07/06 14:30",
       "navio_multi": "MSC MADHU B",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/06 06:30"
@@ -707,10 +746,28 @@
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "07/06 02:00",
-      "manobra_rio_fim": "07/06 12:00",
+      "manobra_rio_fim": "07/06 14:30",
       "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "07/06 09:30"
+    },
+    {
+      "navio_rio": "XIN WEI HAI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "08/06 02:00",
+      "manobra_rio_fim": "08/06 15:30",
+      "navio_multi": "MSC ATHENS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "08/06 06:30"
+    },
+    {
+      "navio_rio": "XIN WEI HAI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "08/06 02:00",
+      "manobra_rio_fim": "08/06 15:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "08/06 08:30"
     },
     {
       "navio_rio": "KOTA PUSAKA",
