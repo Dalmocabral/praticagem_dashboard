@@ -1,55 +1,10 @@
 {
-  "ultima_atualizacao": "05/06/2026 17:31",
+  "ultima_atualizacao": "05/06/2026 19:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "05/06",
-      "hora": "14:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,30",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-05T14:00:00"
-    },
-    {
-      "data": "05/06",
-      "hora": "16:00",
-      "navio": "CLARITY",
-      "calado": "7,00",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9416381",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-05T16:00:00"
-    },
-    {
-      "data": "05/06",
-      "hora": "17:30",
-      "navio": "SINAR SUMATERA",
-      "calado": "5,80",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-05T17:30:00"
-    },
     {
       "data": "05/06",
       "hora": "23:30",
@@ -232,21 +187,6 @@
     },
     {
       "data": "07/06",
-      "hora": "09:30",
-      "navio": "MSC ATHENS",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9618305",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-07T09:30:00"
-    },
-    {
-      "data": "07/06",
       "hora": "14:30",
       "navio": "CMA CGM FRANCOISE SAGAN",
       "calado": "12,40",
@@ -307,21 +247,6 @@
     },
     {
       "data": "08/06",
-      "hora": "06:30",
-      "navio": "MSC ATHENS",
-      "calado": "11,50",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9618305",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-08T06:30:00"
-    },
-    {
-      "data": "08/06",
       "hora": "08:30",
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,40",
@@ -364,6 +289,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-08T15:30:00"
+    },
+    {
+      "data": "08/06",
+      "hora": "20:00",
+      "navio": "BBC CHALLENGER",
+      "calado": "7,10",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9369095",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-08T20:00:00"
     },
     {
       "data": "09/06",
@@ -424,6 +364,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-11T08:00:00"
+    },
+    {
+      "data": "12/06",
+      "hora": "13:00",
+      "navio": "BBC CHALLENGER",
+      "calado": "6,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9369095",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-12T13:00:00"
     },
     {
       "data": "15/06",
@@ -608,60 +563,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/06 14:00",
-      "manobra_rio_fim": "05/06 23:30",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/06 17:30"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/06 16:00",
-      "manobra_rio_fim": "06/06 19:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/06 17:30"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/06 16:00",
-      "manobra_rio_fim": "06/06 19:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/06 12:00"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/06 16:00",
-      "manobra_rio_fim": "06/06 19:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/06 13:30"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/06 16:00",
-      "manobra_rio_fim": "06/06 19:00",
-      "navio_multi": "MSC MADHU B",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/06 15:30"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/06 16:00",
-      "manobra_rio_fim": "06/06 19:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/06 17:00"
-    },
-    {
       "navio_rio": "LORI",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "06/06 09:00",
@@ -717,15 +618,6 @@
     },
     {
       "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/06 00:00",
-      "manobra_rio_fim": "08/06 00:00",
-      "navio_multi": "MSC ATHENS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/06 09:30"
-    },
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "07/06 00:00",
       "manobra_rio_fim": "08/06 00:00",
@@ -743,24 +635,6 @@
       "manobra_multi_data_hora": "07/06 06:30"
     },
     {
-      "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/06 02:00",
-      "manobra_rio_fim": "07/06 14:30",
-      "navio_multi": "MSC ATHENS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/06 09:30"
-    },
-    {
-      "navio_rio": "XIN WEI HAI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/06 02:00",
-      "manobra_rio_fim": "08/06 15:30",
-      "navio_multi": "MSC ATHENS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/06 06:30"
-    },
-    {
       "navio_rio": "XIN WEI HAI",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "08/06 02:00",
@@ -768,6 +642,24 @@
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "08/06 08:30"
+    },
+    {
+      "navio_rio": "BBC CHALLENGER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "08/06 20:00",
+      "manobra_rio_fim": "12/06 13:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "09/06 06:30"
+    },
+    {
+      "navio_rio": "BBC CHALLENGER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "08/06 20:00",
+      "manobra_rio_fim": "12/06 13:00",
+      "navio_multi": "ZHEN HUA 15",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "09/06 09:00"
     },
     {
       "navio_rio": "KOTA PUSAKA",
