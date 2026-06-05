@@ -1,45 +1,15 @@
 {
-  "ultima_atualizacao": "05/06/2026 08:44",
+  "ultima_atualizacao": "05/06/2026 11:12",
   "barra_info": {
-    "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 04/06/2026 18:04 Barra restrita para calados acima de 11,50 m com o embarque e desembarque em águas abrigadas para navios e supplies. CANAL VARRIDO FECHADO PARA MANOBRA NOTURNA."
+    "restrita": false,
+    "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
     {
       "data": "05/06",
-      "hora": "05:00",
-      "navio": "MSC ADELE",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-05T05:00:00"
-    },
-    {
-      "data": "05/06",
-      "hora": "07:00",
-      "navio": "LONCOMILLA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9437385",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-05T07:00:00"
-    },
-    {
-      "data": "05/06",
       "hora": "10:00",
       "navio": "HYUNDAI TOKYO",
-      "calado": "13,00",
+      "calado": "12,95",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -54,14 +24,14 @@
       "data": "05/06",
       "hora": "12:00",
       "navio": "CMA CGM SILVER",
-      "calado": "13,50",
+      "calado": "13,80",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9996769",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-05T12:00:00"
     },
@@ -76,7 +46,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-06-05T14:00:00"
     },
@@ -142,9 +112,24 @@
     },
     {
       "data": "06/06",
-      "hora": "13:00",
+      "hora": "08:30",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "12,90",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-06T08:30:00"
+    },
+    {
+      "data": "06/06",
+      "hora": "10:30",
       "navio": "LORI",
-      "calado": "9,40",
+      "calado": "9,75",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -153,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-06T13:00:00"
+      "timestamp": "2026-06-06T10:30:00"
     },
     {
       "data": "06/06",
@@ -187,7 +172,7 @@
     },
     {
       "data": "06/06",
-      "hora": "23:30",
+      "hora": "22:00",
       "navio": "LORI",
       "calado": "9,40",
       "manobra": "S",
@@ -198,7 +183,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-06T23:30:00"
+      "timestamp": "2026-06-06T22:00:00"
     },
     {
       "data": "07/06",
@@ -229,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-07T06:30:00"
+    },
+    {
+      "data": "07/06",
+      "hora": "07:30",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "12,90",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-07T07:30:00"
     },
     {
       "data": "07/06",
@@ -545,10 +545,19 @@
       "manobra_multi_data_hora": "06/06 06:30"
     },
     {
+      "navio_rio": "CLARITY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "05/06 18:00",
+      "manobra_rio_fim": "06/06 15:00",
+      "navio_multi": "BREMERHAVEN EXPRESS",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "06/06 08:30"
+    },
+    {
       "navio_rio": "LORI",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/06 13:00",
-      "manobra_rio_fim": "06/06 23:30",
+      "manobra_rio_inicio": "06/06 10:30",
+      "manobra_rio_fim": "06/06 22:00",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "06/06 16:00"
@@ -561,6 +570,15 @@
       "navio_multi": "MSC MADHU B",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/06 06:30"
+    },
+    {
+      "navio_rio": "CMA CGM FRANCOISE SAGAN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "07/06 01:30",
+      "manobra_rio_fim": "07/06 12:00",
+      "navio_multi": "BREMERHAVEN EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/06 07:30"
     },
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
