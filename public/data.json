@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/06/2026 01:19",
+  "ultima_atualizacao": "05/06/2026 03:48",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/06/2026 18:04 Barra restrita para calados acima de 11,50 m com o embarque e desembarque em águas abrigadas para navios e supplies. CANAL VARRIDO FECHADO PARA MANOBRA NOTURNA."
@@ -9,14 +9,14 @@
       "data": "05/06",
       "hora": "05:00",
       "navio": "MSC ADELE",
-      "calado": "10,60",
+      "calado": "10,80",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "1016692",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-05T05:00:00"
     },
@@ -24,31 +24,16 @@
       "data": "05/06",
       "hora": "07:00",
       "navio": "LONCOMILLA",
-      "calado": "11,50",
+      "calado": "12,55",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9437385",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-06-05T07:00:00"
-    },
-    {
-      "data": "05/06",
-      "hora": "09:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-05T09:00:00"
     },
     {
       "data": "05/06",
@@ -79,21 +64,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-05T12:00:00"
-    },
-    {
-      "data": "05/06",
-      "hora": "14:00",
-      "navio": "MSC ADELE",
-      "calado": "10,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-05T14:00:00"
     },
     {
       "data": "05/06",
@@ -130,7 +100,7 @@
       "hora": "20:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
-      "manobra": "M",
+      "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9351799",
@@ -142,18 +112,33 @@
     },
     {
       "data": "06/06",
-      "hora": "05:00",
+      "hora": "01:00",
+      "navio": "MSC ADELE",
+      "calado": "10,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1016692",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-06T01:00:00"
+    },
+    {
+      "data": "06/06",
+      "hora": "03:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT4",
+      "manobra": "M",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-06T05:00:00"
+      "terminal": "rio",
+      "timestamp": "2026-06-06T03:00:00"
     },
     {
       "data": "06/06",
@@ -229,6 +214,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-06T15:00:00"
+    },
+    {
+      "data": "06/06",
+      "hora": "16:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-06T16:00:00"
     },
     {
       "data": "06/06",
@@ -488,40 +488,13 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/06 09:00",
-      "manobra_rio_fim": "05/06 20:00",
-      "navio_multi": "HYUNDAI TOKYO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/06 11:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/06 09:00",
-      "manobra_rio_fim": "05/06 20:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/06 14:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/06 09:00",
-      "manobra_rio_fim": "05/06 20:00",
-      "navio_multi": "MSC MADHU B",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/06 16:00"
-    },
-    {
       "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/06 18:00",
       "manobra_rio_fim": "06/06 15:00",
-      "navio_multi": "LOG-IN PANTANAL",
+      "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/06 05:00"
+      "manobra_multi_data_hora": "06/06 01:00"
     },
     {
       "navio_rio": "CLARITY",
@@ -549,6 +522,24 @@
       "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "06/06 11:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/06 20:00",
+      "manobra_rio_fim": "06/06 03:00",
+      "navio_multi": "MSC ADELE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "06/06 01:00"
+    },
+    {
+      "navio_rio": "LORI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "06/06 13:00",
+      "manobra_rio_fim": "06/06 23:30",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "06/06 16:00"
     },
     {
       "navio_rio": "KOTA PUSAKA",
