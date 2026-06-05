@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/06/2026 05:28",
+  "ultima_atualizacao": "05/06/2026 08:44",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/06/2026 18:04 Barra restrita para calados acima de 11,50 m com o embarque e desembarque em águas abrigadas para navios e supplies. CANAL VARRIDO FECHADO PARA MANOBRA NOTURNA."
@@ -24,7 +24,7 @@
       "data": "05/06",
       "hora": "07:00",
       "navio": "LONCOMILLA",
-      "calado": "12,55",
+      "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -37,7 +37,7 @@
     },
     {
       "data": "05/06",
-      "hora": "11:00",
+      "hora": "10:00",
       "navio": "HYUNDAI TOKYO",
       "calado": "13,00",
       "manobra": "S",
@@ -46,9 +46,9 @@
       "imo": "9305673",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-05T11:00:00"
+      "timestamp": "2026-06-05T10:00:00"
     },
     {
       "data": "05/06",
@@ -61,7 +61,7 @@
       "imo": "9996769",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-06-05T12:00:00"
     },
@@ -79,21 +79,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-05T14:00:00"
-    },
-    {
-      "data": "05/06",
-      "hora": "16:00",
-      "navio": "MSC MADHU B",
-      "calado": "15,15",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9778088",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-05T16:00:00"
     },
     {
       "data": "05/06",
@@ -145,7 +130,7 @@
       "hora": "06:30",
       "navio": "MSC MADHU B",
       "calado": "15,15",
-      "manobra": "S",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9778088",
@@ -154,36 +139,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-06T06:30:00"
-    },
-    {
-      "data": "06/06",
-      "hora": "09:00",
-      "navio": "MSC SOFIA PAZ",
-      "calado": "13,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9695028",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-06T09:00:00"
-    },
-    {
-      "data": "06/06",
-      "hora": "11:00",
-      "navio": "MSC ATHENS",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9618305",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-06T11:00:00"
     },
     {
       "data": "06/06",
@@ -247,33 +202,108 @@
     },
     {
       "data": "07/06",
-      "hora": "07:00",
-      "navio": "MSC SOFIA PAZ",
+      "hora": "01:30",
+      "navio": "CMA CGM FRANCOISE SAGAN",
       "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-07T01:30:00"
+    },
+    {
+      "data": "07/06",
+      "hora": "06:30",
+      "navio": "MSC MADHU B",
+      "calado": "15,15",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9695028",
+      "imo": "9778088",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-07T07:00:00"
+      "timestamp": "2026-06-07T06:30:00"
     },
     {
       "data": "07/06",
-      "hora": "08:00",
+      "hora": "09:30",
       "navio": "MSC ATHENS",
       "calado": "11,50",
-      "manobra": "S",
-      "beco": "TECONT2",
+      "manobra": "E",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-07T08:00:00"
+      "timestamp": "2026-06-07T09:30:00"
+    },
+    {
+      "data": "07/06",
+      "hora": "12:00",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "calado": "12,40",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-07T12:00:00"
+    },
+    {
+      "data": "08/06",
+      "hora": "06:30",
+      "navio": "MSC ATHENS",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9618305",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-08T06:30:00"
+    },
+    {
+      "data": "08/06",
+      "hora": "08:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-08T08:30:00"
+    },
+    {
+      "data": "09/06",
+      "hora": "06:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-09T06:30:00"
     },
     {
       "data": "10/06",
@@ -492,15 +522,6 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/06 14:00",
       "manobra_rio_fim": "06/06 03:00",
-      "navio_multi": "MSC MADHU B",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/06 16:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/06 14:00",
-      "manobra_rio_fim": "06/06 03:00",
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "06/06 01:00"
@@ -520,26 +541,8 @@
       "manobra_rio_inicio": "05/06 18:00",
       "manobra_rio_fim": "06/06 15:00",
       "navio_multi": "MSC MADHU B",
-      "manobra_multi_tipo": "S",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "06/06 06:30"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/06 18:00",
-      "manobra_rio_fim": "06/06 15:00",
-      "navio_multi": "MSC SOFIA PAZ",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/06 09:00"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/06 18:00",
-      "manobra_rio_fim": "06/06 15:00",
-      "navio_multi": "MSC ATHENS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/06 11:00"
     },
     {
       "navio_rio": "LORI",
@@ -549,6 +552,24 @@
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "06/06 16:00"
+    },
+    {
+      "navio_rio": "CMA CGM FRANCOISE SAGAN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/06 01:30",
+      "manobra_rio_fim": "07/06 12:00",
+      "navio_multi": "MSC MADHU B",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/06 06:30"
+    },
+    {
+      "navio_rio": "CMA CGM FRANCOISE SAGAN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "07/06 01:30",
+      "manobra_rio_fim": "07/06 12:00",
+      "navio_multi": "MSC ATHENS",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "07/06 09:30"
     },
     {
       "navio_rio": "KOTA PUSAKA",
