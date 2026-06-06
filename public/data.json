@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/06/2026 08:54",
+  "ultima_atualizacao": "06/06/2026 10:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "06/06",
-      "hora": "09:00",
-      "navio": "LORI",
-      "calado": "9,75",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9631125",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-06T09:00:00"
-    },
-    {
-      "data": "06/06",
       "hora": "11:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
+      "calado": "8,80",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -46,7 +31,7 @@
       "imo": "1016692",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-06T13:00:00"
     },
@@ -56,7 +41,7 @@
       "navio": "BREMERHAVEN EXPRESS",
       "calado": "13,70",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "hoje",
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
@@ -71,7 +56,7 @@
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,40",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "hoje",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
@@ -97,7 +82,7 @@
     },
     {
       "data": "06/06",
-      "hora": "21:00",
+      "hora": "20:00",
       "navio": "SINAR SUMATERA",
       "calado": "11,50",
       "manobra": "S",
@@ -108,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-06T21:00:00"
+      "timestamp": "2026-06-06T20:00:00"
     },
     {
       "data": "06/06",
@@ -129,7 +114,7 @@
       "data": "07/06",
       "hora": "00:00",
       "navio": "MERCOSUL GUARUJA",
-      "calado": "11,50",
+      "calado": "11,10",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -176,7 +161,7 @@
       "navio": "BREMERHAVEN EXPRESS",
       "calado": "12,90",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
@@ -191,7 +176,7 @@
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
@@ -547,51 +532,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "LORI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/06 09:00",
-      "manobra_rio_fim": "06/06 22:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/06 11:00"
-    },
-    {
-      "navio_rio": "LORI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/06 09:00",
-      "manobra_rio_fim": "06/06 22:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/06 13:00"
-    },
-    {
-      "navio_rio": "LORI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/06 09:00",
-      "manobra_rio_fim": "06/06 22:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/06 15:00"
-    },
-    {
-      "navio_rio": "LORI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "06/06 09:00",
-      "manobra_rio_fim": "06/06 22:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/06 17:00"
-    },
-    {
-      "navio_rio": "LORI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "06/06 09:00",
-      "manobra_rio_fim": "06/06 22:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/06 21:00"
-    },
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "S",
