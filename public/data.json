@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/06/2026 12:18",
+  "ultima_atualizacao": "06/06/2026 13:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -46,21 +46,21 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-06-06T17:00:00"
     },
     {
       "data": "06/06",
       "hora": "19:00",
-      "navio": "CLARITY",
-      "calado": "7,20",
+      "navio": "LORI",
+      "calado": "9,40",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "hoje",
-      "imo": "9416381",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "imo": "9631125",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-06T19:00:00"
@@ -82,33 +82,33 @@
     },
     {
       "data": "06/06",
-      "hora": "22:00",
-      "navio": "LORI",
-      "calado": "9,40",
+      "hora": "21:00",
+      "navio": "CLARITY",
+      "calado": "7,20",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
-      "imo": "9631125",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "imo": "9416381",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-06T22:00:00"
+      "timestamp": "2026-06-06T21:00:00"
     },
     {
-      "data": "07/06",
-      "hora": "00:00",
+      "data": "06/06",
+      "hora": "23:00",
       "navio": "MERCOSUL GUARUJA",
       "calado": "11,10",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-07T00:00:00"
+      "timestamp": "2026-06-06T23:00:00"
     },
     {
       "data": "07/06",
@@ -127,7 +127,7 @@
     },
     {
       "data": "07/06",
-      "hora": "15:30",
+      "hora": "06:30",
       "navio": "BREMERHAVEN EXPRESS",
       "calado": "12,90",
       "manobra": "S",
@@ -138,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-07T15:30:00"
+      "timestamp": "2026-06-07T06:30:00"
     },
     {
       "data": "07/06",
@@ -549,17 +549,17 @@
   "conflitos": [
     {
       "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/06 00:00",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "06/06 23:00",
       "manobra_rio_fim": "08/06 00:00",
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/06 15:30"
+      "manobra_multi_data_hora": "07/06 06:30"
     },
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/06 00:00",
+      "manobra_rio_inicio": "06/06 23:00",
       "manobra_rio_fim": "08/06 00:00",
       "navio_multi": "MSC MADHU B",
       "manobra_multi_tipo": "E",
@@ -572,7 +572,7 @@
       "manobra_rio_fim": "08/06 04:30",
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/06 15:30"
+      "manobra_multi_data_hora": "07/06 06:30"
     },
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
