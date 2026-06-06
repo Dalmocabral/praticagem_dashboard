@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "06/06/2026 17:18",
+  "ultima_atualizacao": "06/06/2026 18:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "06/06",
-      "hora": "17:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-06T17:00:00"
-    },
     {
       "data": "06/06",
       "hora": "19:00",
@@ -39,7 +24,7 @@
       "data": "06/06",
       "hora": "20:00",
       "navio": "SINAR SUMATERA",
-      "calado": "11,50",
+      "calado": "8,40",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "hoje",
@@ -61,7 +46,7 @@
       "imo": "9416381",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-06T21:00:00"
     },
