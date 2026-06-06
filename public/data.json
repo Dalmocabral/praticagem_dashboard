@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "06/06/2026 19:41",
+  "ultima_atualizacao": "06/06/2026 20:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "06/06",
-      "hora": "19:00",
-      "navio": "LORI",
-      "calado": "9,40",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9631125",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-06T19:00:00"
-    },
     {
       "data": "06/06",
       "hora": "21:00",
@@ -46,7 +31,7 @@
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-06-06T23:00:00"
     },
