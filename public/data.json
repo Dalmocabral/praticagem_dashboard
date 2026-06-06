@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "06/06/2026 10:54",
+  "ultima_atualizacao": "06/06/2026 12:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "06/06",
-      "hora": "11:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,80",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-06T11:00:00"
-    },
     {
       "data": "06/06",
       "hora": "13:00",
@@ -46,7 +31,7 @@
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-06T15:00:00"
     },
@@ -129,7 +114,7 @@
       "data": "07/06",
       "hora": "04:30",
       "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "12,60",
+      "calado": "13,70",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -139,21 +124,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-07T04:30:00"
-    },
-    {
-      "data": "07/06",
-      "hora": "14:30",
-      "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "12,40",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9356696",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-07T14:30:00"
     },
     {
       "data": "07/06",
@@ -172,18 +142,18 @@
     },
     {
       "data": "07/06",
-      "hora": "23:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT2",
+      "hora": "16:30",
+      "navio": "MSC MADHU B",
+      "calado": "15,05",
+      "manobra": "E",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9506394",
+      "imo": "9778088",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-07T23:00:00"
+      "timestamp": "2026-06-07T16:30:00"
     },
     {
       "data": "08/06",
@@ -217,13 +187,28 @@
     },
     {
       "data": "08/06",
-      "hora": "06:30",
-      "navio": "MSC MADHU B",
-      "calado": "15,05",
-      "manobra": "E",
-      "beco": "TECONT3",
+      "hora": "04:30",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "calado": "12,40",
+      "manobra": "S",
+      "beco": "TECONT1",
       "status": "futuro",
-      "imo": "9778088",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-08T04:30:00"
+    },
+    {
+      "data": "08/06",
+      "hora": "06:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -244,6 +229,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-08T10:30:00"
+    },
+    {
+      "data": "08/06",
+      "hora": "12:30",
+      "navio": "MSC AMALFI",
+      "calado": "11,90",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9605279",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-08T12:30:00"
     },
     {
       "data": "08/06",
@@ -277,7 +277,22 @@
     },
     {
       "data": "09/06",
-      "hora": "06:30",
+      "hora": "01:00",
+      "navio": "MSC AMALFI",
+      "calado": "11,90",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9605279",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-09T01:00:00"
+    },
+    {
+      "data": "09/06",
+      "hora": "07:00",
       "navio": "MSC MADHU B",
       "calado": "14,60",
       "manobra": "S",
@@ -288,7 +303,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-09T06:30:00"
+      "timestamp": "2026-06-09T07:00:00"
     },
     {
       "data": "09/06",
@@ -546,18 +561,54 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "07/06 00:00",
       "manobra_rio_fim": "08/06 00:00",
-      "navio_multi": "LOG-IN DISCOVERY",
+      "navio_multi": "MSC MADHU B",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "07/06 16:30"
+    },
+    {
+      "navio_rio": "CMA CGM FRANCOISE SAGAN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/06 04:30",
+      "manobra_rio_fim": "08/06 04:30",
+      "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/06 23:00"
+      "manobra_multi_data_hora": "07/06 15:30"
+    },
+    {
+      "navio_rio": "CMA CGM FRANCOISE SAGAN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/06 04:30",
+      "manobra_rio_fim": "08/06 04:30",
+      "navio_multi": "MSC MADHU B",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "07/06 16:30"
     },
     {
       "navio_rio": "XIN WEI HAI",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "08/06 02:00",
       "manobra_rio_fim": "08/06 15:30",
-      "navio_multi": "MSC MADHU B",
-      "manobra_multi_tipo": "E",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "08/06 06:30"
+    },
+    {
+      "navio_rio": "XIN WEI HAI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "08/06 02:00",
+      "manobra_rio_fim": "08/06 15:30",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "08/06 12:30"
+    },
+    {
+      "navio_rio": "BBC CHALLENGER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "08/06 20:00",
+      "manobra_rio_fim": "12/06 13:00",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "09/06 01:00"
     },
     {
       "navio_rio": "BBC CHALLENGER",
@@ -566,7 +617,7 @@
       "manobra_rio_fim": "12/06 13:00",
       "navio_multi": "MSC MADHU B",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/06 06:30"
+      "manobra_multi_data_hora": "09/06 07:00"
     },
     {
       "navio_rio": "BBC CHALLENGER",
