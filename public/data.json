@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/06/2026 14:47",
+  "ultima_atualizacao": "06/06/2026 15:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -24,7 +24,7 @@
       "data": "06/06",
       "hora": "17:00",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "8,40",
+      "calado": "10,30",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9631125",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-06-06T19:00:00"
     },
@@ -97,21 +97,6 @@
     },
     {
       "data": "07/06",
-      "hora": "04:30",
-      "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9356696",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-07T04:30:00"
-    },
-    {
-      "data": "07/06",
       "hora": "06:30",
       "navio": "BREMERHAVEN EXPRESS",
       "calado": "12,90",
@@ -124,6 +109,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-07T06:30:00"
+    },
+    {
+      "data": "07/06",
+      "hora": "08:30",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "calado": "13,70",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-07T08:30:00"
     },
     {
       "data": "07/06",
@@ -174,7 +174,7 @@
       "data": "08/06",
       "hora": "04:30",
       "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "12,40",
+      "calado": "14,05",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
@@ -553,16 +553,7 @@
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/06 04:30",
-      "manobra_rio_fim": "08/06 04:30",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/06 06:30"
-    },
-    {
-      "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/06 04:30",
+      "manobra_rio_inicio": "07/06 08:30",
       "manobra_rio_fim": "08/06 04:30",
       "navio_multi": "MSC MADHU B",
       "manobra_multi_tipo": "E",
