@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "07/06/2026 10:10",
+  "ultima_atualizacao": "07/06/2026 12:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "07/06",
-      "hora": "08:00",
-      "navio": "MSC MADHU B",
-      "calado": "15,00",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9778088",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-07T08:00:00"
-    },
-    {
-      "data": "07/06",
-      "hora": "09:30",
-      "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9356696",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-07T09:30:00"
-    },
     {
       "data": "07/06",
       "hora": "20:00",
@@ -97,6 +67,21 @@
     },
     {
       "data": "08/06",
+      "hora": "08:30",
+      "navio": "MAERSK MONTE AZUL",
+      "calado": "12,40",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9348053",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-08T08:30:00"
+    },
+    {
+      "data": "08/06",
       "hora": "10:30",
       "navio": "TS 11",
       "calado": "2,76",
@@ -124,6 +109,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-08T12:30:00"
+    },
+    {
+      "data": "08/06",
+      "hora": "17:00",
+      "navio": "MAERSK MONTE AZUL",
+      "calado": "12,30",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9348053",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-08T17:00:00"
     },
     {
       "data": "08/06",
@@ -174,7 +174,7 @@
       "data": "09/06",
       "hora": "07:00",
       "navio": "MSC MADHU B",
-      "calado": "14,60",
+      "calado": "13,70",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -441,6 +441,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "08/06 02:00",
       "manobra_rio_fim": "08/06 18:00",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "08/06 12:30"
+    },
+    {
+      "navio_rio": "MAERSK MONTE AZUL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "08/06 08:30",
+      "manobra_rio_fim": "08/06 17:00",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "08/06 12:30"
