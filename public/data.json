@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/06/2026 09:46",
+  "ultima_atualizacao": "07/06/2026 10:10",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -127,7 +127,7 @@
     },
     {
       "data": "08/06",
-      "hora": "15:30",
+      "hora": "18:00",
       "navio": "XIN WEI HAI",
       "calado": "12,00",
       "manobra": "S",
@@ -138,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-08T15:30:00"
+      "timestamp": "2026-06-08T18:00:00"
     },
     {
       "data": "08/06",
@@ -431,7 +431,7 @@
       "navio_rio": "XIN WEI HAI",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "08/06 02:00",
-      "manobra_rio_fim": "08/06 15:30",
+      "manobra_rio_fim": "08/06 18:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "08/06 06:30"
@@ -440,7 +440,7 @@
       "navio_rio": "XIN WEI HAI",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "08/06 02:00",
-      "manobra_rio_fim": "08/06 15:30",
+      "manobra_rio_fim": "08/06 18:00",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "08/06 12:30"
