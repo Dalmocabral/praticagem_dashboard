@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "07/06/2026 06:51",
+  "ultima_atualizacao": "07/06/2026 08:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "07/06",
-      "hora": "06:00",
-      "navio": "BREMERHAVEN EXPRESS",
-      "calado": "14,10",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9723253",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-07T06:00:00"
-    },
     {
       "data": "07/06",
       "hora": "08:00",
@@ -51,34 +36,34 @@
       "timestamp": "2026-06-07T09:30:00"
     },
     {
-      "data": "08/06",
-      "hora": "00:00",
+      "data": "07/06",
+      "hora": "20:00",
       "navio": "MERCOSUL GUARUJA",
-      "calado": "11,50",
+      "calado": "12,10",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-08T00:00:00"
+      "timestamp": "2026-06-07T20:00:00"
     },
     {
-      "data": "08/06",
-      "hora": "02:00",
+      "data": "07/06",
+      "hora": "22:00",
       "navio": "XIN WEI HAI",
       "calado": "12,00",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9312573",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-08T02:00:00"
+      "timestamp": "2026-06-07T22:00:00"
     },
     {
       "data": "08/06",
@@ -445,7 +430,7 @@
     {
       "navio_rio": "XIN WEI HAI",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/06 02:00",
+      "manobra_rio_inicio": "07/06 22:00",
       "manobra_rio_fim": "08/06 15:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
@@ -454,7 +439,7 @@
     {
       "navio_rio": "XIN WEI HAI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "08/06 02:00",
+      "manobra_rio_inicio": "07/06 22:00",
       "manobra_rio_fim": "08/06 15:30",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "E",
