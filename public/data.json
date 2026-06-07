@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "06/06/2026 23:00",
+  "ultima_atualizacao": "07/06/2026 03:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "06/06",
-      "hora": "23:00",
-      "navio": "MERCOSUL GUARUJA",
-      "calado": "11,10",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9539494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-06T23:00:00"
-    },
     {
       "data": "07/06",
       "hora": "06:00",
@@ -31,7 +16,7 @@
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-07T06:00:00"
     },
@@ -457,24 +442,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/06 23:00",
-      "manobra_rio_fim": "08/06 00:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/06 06:00"
-    },
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/06 23:00",
-      "manobra_rio_fim": "08/06 00:00",
-      "navio_multi": "MSC MADHU B",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/06 08:00"
-    },
     {
       "navio_rio": "XIN WEI HAI",
       "manobra_rio_afetada": "E",
