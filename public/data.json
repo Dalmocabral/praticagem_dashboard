@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/06/2026 20:46",
+  "ultima_atualizacao": "06/06/2026 23:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -7,27 +7,12 @@
   "navios": [
     {
       "data": "06/06",
-      "hora": "21:00",
-      "navio": "CLARITY",
-      "calado": "6,70",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9416381",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-06T21:00:00"
-    },
-    {
-      "data": "06/06",
       "hora": "23:00",
       "navio": "MERCOSUL GUARUJA",
       "calado": "11,10",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "hoje",
+      "status": "passado",
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -37,48 +22,48 @@
     },
     {
       "data": "07/06",
-      "hora": "06:30",
+      "hora": "06:00",
       "navio": "BREMERHAVEN EXPRESS",
-      "calado": "12,90",
+      "calado": "14,10",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-07T06:30:00"
+      "timestamp": "2026-06-07T06:00:00"
     },
     {
       "data": "07/06",
-      "hora": "08:30",
-      "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9356696",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-07T08:30:00"
-    },
-    {
-      "data": "07/06",
-      "hora": "16:30",
+      "hora": "08:00",
       "navio": "MSC MADHU B",
       "calado": "15,05",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9778088",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-07T16:30:00"
+      "timestamp": "2026-06-07T08:00:00"
+    },
+    {
+      "data": "07/06",
+      "hora": "09:30",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "calado": "13,70",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-07T09:30:00"
     },
     {
       "data": "08/06",
@@ -101,7 +86,7 @@
       "navio": "XIN WEI HAI",
       "calado": "12,00",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9312573",
       "tipo_navio": "CONTAINER SHIP",
@@ -176,7 +161,7 @@
       "navio": "XIN WEI HAI",
       "calado": "12,00",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9312573",
       "tipo_navio": "CONTAINER SHIP",
@@ -479,25 +464,16 @@
       "manobra_rio_fim": "08/06 00:00",
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/06 06:30"
+      "manobra_multi_data_hora": "07/06 06:00"
     },
     {
       "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "06/06 23:00",
       "manobra_rio_fim": "08/06 00:00",
       "navio_multi": "MSC MADHU B",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/06 16:30"
-    },
-    {
-      "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/06 08:30",
-      "manobra_rio_fim": "08/06 04:30",
-      "navio_multi": "MSC MADHU B",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/06 16:30"
+      "manobra_multi_data_hora": "07/06 08:00"
     },
     {
       "navio_rio": "XIN WEI HAI",
