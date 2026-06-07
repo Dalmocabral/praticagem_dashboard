@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/06/2026 16:27",
+  "ultima_atualizacao": "07/06/2026 17:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "07/06",
-      "hora": "20:00",
+      "hora": "19:30",
       "navio": "MERCOSUL GUARUJA",
       "calado": "12,10",
       "manobra": "S",
@@ -16,9 +16,9 @@
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-06-07T20:00:00"
+      "timestamp": "2026-06-07T19:30:00"
     },
     {
       "data": "08/06",
