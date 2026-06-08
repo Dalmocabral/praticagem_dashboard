@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "08/06/2026 03:23",
+  "ultima_atualizacao": "08/06/2026 08:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "08/06",
-      "hora": "04:30",
-      "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9356696",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-08T04:30:00"
-    },
-    {
-      "data": "08/06",
-      "hora": "06:30",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-08T06:30:00"
-    },
     {
       "data": "08/06",
       "hora": "08:30",
@@ -46,7 +16,7 @@
       "imo": "9348053",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-06-08T08:30:00"
     },
@@ -61,9 +31,24 @@
       "imo": "",
       "tipo_navio": "BARGE CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-08T10:30:00"
+    },
+    {
+      "data": "08/06",
+      "hora": "11:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
+      "terminal": "multi",
+      "timestamp": "2026-06-08T11:30:00"
     },
     {
       "data": "08/06",
@@ -427,6 +412,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "MAERSK MONTE AZUL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "08/06 08:30",
+      "manobra_rio_fim": "08/06 17:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "08/06 11:30"
+    },
     {
       "navio_rio": "MAERSK MONTE AZUL",
       "manobra_rio_afetada": "S",
