@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/06/2026 08:25",
+  "ultima_atualizacao": "08/06/2026 11:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "08/06",
-      "hora": "08:30",
-      "navio": "MAERSK MONTE AZUL",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9348053",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-08T08:30:00"
-    },
-    {
-      "data": "08/06",
       "hora": "10:30",
       "navio": "TS 11",
-      "calado": "2,76",
+      "calado": "2,70",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -39,14 +24,14 @@
       "data": "08/06",
       "hora": "11:30",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
+      "calado": "9,20",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-08T11:30:00"
     },
@@ -54,35 +39,20 @@
       "data": "08/06",
       "hora": "15:00",
       "navio": "MSC URSULA VI",
-      "calado": "12,70",
+      "calado": "12,90",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9168867",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-06-08T15:00:00"
     },
     {
       "data": "08/06",
       "hora": "17:00",
-      "navio": "MAERSK MONTE AZUL",
-      "calado": "12,30",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9348053",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-08T17:00:00"
-    },
-    {
-      "data": "08/06",
-      "hora": "18:00",
       "navio": "XIN WEI HAI",
       "calado": "12,00",
       "manobra": "S",
@@ -93,26 +63,26 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-08T18:00:00"
+      "timestamp": "2026-06-08T17:00:00"
     },
     {
       "data": "08/06",
-      "hora": "20:00",
-      "navio": "BBC CHALLENGER",
-      "calado": "7,10",
-      "manobra": "E",
+      "hora": "19:00",
+      "navio": "MAERSK MONTE AZUL",
+      "calado": "12,30",
+      "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
-      "imo": "9369095",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9348053",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-08T20:00:00"
+      "timestamp": "2026-06-08T19:00:00"
     },
     {
       "data": "09/06",
-      "hora": "07:00",
+      "hora": "06:00",
       "navio": "MSC MADHU B",
       "calado": "13,70",
       "manobra": "S",
@@ -123,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-09T07:00:00"
+      "timestamp": "2026-06-09T06:00:00"
     },
     {
       "data": "09/06",
@@ -158,8 +128,23 @@
     {
       "data": "09/06",
       "hora": "14:00",
+      "navio": "BBC CHALLENGER",
+      "calado": "7,10",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9369095",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-09T14:00:00"
+    },
+    {
+      "data": "09/06",
+      "hora": "15:30",
       "navio": "COSCO SHIPPING URUGUAY",
-      "calado": "12,50",
+      "calado": "14,20",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -168,7 +153,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-09T14:00:00"
+      "timestamp": "2026-06-09T15:30:00"
     },
     {
       "data": "10/06",
@@ -229,6 +214,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-12T13:00:00"
+    },
+    {
+      "data": "13/06",
+      "hora": "16:00",
+      "navio": "MSC BARCELONA",
+      "calado": "10,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9480186",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-13T16:00:00"
+    },
+    {
+      "data": "14/06",
+      "hora": "06:30",
+      "navio": "MSC BARCELONA",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9480186",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-14T06:30:00"
     },
     {
       "data": "15/06",
@@ -412,51 +427,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK MONTE AZUL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/06 08:30",
-      "manobra_rio_fim": "08/06 17:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/06 11:30"
-    },
-    {
-      "navio_rio": "MAERSK MONTE AZUL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "08/06 08:30",
-      "manobra_rio_fim": "08/06 17:00",
-      "navio_multi": "MSC URSULA VI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "08/06 15:00"
-    },
-    {
-      "navio_rio": "BBC CHALLENGER",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/06 20:00",
-      "manobra_rio_fim": "12/06 13:00",
-      "navio_multi": "MSC MADHU B",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/06 07:00"
-    },
-    {
-      "navio_rio": "BBC CHALLENGER",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/06 20:00",
-      "manobra_rio_fim": "12/06 13:00",
-      "navio_multi": "ZHEN HUA 15",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "09/06 09:00"
-    },
-    {
-      "navio_rio": "BBC CHALLENGER",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/06 20:00",
-      "manobra_rio_fim": "12/06 13:00",
-      "navio_multi": "MSC URSULA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/06 12:00"
-    },
     {
       "navio_rio": "KOTA PUSAKA",
       "manobra_rio_afetada": "S",
