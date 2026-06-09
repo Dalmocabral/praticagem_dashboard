@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "08/06/2026 22:31",
+  "ultima_atualizacao": "09/06/2026 02:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "08/06",
-      "hora": "23:00",
-      "navio": "MAERSK MONTE AZUL",
-      "calado": "12,90",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9348053",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-08T23:00:00"
-    },
     {
       "data": "09/06",
       "hora": "06:00",
@@ -31,7 +16,7 @@
       "imo": "9778088",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-06-09T06:00:00"
     },
@@ -82,22 +67,7 @@
     },
     {
       "data": "09/06",
-      "hora": "15:30",
-      "navio": "COSCO SHIPPING URUGUAY",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945851",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-09T15:30:00"
-    },
-    {
-      "data": "09/06",
-      "hora": "17:30",
+      "hora": "16:00",
       "navio": "MSC URSULA VI",
       "calado": "12,60",
       "manobra": "S",
@@ -108,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-09T17:30:00"
+      "timestamp": "2026-06-09T16:00:00"
     },
     {
       "data": "10/06",
@@ -124,21 +94,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-10T04:00:00"
-    },
-    {
-      "data": "10/06",
-      "hora": "06:00",
-      "navio": "COSCO SHIPPING URUGUAY",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9945851",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-10T06:00:00"
     },
     {
       "data": "10/06",
@@ -229,6 +184,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-11T08:00:00"
+    },
+    {
+      "data": "11/06",
+      "hora": "10:00",
+      "navio": "COSCO SHIPPING URUGUAY",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945851",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-11T10:00:00"
+    },
+    {
+      "data": "12/06",
+      "hora": "06:30",
+      "navio": "COSCO SHIPPING URUGUAY",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945851",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-12T06:30:00"
     },
     {
       "data": "12/06",
@@ -464,7 +449,7 @@
       "manobra_rio_fim": "12/06 13:00",
       "navio_multi": "MSC URSULA VI",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/06 17:30"
+      "manobra_multi_data_hora": "09/06 16:00"
     },
     {
       "navio_rio": "BBC CHALLENGER",
@@ -510,24 +495,6 @@
       "navio_multi": "VALOR",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "11/06 06:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/06 15:30",
-      "manobra_rio_fim": "10/06 06:00",
-      "navio_multi": "MSC URSULA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/06 17:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/06 15:30",
-      "manobra_rio_fim": "10/06 06:00",
-      "navio_multi": "NC BRUMA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/06 04:00"
     },
     {
       "navio_rio": "COSCO SHIPPING RHINE",
