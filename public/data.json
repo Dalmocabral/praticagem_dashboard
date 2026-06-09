@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/06/2026 02:50",
+  "ultima_atualizacao": "09/06/2026 06:30",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -9,14 +9,14 @@
       "data": "09/06",
       "hora": "06:00",
       "navio": "MSC MADHU B",
-      "calado": "13,75",
+      "calado": "13,60",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9778088",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-09T06:00:00"
     },
@@ -31,7 +31,7 @@
       "imo": "8714970",
       "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-09T09:00:00"
     },
