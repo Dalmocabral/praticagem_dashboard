@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "09/06/2026 12:38",
+  "ultima_atualizacao": "09/06/2026 14:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "09/06",
-      "hora": "09:00",
-      "navio": "ZHEN HUA 15",
-      "calado": "9,10",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "8714970",
-      "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-09T09:00:00"
-    },
-    {
-      "data": "09/06",
-      "hora": "12:30",
-      "navio": "BBC CHALLENGER",
-      "calado": "7,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9369095",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-09T12:30:00"
-    },
     {
       "data": "09/06",
       "hora": "23:00",
@@ -97,7 +67,7 @@
     },
     {
       "data": "10/06",
-      "hora": "15:00",
+      "hora": "16:30",
       "navio": "VALOR",
       "calado": "14,45",
       "manobra": "E",
@@ -108,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-10T15:00:00"
+      "timestamp": "2026-06-10T16:30:00"
     },
     {
       "data": "11/06",
@@ -127,9 +97,9 @@
     },
     {
       "data": "11/06",
-      "hora": "06:30",
+      "hora": "07:00",
       "navio": "VALOR",
-      "calado": "15,00",
+      "calado": "14,95",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -138,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-11T06:30:00"
+      "timestamp": "2026-06-11T07:00:00"
     },
     {
       "data": "11/06",
@@ -247,6 +217,21 @@
     },
     {
       "data": "16/06",
+      "hora": "03:00",
+      "navio": "NC BREDA",
+      "calado": "9,10",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9612765",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-16T03:00:00"
+    },
+    {
+      "data": "16/06",
       "hora": "06:30",
       "navio": "MSC PALAK",
       "calado": "13,10",
@@ -274,6 +259,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-16T08:30:00"
+    },
+    {
+      "data": "17/06",
+      "hora": "04:00",
+      "navio": "NC BREDA",
+      "calado": "9,10",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9612765",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-17T04:00:00"
     },
     {
       "data": "17/06",
@@ -413,60 +413,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "BBC CHALLENGER",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/06 12:30",
-      "manobra_rio_fim": "12/06 13:00",
-      "navio_multi": "MSC URSULA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/06 23:00"
-    },
-    {
-      "navio_rio": "BBC CHALLENGER",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/06 12:30",
-      "manobra_rio_fim": "12/06 13:00",
-      "navio_multi": "MAERSK CHAMBAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/06 06:00"
-    },
-    {
-      "navio_rio": "BBC CHALLENGER",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/06 12:30",
-      "manobra_rio_fim": "12/06 13:00",
-      "navio_multi": "NC BRUMA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/06 10:00"
-    },
-    {
-      "navio_rio": "BBC CHALLENGER",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/06 12:30",
-      "manobra_rio_fim": "12/06 13:00",
-      "navio_multi": "VALOR",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/06 15:00"
-    },
-    {
-      "navio_rio": "BBC CHALLENGER",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/06 12:30",
-      "manobra_rio_fim": "12/06 13:00",
-      "navio_multi": "NC BRUMA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/06 04:00"
-    },
-    {
-      "navio_rio": "BBC CHALLENGER",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/06 12:30",
-      "manobra_rio_fim": "12/06 13:00",
-      "navio_multi": "VALOR",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/06 06:30"
-    },
-    {
       "navio_rio": "COSCO SHIPPING RHINE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "10/06 08:00",
@@ -482,7 +428,7 @@
       "manobra_rio_fim": "11/06 08:00",
       "navio_multi": "VALOR",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/06 15:00"
+      "manobra_multi_data_hora": "10/06 16:30"
     },
     {
       "navio_rio": "COSCO SHIPPING RHINE",
@@ -500,7 +446,16 @@
       "manobra_rio_fim": "11/06 08:00",
       "navio_multi": "VALOR",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/06 06:30"
+      "manobra_multi_data_hora": "11/06 07:00"
+    },
+    {
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/06 08:30",
+      "manobra_rio_fim": "17/06 06:30",
+      "navio_multi": "NC BREDA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/06 04:00"
     },
     {
       "navio_rio": "KOTA PUSAKA",
