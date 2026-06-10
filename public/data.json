@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/06/2026 18:56",
+  "ultima_atualizacao": "10/06/2026 20:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -7,22 +7,7 @@
   "navios": [
     {
       "data": "10/06",
-      "hora": "16:30",
-      "navio": "VALOR",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-10T16:30:00"
-    },
-    {
-      "data": "10/06",
-      "hora": "22:00",
+      "hora": "22:30",
       "navio": "NC BRUMA",
       "calado": "9,40",
       "manobra": "S",
@@ -31,9 +16,9 @@
       "imo": "9612777",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-10T22:00:00"
+      "timestamp": "2026-06-10T22:30:00"
     },
     {
       "data": "11/06",
