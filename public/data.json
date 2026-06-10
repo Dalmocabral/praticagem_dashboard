@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/06/2026 14:20",
+  "ultima_atualizacao": "10/06/2026 16:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -22,7 +22,7 @@
     },
     {
       "data": "10/06",
-      "hora": "23:00",
+      "hora": "22:00",
       "navio": "NC BRUMA",
       "calado": "9,40",
       "manobra": "S",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-10T23:00:00"
+      "timestamp": "2026-06-10T22:00:00"
     },
     {
       "data": "11/06",
@@ -97,9 +97,9 @@
     },
     {
       "data": "11/06",
-      "hora": "16:00",
+      "hora": "17:00",
       "navio": "MSC SOFIA PAZ",
-      "calado": "13,20",
+      "calado": "11,20",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -108,7 +108,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-11T16:00:00"
+      "timestamp": "2026-06-11T17:00:00"
     },
     {
       "data": "12/06",
@@ -488,7 +488,7 @@
       "manobra_rio_fim": "12/06 06:30",
       "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "11/06 16:00"
+      "manobra_multi_data_hora": "11/06 17:00"
     },
     {
       "navio_rio": "SPYROS V",
