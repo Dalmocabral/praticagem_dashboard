@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/06/2026 15:35",
+  "ultima_atualizacao": "11/06/2026 18:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -39,7 +39,7 @@
       "data": "12/06",
       "hora": "05:30",
       "navio": "MSC AMALFI",
-      "calado": "11,60",
+      "calado": "10,90",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -49,6 +49,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-12T05:30:00"
+    },
+    {
+      "data": "12/06",
+      "hora": "08:00",
+      "navio": "ZHEN HUA 15",
+      "calado": "11,00",
+      "manobra": "M",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "8714970",
+      "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-12T08:00:00"
     },
     {
       "data": "12/06",
@@ -64,21 +79,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-12T12:30:00"
-    },
-    {
-      "data": "12/06",
-      "hora": "15:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "8,90",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-12T15:00:00"
     },
     {
       "data": "12/06",
@@ -127,7 +127,7 @@
     },
     {
       "data": "13/06",
-      "hora": "06:00",
+      "hora": "05:00",
       "navio": "MSC AMALFI",
       "calado": "12,60",
       "manobra": "S",
@@ -138,7 +138,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-13T06:00:00"
+      "timestamp": "2026-06-13T05:00:00"
     },
     {
       "data": "13/06",
@@ -154,6 +154,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-13T07:00:00"
+    },
+    {
+      "data": "13/06",
+      "hora": "09:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,90",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-13T09:00:00"
     },
     {
       "data": "13/06",
@@ -187,18 +202,78 @@
     },
     {
       "data": "13/06",
-      "hora": "23:00",
+      "hora": "18:00",
+      "navio": "ITHACA",
+      "calado": "8,50",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9968449",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-13T18:00:00"
+    },
+    {
+      "data": "14/06",
+      "hora": "06:30",
+      "navio": "ITHACA",
+      "calado": "8,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9968449",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-14T06:30:00"
+    },
+    {
+      "data": "14/06",
+      "hora": "07:30",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-13T23:00:00"
+      "timestamp": "2026-06-14T07:30:00"
+    },
+    {
+      "data": "14/06",
+      "hora": "09:30",
+      "navio": "MSC SOFIA PAZ",
+      "calado": "13,20",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9695028",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-14T09:30:00"
+    },
+    {
+      "data": "15/06",
+      "hora": "06:30",
+      "navio": "MSC SOFIA PAZ",
+      "calado": "13,20",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9695028",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-15T06:30:00"
     },
     {
       "data": "16/06",
@@ -486,26 +561,8 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "12/06 04:00",
       "manobra_rio_fim": "12/06 17:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/06 15:00"
-    },
-    {
-      "navio_rio": "SPYROS V",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/06 04:00",
-      "manobra_rio_fim": "12/06 17:00",
       "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/06 15:00"
-    },
-    {
-      "navio_rio": "MAERSK REDWOOD",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/06 12:30",
-      "manobra_rio_fim": "12/06 23:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "12/06 15:00"
     },
     {
