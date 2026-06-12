@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "12/06/2026 02:13",
+  "ultima_atualizacao": "12/06/2026 06:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "12/06",
-      "hora": "02:00",
-      "navio": "COSCO SHIPPING URUGUAY",
-      "calado": "14,30",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945851",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-12T02:00:00"
-    },
     {
       "data": "12/06",
       "hora": "04:00",
@@ -46,7 +31,7 @@
       "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-12T05:30:00"
     },
@@ -61,7 +46,7 @@
       "imo": "8714970",
       "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-12T08:00:00"
     },
