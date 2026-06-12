@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/06/2026 19:09",
+  "ultima_atualizacao": "12/06/2026 20:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -16,7 +16,7 @@
       "imo": "9943085",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-12T23:30:00"
     },
