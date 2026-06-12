@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/06/2026 12:53",
+  "ultima_atualizacao": "12/06/2026 15:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "12/06",
-      "hora": "12:30",
-      "navio": "MAERSK REDWOOD",
-      "calado": "10,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9943085",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-12T12:30:00"
-    },
-    {
-      "data": "12/06",
-      "hora": "15:00",
+      "hora": "15:30",
       "navio": "MSC ATHENS",
-      "calado": "11,20",
+      "calado": "9,80",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -33,11 +18,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-12T15:00:00"
+      "timestamp": "2026-06-12T15:30:00"
     },
     {
       "data": "12/06",
-      "hora": "17:00",
+      "hora": "18:00",
       "navio": "SPYROS V",
       "calado": "12,60",
       "manobra": "S",
@@ -46,15 +31,15 @@
       "imo": "9453365",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-06-12T17:00:00"
+      "timestamp": "2026-06-12T18:00:00"
     },
     {
       "data": "12/06",
       "hora": "23:30",
       "navio": "MAERSK REDWOOD",
-      "calado": "11,00",
+      "calado": "10,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -82,7 +67,7 @@
     },
     {
       "data": "13/06",
-      "hora": "05:00",
+      "hora": "08:00",
       "navio": "MSC AMALFI",
       "calado": "10,10",
       "manobra": "S",
@@ -93,11 +78,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-13T05:00:00"
+      "timestamp": "2026-06-13T08:00:00"
     },
     {
       "data": "13/06",
-      "hora": "07:00",
+      "hora": "10:00",
       "navio": "CZECH",
       "calado": "13,70",
       "manobra": "E",
@@ -108,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-13T07:00:00"
+      "timestamp": "2026-06-13T10:00:00"
     },
     {
       "data": "13/06",
@@ -127,22 +112,7 @@
     },
     {
       "data": "13/06",
-      "hora": "15:30",
-      "navio": "CZECH",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9723241",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-13T15:30:00"
-    },
-    {
-      "data": "13/06",
-      "hora": "18:00",
+      "hora": "14:00",
       "navio": "ITHACA",
       "calado": "8,50",
       "manobra": "E",
@@ -153,7 +123,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-13T18:00:00"
+      "timestamp": "2026-06-13T14:00:00"
     },
     {
       "data": "13/06",
@@ -169,6 +139,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-13T20:00:00"
+    },
+    {
+      "data": "13/06",
+      "hora": "22:00",
+      "navio": "CZECH",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9723241",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-13T22:00:00"
     },
     {
       "data": "14/06",
@@ -518,13 +503,13 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "MAERSK REDWOOD",
+      "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/06 12:30",
-      "manobra_rio_fim": "12/06 23:30",
-      "navio_multi": "MSC ATHENS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/06 15:00"
+      "manobra_rio_inicio": "13/06 11:30",
+      "manobra_rio_fim": "14/06 11:30",
+      "navio_multi": "ITHACA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/06 14:00"
     },
     {
       "navio_rio": "APL NEW JERSEY",
@@ -533,16 +518,7 @@
       "manobra_rio_fim": "14/06 11:30",
       "navio_multi": "CZECH",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/06 15:30"
-    },
-    {
-      "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/06 11:30",
-      "manobra_rio_fim": "14/06 11:30",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/06 18:00"
+      "manobra_multi_data_hora": "13/06 22:00"
     },
     {
       "navio_rio": "APL NEW JERSEY",
