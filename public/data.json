@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/06/2026 07:15",
+  "ultima_atualizacao": "13/06/2026 09:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "13/06",
-      "hora": "07:00",
-      "navio": "SPYROS V",
-      "calado": "12,80",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9453365",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-13T07:00:00"
-    },
-    {
-      "data": "13/06",
-      "hora": "09:00",
+      "hora": "09:30",
       "navio": "MSC AMALFI",
-      "calado": "10,10",
+      "calado": "10,20",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -33,11 +18,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-13T09:00:00"
+      "timestamp": "2026-06-13T09:30:00"
     },
     {
       "data": "13/06",
-      "hora": "11:00",
+      "hora": "11:30",
       "navio": "CZECH",
       "calado": "13,70",
       "manobra": "E",
@@ -46,9 +31,9 @@
       "imo": "9723241",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
-      "timestamp": "2026-06-13T11:00:00"
+      "timestamp": "2026-06-13T11:30:00"
     },
     {
       "data": "13/06",
@@ -67,7 +52,7 @@
     },
     {
       "data": "13/06",
-      "hora": "15:30",
+      "hora": "16:00",
       "navio": "APL NEW JERSEY",
       "calado": "14,20",
       "manobra": "E",
@@ -78,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-13T15:30:00"
+      "timestamp": "2026-06-13T16:00:00"
     },
     {
       "data": "13/06",
@@ -520,7 +505,7 @@
     {
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/06 15:30",
+      "manobra_rio_inicio": "13/06 16:00",
       "manobra_rio_fim": "14/06 11:30",
       "navio_multi": "CZECH",
       "manobra_multi_tipo": "S",
@@ -529,7 +514,7 @@
     {
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/06 15:30",
+      "manobra_rio_inicio": "13/06 16:00",
       "manobra_rio_fim": "14/06 11:30",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "E",
@@ -538,7 +523,7 @@
     {
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/06 15:30",
+      "manobra_rio_inicio": "13/06 16:00",
       "manobra_rio_fim": "14/06 11:30",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
@@ -547,7 +532,7 @@
     {
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/06 15:30",
+      "manobra_rio_inicio": "13/06 16:00",
       "manobra_rio_fim": "14/06 11:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
@@ -556,7 +541,7 @@
     {
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/06 15:30",
+      "manobra_rio_inicio": "13/06 16:00",
       "manobra_rio_fim": "14/06 11:30",
       "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "E",
