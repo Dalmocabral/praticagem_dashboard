@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/06/2026 12:57",
+  "ultima_atualizacao": "13/06/2026 14:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -22,21 +22,6 @@
     },
     {
       "data": "13/06",
-      "hora": "11:30",
-      "navio": "CZECH",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9723241",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-13T11:30:00"
-    },
-    {
-      "data": "13/06",
       "hora": "13:30",
       "navio": "BBC CHALLENGER",
       "calado": "4,00",
@@ -54,14 +39,14 @@
       "data": "13/06",
       "hora": "16:00",
       "navio": "APL NEW JERSEY",
-      "calado": "14,20",
+      "calado": "14,00",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9350020",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-06-13T16:00:00"
     },
@@ -98,21 +83,6 @@
     {
       "data": "14/06",
       "hora": "07:30",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,30",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-14T07:30:00"
-    },
-    {
-      "data": "14/06",
-      "hora": "08:30",
       "navio": "APL NEW JERSEY",
       "calado": "13,90",
       "manobra": "S",
@@ -123,11 +93,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-14T08:30:00"
+      "timestamp": "2026-06-14T07:30:00"
     },
     {
       "data": "14/06",
-      "hora": "10:30",
+      "hora": "09:30",
       "navio": "ITHACA",
       "calado": "8,50",
       "manobra": "E",
@@ -138,7 +108,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-14T10:30:00"
+      "timestamp": "2026-06-14T09:30:00"
+    },
+    {
+      "data": "14/06",
+      "hora": "11:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,30",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-14T11:30:00"
     },
     {
       "data": "14/06",
@@ -231,6 +216,21 @@
       "timestamp": "2026-06-15T07:30:00"
     },
     {
+      "data": "15/06",
+      "hora": "20:00",
+      "navio": "COSCO SHIPPING PERU",
+      "calado": "10,80",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945875",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-15T20:00:00"
+    },
+    {
       "data": "16/06",
       "hora": "03:00",
       "navio": "NC BREDA",
@@ -263,6 +263,21 @@
     {
       "data": "16/06",
       "hora": "08:30",
+      "navio": "COSCO SHIPPING PERU",
+      "calado": "10,60",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945875",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-16T08:30:00"
+    },
+    {
+      "data": "16/06",
+      "hora": "10:30",
       "navio": "CMA CGM BAHIA",
       "calado": "14,50",
       "manobra": "E",
@@ -273,7 +288,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-16T08:30:00"
+      "timestamp": "2026-06-16T10:30:00"
     },
     {
       "data": "17/06",
@@ -292,21 +307,6 @@
     },
     {
       "data": "17/06",
-      "hora": "06:30",
-      "navio": "CMA CGM BAHIA",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9938248",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-17T06:30:00"
-    },
-    {
-      "data": "17/06",
       "hora": "08:30",
       "navio": "MSC BARCELONA",
       "calado": "12,00",
@@ -322,18 +322,18 @@
     },
     {
       "data": "17/06",
-      "hora": "10:30",
-      "navio": "KOTA PUSAKA",
-      "calado": "15,20",
-      "manobra": "E",
+      "hora": "11:00",
+      "navio": "CMA CGM BAHIA",
+      "calado": "13,00",
+      "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9793961",
+      "imo": "9938248",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-17T10:30:00"
+      "timestamp": "2026-06-17T11:00:00"
     },
     {
       "data": "17/06",
@@ -351,12 +351,27 @@
       "timestamp": "2026-06-17T13:00:00"
     },
     {
+      "data": "17/06",
+      "hora": "15:00",
+      "navio": "KOTA PUSAKA",
+      "calado": "15,20",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9793961",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-17T15:00:00"
+    },
+    {
       "data": "18/06",
       "hora": "06:30",
       "navio": "KOTA PUSAKA",
       "calado": "15,00",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9793961",
       "tipo_navio": "CONTAINER SHIP",
@@ -506,25 +521,7 @@
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "13/06 16:00",
-      "manobra_rio_fim": "14/06 08:30",
-      "navio_multi": "CZECH",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/06 06:30"
-    },
-    {
-      "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/06 16:00",
-      "manobra_rio_fim": "14/06 08:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/06 07:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/06 04:30",
-      "manobra_rio_fim": "15/06 05:30",
+      "manobra_rio_fim": "14/06 07:30",
       "navio_multi": "CZECH",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/06 06:30"
@@ -534,9 +531,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "14/06 04:30",
       "manobra_rio_fim": "15/06 05:30",
-      "navio_multi": "LOG-IN DISCOVERY",
+      "navio_multi": "CZECH",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/06 07:30"
+      "manobra_multi_data_hora": "14/06 06:30"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
@@ -545,7 +542,16 @@
       "manobra_rio_fim": "15/06 05:30",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/06 10:30"
+      "manobra_multi_data_hora": "14/06 09:30"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/06 04:30",
+      "manobra_rio_fim": "15/06 05:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/06 11:30"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
@@ -575,22 +581,40 @@
       "manobra_multi_data_hora": "15/06 00:00"
     },
     {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/06 20:00",
+      "manobra_rio_fim": "16/06 08:30",
+      "navio_multi": "NC BREDA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/06 03:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/06 20:00",
+      "manobra_rio_fim": "16/06 08:30",
+      "navio_multi": "MSC BARCELONA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/06 06:30"
+    },
+    {
       "navio_rio": "CMA CGM BAHIA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/06 08:30",
-      "manobra_rio_fim": "17/06 06:30",
+      "manobra_rio_inicio": "16/06 10:30",
+      "manobra_rio_fim": "17/06 11:00",
       "navio_multi": "NC BREDA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "17/06 04:00"
     },
     {
-      "navio_rio": "KOTA PUSAKA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/06 10:30",
-      "manobra_rio_fim": "18/06 06:30",
-      "navio_multi": "ONE GEORGE WASHINGTON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/06 13:00"
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/06 10:30",
+      "manobra_rio_fim": "17/06 11:00",
+      "navio_multi": "MSC BARCELONA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/06 08:30"
     }
   ]
 }
