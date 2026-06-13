@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/06/2026 04:34",
+  "ultima_atualizacao": "13/06/2026 07:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -22,7 +22,7 @@
     },
     {
       "data": "13/06",
-      "hora": "08:00",
+      "hora": "09:00",
       "navio": "MSC AMALFI",
       "calado": "10,10",
       "manobra": "S",
@@ -31,13 +31,13 @@
       "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-13T08:00:00"
+      "timestamp": "2026-06-13T09:00:00"
     },
     {
       "data": "13/06",
-      "hora": "10:00",
+      "hora": "11:00",
       "navio": "CZECH",
       "calado": "13,70",
       "manobra": "E",
@@ -46,9 +46,9 @@
       "imo": "9723241",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
-      "timestamp": "2026-06-13T10:00:00"
+      "timestamp": "2026-06-13T11:00:00"
     },
     {
       "data": "13/06",
