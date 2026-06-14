@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/06/2026 15:09",
+  "ultima_atualizacao": "14/06/2026 16:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -84,7 +84,7 @@
       "data": "15/06",
       "hora": "14:30",
       "navio": "MSC SOFIA PAZ",
-      "calado": "13,20",
+      "calado": "10,90",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -112,21 +112,6 @@
     },
     {
       "data": "15/06",
-      "hora": "20:00",
-      "navio": "COSCO SHIPPING PERU",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9945875",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-15T20:00:00"
-    },
-    {
-      "data": "15/06",
       "hora": "22:00",
       "navio": "NYK DIANA",
       "calado": "11,00",
@@ -139,6 +124,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-15T22:00:00"
+    },
+    {
+      "data": "16/06",
+      "hora": "01:00",
+      "navio": "CMA CGM BAHIA",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-16T01:00:00"
     },
     {
       "data": "16/06",
@@ -174,9 +174,9 @@
       "data": "16/06",
       "hora": "08:30",
       "navio": "COSCO SHIPPING PERU",
-      "calado": "10,60",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "calado": "10,80",
+      "manobra": "E",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9945875",
       "tipo_navio": "CONTAINER SHIP",
@@ -189,8 +189,8 @@
       "data": "16/06",
       "hora": "10:30",
       "navio": "CMA CGM BAHIA",
-      "calado": "14,50",
-      "manobra": "E",
+      "calado": "12,60",
+      "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9938248",
@@ -232,6 +232,21 @@
     },
     {
       "data": "17/06",
+      "hora": "07:30",
+      "navio": "COSCO SHIPPING PERU",
+      "calado": "10,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9945875",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-17T07:30:00"
+    },
+    {
+      "data": "17/06",
       "hora": "08:30",
       "navio": "MSC BARCELONA",
       "calado": "12,00",
@@ -244,21 +259,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-17T08:30:00"
-    },
-    {
-      "data": "17/06",
-      "hora": "11:00",
-      "navio": "CMA CGM BAHIA",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9938248",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-17T11:00:00"
     },
     {
       "data": "17/06",
@@ -470,49 +470,40 @@
       "manobra_multi_data_hora": "15/06 16:30"
     },
     {
-      "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/06 20:00",
-      "manobra_rio_fim": "16/06 08:30",
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/06 01:00",
+      "manobra_rio_fim": "16/06 10:30",
       "navio_multi": "NC BREDA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "16/06 03:00"
     },
     {
-      "navio_rio": "COSCO SHIPPING PERU",
+      "navio_rio": "CMA CGM BAHIA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/06 20:00",
-      "manobra_rio_fim": "16/06 08:30",
+      "manobra_rio_inicio": "16/06 01:00",
+      "manobra_rio_fim": "16/06 10:30",
       "navio_multi": "MSC TOGO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/06 06:30"
     },
     {
-      "navio_rio": "CMA CGM BAHIA",
+      "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/06 10:30",
-      "manobra_rio_fim": "17/06 11:00",
+      "manobra_rio_inicio": "16/06 08:30",
+      "manobra_rio_fim": "17/06 07:30",
       "navio_multi": "MSC BARCELONA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "16/06 12:30"
     },
     {
-      "navio_rio": "CMA CGM BAHIA",
+      "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/06 10:30",
-      "manobra_rio_fim": "17/06 11:00",
+      "manobra_rio_inicio": "16/06 08:30",
+      "manobra_rio_fim": "17/06 07:30",
       "navio_multi": "NC BREDA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "17/06 04:00"
-    },
-    {
-      "navio_rio": "CMA CGM BAHIA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/06 10:30",
-      "manobra_rio_fim": "17/06 11:00",
-      "navio_multi": "MSC BARCELONA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/06 08:30"
     }
   ]
 }
