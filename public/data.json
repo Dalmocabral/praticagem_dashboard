@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "14/06/2026 10:10",
+  "ultima_atualizacao": "14/06/2026 12:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "13/06",
-      "hora": "09:30",
-      "navio": "MSC AMALFI",
-      "calado": "10,20",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9605279",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-13T09:30:00"
-    },
-    {
-      "data": "14/06",
-      "hora": "09:30",
-      "navio": "ITHACA",
-      "calado": "7,90",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9968449",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-14T09:30:00"
-    },
     {
       "data": "14/06",
       "hora": "11:30",
@@ -54,20 +24,20 @@
       "data": "14/06",
       "hora": "13:30",
       "navio": "MSC SOFIA PAZ",
-      "calado": "13,20",
+      "calado": "11,10",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9695028",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-14T13:30:00"
     },
     {
       "data": "14/06",
-      "hora": "22:00",
+      "hora": "23:30",
       "navio": "ITHACA",
       "calado": "8,50",
       "manobra": "S",
@@ -78,22 +48,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-14T22:00:00"
+      "timestamp": "2026-06-14T23:30:00"
     },
     {
       "data": "15/06",
-      "hora": "00:00",
-      "navio": "MSC TOGO",
-      "calado": "12,60",
+      "hora": "01:30",
+      "navio": "MSC BASEL V",
+      "calado": "11,90",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9974486",
+      "imo": "9360764",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-15T00:00:00"
+      "timestamp": "2026-06-15T01:30:00"
     },
     {
       "data": "15/06",
@@ -127,7 +97,22 @@
     },
     {
       "data": "15/06",
-      "hora": "06:30",
+      "hora": "13:30",
+      "navio": "MSC BASEL V",
+      "calado": "11,90",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9360764",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-15T13:30:00"
+    },
+    {
+      "data": "15/06",
+      "hora": "14:30",
       "navio": "MSC SOFIA PAZ",
       "calado": "13,20",
       "manobra": "S",
@@ -138,22 +123,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-15T06:30:00"
+      "timestamp": "2026-06-15T14:30:00"
     },
     {
       "data": "15/06",
-      "hora": "07:30",
+      "hora": "16:30",
       "navio": "MSC TOGO",
       "calado": "13,75",
-      "manobra": "S",
-      "beco": "TECONT2",
+      "manobra": "E",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9974486",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-15T07:30:00"
+      "timestamp": "2026-06-15T16:30:00"
     },
     {
       "data": "15/06",
@@ -203,12 +188,12 @@
     {
       "data": "16/06",
       "hora": "06:30",
-      "navio": "MSC BARCELONA",
-      "calado": "10,30",
-      "manobra": "E",
+      "navio": "MSC TOGO",
+      "calado": "13,75",
+      "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9480186",
+      "imo": "9974486",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -244,6 +229,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-16T10:30:00"
+    },
+    {
+      "data": "16/06",
+      "hora": "12:30",
+      "navio": "MSC BARCELONA",
+      "calado": "10,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9480186",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-16T12:30:00"
     },
     {
       "data": "17/06",
@@ -474,21 +474,30 @@
   "conflitos": [
     {
       "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/06 03:00",
+      "manobra_rio_fim": "15/06 22:00",
+      "navio_multi": "MSC BASEL V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/06 13:30"
+    },
+    {
+      "navio_rio": "NYK DIANA",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "15/06 03:00",
       "manobra_rio_fim": "15/06 22:00",
       "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/06 06:30"
+      "manobra_multi_data_hora": "15/06 14:30"
     },
     {
       "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "15/06 03:00",
       "manobra_rio_fim": "15/06 22:00",
       "navio_multi": "MSC TOGO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/06 07:30"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "15/06 16:30"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
@@ -504,9 +513,18 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "15/06 20:00",
       "manobra_rio_fim": "16/06 08:30",
+      "navio_multi": "MSC TOGO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/06 06:30"
+    },
+    {
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/06 10:30",
+      "manobra_rio_fim": "17/06 11:00",
       "navio_multi": "MSC BARCELONA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/06 06:30"
+      "manobra_multi_data_hora": "16/06 12:30"
     },
     {
       "navio_rio": "CMA CGM BAHIA",
