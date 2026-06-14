@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/06/2026 05:47",
+  "ultima_atualizacao": "14/06/2026 08:19",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -22,36 +22,6 @@
     },
     {
       "data": "14/06",
-      "hora": "04:30",
-      "navio": "CMA CGM SANTOS",
-      "calado": "10,90",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-14T04:30:00"
-    },
-    {
-      "data": "14/06",
-      "hora": "06:30",
-      "navio": "CZECH",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9723241",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-14T06:30:00"
-    },
-    {
-      "data": "14/06",
       "hora": "07:30",
       "navio": "APL NEW JERSEY",
       "calado": "14,10",
@@ -69,14 +39,14 @@
       "data": "14/06",
       "hora": "09:30",
       "navio": "ITHACA",
-      "calado": "8,50",
+      "calado": "7,90",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9968449",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-14T09:30:00"
     },
@@ -91,7 +61,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-06-14T11:30:00"
     },
@@ -109,21 +79,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-14T13:30:00"
-    },
-    {
-      "data": "14/06",
-      "hora": "19:00",
-      "navio": "NYK DIANA",
-      "calado": "11,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9337688",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-14T19:00:00"
     },
     {
       "data": "14/06",
@@ -154,6 +109,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-15T00:00:00"
+    },
+    {
+      "data": "15/06",
+      "hora": "03:00",
+      "navio": "NYK DIANA",
+      "calado": "11,40",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9337688",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-15T03:00:00"
     },
     {
       "data": "15/06",
@@ -202,21 +172,6 @@
     },
     {
       "data": "15/06",
-      "hora": "08:30",
-      "navio": "NYK DIANA",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9337688",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-15T08:30:00"
-    },
-    {
-      "data": "15/06",
       "hora": "20:00",
       "navio": "COSCO SHIPPING PERU",
       "calado": "10,80",
@@ -229,6 +184,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-15T20:00:00"
+    },
+    {
+      "data": "15/06",
+      "hora": "22:00",
+      "navio": "NYK DIANA",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9337688",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-15T22:00:00"
     },
     {
       "data": "16/06",
@@ -518,91 +488,19 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/06 04:30",
-      "manobra_rio_fim": "15/06 05:30",
-      "navio_multi": "CZECH",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/06 06:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/06 04:30",
-      "manobra_rio_fim": "15/06 05:30",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/06 09:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/06 04:30",
-      "manobra_rio_fim": "15/06 05:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/06 11:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/06 04:30",
-      "manobra_rio_fim": "15/06 05:30",
-      "navio_multi": "MSC SOFIA PAZ",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/06 13:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/06 04:30",
-      "manobra_rio_fim": "15/06 05:30",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/06 22:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/06 04:30",
-      "manobra_rio_fim": "15/06 05:30",
-      "navio_multi": "MSC TOGO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/06 00:00"
-    },
-    {
       "navio_rio": "NYK DIANA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/06 19:00",
-      "manobra_rio_fim": "15/06 08:30",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/06 22:00"
-    },
-    {
-      "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/06 19:00",
-      "manobra_rio_fim": "15/06 08:30",
-      "navio_multi": "MSC TOGO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/06 00:00"
-    },
-    {
-      "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/06 19:00",
-      "manobra_rio_fim": "15/06 08:30",
+      "manobra_rio_inicio": "15/06 03:00",
+      "manobra_rio_fim": "15/06 22:00",
       "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/06 06:30"
     },
     {
       "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/06 19:00",
-      "manobra_rio_fim": "15/06 08:30",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/06 03:00",
+      "manobra_rio_fim": "15/06 22:00",
       "navio_multi": "MSC TOGO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/06 07:30"
