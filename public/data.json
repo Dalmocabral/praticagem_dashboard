@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/06/2026 18:23",
+  "ultima_atualizacao": "14/06/2026 19:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -67,6 +67,21 @@
     },
     {
       "data": "15/06",
+      "hora": "12:30",
+      "navio": "NYK DIANA",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9337688",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-15T12:30:00"
+    },
+    {
+      "data": "15/06",
       "hora": "13:30",
       "navio": "MSC BASEL V",
       "calado": "11,90",
@@ -124,21 +139,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-15T19:00:00"
-    },
-    {
-      "data": "15/06",
-      "hora": "22:00",
-      "navio": "NYK DIANA",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9337688",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-15T22:00:00"
     },
     {
       "data": "16/06",
@@ -476,37 +476,10 @@
       "navio_rio": "NYK DIANA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "15/06 03:00",
-      "manobra_rio_fim": "15/06 22:00",
+      "manobra_rio_fim": "15/06 12:30",
       "navio_multi": "MSC BASEL V",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "15/06 07:30"
-    },
-    {
-      "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/06 03:00",
-      "manobra_rio_fim": "15/06 22:00",
-      "navio_multi": "MSC BASEL V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/06 13:30"
-    },
-    {
-      "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/06 03:00",
-      "manobra_rio_fim": "15/06 22:00",
-      "navio_multi": "MSC SOFIA PAZ",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/06 14:30"
-    },
-    {
-      "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/06 03:00",
-      "manobra_rio_fim": "15/06 22:00",
-      "navio_multi": "MSC TOGO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/06 16:30"
     },
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
