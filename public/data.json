@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "15/06/2026 16:56",
+  "ultima_atualizacao": "15/06/2026 19:24",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
-    {
-      "data": "15/06",
-      "hora": "16:30",
-      "navio": "MSC TOGO",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9974486",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-15T16:30:00"
-    },
     {
       "data": "15/06",
       "hora": "22:00",
@@ -31,7 +16,7 @@
       "imo": "9360764",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-15T22:00:00"
     },
@@ -217,7 +202,7 @@
     },
     {
       "data": "17/06",
-      "hora": "13:00",
+      "hora": "13:30",
       "navio": "ONE GEORGE WASHINGTON",
       "calado": "13,30",
       "manobra": "E",
@@ -228,7 +213,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-17T13:00:00"
+      "timestamp": "2026-06-17T13:30:00"
     },
     {
       "data": "17/06",
@@ -277,21 +262,6 @@
     },
     {
       "data": "18/06",
-      "hora": "06:30",
-      "navio": "KOTA PUSAKA",
-      "calado": "15,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9793961",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-18T06:30:00"
-    },
-    {
-      "data": "18/06",
       "hora": "07:30",
       "navio": "ONE GEORGE WASHINGTON",
       "calado": "11,80",
@@ -307,9 +277,24 @@
     },
     {
       "data": "18/06",
-      "hora": "09:30",
+      "hora": "14:30",
+      "navio": "KOTA PUSAKA",
+      "calado": "15,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9793961",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-18T14:30:00"
+    },
+    {
+      "data": "18/06",
+      "hora": "16:30",
       "navio": "COSCO SHIPPING PERU",
-      "calado": "10,80",
+      "calado": "13,90",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -318,7 +303,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-18T09:30:00"
+      "timestamp": "2026-06-18T16:30:00"
     },
     {
       "data": "19/06",
@@ -354,7 +339,7 @@
       "data": "19/06",
       "hora": "10:00",
       "navio": "COSCO SHIPPING PERU",
-      "calado": "10,60",
+      "calado": "13,00",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
@@ -572,7 +557,7 @@
       "navio_rio": "KOTA PUSAKA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "17/06 15:00",
-      "manobra_rio_fim": "18/06 06:30",
+      "manobra_rio_fim": "18/06 14:30",
       "navio_multi": "MSC PALAK",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "17/06 16:30"
@@ -581,15 +566,24 @@
       "navio_rio": "KOTA PUSAKA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "17/06 15:00",
-      "manobra_rio_fim": "18/06 06:30",
+      "manobra_rio_fim": "18/06 14:30",
       "navio_multi": "MSC PALAK",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "18/06 05:30"
     },
     {
+      "navio_rio": "KOTA PUSAKA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "17/06 15:00",
+      "manobra_rio_fim": "18/06 14:30",
+      "navio_multi": "ONE GEORGE WASHINGTON",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/06 07:30"
+    },
+    {
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/06 09:30",
+      "manobra_rio_inicio": "18/06 16:30",
       "manobra_rio_fim": "19/06 10:00",
       "navio_multi": "MSC NAOMI",
       "manobra_multi_tipo": "E",
