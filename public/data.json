@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/06/2026 20:53",
+  "ultima_atualizacao": "15/06/2026 01:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -7,33 +7,33 @@
   "navios": [
     {
       "data": "15/06",
-      "hora": "01:00",
+      "hora": "01:30",
       "navio": "ITHACA",
-      "calado": "8,50",
+      "calado": "6,70",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9968449",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-15T01:00:00"
+      "timestamp": "2026-06-15T01:30:00"
     },
     {
       "data": "15/06",
-      "hora": "03:00",
+      "hora": "03:30",
       "navio": "NYK DIANA",
-      "calado": "11,40",
+      "calado": "11,60",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9337688",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
-      "timestamp": "2026-06-15T03:00:00"
+      "timestamp": "2026-06-15T03:30:00"
     },
     {
       "data": "15/06",
@@ -42,7 +42,7 @@
       "calado": "10,70",
       "manobra": "S",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9649835",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,7 +57,7 @@
       "calado": "11,90",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9360764",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -72,7 +72,7 @@
       "calado": "11,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9337688",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -82,27 +82,12 @@
     },
     {
       "data": "15/06",
-      "hora": "13:30",
-      "navio": "MSC BASEL V",
-      "calado": "11,90",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9360764",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-15T13:30:00"
-    },
-    {
-      "data": "15/06",
       "hora": "14:30",
       "navio": "MSC SOFIA PAZ",
       "calado": "10,90",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9695028",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -117,7 +102,7 @@
       "calado": "13,75",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9974486",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -132,13 +117,28 @@
       "calado": "12,60",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9348065",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-15T19:00:00"
+    },
+    {
+      "data": "15/06",
+      "hora": "22:00",
+      "navio": "MSC BASEL V",
+      "calado": "11,90",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9360764",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-15T22:00:00"
     },
     {
       "data": "16/06",
@@ -366,6 +366,21 @@
       "timestamp": "2026-06-19T07:00:00"
     },
     {
+      "data": "19/06",
+      "hora": "08:00",
+      "navio": "LNG JUNO",
+      "calado": "10,10",
+      "manobra": "E",
+      "beco": "PG-1",
+      "status": "futuro",
+      "imo": "9774628",
+      "tipo_navio": "LNG TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "pg1",
+      "timestamp": "2026-06-19T08:00:00"
+    },
+    {
       "data": "20/06",
       "hora": "06:30",
       "navio": "MSC NAOMI",
@@ -379,6 +394,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-20T06:30:00"
+    },
+    {
+      "data": "20/06",
+      "hora": "14:00",
+      "navio": "LNG JUNO",
+      "calado": "10,40",
+      "manobra": "S",
+      "beco": "PG-1",
+      "status": "futuro",
+      "imo": "9774628",
+      "tipo_navio": "LNG TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "pg1",
+      "timestamp": "2026-06-20T14:00:00"
     },
     {
       "data": "21/06",
@@ -475,11 +505,20 @@
     {
       "navio_rio": "NYK DIANA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/06 03:00",
+      "manobra_rio_inicio": "15/06 03:30",
       "manobra_rio_fim": "15/06 12:30",
       "navio_multi": "MSC BASEL V",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "15/06 07:30"
+    },
+    {
+      "navio_rio": "MAERSK MONTE ALEGRE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/06 19:00",
+      "manobra_rio_fim": "16/06 10:30",
+      "navio_multi": "MSC BASEL V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/06 22:00"
     },
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
