@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/06/2026 07:44",
+  "ultima_atualizacao": "15/06/2026 10:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
@@ -7,33 +7,18 @@
   "navios": [
     {
       "data": "15/06",
-      "hora": "07:30",
-      "navio": "MSC BASEL V",
-      "calado": "11,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9360764",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-15T07:30:00"
-    },
-    {
-      "data": "15/06",
-      "hora": "12:30",
+      "hora": "11:00",
       "navio": "NYK DIANA",
-      "calado": "11,00",
+      "calado": "11,30",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9337688",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-06-15T12:30:00"
+      "timestamp": "2026-06-15T11:00:00"
     },
     {
       "data": "15/06",
@@ -46,7 +31,7 @@
       "imo": "9695028",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-06-15T14:30:00"
     },
@@ -67,7 +52,7 @@
     },
     {
       "data": "15/06",
-      "hora": "19:00",
+      "hora": "18:30",
       "navio": "MAERSK MONTE ALEGRE",
       "calado": "12,60",
       "manobra": "E",
@@ -78,13 +63,13 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-15T19:00:00"
+      "timestamp": "2026-06-15T18:30:00"
     },
     {
       "data": "15/06",
       "hora": "22:00",
       "navio": "MSC BASEL V",
-      "calado": "11,90",
+      "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -97,18 +82,18 @@
     },
     {
       "data": "16/06",
-      "hora": "03:00",
-      "navio": "NC BREDA",
-      "calado": "9,10",
+      "hora": "00:00",
+      "navio": "COPIAPO",
+      "calado": "10,60",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9612765",
+      "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-16T03:00:00"
+      "timestamp": "2026-06-16T00:00:00"
     },
     {
       "data": "16/06",
@@ -158,12 +143,12 @@
     {
       "data": "16/06",
       "hora": "12:30",
-      "navio": "MSC BARCELONA",
-      "calado": "10,30",
+      "navio": "MSC DAMLA",
+      "calado": "13,50",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9480186",
+      "imo": "9250983",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -186,11 +171,26 @@
       "timestamp": "2026-06-16T14:30:00"
     },
     {
-      "data": "17/06",
-      "hora": "04:00",
+      "data": "16/06",
+      "hora": "16:30",
+      "navio": "COPIAPO",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9687526",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-16T16:30:00"
+    },
+    {
+      "data": "16/06",
+      "hora": "18:30",
       "navio": "NC BREDA",
       "calado": "9,10",
-      "manobra": "S",
+      "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
       "imo": "9612765",
@@ -198,7 +198,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-17T04:00:00"
+      "timestamp": "2026-06-16T18:30:00"
+    },
+    {
+      "data": "17/06",
+      "hora": "06:30",
+      "navio": "MSC DAMLA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9250983",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-17T06:30:00"
     },
     {
       "data": "17/06",
@@ -218,12 +233,12 @@
     {
       "data": "17/06",
       "hora": "08:30",
-      "navio": "MSC BARCELONA",
-      "calado": "12,00",
+      "navio": "NC BREDA",
+      "calado": "10,00",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9480186",
+      "imo": "9612765",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -249,7 +264,7 @@
       "data": "17/06",
       "hora": "13:00",
       "navio": "ONE GEORGE WASHINGTON",
-      "calado": "9,00",
+      "calado": "13,30",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
@@ -294,7 +309,7 @@
       "data": "18/06",
       "hora": "07:30",
       "navio": "ONE GEORGE WASHINGTON",
-      "calado": "8,50",
+      "calado": "11,80",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -460,7 +475,7 @@
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/06 19:00",
+      "manobra_rio_inicio": "15/06 18:30",
       "manobra_rio_fim": "16/06 10:30",
       "navio_multi": "MSC BASEL V",
       "manobra_multi_tipo": "S",
@@ -468,17 +483,17 @@
     },
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/06 19:00",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/06 18:30",
       "manobra_rio_fim": "16/06 10:30",
-      "navio_multi": "NC BREDA",
+      "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/06 03:00"
+      "manobra_multi_data_hora": "16/06 00:00"
     },
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/06 19:00",
+      "manobra_rio_inicio": "15/06 18:30",
       "manobra_rio_fim": "16/06 10:30",
       "navio_multi": "MSC TOGO",
       "manobra_multi_tipo": "S",
@@ -489,9 +504,36 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "16/06 08:30",
       "manobra_rio_fim": "17/06 10:30",
-      "navio_multi": "MSC BARCELONA",
+      "navio_multi": "MSC DAMLA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "16/06 12:30"
+    },
+    {
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/06 08:30",
+      "manobra_rio_fim": "17/06 10:30",
+      "navio_multi": "COPIAPO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/06 16:30"
+    },
+    {
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/06 08:30",
+      "manobra_rio_fim": "17/06 10:30",
+      "navio_multi": "NC BREDA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/06 18:30"
+    },
+    {
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/06 08:30",
+      "manobra_rio_fim": "17/06 10:30",
+      "navio_multi": "MSC DAMLA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/06 06:30"
     },
     {
       "navio_rio": "CMA CGM BAHIA",
@@ -500,25 +542,34 @@
       "manobra_rio_fim": "17/06 10:30",
       "navio_multi": "NC BREDA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/06 04:00"
+      "manobra_multi_data_hora": "17/06 08:30"
     },
     {
-      "navio_rio": "CMA CGM BAHIA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/06 08:30",
-      "manobra_rio_fim": "17/06 10:30",
-      "navio_multi": "MSC BARCELONA",
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/06 14:30",
+      "manobra_rio_fim": "17/06 07:30",
+      "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/06 08:30"
+      "manobra_multi_data_hora": "16/06 16:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/06 14:30",
+      "manobra_rio_fim": "17/06 07:30",
+      "navio_multi": "NC BREDA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/06 18:30"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "16/06 14:30",
       "manobra_rio_fim": "17/06 07:30",
-      "navio_multi": "NC BREDA",
+      "navio_multi": "MSC DAMLA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/06 04:00"
+      "manobra_multi_data_hora": "17/06 06:30"
     }
   ]
 }
