@@ -1,55 +1,10 @@
 {
-  "ultima_atualizacao": "16/06/2026 02:36",
+  "ultima_atualizacao": "16/06/2026 07:30",
   "barra_info": {
-    "restrita": false,
-    "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
+    "restrita": true,
+    "mensagem": "BARRA RESTRITA DESDE 16/06/2026 06:46 Embarque e desembarque em águas abrigadas para navios e supplies. Canal varrido fechado."
   },
   "navios": [
-    {
-      "data": "16/06",
-      "hora": "02:30",
-      "navio": "COPIAPO",
-      "calado": "10,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9687526",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-16T02:30:00"
-    },
-    {
-      "data": "16/06",
-      "hora": "06:30",
-      "navio": "MSC TOGO",
-      "calado": "13,75",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9974486",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-16T06:30:00"
-    },
-    {
-      "data": "16/06",
-      "hora": "08:30",
-      "navio": "CMA CGM BAHIA",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9938248",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-16T08:30:00"
-    },
     {
       "data": "16/06",
       "hora": "10:30",
@@ -61,7 +16,7 @@
       "imo": "9348065",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-06-16T10:30:00"
     },
@@ -94,6 +49,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-16T14:30:00"
+    },
+    {
+      "data": "16/06",
+      "hora": "16:30",
+      "navio": "CMA CGM BAHIA",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-16T16:30:00"
     },
     {
       "data": "16/06",
@@ -458,27 +428,45 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CMA CGM BAHIA",
+      "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/06 08:30",
-      "manobra_rio_fim": "17/06 10:30",
+      "manobra_rio_inicio": "16/06 10:30",
+      "manobra_rio_fim": "17/06 07:30",
       "navio_multi": "MSC DAMLA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "16/06 12:00"
     },
     {
-      "navio_rio": "CMA CGM BAHIA",
+      "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/06 08:30",
-      "manobra_rio_fim": "17/06 10:30",
+      "manobra_rio_inicio": "16/06 10:30",
+      "manobra_rio_fim": "17/06 07:30",
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/06 14:30"
     },
     {
+      "navio_rio": "MAERSK MONTE ALEGRE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/06 10:30",
+      "manobra_rio_fim": "17/06 07:30",
+      "navio_multi": "NC BREDA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/06 18:30"
+    },
+    {
+      "navio_rio": "MAERSK MONTE ALEGRE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/06 10:30",
+      "manobra_rio_fim": "17/06 07:30",
+      "navio_multi": "MSC DAMLA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/06 06:30"
+    },
+    {
       "navio_rio": "CMA CGM BAHIA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/06 08:30",
+      "manobra_rio_inicio": "16/06 16:30",
       "manobra_rio_fim": "17/06 10:30",
       "navio_multi": "NC BREDA",
       "manobra_multi_tipo": "E",
@@ -487,7 +475,7 @@
     {
       "navio_rio": "CMA CGM BAHIA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/06 08:30",
+      "manobra_rio_inicio": "16/06 16:30",
       "manobra_rio_fim": "17/06 10:30",
       "navio_multi": "MSC DAMLA",
       "manobra_multi_tipo": "S",
@@ -496,47 +484,11 @@
     {
       "navio_rio": "CMA CGM BAHIA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/06 08:30",
+      "manobra_rio_inicio": "16/06 16:30",
       "manobra_rio_fim": "17/06 10:30",
       "navio_multi": "NC BREDA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "17/06 08:30"
-    },
-    {
-      "navio_rio": "MAERSK MONTE ALEGRE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/06 10:30",
-      "manobra_rio_fim": "17/06 07:30",
-      "navio_multi": "MSC DAMLA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/06 12:00"
-    },
-    {
-      "navio_rio": "MAERSK MONTE ALEGRE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/06 10:30",
-      "manobra_rio_fim": "17/06 07:30",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/06 14:30"
-    },
-    {
-      "navio_rio": "MAERSK MONTE ALEGRE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/06 10:30",
-      "manobra_rio_fim": "17/06 07:30",
-      "navio_multi": "NC BREDA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/06 18:30"
-    },
-    {
-      "navio_rio": "MAERSK MONTE ALEGRE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/06 10:30",
-      "manobra_rio_fim": "17/06 07:30",
-      "navio_multi": "MSC DAMLA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/06 06:30"
     },
     {
       "navio_rio": "KOTA PUSAKA",
