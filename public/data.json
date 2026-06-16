@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/06/2026 10:38",
+  "ultima_atualizacao": "16/06/2026 12:30",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 16/06/2026 06:46 Embarque e desembarque em águas abrigadas para navios e supplies. Canal varrido fechado."
@@ -16,7 +16,7 @@
       "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-16T14:30:00"
     },
@@ -31,13 +31,13 @@
       "imo": "9974486",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-16T15:30:00"
     },
     {
       "data": "16/06",
-      "hora": "18:30",
+      "hora": "17:30",
       "navio": "NC BREDA",
       "calado": "9,10",
       "manobra": "E",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-16T18:30:00"
+      "timestamp": "2026-06-16T17:30:00"
     },
     {
       "data": "17/06",
@@ -79,6 +79,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-17T08:00:00"
+    },
+    {
+      "data": "17/06",
+      "hora": "10:00",
+      "navio": "VICTORIA HIGHWAY",
+      "calado": "9,20",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9827255",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-17T10:00:00"
     },
     {
       "data": "17/06",
@@ -113,17 +128,32 @@
     {
       "data": "17/06",
       "hora": "15:00",
-      "navio": "KOTA PUSAKA",
-      "calado": "15,20",
+      "navio": "CMA CGM BAHIA",
+      "calado": "14,50",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
-      "imo": "9793961",
+      "imo": "9938248",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-17T15:00:00"
+    },
+    {
+      "data": "18/06",
+      "hora": "04:00",
+      "navio": "VICTORIA HIGHWAY",
+      "calado": "9,20",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9827255",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-18T04:00:00"
     },
     {
       "data": "18/06",
@@ -157,10 +187,25 @@
     },
     {
       "data": "18/06",
+      "hora": "08:30",
+      "navio": "CMA CGM BAHIA",
+      "calado": "13,20",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-18T08:30:00"
+    },
+    {
+      "data": "18/06",
       "hora": "14:30",
       "navio": "KOTA PUSAKA",
-      "calado": "15,00",
-      "manobra": "S",
+      "calado": "15,20",
+      "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
       "imo": "9793961",
@@ -202,7 +247,22 @@
     },
     {
       "data": "19/06",
-      "hora": "09:00",
+      "hora": "13:00",
+      "navio": "KOTA PUSAKA",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9793961",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-19T13:00:00"
+    },
+    {
+      "data": "19/06",
+      "hora": "15:00",
       "navio": "COSCO SHIPPING PERU",
       "calado": "13,90",
       "manobra": "E",
@@ -213,7 +273,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-19T09:00:00"
+      "timestamp": "2026-06-19T15:00:00"
     },
     {
       "data": "20/06",
@@ -232,7 +292,7 @@
     },
     {
       "data": "20/06",
-      "hora": "07:30",
+      "hora": "10:30",
       "navio": "COSCO SHIPPING PERU",
       "calado": "13,00",
       "manobra": "S",
@@ -243,7 +303,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-20T07:30:00"
+      "timestamp": "2026-06-20T10:30:00"
     },
     {
       "data": "20/06",
@@ -353,28 +413,46 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "KOTA PUSAKA",
+      "navio_rio": "CMA CGM BAHIA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "17/06 15:00",
-      "manobra_rio_fim": "18/06 14:30",
+      "manobra_rio_fim": "18/06 08:30",
+      "navio_multi": "VICTORIA HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/06 04:00"
+    },
+    {
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "17/06 15:00",
+      "manobra_rio_fim": "18/06 08:30",
       "navio_multi": "MSC DAMLA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "18/06 06:30"
     },
     {
-      "navio_rio": "KOTA PUSAKA",
+      "navio_rio": "CMA CGM BAHIA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "17/06 15:00",
-      "manobra_rio_fim": "18/06 14:30",
+      "manobra_rio_fim": "18/06 08:30",
       "navio_multi": "ONE GEORGE WASHINGTON",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "18/06 07:30"
     },
     {
+      "navio_rio": "KOTA PUSAKA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/06 14:30",
+      "manobra_rio_fim": "19/06 13:00",
+      "navio_multi": "MSC NAOMI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/06 07:00"
+    },
+    {
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/06 09:00",
-      "manobra_rio_fim": "20/06 07:30",
+      "manobra_rio_inicio": "19/06 15:00",
+      "manobra_rio_fim": "20/06 10:30",
       "navio_multi": "MSC NAOMI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "20/06 06:30"
