@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "16/06/2026 18:47",
+  "ultima_atualizacao": "16/06/2026 20:14",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 16/06/2026 14:22 Embarque e desembarque em águas abrigadas para navios e supplies. Canal varrido fechado para manobras de saída."
   },
   "navios": [
-    {
-      "data": "16/06",
-      "hora": "17:30",
-      "navio": "NC BREDA",
-      "calado": "9,10",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9612765",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-16T17:30:00"
-    },
     {
       "data": "16/06",
       "hora": "20:00",
