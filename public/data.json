@@ -1,28 +1,13 @@
 {
-  "ultima_atualizacao": "15/06/2026 21:11",
+  "ultima_atualizacao": "16/06/2026 02:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 05/06/2026 10:35"
   },
   "navios": [
     {
-      "data": "15/06",
-      "hora": "22:00",
-      "navio": "MSC BASEL V",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9360764",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-15T22:00:00"
-    },
-    {
       "data": "16/06",
-      "hora": "00:00",
+      "hora": "02:30",
       "navio": "COPIAPO",
       "calado": "10,60",
       "manobra": "E",
@@ -33,7 +18,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "entrada_futura",
       "terminal": "multi",
-      "timestamp": "2026-06-16T00:00:00"
+      "timestamp": "2026-06-16T02:30:00"
     },
     {
       "data": "16/06",
@@ -46,7 +31,7 @@
       "imo": "9974486",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-06-16T06:30:00"
     },
