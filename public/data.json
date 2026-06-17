@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "17/06/2026 16:54",
+  "ultima_atualizacao": "17/06/2026 17:41",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 17/06/2026 11:27 Embarque e desembarque em águas abrigadas para navios e supplies"
   },
   "navios": [
-    {
-      "data": "17/06",
-      "hora": "13:30",
-      "navio": "ONE GEORGE WASHINGTON",
-      "calado": "13,35",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9302073",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-17T13:30:00"
-    },
-    {
-      "data": "17/06",
-      "hora": "15:00",
-      "navio": "VICTORIA HIGHWAY",
-      "calado": "9,20",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9827255",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-17T15:00:00"
-    },
     {
       "data": "17/06",
       "hora": "22:00",
@@ -84,7 +54,7 @@
       "data": "18/06",
       "hora": "10:30",
       "navio": "MSC DAMLA",
-      "calado": "12,60",
+      "calado": "13,70",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -109,6 +79,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-18T12:30:00"
+    },
+    {
+      "data": "18/06",
+      "hora": "14:30",
+      "navio": "KOTA PUSAKA",
+      "calado": "15,20",
+      "manobra": "M",
+      "beco": "VISITA -> TECONT1",
+      "status": "futuro",
+      "imo": "9793961",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-18T14:30:00"
     },
     {
       "data": "18/06",
@@ -382,6 +367,33 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "KOTA PUSAKA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/06 14:30",
+      "manobra_rio_fim": "19/06 11:00",
+      "navio_multi": "GRANDE NIGERIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "18/06 16:30"
+    },
+    {
+      "navio_rio": "KOTA PUSAKA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/06 14:30",
+      "manobra_rio_fim": "19/06 11:00",
+      "navio_multi": "MSC NAOMI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/06 07:00"
+    },
+    {
+      "navio_rio": "KOTA PUSAKA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/06 14:30",
+      "manobra_rio_fim": "19/06 11:00",
+      "navio_multi": "GRANDE NIGERIA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/06 10:00"
+    },
     {
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "S",
