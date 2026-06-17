@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/06/2026 17:43",
+  "ultima_atualizacao": "17/06/2026 19:04",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 17/06/2026 11:27 Embarque e desembarque em águas abrigadas para navios e supplies"
@@ -16,7 +16,7 @@
       "imo": "9480186",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-17T22:00:00"
     },
@@ -82,7 +82,7 @@
     },
     {
       "data": "18/06",
-      "hora": "14:30",
+      "hora": "15:00",
       "navio": "KOTA PUSAKA",
       "calado": "15,20",
       "manobra": "M",
@@ -93,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-18T14:30:00"
+      "timestamp": "2026-06-18T15:00:00"
     },
     {
       "data": "18/06",
@@ -370,7 +370,7 @@
     {
       "navio_rio": "KOTA PUSAKA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/06 14:30",
+      "manobra_rio_inicio": "18/06 15:00",
       "manobra_rio_fim": "19/06 11:00",
       "navio_multi": "GRANDE NIGERIA",
       "manobra_multi_tipo": "E",
@@ -379,7 +379,7 @@
     {
       "navio_rio": "KOTA PUSAKA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/06 14:30",
+      "manobra_rio_inicio": "18/06 15:00",
       "manobra_rio_fim": "19/06 11:00",
       "navio_multi": "MSC NAOMI",
       "manobra_multi_tipo": "E",
@@ -388,7 +388,7 @@
     {
       "navio_rio": "KOTA PUSAKA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/06 14:30",
+      "manobra_rio_inicio": "18/06 15:00",
       "manobra_rio_fim": "19/06 11:00",
       "navio_multi": "GRANDE NIGERIA",
       "manobra_multi_tipo": "S",
