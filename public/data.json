@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/06/2026 19:04",
+  "ultima_atualizacao": "17/06/2026 20:49",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 17/06/2026 11:27 Embarque e desembarque em águas abrigadas para navios e supplies"
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "17/06",
-      "hora": "22:00",
+      "hora": "21:30",
       "navio": "MSC BARCELONA",
       "calado": "10,00",
       "manobra": "S",
@@ -18,7 +18,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-17T22:00:00"
+      "timestamp": "2026-06-17T21:30:00"
     },
     {
       "data": "18/06",
@@ -67,9 +67,9 @@
     },
     {
       "data": "18/06",
-      "hora": "12:30",
+      "hora": "13:00",
       "navio": "ONE GEORGE WASHINGTON",
-      "calado": "12,30",
+      "calado": "12,55",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -78,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-18T12:30:00"
+      "timestamp": "2026-06-18T13:00:00"
     },
     {
       "data": "18/06",
