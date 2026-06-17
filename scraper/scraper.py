@@ -13,7 +13,7 @@ URL = "https://www.praticagem-rj.com.br/"
 # Berços de interesse
 BERCOS_INCLUIR_TODOS = {
     'TECONTPROLONG', 'TECONT1', 'TECONT2', 'TECONT3', 'TECONT4', 'TECONT5', 
-    'MANGUINHOS', 'PG-1'
+    'MANGUINHOS', 'PG-1', 'VISITA'
 }
 
 def get_status_barra():
@@ -72,8 +72,13 @@ def get_all_navios_manobras():
                 navio_nome = navio_nome_div.contents[0].strip() if navio_nome_div else "N/A"
                 calado = cols[2].get_text(strip=True)
                 manobra = cols[7].get_text(strip=True)
-                becos = cols[8].get_text(strip=True) if cols[8].get_text(strip=True) else cols[11].get_text(strip=True)
-
+                beco_origem = cols[8].get_text(strip=True)
+                beco_destino = cols[11].get_text(strip=True)
+                
+                if beco_origem and beco_destino:
+                    becos = f"{beco_origem} -> {beco_destino}"
+                else:
+                    becos = beco_origem if beco_origem else beco_destino
                 if not any(berco in becos for berco in BERCOS_INCLUIR_TODOS):
                     continue
 
@@ -92,6 +97,8 @@ def get_all_navios_manobras():
                     current_terminal = "manguinhos"
                 elif "PG-1" in becos:
                     current_terminal = "pg1"
+                elif "VISITA" in becos:
+                    current_terminal = "visita"
 
                 imo, tipo_navio = None, None
                 tooltip_escondida = cols[1].find("div", class_="tooltipDivEscondida")

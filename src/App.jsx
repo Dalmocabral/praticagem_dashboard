@@ -35,8 +35,8 @@ function App() {
 
   const { navios, barra_info, ultima_atualizacao } = data;
 
-  // Filtra apenas para o terminal 'rio'
-  const filteredNavios = navios.filter(n => n.terminal === 'rio');
+  // Filtra para o terminal 'rio' e navios em 'visita'
+  const filteredNavios = navios.filter(n => n.terminal === 'rio' || n.terminal === 'visita');
 
   // Ordena navios pelo timestamp
   filteredNavios.sort((a, b) => new Date(a.timestamp) - new Date(b.timestamp));
