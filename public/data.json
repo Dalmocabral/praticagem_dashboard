@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/06/2026 23:41",
+  "ultima_atualizacao": "18/06/2026 04:19",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 17/06/2026 11:27 Embarque e desembarque em águas abrigadas para navios e supplies"
@@ -16,7 +16,7 @@
       "imo": "9827255",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-06-18T07:30:00"
     },
