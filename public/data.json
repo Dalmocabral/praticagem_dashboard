@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "18/06/2026 11:33",
+  "ultima_atualizacao": "18/06/2026 14:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
-    {
-      "data": "18/06",
-      "hora": "10:30",
-      "navio": "CMA CGM BAHIA",
-      "calado": "13,40",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9938248",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-18T10:30:00"
-    },
     {
       "data": "18/06",
       "hora": "15:00",
@@ -31,7 +16,7 @@
       "imo": "9793961",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-18T15:00:00"
     },
@@ -39,14 +24,14 @@
       "data": "18/06",
       "hora": "16:00",
       "navio": "SAGA FRIGG",
-      "calado": "13,05",
+      "calado": "13,00",
       "manobra": "E",
       "beco": "VISITA N",
       "status": "hoje",
       "imo": "9613850",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "visita",
       "timestamp": "2026-06-18T16:00:00"
     },
@@ -61,30 +46,15 @@
       "imo": "9827255",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-18T17:00:00"
     },
     {
       "data": "18/06",
       "hora": "19:00",
-      "navio": "GRANDE NIGERIA",
-      "calado": "9,90",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9246580",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-18T19:00:00"
-    },
-    {
-      "data": "18/06",
-      "hora": "21:00",
       "navio": "ONE GEORGE WASHINGTON",
-      "calado": "12,32",
+      "calado": "12,50",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -93,11 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-18T21:00:00"
+      "timestamp": "2026-06-18T19:00:00"
     },
     {
       "data": "18/06",
-      "hora": "23:00",
+      "hora": "21:00",
       "navio": "MSC PALAK",
       "calado": "12,00",
       "manobra": "E",
@@ -108,7 +78,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-18T23:00:00"
+      "timestamp": "2026-06-18T21:00:00"
+    },
+    {
+      "data": "18/06",
+      "hora": "22:30",
+      "navio": "GRANDE NIGERIA",
+      "calado": "9,90",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9246580",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-18T22:30:00"
     },
     {
       "data": "19/06",
@@ -128,14 +113,14 @@
     {
       "data": "19/06",
       "hora": "10:00",
-      "navio": "GRANDE NIGERIA",
-      "calado": "9,40",
+      "navio": "MSC DAMLA",
+      "calado": "14,40",
       "manobra": "S",
-      "beco": "TECONT5",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9246580",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9250983",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-19T10:00:00"
@@ -158,14 +143,14 @@
     {
       "data": "19/06",
       "hora": "12:00",
-      "navio": "MSC DAMLA",
-      "calado": "12,60",
+      "navio": "GRANDE NIGERIA",
+      "calado": "9,40",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT5",
       "status": "futuro",
-      "imo": "9250983",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "imo": "9246580",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-19T12:00:00"
@@ -199,6 +184,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-19T17:00:00"
+    },
+    {
+      "data": "19/06",
+      "hora": "19:00",
+      "navio": "VIKING BRASILIA",
+      "calado": "8,60",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9368895",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-19T19:00:00"
     },
     {
       "data": "20/06",
@@ -262,6 +262,21 @@
     },
     {
       "data": "20/06",
+      "hora": "13:00",
+      "navio": "VIKING BRASILIA",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9368895",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-20T13:00:00"
+    },
+    {
+      "data": "20/06",
       "hora": "14:00",
       "navio": "LNG JUNO",
       "calado": "10,40",
@@ -274,6 +289,51 @@
       "alerta": null,
       "terminal": "pg1",
       "timestamp": "2026-06-20T14:00:00"
+    },
+    {
+      "data": "20/06",
+      "hora": "17:00",
+      "navio": "MAERSK ACADIA",
+      "calado": "10,30",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9928188",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-20T17:00:00"
+    },
+    {
+      "data": "21/06",
+      "hora": "02:30",
+      "navio": "MAERSK ACADIA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9928188",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-21T02:30:00"
+    },
+    {
+      "data": "21/06",
+      "hora": "04:30",
+      "navio": "CARDIFF",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9629457",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-21T04:30:00"
     },
     {
       "data": "21/06",
@@ -292,33 +352,18 @@
     },
     {
       "data": "21/06",
-      "hora": "08:30",
-      "navio": "MSC UGANDA",
-      "calado": "12,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9974515",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-21T08:30:00"
-    },
-    {
-      "data": "22/06",
-      "hora": "06:30",
-      "navio": "MSC UGANDA",
-      "calado": "12,80",
+      "hora": "15:00",
+      "navio": "CARDIFF",
+      "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT1",
       "status": "futuro",
-      "imo": "9974515",
+      "imo": "9629457",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-22T06:30:00"
+      "terminal": "rio",
+      "timestamp": "2026-06-21T15:00:00"
     },
     {
       "data": "23/06",
@@ -456,18 +501,9 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "18/06 15:00",
       "manobra_rio_fim": "19/06 11:00",
-      "navio_multi": "GRANDE NIGERIA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/06 19:00"
-    },
-    {
-      "navio_rio": "KOTA PUSAKA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/06 15:00",
-      "manobra_rio_fim": "19/06 11:00",
       "navio_multi": "ONE GEORGE WASHINGTON",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/06 21:00"
+      "manobra_multi_data_hora": "18/06 19:00"
     },
     {
       "navio_rio": "KOTA PUSAKA",
@@ -476,7 +512,7 @@
       "manobra_rio_fim": "19/06 11:00",
       "navio_multi": "MSC PALAK",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/06 23:00"
+      "manobra_multi_data_hora": "18/06 21:00"
     },
     {
       "navio_rio": "KOTA PUSAKA",
@@ -484,6 +520,15 @@
       "manobra_rio_inicio": "18/06 15:00",
       "manobra_rio_fim": "19/06 11:00",
       "navio_multi": "GRANDE NIGERIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "18/06 22:30"
+    },
+    {
+      "navio_rio": "KOTA PUSAKA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/06 15:00",
+      "manobra_rio_fim": "19/06 11:00",
+      "navio_multi": "MSC DAMLA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "19/06 10:00"
     },
@@ -495,6 +540,15 @@
       "navio_multi": "MSC MAXINE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "19/06 17:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/06 15:00",
+      "manobra_rio_fim": "20/06 10:30",
+      "navio_multi": "VIKING BRASILIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/06 19:00"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
@@ -522,6 +576,15 @@
       "navio_multi": "MSC NAOMI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "20/06 08:30"
+    },
+    {
+      "navio_rio": "CARDIFF",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/06 04:30",
+      "manobra_rio_fim": "21/06 15:00",
+      "navio_multi": "MSC NAOMI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/06 06:30"
     }
   ]
 }
