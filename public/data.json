@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "19/06/2026 13:25",
+  "ultima_atualizacao": "19/06/2026 15:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
-    {
-      "data": "19/06",
-      "hora": "12:00",
-      "navio": "SAGA FRIGG",
-      "calado": "13,12",
-      "manobra": "S",
-      "beco": "VISITA N",
-      "status": "hoje",
-      "imo": "9613850",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "visita",
-      "timestamp": "2026-06-19T12:00:00"
-    },
     {
       "data": "19/06",
       "hora": "15:30",
@@ -46,7 +31,7 @@
       "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-19T17:30:00"
     },
@@ -61,7 +46,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-06-19T19:00:00"
     },
@@ -94,6 +79,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-19T23:00:00"
+    },
+    {
+      "data": "20/06",
+      "hora": "04:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "7,30",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-20T04:30:00"
     },
     {
       "data": "20/06",
@@ -171,6 +171,51 @@
       "timestamp": "2026-06-20T14:00:00"
     },
     {
+      "data": "20/06",
+      "hora": "20:00",
+      "navio": "COSCO SHIPPING PERU",
+      "calado": "14,40",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9945875",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-20T20:00:00"
+    },
+    {
+      "data": "20/06",
+      "hora": "22:00",
+      "navio": "GRANDE MIRAFIORI",
+      "calado": "9,70",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9782687",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-20T22:00:00"
+    },
+    {
+      "data": "21/06",
+      "hora": "05:30",
+      "navio": "COSCO SHIPPING PERU",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9945875",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-21T05:30:00"
+    },
+    {
       "data": "21/06",
       "hora": "06:30",
       "navio": "MSC NAOMI",
@@ -203,6 +248,21 @@
     {
       "data": "21/06",
       "hora": "13:00",
+      "navio": "GRANDE MIRAFIORI",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9782687",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-21T13:00:00"
+    },
+    {
+      "data": "21/06",
+      "hora": "22:00",
       "navio": "MAERSK ACADIA",
       "calado": "12,60",
       "manobra": "S",
@@ -213,13 +273,13 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-21T13:00:00"
+      "timestamp": "2026-06-21T22:00:00"
     },
     {
-      "data": "21/06",
-      "hora": "15:00",
+      "data": "22/06",
+      "hora": "00:00",
       "navio": "CARDIFF",
-      "calado": "13,80",
+      "calado": "12,50",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -228,11 +288,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-21T15:00:00"
+      "timestamp": "2026-06-22T00:00:00"
     },
     {
       "data": "22/06",
-      "hora": "01:00",
+      "hora": "13:00",
       "navio": "CARDIFF",
       "calado": "12,60",
       "manobra": "S",
@@ -243,7 +303,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-22T01:00:00"
+      "timestamp": "2026-06-22T13:00:00"
     },
     {
       "data": "23/06",
@@ -366,5 +426,42 @@
       "timestamp": "2026-07-09T08:00:00"
     }
   ],
-  "conflitos": []
+  "conflitos": [
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/06 19:00",
+      "manobra_rio_fim": "20/06 04:30",
+      "navio_multi": "GRANDE NIGERIA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/06 21:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/06 19:00",
+      "manobra_rio_fim": "20/06 04:30",
+      "navio_multi": "VIKING BRASILIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/06 23:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/06 20:00",
+      "manobra_rio_fim": "21/06 05:30",
+      "navio_multi": "GRANDE MIRAFIORI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "20/06 22:00"
+    },
+    {
+      "navio_rio": "MAERSK ACADIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/06 08:30",
+      "manobra_rio_fim": "21/06 22:00",
+      "navio_multi": "GRANDE MIRAFIORI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/06 13:00"
+    }
+  ]
 }
