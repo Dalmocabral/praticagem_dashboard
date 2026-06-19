@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/06/2026 02:25",
+  "ultima_atualizacao": "19/06/2026 07:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
@@ -16,7 +16,7 @@
       "imo": "9774628",
       "tipo_navio": "LNG TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "pg1",
       "timestamp": "2026-06-19T08:00:00"
     },
@@ -31,7 +31,7 @@
       "imo": "9250983",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-19T10:00:00"
     },
@@ -46,7 +46,7 @@
       "imo": "9793961",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-06-19T11:00:00"
     },
@@ -64,6 +64,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-19T12:00:00"
+    },
+    {
+      "data": "19/06",
+      "hora": "13:00",
+      "navio": "SAGA FRIGG",
+      "calado": "13,10",
+      "manobra": "S",
+      "beco": "VISITA N",
+      "status": "hoje",
+      "imo": "9613850",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "visita",
+      "timestamp": "2026-06-19T13:00:00"
     },
     {
       "data": "19/06",
