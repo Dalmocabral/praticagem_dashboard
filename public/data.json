@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/06/2026 14:41",
+  "ultima_atualizacao": "20/06/2026 16:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
@@ -22,21 +22,6 @@
     },
     {
       "data": "20/06",
-      "hora": "14:00",
-      "navio": "MAERSK ACADIA",
-      "calado": "10,30",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9928188",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-20T14:00:00"
-    },
-    {
-      "data": "20/06",
       "hora": "17:00",
       "navio": "MSC NAOMI",
       "calado": "12,60",
@@ -54,14 +39,14 @@
       "data": "20/06",
       "hora": "18:30",
       "navio": "VIKING BRASILIA",
-      "calado": "8,60",
+      "calado": "8,20",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9368895",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-20T18:30:00"
     },
@@ -76,7 +61,7 @@
       "imo": "9945875",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-06-20T20:00:00"
     },
