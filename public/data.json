@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "20/06/2026 08:55",
+  "ultima_atualizacao": "20/06/2026 11:20",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
-    {
-      "data": "20/06",
-      "hora": "09:00",
-      "navio": "MSC MAXINE",
-      "calado": "13,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9720287",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-20T09:00:00"
-    },
     {
       "data": "20/06",
       "hora": "10:00",
@@ -46,7 +31,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-20T12:00:00"
     },
@@ -61,7 +46,7 @@
       "imo": "9774628",
       "tipo_navio": "LNG TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "pg1",
       "timestamp": "2026-06-20T14:00:00"
     },
@@ -76,7 +61,7 @@
       "imo": "9928188",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-20T14:00:00"
     },
@@ -94,6 +79,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-20T17:00:00"
+    },
+    {
+      "data": "20/06",
+      "hora": "18:30",
+      "navio": "VIKING BRASILIA",
+      "calado": "8,60",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9368895",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-20T18:30:00"
     },
     {
       "data": "20/06",
@@ -142,36 +142,6 @@
     },
     {
       "data": "21/06",
-      "hora": "01:30",
-      "navio": "VIKING BRASILIA",
-      "calado": "8,60",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9368895",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-21T01:30:00"
-    },
-    {
-      "data": "21/06",
-      "hora": "10:00",
-      "navio": "VIKING BRASILIA",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9368895",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-21T10:00:00"
-    },
-    {
-      "data": "21/06",
       "hora": "11:00",
       "navio": "MSC NAOMI",
       "calado": "11,70",
@@ -199,6 +169,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-21T12:00:00"
+    },
+    {
+      "data": "21/06",
+      "hora": "13:00",
+      "navio": "VIKING BRASILIA",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9368895",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-21T13:00:00"
     },
     {
       "data": "21/06",
@@ -244,6 +229,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-21T19:00:00"
+    },
+    {
+      "data": "21/06",
+      "hora": "20:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-21T20:30:00"
     },
     {
       "data": "22/06",
@@ -292,6 +292,36 @@
     },
     {
       "data": "22/06",
+      "hora": "07:00",
+      "navio": "MSC MICHELA",
+      "calado": "11,40",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9720512",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-22T07:00:00"
+    },
+    {
+      "data": "22/06",
+      "hora": "22:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-22T22:00:00"
+    },
+    {
+      "data": "22/06",
       "hora": "23:00",
       "navio": "CMA CGM VERACRUZ",
       "calado": "10,50",
@@ -307,6 +337,36 @@
     },
     {
       "data": "23/06",
+      "hora": "01:00",
+      "navio": "MSC MICHELA",
+      "calado": "11,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9720512",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-23T01:00:00"
+    },
+    {
+      "data": "23/06",
+      "hora": "06:00",
+      "navio": "MSC SHANELLE V",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9292175",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-23T06:00:00"
+    },
+    {
+      "data": "23/06",
       "hora": "08:00",
       "navio": "COSCO SHIPPING CHILE",
       "calado": "14,40",
@@ -319,6 +379,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-23T08:00:00"
+    },
+    {
+      "data": "23/06",
+      "hora": "15:30",
+      "navio": "MSC SHANELLE V",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9292175",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-23T15:30:00"
     },
     {
       "data": "24/06",
@@ -447,24 +522,6 @@
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/06 20:00",
-      "manobra_rio_fim": "21/06 12:00",
-      "navio_multi": "VIKING BRASILIA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/06 01:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "20/06 20:00",
-      "manobra_rio_fim": "21/06 12:00",
-      "navio_multi": "VIKING BRASILIA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/06 10:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "20/06 20:00",
       "manobra_rio_fim": "21/06 12:00",
@@ -491,6 +548,15 @@
       "manobra_multi_data_hora": "21/06 19:00"
     },
     {
+      "navio_rio": "CARDIFF",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "21/06 15:00",
+      "manobra_rio_fim": "22/06 01:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/06 20:30"
+    },
+    {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "22/06 03:00",
@@ -498,6 +564,33 @@
       "navio_multi": "GRANDE MIRAFIORI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "22/06 05:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/06 03:00",
+      "manobra_rio_fim": "22/06 23:00",
+      "navio_multi": "MSC MICHELA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "22/06 07:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/06 03:00",
+      "manobra_rio_fim": "22/06 23:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/06 22:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/06 08:00",
+      "manobra_rio_fim": "24/06 08:00",
+      "navio_multi": "MSC SHANELLE V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/06 15:30"
     }
   ]
 }
