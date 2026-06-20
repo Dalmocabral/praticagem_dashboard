@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/06/2026 03:38",
+  "ultima_atualizacao": "20/06/2026 06:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
@@ -9,7 +9,7 @@
       "data": "20/06",
       "hora": "06:30",
       "navio": "GRANDE NIGERIA",
-      "calado": "9,40",
+      "calado": "9,90",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -22,7 +22,22 @@
     },
     {
       "data": "20/06",
-      "hora": "07:30",
+      "hora": "09:00",
+      "navio": "MSC MAXINE",
+      "calado": "13,40",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9720287",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
+      "timestamp": "2026-06-20T09:00:00"
+    },
+    {
+      "data": "20/06",
+      "hora": "10:00",
       "navio": "MSC PALAK",
       "calado": "10,20",
       "manobra": "S",
@@ -33,37 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-06-20T07:30:00"
-    },
-    {
-      "data": "20/06",
-      "hora": "08:30",
-      "navio": "MSC MAXINE",
-      "calado": "13,40",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9720287",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-20T08:30:00"
-    },
-    {
-      "data": "20/06",
-      "hora": "10:30",
-      "navio": "MSC NAOMI",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9704984",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-20T10:30:00"
+      "timestamp": "2026-06-20T10:00:00"
     },
     {
       "data": "20/06",
@@ -113,13 +98,13 @@
     {
       "data": "20/06",
       "hora": "17:00",
-      "navio": "VIKING BRASILIA",
-      "calado": "8,60",
+      "navio": "MSC NAOMI",
+      "calado": "12,60",
       "manobra": "E",
-      "beco": "TECONT5",
+      "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9368895",
-      "tipo_navio": "VEHICLES CARRIER",
+      "imo": "9704984",
+      "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
@@ -174,8 +159,8 @@
       "data": "21/06",
       "hora": "02:00",
       "navio": "VIKING BRASILIA",
-      "calado": "9,00",
-      "manobra": "S",
+      "calado": "8,60",
+      "manobra": "E",
       "beco": "TECONT5",
       "status": "futuro",
       "imo": "9368895",
@@ -187,18 +172,18 @@
     },
     {
       "data": "21/06",
-      "hora": "04:00",
-      "navio": "GRANDE MIRAFIORI",
-      "calado": "9,70",
-      "manobra": "E",
+      "hora": "10:00",
+      "navio": "VIKING BRASILIA",
+      "calado": "9,00",
+      "manobra": "S",
       "beco": "TECONT5",
       "status": "futuro",
-      "imo": "9782687",
+      "imo": "9368895",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-21T04:00:00"
+      "timestamp": "2026-06-21T10:00:00"
     },
     {
       "data": "21/06",
@@ -232,21 +217,6 @@
     },
     {
       "data": "21/06",
-      "hora": "13:00",
-      "navio": "GRANDE MIRAFIORI",
-      "calado": "9,50",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9782687",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-21T13:00:00"
-    },
-    {
-      "data": "21/06",
       "hora": "15:00",
       "navio": "CARDIFF",
       "calado": "13,80",
@@ -274,6 +244,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-21T17:00:00"
+    },
+    {
+      "data": "21/06",
+      "hora": "19:00",
+      "navio": "GRANDE MIRAFIORI",
+      "calado": "9,70",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9782687",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-21T19:00:00"
     },
     {
       "data": "22/06",
@@ -304,6 +289,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-22T03:00:00"
+    },
+    {
+      "data": "22/06",
+      "hora": "05:00",
+      "navio": "GRANDE MIRAFIORI",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9782687",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-22T05:00:00"
     },
     {
       "data": "22/06",
@@ -466,17 +466,17 @@
       "manobra_rio_inicio": "20/06 20:00",
       "manobra_rio_fim": "21/06 12:00",
       "navio_multi": "VIKING BRASILIA",
-      "manobra_multi_tipo": "S",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "21/06 02:00"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "20/06 20:00",
       "manobra_rio_fim": "21/06 12:00",
-      "navio_multi": "GRANDE MIRAFIORI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/06 04:00"
+      "navio_multi": "VIKING BRASILIA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/06 10:00"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
@@ -495,6 +495,24 @@
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "21/06 17:00"
+    },
+    {
+      "navio_rio": "CARDIFF",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/06 15:00",
+      "manobra_rio_fim": "22/06 01:00",
+      "navio_multi": "GRANDE MIRAFIORI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/06 19:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/06 03:00",
+      "manobra_rio_fim": "22/06 23:00",
+      "navio_multi": "GRANDE MIRAFIORI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/06 05:00"
     }
   ]
 }
