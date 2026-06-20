@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "20/06/2026 18:48",
+  "ultima_atualizacao": "20/06/2026 19:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
-    {
-      "data": "20/06",
-      "hora": "18:30",
-      "navio": "VIKING BRASILIA",
-      "calado": "8,20",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9368895",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-20T18:30:00"
-    },
     {
       "data": "20/06",
       "hora": "20:00",
@@ -84,7 +69,7 @@
       "data": "21/06",
       "hora": "08:00",
       "navio": "MSC NAOMI",
-      "calado": "11,70",
+      "calado": "11,80",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
