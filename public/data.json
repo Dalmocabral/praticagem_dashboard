@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "21/06/2026 16:56",
+  "ultima_atualizacao": "21/06/2026 18:23",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
-    {
-      "data": "21/06",
-      "hora": "17:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,10",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-21T17:00:00"
-    },
     {
       "data": "21/06",
       "hora": "19:00",
@@ -232,7 +217,7 @@
     },
     {
       "data": "23/06",
-      "hora": "13:30",
+      "hora": "11:00",
       "navio": "COSCO SHIPPING CHILE",
       "calado": "14,40",
       "manobra": "E",
@@ -243,7 +228,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-23T13:30:00"
+      "timestamp": "2026-06-23T11:00:00"
     },
     {
       "data": "23/06",
@@ -439,7 +424,7 @@
     {
       "navio_rio": "COSCO SHIPPING CHILE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/06 13:30",
+      "manobra_rio_inicio": "23/06 11:00",
       "manobra_rio_fim": "24/06 12:00",
       "navio_multi": "MSC SHANELLE V",
       "manobra_multi_tipo": "S",
