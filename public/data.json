@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "21/06/2026 02:21",
+  "ultima_atualizacao": "21/06/2026 06:06",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
-    {
-      "data": "21/06",
-      "hora": "01:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-21T01:00:00"
-    },
     {
       "data": "21/06",
       "hora": "03:00",
@@ -46,39 +31,24 @@
       "imo": "9250983",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "visita",
       "timestamp": "2026-06-21T07:00:00"
     },
     {
       "data": "21/06",
       "hora": "08:00",
-      "navio": "MSC NAOMI",
-      "calado": "11,80",
+      "navio": "VIKING BRASILIA",
+      "calado": "8,40",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT5",
       "status": "hoje",
-      "imo": "9704984",
-      "tipo_navio": "CONTAINER SHIP",
+      "imo": "9368895",
+      "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-21T08:00:00"
-    },
-    {
-      "data": "21/06",
-      "hora": "10:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "8,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-21T10:00:00"
     },
     {
       "data": "21/06",
@@ -98,13 +68,13 @@
     {
       "data": "21/06",
       "hora": "13:00",
-      "navio": "VIKING BRASILIA",
-      "calado": "9,00",
+      "navio": "MSC NAOMI",
+      "calado": "11,80",
       "manobra": "S",
-      "beco": "TECONT5",
+      "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9368895",
-      "tipo_navio": "VEHICLES CARRIER",
+      "imo": "9704984",
+      "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
@@ -124,6 +94,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-21T15:00:00"
+    },
+    {
+      "data": "21/06",
+      "hora": "17:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "8,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-21T17:00:00"
     },
     {
       "data": "21/06",
@@ -427,6 +412,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "CARDIFF",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/06 15:00",
+      "manobra_rio_fim": "22/06 04:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/06 17:00"
+    },
     {
       "navio_rio": "CARDIFF",
       "manobra_rio_afetada": "E",
