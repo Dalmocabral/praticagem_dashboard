@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/06/2026 19:42",
+  "ultima_atualizacao": "21/06/2026 20:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
@@ -37,7 +37,7 @@
     },
     {
       "data": "22/06",
-      "hora": "08:30",
+      "hora": "06:00",
       "navio": "CMA CGM VERACRUZ",
       "calado": "10,30",
       "manobra": "E",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-22T08:30:00"
+      "timestamp": "2026-06-22T06:00:00"
     },
     {
       "data": "22/06",
@@ -400,7 +400,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/06 08:30",
+      "manobra_rio_inicio": "22/06 06:00",
       "manobra_rio_fim": "23/06 04:00",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
@@ -409,7 +409,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/06 08:30",
+      "manobra_rio_inicio": "22/06 06:00",
       "manobra_rio_fim": "23/06 04:00",
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "E",
@@ -417,8 +417,8 @@
     },
     {
       "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/06 08:30",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/06 06:00",
       "manobra_rio_fim": "23/06 04:00",
       "navio_multi": "GRANDE MIRAFIORI",
       "manobra_multi_tipo": "S",
@@ -427,7 +427,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/06 08:30",
+      "manobra_rio_inicio": "22/06 06:00",
       "manobra_rio_fim": "23/06 04:00",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "E",
@@ -436,7 +436,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/06 08:30",
+      "manobra_rio_inicio": "22/06 06:00",
       "manobra_rio_fim": "23/06 04:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
@@ -445,7 +445,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/06 08:30",
+      "manobra_rio_inicio": "22/06 06:00",
       "manobra_rio_fim": "23/06 04:00",
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "S",
@@ -454,7 +454,7 @@
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/06 08:30",
+      "manobra_rio_inicio": "22/06 06:00",
       "manobra_rio_fim": "23/06 04:00",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "S",
