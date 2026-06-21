@@ -1,28 +1,13 @@
 {
-  "ultima_atualizacao": "20/06/2026 21:13",
+  "ultima_atualizacao": "21/06/2026 02:21",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
     {
-      "data": "20/06",
-      "hora": "20:00",
-      "navio": "COSCO SHIPPING PERU",
-      "calado": "13,90",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9945875",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-20T20:00:00"
-    },
-    {
       "data": "21/06",
-      "hora": "00:30",
+      "hora": "01:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,00",
       "manobra": "S",
@@ -31,13 +16,13 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-21T00:30:00"
+      "timestamp": "2026-06-21T01:00:00"
     },
     {
       "data": "21/06",
-      "hora": "02:30",
+      "hora": "03:00",
       "navio": "SINAR SUMATERA",
       "calado": "7,20",
       "manobra": "E",
@@ -46,9 +31,9 @@
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
-      "timestamp": "2026-06-21T02:30:00"
+      "timestamp": "2026-06-21T03:00:00"
     },
     {
       "data": "21/06",
@@ -442,42 +427,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/06 20:00",
-      "manobra_rio_fim": "21/06 12:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/06 00:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/06 20:00",
-      "manobra_rio_fim": "21/06 12:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/06 02:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "20/06 20:00",
-      "manobra_rio_fim": "21/06 12:00",
-      "navio_multi": "MSC NAOMI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/06 08:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING PERU",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "20/06 20:00",
-      "manobra_rio_fim": "21/06 12:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/06 10:00"
-    },
     {
       "navio_rio": "CARDIFF",
       "manobra_rio_afetada": "E",
