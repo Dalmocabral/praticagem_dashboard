@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/06/2026 11:19",
+  "ultima_atualizacao": "21/06/2026 13:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
@@ -46,7 +46,7 @@
       "imo": "9629457",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-06-21T15:00:00"
     },
@@ -61,7 +61,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-06-21T17:00:00"
     },
@@ -82,21 +82,6 @@
     },
     {
       "data": "22/06",
-      "hora": "03:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "8,30",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-22T03:00:00"
-    },
-    {
-      "data": "22/06",
       "hora": "04:00",
       "navio": "CARDIFF",
       "calado": "13,60",
@@ -113,13 +98,13 @@
     {
       "data": "22/06",
       "hora": "05:00",
-      "navio": "GRANDE MIRAFIORI",
-      "calado": "9,50",
+      "navio": "SINAR SUMATERA",
+      "calado": "8,30",
       "manobra": "S",
-      "beco": "TECONT5",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9782687",
-      "tipo_navio": "VEHICLES CARRIER",
+      "imo": "1015375",
+      "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
@@ -157,6 +142,21 @@
     },
     {
       "data": "22/06",
+      "hora": "15:00",
+      "navio": "GRANDE MIRAFIORI",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9782687",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-22T15:00:00"
+    },
+    {
+      "data": "22/06",
       "hora": "17:00",
       "navio": "ZHEN HUA 15",
       "calado": "9,00",
@@ -169,6 +169,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-22T17:00:00"
+    },
+    {
+      "data": "22/06",
+      "hora": "19:00",
+      "navio": "GOODWOOD",
+      "calado": "9,50",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9701140",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-22T19:00:00"
     },
     {
       "data": "22/06",
@@ -199,6 +214,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-23T01:00:00"
+    },
+    {
+      "data": "23/06",
+      "hora": "02:00",
+      "navio": "GOODWOOD",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9701140",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-23T02:00:00"
     },
     {
       "data": "23/06",
@@ -386,13 +416,22 @@
       "manobra_multi_data_hora": "21/06 19:00"
     },
     {
-      "navio_rio": "CARDIFF",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/06 15:00",
-      "manobra_rio_fim": "22/06 04:00",
-      "navio_multi": "SINAR SUMATERA",
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/06 08:30",
+      "manobra_rio_fim": "23/06 04:00",
+      "navio_multi": "GRANDE MIRAFIORI",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/06 03:00"
+      "manobra_multi_data_hora": "22/06 15:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/06 08:30",
+      "manobra_rio_fim": "23/06 04:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "22/06 19:00"
     },
     {
       "navio_rio": "CMA CGM VERACRUZ",
@@ -411,6 +450,15 @@
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/06 01:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/06 08:30",
+      "manobra_rio_fim": "23/06 04:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/06 02:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
