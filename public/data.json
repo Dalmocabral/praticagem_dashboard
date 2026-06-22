@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "22/06/2026 16:41",
+  "ultima_atualizacao": "22/06/2026 18:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
-    {
-      "data": "22/06",
-      "hora": "16:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "8,30",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-22T16:00:00"
-    },
     {
       "data": "22/06",
       "hora": "18:00",
@@ -39,14 +24,14 @@
       "data": "22/06",
       "hora": "20:00",
       "navio": "GRANDE MIRAFIORI",
-      "calado": "9,50",
+      "calado": "9,00",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9782687",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-22T20:00:00"
     },
