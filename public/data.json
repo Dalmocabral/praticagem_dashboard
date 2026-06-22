@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/06/2026 08:14",
+  "ultima_atualizacao": "22/06/2026 13:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
@@ -7,22 +7,7 @@
   "navios": [
     {
       "data": "22/06",
-      "hora": "04:00",
-      "navio": "CARDIFF",
-      "calado": "13,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9629457",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-22T04:00:00"
-    },
-    {
-      "data": "22/06",
-      "hora": "13:00",
+      "hora": "16:00",
       "navio": "SINAR SUMATERA",
       "calado": "8,30",
       "manobra": "S",
@@ -31,13 +16,13 @@
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-22T13:00:00"
+      "timestamp": "2026-06-22T16:00:00"
     },
     {
       "data": "22/06",
-      "hora": "15:00",
+      "hora": "18:00",
       "navio": "MSC MICHELA",
       "calado": "11,40",
       "manobra": "E",
@@ -48,26 +33,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-22T15:00:00"
+      "timestamp": "2026-06-22T18:00:00"
     },
     {
       "data": "22/06",
-      "hora": "17:00",
-      "navio": "ZHEN HUA 15",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "8714970",
-      "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-22T17:00:00"
-    },
-    {
-      "data": "22/06",
-      "hora": "18:00",
+      "hora": "20:00",
       "navio": "GRANDE MIRAFIORI",
       "calado": "9,50",
       "manobra": "S",
@@ -78,11 +48,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-22T18:00:00"
+      "timestamp": "2026-06-22T20:00:00"
     },
     {
       "data": "22/06",
-      "hora": "20:00",
+      "hora": "23:00",
       "navio": "GOODWOOD",
       "calado": "9,50",
       "manobra": "E",
@@ -93,37 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-22T20:00:00"
-    },
-    {
-      "data": "23/06",
-      "hora": "01:00",
-      "navio": "MSC MICHELA",
-      "calado": "11,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9720512",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-23T01:00:00"
-    },
-    {
-      "data": "23/06",
-      "hora": "02:00",
-      "navio": "GOODWOOD",
-      "calado": "9,50",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9701140",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-23T02:00:00"
+      "timestamp": "2026-06-22T23:00:00"
     },
     {
       "data": "23/06",
@@ -158,16 +98,16 @@
     {
       "data": "23/06",
       "hora": "06:00",
-      "navio": "MSC SHANELLE V",
-      "calado": "12,20",
-      "manobra": "E",
-      "beco": "TECONT3",
+      "navio": "ZHEN HUA 15",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9292175",
-      "tipo_navio": "CONTAINER SHIP",
+      "imo": "8714970",
+      "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
+      "terminal": "rio",
       "timestamp": "2026-06-23T06:00:00"
     },
     {
@@ -187,6 +127,36 @@
     },
     {
       "data": "23/06",
+      "hora": "09:30",
+      "navio": "MAERSK CHACHAI",
+      "calado": "13,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9525388",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-23T09:30:00"
+    },
+    {
+      "data": "23/06",
+      "hora": "10:00",
+      "navio": "SEAWAYS EXCELSIOR",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "VISITA",
+      "status": "futuro",
+      "imo": "9933597",
+      "tipo_navio": "CRUDE OIL TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "visita",
+      "timestamp": "2026-06-23T10:00:00"
+    },
+    {
+      "data": "23/06",
       "hora": "11:00",
       "navio": "COSCO SHIPPING CHILE",
       "calado": "14,40",
@@ -202,11 +172,26 @@
     },
     {
       "data": "23/06",
+      "hora": "13:00",
+      "navio": "MSC MICHELA",
+      "calado": "11,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9720512",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-23T13:00:00"
+    },
+    {
+      "data": "23/06",
       "hora": "15:30",
       "navio": "MSC SHANELLE V",
-      "calado": "13,60",
-      "manobra": "S",
-      "beco": "TECONT3",
+      "calado": "12,20",
+      "manobra": "E",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9292175",
       "tipo_navio": "CONTAINER SHIP",
@@ -214,6 +199,51 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-23T15:30:00"
+    },
+    {
+      "data": "23/06",
+      "hora": "17:30",
+      "navio": "GOODWOOD",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9701140",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-23T17:30:00"
+    },
+    {
+      "data": "24/06",
+      "hora": "06:30",
+      "navio": "MSC SHANELLE V",
+      "calado": "13,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9292175",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-24T06:30:00"
+    },
+    {
+      "data": "24/06",
+      "hora": "07:30",
+      "navio": "MAERSK CHACHAI",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9525388",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-24T07:30:00"
     },
     {
       "data": "24/06",
@@ -261,6 +291,21 @@
       "timestamp": "2026-06-24T14:30:00"
     },
     {
+      "data": "24/06",
+      "hora": "16:00",
+      "navio": "WIDE ALPHA",
+      "calado": "13,80",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9694529",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-24T16:00:00"
+    },
+    {
       "data": "25/06",
       "hora": "02:00",
       "navio": "STEPHANIE C",
@@ -274,6 +319,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-25T02:00:00"
+    },
+    {
+      "data": "25/06",
+      "hora": "13:00",
+      "navio": "WIDE ALPHA",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9694529",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-25T13:00:00"
     },
     {
       "data": "27/06",
@@ -372,9 +432,63 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "23/06 08:00",
       "manobra_rio_fim": "24/06 11:00",
+      "navio_multi": "MAERSK CHACHAI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/06 09:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/06 08:00",
+      "manobra_rio_fim": "24/06 11:00",
+      "navio_multi": "MSC MICHELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/06 13:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/06 08:00",
+      "manobra_rio_fim": "24/06 11:00",
+      "navio_multi": "MSC SHANELLE V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/06 15:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/06 08:00",
+      "manobra_rio_fim": "24/06 11:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/06 17:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/06 08:00",
+      "manobra_rio_fim": "24/06 11:00",
       "navio_multi": "MSC SHANELLE V",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/06 15:30"
+      "manobra_multi_data_hora": "24/06 06:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/06 08:00",
+      "manobra_rio_fim": "24/06 11:00",
+      "navio_multi": "MAERSK CHACHAI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/06 07:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/06 11:00",
+      "manobra_rio_fim": "24/06 12:00",
+      "navio_multi": "MSC MICHELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/06 13:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
@@ -382,8 +496,44 @@
       "manobra_rio_inicio": "23/06 11:00",
       "manobra_rio_fim": "24/06 12:00",
       "navio_multi": "MSC SHANELLE V",
-      "manobra_multi_tipo": "S",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/06 15:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/06 11:00",
+      "manobra_rio_fim": "24/06 12:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/06 17:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/06 11:00",
+      "manobra_rio_fim": "24/06 12:00",
+      "navio_multi": "MSC SHANELLE V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/06 06:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/06 11:00",
+      "manobra_rio_fim": "24/06 12:00",
+      "navio_multi": "MAERSK CHACHAI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/06 07:30"
+    },
+    {
+      "navio_rio": "STEPHANIE C",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/06 14:30",
+      "manobra_rio_fim": "25/06 02:00",
+      "navio_multi": "WIDE ALPHA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "24/06 16:00"
     }
   ]
 }
