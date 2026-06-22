@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/06/2026 13:02",
+  "ultima_atualizacao": "22/06/2026 16:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
@@ -31,7 +31,7 @@
       "imo": "9720512",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-22T18:00:00"
     },
@@ -46,7 +46,7 @@
       "imo": "9782687",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-06-22T20:00:00"
     },
@@ -189,7 +189,7 @@
       "data": "23/06",
       "hora": "15:30",
       "navio": "MSC SHANELLE V",
-      "calado": "12,20",
+      "calado": "12,30",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -219,7 +219,7 @@
       "data": "24/06",
       "hora": "06:30",
       "navio": "MSC SHANELLE V",
-      "calado": "13,60",
+      "calado": "13,30",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
