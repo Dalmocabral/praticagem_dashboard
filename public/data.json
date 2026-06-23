@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "22/06/2026 22:25",
+  "ultima_atualizacao": "23/06/2026 02:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
-    {
-      "data": "22/06",
-      "hora": "18:00",
-      "navio": "MSC MICHELA",
-      "calado": "11,40",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9720512",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-22T18:00:00"
-    },
-    {
-      "data": "22/06",
-      "hora": "20:00",
-      "navio": "GRANDE MIRAFIORI",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "passado",
-      "imo": "9782687",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-22T20:00:00"
-    },
     {
       "data": "22/06",
       "hora": "23:00",
@@ -52,21 +22,6 @@
     },
     {
       "data": "23/06",
-      "hora": "03:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-23T03:00:00"
-    },
-    {
-      "data": "23/06",
       "hora": "04:00",
       "navio": "CMA CGM VERACRUZ",
       "calado": "11,40",
@@ -76,9 +31,24 @@
       "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-23T04:00:00"
+    },
+    {
+      "data": "23/06",
+      "hora": "05:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
+      "timestamp": "2026-06-23T05:00:00"
     },
     {
       "data": "23/06",
@@ -91,7 +61,7 @@
       "imo": "8714970",
       "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-06-23T06:00:00"
     },
