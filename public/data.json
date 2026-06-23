@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/06/2026 05:50",
+  "ultima_atualizacao": "23/06/2026 08:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
@@ -19,36 +19,6 @@
       "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-23T04:00:00"
-    },
-    {
-      "data": "23/06",
-      "hora": "05:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-23T05:00:00"
-    },
-    {
-      "data": "23/06",
-      "hora": "06:00",
-      "navio": "ZHEN HUA 15",
-      "calado": "9,00",
-      "manobra": "M",
-      "beco": "TECONTPROLONG -> AF GNL",
-      "status": "hoje",
-      "imo": "8714970",
-      "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-23T06:00:00"
     },
     {
       "data": "23/06",
@@ -76,7 +46,7 @@
       "imo": "9525388",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-23T09:30:00"
     },
@@ -91,7 +61,7 @@
       "imo": "9933597",
       "tipo_navio": "CRUDE OIL TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "visita",
       "timestamp": "2026-06-23T10:00:00"
     },
@@ -106,7 +76,7 @@
       "imo": "9945887",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-06-23T11:00:00"
     },
