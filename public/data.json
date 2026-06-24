@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/06/2026 02:48",
+  "ultima_atualizacao": "24/06/2026 05:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
@@ -9,14 +9,14 @@
       "data": "24/06",
       "hora": "07:00",
       "navio": "MSC AMALFI",
-      "calado": "14,25",
+      "calado": "14,15",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-24T07:00:00"
     },
@@ -31,7 +31,7 @@
       "imo": "9292175",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-06-24T09:00:00"
     },
