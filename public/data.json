@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/06/2026 20:41",
+  "ultima_atualizacao": "23/06/2026 22:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
@@ -9,10 +9,10 @@
       "data": "23/06",
       "hora": "23:30",
       "navio": "MAERSK CHACHAI",
-      "calado": "13,70",
+      "calado": "13,80",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "hoje",
+      "status": "passado",
       "imo": "9525388",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -27,7 +27,7 @@
       "calado": "14,25",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -42,7 +42,7 @@
       "calado": "13,30",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9292175",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,7 +57,7 @@
       "calado": "11,00",
       "manobra": "S",
       "beco": "VISITA",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9933597",
       "tipo_navio": "CRUDE OIL TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
@@ -72,7 +72,7 @@
       "calado": "10,20",
       "manobra": "E",
       "beco": "VISITA N",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9463205",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -87,7 +87,7 @@
       "calado": "13,80",
       "manobra": "S",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9945887",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -102,7 +102,7 @@
       "calado": "13,80",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9694529",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -117,7 +117,7 @@
       "calado": "5,00",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9347827",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
@@ -132,7 +132,7 @@
       "calado": "9,00",
       "manobra": "M",
       "beco": "AF GNL -> TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "8714970",
       "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -231,6 +231,21 @@
       "timestamp": "2026-06-25T15:30:00"
     },
     {
+      "data": "25/06",
+      "hora": "17:30",
+      "navio": "NAVIOS AMARILLO",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9324849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-25T17:30:00"
+    },
+    {
       "data": "26/06",
       "hora": "01:00",
       "navio": "COPIAPO",
@@ -259,6 +274,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-26T03:00:00"
+    },
+    {
+      "data": "26/06",
+      "hora": "06:00",
+      "navio": "NAVIOS AMARILLO",
+      "calado": "12,30",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9324849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-26T06:00:00"
     },
     {
       "data": "26/06",
@@ -558,6 +588,24 @@
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "25/06 06:30"
+    },
+    {
+      "navio_rio": "NAVIOS AMARILLO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/06 17:30",
+      "manobra_rio_fim": "26/06 06:00",
+      "navio_multi": "COPIAPO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/06 01:00"
+    },
+    {
+      "navio_rio": "NAVIOS AMARILLO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/06 17:30",
+      "manobra_rio_fim": "26/06 06:00",
+      "navio_multi": "MSC BREMEN",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/06 03:00"
     }
   ]
 }
