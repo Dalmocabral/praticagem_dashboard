@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "24/06/2026 08:34",
+  "ultima_atualizacao": "24/06/2026 10:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
-    {
-      "data": "24/06",
-      "hora": "07:00",
-      "navio": "MSC AMALFI",
-      "calado": "14,15",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9605279",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-24T07:00:00"
-    },
     {
       "data": "24/06",
       "hora": "09:00",
@@ -46,7 +31,7 @@
       "imo": "9933597",
       "tipo_navio": "CRUDE OIL TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "visita",
       "timestamp": "2026-06-24T13:00:00"
     },
@@ -61,7 +46,7 @@
       "imo": "9463205",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "visita",
       "timestamp": "2026-06-24T14:00:00"
     },
@@ -76,7 +61,7 @@
       "imo": "9945887",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-06-24T14:30:00"
     },
@@ -129,7 +114,7 @@
       "data": "25/06",
       "hora": "02:00",
       "navio": "GRANDE FRANCIA",
-      "calado": "9,70",
+      "calado": "8,80",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "futuro",
