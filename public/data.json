@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/06/2026 13:19",
+  "ultima_atualizacao": "24/06/2026 15:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "24/06",
-      "hora": "13:00",
-      "navio": "SEAWAYS EXCELSIOR",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "VISITA",
-      "status": "hoje",
-      "imo": "9933597",
-      "tipo_navio": "CRUDE OIL TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_atrasada",
-      "terminal": "visita",
-      "timestamp": "2026-06-24T13:00:00"
-    },
-    {
-      "data": "24/06",
       "hora": "15:30",
       "navio": "COSCO SHIPPING CHILE",
-      "calado": "13,80",
+      "calado": "13,70",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -37,22 +22,7 @@
     },
     {
       "data": "24/06",
-      "hora": "18:30",
-      "navio": "INDUSTRIAL DIAMOND",
-      "calado": "5,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9347827",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-24T18:30:00"
-    },
-    {
-      "data": "24/06",
-      "hora": "20:00",
+      "hora": "17:30",
       "navio": "ZHEN HUA 15",
       "calado": "9,00",
       "manobra": "M",
@@ -61,15 +31,45 @@
       "imo": "8714970",
       "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-06-24T20:00:00"
+      "timestamp": "2026-06-24T17:30:00"
+    },
+    {
+      "data": "24/06",
+      "hora": "19:00",
+      "navio": "INDUSTRIAL DIAMOND",
+      "calado": "5,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9347827",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": "entrada_antecipada",
+      "terminal": "rio",
+      "timestamp": "2026-06-24T19:00:00"
+    },
+    {
+      "data": "24/06",
+      "hora": "20:30",
+      "navio": "MSC UGANDA",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9974515",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-24T20:30:00"
     },
     {
       "data": "25/06",
       "hora": "02:00",
       "navio": "GRANDE FRANCIA",
-      "calado": "8,80",
+      "calado": "9,50",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "futuro",
@@ -157,21 +157,6 @@
     },
     {
       "data": "25/06",
-      "hora": "15:30",
-      "navio": "MSC UGANDA",
-      "calado": "11,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9974515",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-25T15:30:00"
-    },
-    {
-      "data": "25/06",
       "hora": "17:00",
       "navio": "NAVIOS AMARILLO",
       "calado": "12,50",
@@ -217,21 +202,6 @@
     },
     {
       "data": "26/06",
-      "hora": "03:00",
-      "navio": "MSC BREMEN",
-      "calado": "9,90",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9369734",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-26T03:00:00"
-    },
-    {
-      "data": "26/06",
       "hora": "05:00",
       "navio": "NAVIOS AMARILLO",
       "calado": "12,30",
@@ -244,21 +214,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-26T05:00:00"
-    },
-    {
-      "data": "26/06",
-      "hora": "07:00",
-      "navio": "MSC UGANDA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9974515",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-26T07:00:00"
     },
     {
       "data": "26/06",
@@ -277,11 +232,41 @@
     },
     {
       "data": "26/06",
-      "hora": "23:00",
-      "navio": "MSC BREMEN",
+      "hora": "16:30",
+      "navio": "COPIAPO",
+      "calado": "11,10",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9687526",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-26T16:30:00"
+    },
+    {
+      "data": "26/06",
+      "hora": "21:00",
+      "navio": "MSC UGANDA",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9974515",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-26T21:00:00"
+    },
+    {
+      "data": "26/06",
+      "hora": "23:00",
+      "navio": "MSC BREMEN",
+      "calado": "9,90",
+      "manobra": "E",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9369734",
       "tipo_navio": "CONTAINER SHIP",
@@ -289,6 +274,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-26T23:00:00"
+    },
+    {
+      "data": "27/06",
+      "hora": "05:00",
+      "navio": "COPIAPO",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9687526",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-27T05:00:00"
     },
     {
       "data": "27/06",
@@ -304,6 +304,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-27T07:00:00"
+    },
+    {
+      "data": "28/06",
+      "hora": "06:00",
+      "navio": "MSC BREMEN",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9369734",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-28T06:00:00"
     },
     {
       "data": "28/06",
@@ -473,9 +488,36 @@
   ],
   "conflitos": [
     {
+      "navio_rio": "ZHEN HUA 15",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/06 17:30",
+      "manobra_rio_fim": "25/06 07:00",
+      "navio_multi": "MSC UGANDA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "24/06 20:30"
+    },
+    {
+      "navio_rio": "ZHEN HUA 15",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/06 17:30",
+      "manobra_rio_fim": "25/06 07:00",
+      "navio_multi": "GRANDE FRANCIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "25/06 02:00"
+    },
+    {
       "navio_rio": "INDUSTRIAL DIAMOND",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/06 18:30",
+      "manobra_rio_inicio": "24/06 19:00",
+      "manobra_rio_fim": "25/06 19:30",
+      "navio_multi": "MSC UGANDA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "24/06 20:30"
+    },
+    {
+      "navio_rio": "INDUSTRIAL DIAMOND",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/06 19:00",
       "manobra_rio_fim": "25/06 19:30",
       "navio_multi": "GRANDE FRANCIA",
       "manobra_multi_tipo": "E",
@@ -484,7 +526,7 @@
     {
       "navio_rio": "INDUSTRIAL DIAMOND",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/06 18:30",
+      "manobra_rio_inicio": "24/06 19:00",
       "manobra_rio_fim": "25/06 19:30",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
@@ -493,29 +535,11 @@
     {
       "navio_rio": "INDUSTRIAL DIAMOND",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/06 18:30",
+      "manobra_rio_inicio": "24/06 19:00",
       "manobra_rio_fim": "25/06 19:30",
       "navio_multi": "WIDE ALPHA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "25/06 10:00"
-    },
-    {
-      "navio_rio": "INDUSTRIAL DIAMOND",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/06 18:30",
-      "manobra_rio_fim": "25/06 19:30",
-      "navio_multi": "MSC UGANDA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "25/06 15:30"
-    },
-    {
-      "navio_rio": "ZHEN HUA 15",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "24/06 20:00",
-      "manobra_rio_fim": "25/06 07:00",
-      "navio_multi": "GRANDE FRANCIA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "25/06 02:00"
     },
     {
       "navio_rio": "NAVIOS AMARILLO",
@@ -525,15 +549,6 @@
       "navio_multi": "GRANDE FRANCIA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "25/06 23:00"
-    },
-    {
-      "navio_rio": "NAVIOS AMARILLO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/06 17:00",
-      "manobra_rio_fim": "26/06 05:00",
-      "navio_multi": "MSC BREMEN",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/06 03:00"
     }
   ]
 }
