@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "24/06/2026 17:13",
+  "ultima_atualizacao": "24/06/2026 18:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
-    {
-      "data": "24/06",
-      "hora": "15:30",
-      "navio": "COSCO SHIPPING CHILE",
-      "calado": "13,70",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9945887",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-24T15:30:00"
-    },
     {
       "data": "24/06",
       "hora": "17:30",
@@ -61,7 +46,7 @@
       "imo": "9369734",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-24T21:00:00"
     },
