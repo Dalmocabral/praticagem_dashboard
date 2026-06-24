@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "23/06/2026 22:33",
+  "ultima_atualizacao": "24/06/2026 02:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
-    {
-      "data": "23/06",
-      "hora": "23:30",
-      "navio": "MAERSK CHACHAI",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "passado",
-      "imo": "9525388",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-23T23:30:00"
-    },
     {
       "data": "24/06",
       "hora": "07:00",
