@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/06/2026 19:08",
+  "ultima_atualizacao": "25/06/2026 20:45",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/06/2026 12:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -31,7 +31,7 @@
       "imo": "9246592",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-25T23:00:00"
     },
@@ -85,8 +85,8 @@
       "hora": "05:00",
       "navio": "NAVIOS AMARILLO",
       "calado": "12,30",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "manobra": "M",
+      "beco": "TECONTPROLONG -> VISITA N",
       "status": "futuro",
       "imo": "9324849",
       "tipo_navio": "CONTAINER SHIP",
@@ -124,6 +124,21 @@
       "alerta": null,
       "terminal": "visita",
       "timestamp": "2026-06-26T08:00:00"
+    },
+    {
+      "data": "26/06",
+      "hora": "12:30",
+      "navio": "NAVIOS AMARILLO",
+      "calado": "12,30",
+      "manobra": "S",
+      "beco": "VISITA N",
+      "status": "futuro",
+      "imo": "9324849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "visita",
+      "timestamp": "2026-06-26T12:30:00"
     },
     {
       "data": "26/06",
