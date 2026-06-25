@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/06/2026 13:04",
+  "ultima_atualizacao": "25/06/2026 15:23",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/06/2026 12:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -61,7 +61,7 @@
       "imo": "9324849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-06-25T17:00:00"
     },
@@ -76,7 +76,7 @@
       "imo": "9347827",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-06-25T19:00:00"
     },
@@ -144,7 +144,7 @@
       "data": "26/06",
       "hora": "14:30",
       "navio": "WIDE ALPHA",
-      "calado": "13,00",
+      "calado": "13,20",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
