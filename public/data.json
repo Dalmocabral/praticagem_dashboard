@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "25/06/2026 05:13",
+  "ultima_atualizacao": "25/06/2026 08:09",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
   },
   "navios": [
-    {
-      "data": "25/06",
-      "hora": "06:00",
-      "navio": "KANG SHENG KOU",
-      "calado": "6,80",
-      "manobra": "E",
-      "beco": "VISITA S",
-      "status": "hoje",
-      "imo": "9223289",
-      "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "visita",
-      "timestamp": "2026-06-25T06:00:00"
-    },
     {
       "data": "25/06",
       "hora": "07:00",
@@ -61,7 +46,7 @@
       "imo": "9694529",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-25T10:00:00"
     },
@@ -76,7 +61,7 @@
       "imo": "9945875",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-06-25T12:00:00"
     },
