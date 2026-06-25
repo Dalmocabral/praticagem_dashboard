@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "25/06/2026 10:26",
+  "ultima_atualizacao": "25/06/2026 13:04",
   "barra_info": {
-    "restrita": false,
-    "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
+    "restrita": true,
+    "mensagem": "BARRA RESTRITA DESDE 25/06/2026 12:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "25/06",
-      "hora": "07:00",
-      "navio": "ZHEN HUA 15",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "8714970",
-      "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-25T07:00:00"
-    },
-    {
-      "data": "25/06",
-      "hora": "10:00",
-      "navio": "WIDE ALPHA",
-      "calado": "13,80",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9694529",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-25T10:00:00"
-    },
     {
       "data": "25/06",
       "hora": "12:30",
@@ -52,6 +22,21 @@
     },
     {
       "data": "25/06",
+      "hora": "13:30",
+      "navio": "COSCO SHIPPING PERU",
+      "calado": "14,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9945875",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "rio",
+      "timestamp": "2026-06-25T13:30:00"
+    },
+    {
+      "data": "25/06",
       "hora": "15:30",
       "navio": "MSC UGANDA",
       "calado": "11,40",
@@ -61,9 +46,24 @@
       "imo": "9974515",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-25T15:30:00"
+    },
+    {
+      "data": "25/06",
+      "hora": "17:00",
+      "navio": "NAVIOS AMARILLO",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9324849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_antecipada",
+      "terminal": "rio",
+      "timestamp": "2026-06-25T17:00:00"
     },
     {
       "data": "25/06",
@@ -83,14 +83,14 @@
     {
       "data": "25/06",
       "hora": "21:00",
-      "navio": "NAVIOS AMARILLO",
-      "calado": "12,50",
+      "navio": "CHIPOL CHANGJIANG",
+      "calado": "8,50",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "hoje",
-      "imo": "9324849",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "imo": "9703538",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-25T21:00:00"
@@ -489,12 +489,84 @@
   "conflitos": [
     {
       "navio_rio": "NAVIOS AMARILLO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/06 21:00",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/06 17:00",
       "manobra_rio_fim": "26/06 05:00",
       "navio_multi": "GRANDE FRANCIA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "25/06 23:00"
+    },
+    {
+      "navio_rio": "CHIPOL CHANGJIANG",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "25/06 21:00",
+      "manobra_rio_fim": "28/06 12:00",
+      "navio_multi": "GRANDE FRANCIA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "25/06 23:00"
+    },
+    {
+      "navio_rio": "CHIPOL CHANGJIANG",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "25/06 21:00",
+      "manobra_rio_fim": "28/06 12:00",
+      "navio_multi": "WIDE ALPHA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/06 14:30"
+    },
+    {
+      "navio_rio": "CHIPOL CHANGJIANG",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "25/06 21:00",
+      "manobra_rio_fim": "28/06 12:00",
+      "navio_multi": "COPIAPO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/06 16:30"
+    },
+    {
+      "navio_rio": "CHIPOL CHANGJIANG",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "25/06 21:00",
+      "manobra_rio_fim": "28/06 12:00",
+      "navio_multi": "MSC UGANDA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/06 20:30"
+    },
+    {
+      "navio_rio": "CHIPOL CHANGJIANG",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/06 21:00",
+      "manobra_rio_fim": "28/06 12:00",
+      "navio_multi": "COPIAPO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "27/06 05:00"
+    },
+    {
+      "navio_rio": "CHIPOL CHANGJIANG",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/06 21:00",
+      "manobra_rio_fim": "28/06 12:00",
+      "navio_multi": "NAVARINO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "27/06 07:00"
+    },
+    {
+      "navio_rio": "CHIPOL CHANGJIANG",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/06 21:00",
+      "manobra_rio_fim": "28/06 12:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "27/06 15:00"
+    },
+    {
+      "navio_rio": "CHIPOL CHANGJIANG",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/06 21:00",
+      "manobra_rio_fim": "28/06 12:00",
+      "navio_multi": "NAVARINO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/06 07:00"
     },
     {
       "navio_rio": "SCOT DRESDEN",
