@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/06/2026 10:21",
+  "ultima_atualizacao": "25/06/2026 10:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/06/2026 11:00"
@@ -52,7 +52,7 @@
     },
     {
       "data": "25/06",
-      "hora": "14:30",
+      "hora": "15:30",
       "navio": "MSC UGANDA",
       "calado": "11,40",
       "manobra": "E",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-25T14:30:00"
+      "timestamp": "2026-06-25T15:30:00"
     },
     {
       "data": "25/06",
