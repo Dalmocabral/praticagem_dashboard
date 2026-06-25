@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "25/06/2026 17:31",
+  "ultima_atualizacao": "25/06/2026 19:08",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/06/2026 12:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "25/06",
-      "hora": "17:00",
-      "navio": "NAVIOS AMARILLO",
-      "calado": "12,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9324849",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-25T17:00:00"
-    },
     {
       "data": "25/06",
       "hora": "22:00",
@@ -31,7 +16,7 @@
       "imo": "9347827",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-25T22:00:00"
     },
@@ -46,7 +31,7 @@
       "imo": "9246592",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-06-25T23:00:00"
     },
@@ -82,6 +67,21 @@
     },
     {
       "data": "26/06",
+      "hora": "02:00",
+      "navio": "SATURN 5701",
+      "calado": "3,22",
+      "manobra": "M",
+      "beco": "VISITA S -> VISITA S",
+      "status": "futuro",
+      "imo": "1111973",
+      "tipo_navio": "Wind Turbine Installation Platform, jack up",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "visita",
+      "timestamp": "2026-06-26T02:00:00"
+    },
+    {
+      "data": "26/06",
       "hora": "05:00",
       "navio": "NAVIOS AMARILLO",
       "calado": "12,30",
@@ -105,6 +105,21 @@
       "status": "futuro",
       "imo": "9223289",
       "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "visita",
+      "timestamp": "2026-06-26T08:00:00"
+    },
+    {
+      "data": "26/06",
+      "hora": "08:00",
+      "navio": "SATURN 5701",
+      "calado": "3,22",
+      "manobra": "M",
+      "beco": "VISITA S -> SIDERURG4",
+      "status": "futuro",
+      "imo": "1111973",
+      "tipo_navio": "Wind Turbine Installation Platform, jack up",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "visita",
@@ -472,15 +487,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "NAVIOS AMARILLO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/06 17:00",
-      "manobra_rio_fim": "26/06 05:00",
-      "navio_multi": "GRANDE FRANCIA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/06 23:00"
-    },
     {
       "navio_rio": "CHIPOL CHANGJIANG",
       "manobra_rio_afetada": "E",
