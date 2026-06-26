@@ -216,7 +216,16 @@ def detectar_conflitos(navios_rio_manobras, navios_multi_manobras):
 
 def main():
     print("Obtendo manobras...")
-    all_navios = get_all_navios_manobras()
+    all_navios_raw = get_all_navios_manobras()
+    
+    # Filtra navios de VISITA que não vão para/vem do terminal RIO
+    navios_do_rio = {n["navio"] for n in all_navios_raw if n["terminal"] == "rio"}
+    all_navios = []
+    for n in all_navios_raw:
+        if n["terminal"] != "visita":
+            all_navios.append(n)
+        elif n["terminal"] == "visita" and n["navio"] in navios_do_rio:
+            all_navios.append(n)
     
     print("Obtendo status da barra...")
     barra = get_status_barra()
