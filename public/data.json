@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/06/2026 12:04",
+  "ultima_atualizacao": "26/06/2026 14:06",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/06/2026 12:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -61,7 +61,7 @@
       "imo": "9974515",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-26T16:30:00"
     },
@@ -292,6 +292,21 @@
     },
     {
       "data": "28/06",
+      "hora": "14:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "12,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-28T14:00:00"
+    },
+    {
+      "data": "28/06",
       "hora": "20:00",
       "navio": "ITHACA",
       "calado": "8,00",
@@ -319,6 +334,51 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-29T06:30:00"
+    },
+    {
+      "data": "29/06",
+      "hora": "07:30",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-29T07:30:00"
+    },
+    {
+      "data": "29/06",
+      "hora": "09:30",
+      "navio": "NAVIOS VERMILION",
+      "calado": "12,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-29T09:30:00"
+    },
+    {
+      "data": "29/06",
+      "hora": "18:00",
+      "navio": "NAVIOS VERMILION",
+      "calado": "12,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-29T18:00:00"
     },
     {
       "data": "30/06",
@@ -439,6 +499,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-11T07:00:00"
+    },
+    {
+      "data": "13/07",
+      "hora": "10:00",
+      "navio": "EVER FASHION",
+      "calado": "14,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850836",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-13T10:00:00"
+    },
+    {
+      "data": "14/07",
+      "hora": "08:00",
+      "navio": "EVER FASHION",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850836",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-14T08:00:00"
     }
   ],
   "conflitos": [
@@ -519,6 +609,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "28/06 09:00",
       "manobra_rio_fim": "29/06 06:30",
+      "navio_multi": "ITHACA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/06 20:00"
+    },
+    {
+      "navio_rio": "MERCOSUL FORTALEZA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/06 14:00",
+      "manobra_rio_fim": "29/06 07:30",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "28/06 20:00"
