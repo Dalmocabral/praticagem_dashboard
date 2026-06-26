@@ -1,70 +1,10 @@
 {
-  "ultima_atualizacao": "26/06/2026 06:54",
+  "ultima_atualizacao": "26/06/2026 09:12",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/06/2026 12:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "26/06",
-      "hora": "02:00",
-      "navio": "KANG SHENG KOU",
-      "calado": "9,00",
-      "manobra": "M",
-      "beco": "VISITA S -> VISITA S",
-      "status": "hoje",
-      "imo": "9223289",
-      "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "visita",
-      "timestamp": "2026-06-26T02:00:00"
-    },
-    {
-      "data": "26/06",
-      "hora": "02:00",
-      "navio": "SATURN 5701",
-      "calado": "3,22",
-      "manobra": "M",
-      "beco": "VISITA S -> SIDERURG4",
-      "status": "hoje",
-      "imo": "1111973",
-      "tipo_navio": "Wind Turbine Installation Platform, jack up",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "visita",
-      "timestamp": "2026-06-26T02:00:00"
-    },
-    {
-      "data": "26/06",
-      "hora": "05:30",
-      "navio": "NAVIOS AMARILLO",
-      "calado": "12,70",
-      "manobra": "M",
-      "beco": "TECONTPROLONG -> VISITA N",
-      "status": "hoje",
-      "imo": "9324849",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-26T05:30:00"
-    },
-    {
-      "data": "26/06",
-      "hora": "08:00",
-      "navio": "KANG SHENG KOU",
-      "calado": "15,00",
-      "manobra": "M",
-      "beco": "VISITA S -> VISITA S",
-      "status": "hoje",
-      "imo": "9223289",
-      "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "visita",
-      "timestamp": "2026-06-26T08:00:00"
-    },
     {
       "data": "26/06",
       "hora": "08:00",
@@ -91,7 +31,7 @@
       "imo": "9324849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "visita",
       "timestamp": "2026-06-26T12:30:00"
     },
@@ -106,7 +46,7 @@
       "imo": "9365245",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-06-26T12:30:00"
     },
