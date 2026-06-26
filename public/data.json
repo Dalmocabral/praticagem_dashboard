@@ -1,55 +1,10 @@
 {
-  "ultima_atualizacao": "25/06/2026 22:54",
+  "ultima_atualizacao": "26/06/2026 03:14",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/06/2026 12:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "25/06",
-      "hora": "22:00",
-      "navio": "INDUSTRIAL DIAMOND",
-      "calado": "5,40",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9347827",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-25T22:00:00"
-    },
-    {
-      "data": "25/06",
-      "hora": "23:00",
-      "navio": "GRANDE FRANCIA",
-      "calado": "9,50",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "passado",
-      "imo": "9246592",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-25T23:00:00"
-    },
-    {
-      "data": "26/06",
-      "hora": "01:00",
-      "navio": "CHIPOL CHANGJIANG",
-      "calado": "8,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9703538",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-26T01:00:00"
-    },
     {
       "data": "26/06",
       "hora": "02:00",
@@ -61,7 +16,7 @@
       "imo": "9223289",
       "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "visita",
       "timestamp": "2026-06-26T02:00:00"
     },
@@ -76,24 +31,24 @@
       "imo": "1111973",
       "tipo_navio": "Wind Turbine Installation Platform, jack up",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "visita",
       "timestamp": "2026-06-26T02:00:00"
     },
     {
       "data": "26/06",
-      "hora": "05:00",
+      "hora": "05:30",
       "navio": "NAVIOS AMARILLO",
-      "calado": "12,30",
+      "calado": "12,80",
       "manobra": "M",
       "beco": "TECONTPROLONG -> VISITA N",
       "status": "hoje",
       "imo": "9324849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-06-26T05:00:00"
+      "timestamp": "2026-06-26T05:30:00"
     },
     {
       "data": "26/06",
@@ -532,69 +487,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CHIPOL CHANGJIANG",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/06 01:00",
-      "manobra_rio_fim": "28/06 12:00",
-      "navio_multi": "WIDE ALPHA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/06 14:30"
-    },
-    {
-      "navio_rio": "CHIPOL CHANGJIANG",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/06 01:00",
-      "manobra_rio_fim": "28/06 12:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/06 16:30"
-    },
-    {
-      "navio_rio": "CHIPOL CHANGJIANG",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/06 01:00",
-      "manobra_rio_fim": "28/06 12:00",
-      "navio_multi": "MSC UGANDA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/06 20:30"
-    },
-    {
-      "navio_rio": "CHIPOL CHANGJIANG",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/06 01:00",
-      "manobra_rio_fim": "28/06 12:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/06 05:00"
-    },
-    {
-      "navio_rio": "CHIPOL CHANGJIANG",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/06 01:00",
-      "manobra_rio_fim": "28/06 12:00",
-      "navio_multi": "NAVARINO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/06 07:00"
-    },
-    {
-      "navio_rio": "CHIPOL CHANGJIANG",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/06 01:00",
-      "manobra_rio_fim": "28/06 12:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/06 15:00"
-    },
-    {
-      "navio_rio": "CHIPOL CHANGJIANG",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/06 01:00",
-      "manobra_rio_fim": "28/06 12:00",
-      "navio_multi": "NAVARINO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/06 07:00"
-    },
     {
       "navio_rio": "SCOT DRESDEN",
       "manobra_rio_afetada": "E",
