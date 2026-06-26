@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "26/06/2026 14:06",
+  "ultima_atualizacao": "26/06/2026 16:02",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/06/2026 12:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "26/06",
-      "hora": "12:30",
-      "navio": "NAVIOS AMARILLO",
-      "calado": "12,70",
-      "manobra": "S",
-      "beco": "VISITA N",
-      "status": "hoje",
-      "imo": "9324849",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "visita",
-      "timestamp": "2026-06-26T12:30:00"
-    },
     {
       "data": "26/06",
       "hora": "12:30",
@@ -76,7 +61,7 @@
       "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-26T18:30:00"
     },
