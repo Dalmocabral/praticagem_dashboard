@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/06/2026 03:14",
+  "ultima_atualizacao": "26/06/2026 06:54",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/06/2026 12:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -39,7 +39,7 @@
       "data": "26/06",
       "hora": "05:30",
       "navio": "NAVIOS AMARILLO",
-      "calado": "12,80",
+      "calado": "12,70",
       "manobra": "M",
       "beco": "TECONTPROLONG -> VISITA N",
       "status": "hoje",
@@ -61,7 +61,7 @@
       "imo": "9223289",
       "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "visita",
       "timestamp": "2026-06-26T08:00:00"
     },
@@ -76,7 +76,7 @@
       "imo": "1111973",
       "tipo_navio": "Wind Turbine Installation Platform, jack up",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "visita",
       "timestamp": "2026-06-26T08:00:00"
     },
