@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "26/06/2026 17:51",
+  "ultima_atualizacao": "26/06/2026 19:10",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/06/2026 12:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "26/06",
-      "hora": "16:30",
-      "navio": "MSC UGANDA",
-      "calado": "10,60",
-      "manobra": "M",
-      "beco": "TECONT2 -> TECONT3",
-      "status": "hoje",
-      "imo": "9974515",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-26T16:30:00"
-    },
     {
       "data": "26/06",
       "hora": "18:30",
@@ -49,6 +34,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-27T04:00:00"
+    },
+    {
+      "data": "27/06",
+      "hora": "05:00",
+      "navio": "KANG SHENG KOU",
+      "calado": "6,50",
+      "manobra": "S",
+      "beco": "VISITA S",
+      "status": "futuro",
+      "imo": "9223289",
+      "tipo_navio": "HEAVY LOAD CARRIER, SEMI SUBMERSIBLE",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "visita",
+      "timestamp": "2026-06-27T05:00:00"
+    },
+    {
+      "data": "27/06",
+      "hora": "07:00",
+      "navio": "UNION PEACE",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "VISITA S",
+      "status": "futuro",
+      "imo": "9339973",
+      "tipo_navio": "CRUDE OIL TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "visita",
+      "timestamp": "2026-06-27T07:00:00"
     },
     {
       "data": "27/06",
