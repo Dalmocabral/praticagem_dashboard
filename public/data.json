@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/06/2026 16:02",
+  "ultima_atualizacao": "26/06/2026 17:51",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/06/2026 12:29 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
@@ -7,39 +7,9 @@
   "navios": [
     {
       "data": "26/06",
-      "hora": "12:30",
-      "navio": "SCOT DRESDEN",
-      "calado": "7,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9365245",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-26T12:30:00"
-    },
-    {
-      "data": "26/06",
-      "hora": "14:30",
-      "navio": "WIDE ALPHA",
-      "calado": "13,20",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9694529",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-26T14:30:00"
-    },
-    {
-      "data": "26/06",
       "hora": "16:30",
       "navio": "MSC UGANDA",
-      "calado": "10,50",
+      "calado": "10,60",
       "manobra": "M",
       "beco": "TECONT2 -> TECONT3",
       "status": "hoje",
@@ -54,7 +24,7 @@
       "data": "26/06",
       "hora": "18:30",
       "navio": "COPIAPO",
-      "calado": "11,10",
+      "calado": "10,90",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
@@ -103,7 +73,7 @@
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "8512906",
+      "imo": "1016692",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -115,8 +85,8 @@
       "hora": "13:00",
       "navio": "SCOT DRESDEN",
       "calado": "6,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "manobra": "M",
+      "beco": "TECONTPROLONG -> WPT 62",
       "status": "futuro",
       "imo": "9365245",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
@@ -142,7 +112,7 @@
     },
     {
       "data": "27/06",
-      "hora": "18:00",
+      "hora": "16:30",
       "navio": "SWANSEA",
       "calado": "12,00",
       "manobra": "E",
@@ -153,7 +123,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-27T18:00:00"
+      "timestamp": "2026-06-27T16:30:00"
     },
     {
       "data": "27/06",
@@ -238,7 +208,7 @@
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "8512906",
+      "imo": "1016692",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -279,7 +249,7 @@
       "data": "28/06",
       "hora": "14:00",
       "navio": "MERCOSUL FORTALEZA",
-      "calado": "12,00",
+      "calado": "10,30",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -307,6 +277,21 @@
     },
     {
       "data": "29/06",
+      "hora": "05:30",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,20",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-29T05:30:00"
+    },
+    {
+      "data": "29/06",
       "hora": "06:30",
       "navio": "EVER FAR",
       "calado": "12,60",
@@ -319,21 +304,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-29T06:30:00"
-    },
-    {
-      "data": "29/06",
-      "hora": "07:30",
-      "navio": "MERCOSUL FORTALEZA",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9784661",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-29T07:30:00"
     },
     {
       "data": "29/06",
@@ -518,54 +488,9 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "SCOT DRESDEN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/06 12:30",
-      "manobra_rio_fim": "27/06 13:00",
-      "navio_multi": "WIDE ALPHA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/06 14:30"
-    },
-    {
-      "navio_rio": "SCOT DRESDEN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/06 12:30",
-      "manobra_rio_fim": "27/06 13:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/06 18:30"
-    },
-    {
-      "navio_rio": "SCOT DRESDEN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/06 12:30",
-      "manobra_rio_fim": "27/06 13:00",
-      "navio_multi": "MSC UGANDA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/06 04:00"
-    },
-    {
-      "navio_rio": "SCOT DRESDEN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/06 12:30",
-      "manobra_rio_fim": "27/06 13:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/06 09:00"
-    },
-    {
-      "navio_rio": "SCOT DRESDEN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/06 12:30",
-      "manobra_rio_fim": "27/06 13:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/06 11:00"
-    },
-    {
       "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/06 18:00",
+      "manobra_rio_inicio": "27/06 16:30",
       "manobra_rio_fim": "28/06 06:00",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "E",
@@ -574,7 +499,7 @@
     {
       "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "27/06 18:00",
+      "manobra_rio_inicio": "27/06 16:30",
       "manobra_rio_fim": "28/06 06:00",
       "navio_multi": "BOSPORUS HIGHWAY",
       "manobra_multi_tipo": "S",
@@ -602,7 +527,7 @@
       "navio_rio": "MERCOSUL FORTALEZA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/06 14:00",
-      "manobra_rio_fim": "29/06 07:30",
+      "manobra_rio_fim": "29/06 05:30",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "28/06 20:00"
