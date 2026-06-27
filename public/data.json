@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/06/2026 19:41",
+  "ultima_atualizacao": "27/06/2026 20:43",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 26/06/2026 22:14 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno.\nSuspensão das manobras de atracação e desatracação no terminal BHGE CAXIMBAU."
@@ -46,7 +46,7 @@
       "imo": "9519107",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-27T23:00:00"
     },
