@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/06/2026 05:16",
+  "ultima_atualizacao": "27/06/2026 07:28",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 26/06/2026 22:14 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno.\nSuspensão das manobras de atracação e desatracação no terminal BHGE CAXIMBAU."
@@ -7,7 +7,7 @@
   "navios": [
     {
       "data": "27/06",
-      "hora": "08:00",
+      "hora": "09:30",
       "navio": "MSC UGANDA",
       "calado": "10,50",
       "manobra": "S",
@@ -18,11 +18,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-27T08:00:00"
+      "timestamp": "2026-06-27T09:30:00"
     },
     {
       "data": "27/06",
-      "hora": "09:00",
+      "hora": "12:00",
       "navio": "COPIAPO",
       "calado": "11,00",
       "manobra": "S",
@@ -31,24 +31,9 @@
       "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-27T09:00:00"
-    },
-    {
-      "data": "27/06",
-      "hora": "11:00",
-      "navio": "MSC ADELE",
-      "calado": "14,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-27T11:00:00"
+      "timestamp": "2026-06-27T12:00:00"
     },
     {
       "data": "27/06",
@@ -68,13 +53,13 @@
     {
       "data": "27/06",
       "hora": "15:00",
-      "navio": "BOSPORUS HIGHWAY",
-      "calado": "8,50",
+      "navio": "MSC ADELE",
+      "calado": "12,60",
       "manobra": "E",
-      "beco": "TECONT5",
+      "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9519107",
-      "tipo_navio": "VEHICLES CARRIER",
+      "imo": "1016692",
+      "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
@@ -124,6 +109,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-27T21:00:00"
+    },
+    {
+      "data": "27/06",
+      "hora": "23:00",
+      "navio": "BOSPORUS HIGHWAY",
+      "calado": "8,50",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9519107",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-27T23:00:00"
     },
     {
       "data": "28/06",
@@ -468,12 +468,30 @@
     },
     {
       "navio_rio": "SWANSEA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "27/06 16:30",
+      "manobra_rio_fim": "28/06 06:00",
+      "navio_multi": "BOSPORUS HIGHWAY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "27/06 23:00"
+    },
+    {
+      "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "27/06 16:30",
       "manobra_rio_fim": "28/06 06:00",
       "navio_multi": "BOSPORUS HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "28/06 03:00"
+    },
+    {
+      "navio_rio": "MALIAKOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "27/06 21:00",
+      "manobra_rio_fim": "28/06 05:00",
+      "navio_multi": "BOSPORUS HIGHWAY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "27/06 23:00"
     },
     {
       "navio_rio": "MALIAKOS",
