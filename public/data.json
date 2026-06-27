@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "27/06/2026 18:33",
+  "ultima_atualizacao": "27/06/2026 19:41",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 26/06/2026 22:14 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno.\nSuspensão das manobras de atracação e desatracação no terminal BHGE CAXIMBAU."
   },
   "navios": [
-    {
-      "data": "27/06",
-      "hora": "16:30",
-      "navio": "SWANSEA",
-      "calado": "14,10",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9629469",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-27T16:30:00"
-    },
     {
       "data": "27/06",
       "hora": "18:30",
@@ -39,7 +24,7 @@
       "data": "27/06",
       "hora": "21:00",
       "navio": "MALIAKOS",
-      "calado": "11,00",
+      "calado": "10,10",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -61,7 +46,7 @@
       "imo": "9519107",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-06-27T23:00:00"
     },
@@ -427,42 +412,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "SWANSEA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/06 16:30",
-      "manobra_rio_fim": "28/06 16:00",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/06 18:30"
-    },
-    {
-      "navio_rio": "SWANSEA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/06 16:30",
-      "manobra_rio_fim": "28/06 16:00",
-      "navio_multi": "BOSPORUS HIGHWAY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/06 23:00"
-    },
-    {
-      "navio_rio": "SWANSEA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "27/06 16:30",
-      "manobra_rio_fim": "28/06 16:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/06 06:30"
-    },
-    {
-      "navio_rio": "SWANSEA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "27/06 16:30",
-      "manobra_rio_fim": "28/06 16:00",
-      "navio_multi": "NAVARINO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "28/06 08:30"
-    },
     {
       "navio_rio": "MALIAKOS",
       "manobra_rio_afetada": "E",
