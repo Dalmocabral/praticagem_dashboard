@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/06/2026 14:38",
+  "ultima_atualizacao": "28/06/2026 15:50",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 26/06/2026 22:14 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno.\nSuspensão das manobras de atracação e desatracação no terminal BHGE CAXIMBAU."
@@ -61,7 +61,7 @@
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-06-28T19:00:00"
     },
