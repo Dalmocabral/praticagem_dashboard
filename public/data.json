@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "28/06/2026 17:07",
+  "ultima_atualizacao": "28/06/2026 18:19",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 26/06/2026 22:14 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno.\nSuspensão das manobras de atracação e desatracação no terminal BHGE CAXIMBAU."
   },
   "navios": [
-    {
-      "data": "28/06",
-      "hora": "14:00",
-      "navio": "MERCOSUL FORTALEZA",
-      "calado": "10,10",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9784661",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-28T14:00:00"
-    },
-    {
-      "data": "28/06",
-      "hora": "16:00",
-      "navio": "BOSPORUS HIGHWAY",
-      "calado": "9,35",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9519107",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-28T16:00:00"
-    },
     {
       "data": "28/06",
       "hora": "19:00",
@@ -61,7 +31,7 @@
       "imo": "9850862",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-06-28T21:00:00"
     },
@@ -124,6 +94,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-29T05:30:00"
+    },
+    {
+      "data": "29/06",
+      "hora": "07:00",
+      "navio": "SWANSEA",
+      "calado": "14,20",
+      "manobra": "S",
+      "beco": "VISITA S",
+      "status": "futuro",
+      "imo": "9629469",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "visita",
+      "timestamp": "2026-06-29T07:00:00"
     },
     {
       "data": "29/06",
@@ -412,33 +397,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "28/06 14:00",
-      "manobra_rio_fim": "29/06 05:30",
-      "navio_multi": "BOSPORUS HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/06 16:00"
-    },
-    {
-      "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "28/06 14:00",
-      "manobra_rio_fim": "29/06 05:30",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "29/06 02:00"
-    },
-    {
-      "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "28/06 14:00",
-      "manobra_rio_fim": "29/06 05:30",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/06 04:00"
-    },
     {
       "navio_rio": "EVER FAR",
       "manobra_rio_afetada": "E",
