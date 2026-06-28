@@ -1,8 +1,8 @@
 {
-  "ultima_atualizacao": "28/06/2026 18:19",
+  "ultima_atualizacao": "28/06/2026 19:33",
   "barra_info": {
     "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 26/06/2026 22:14 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno.\nSuspensão das manobras de atracação e desatracação no terminal BHGE CAXIMBAU."
+    "mensagem": "BARRA RESTRITA DESDE 28/06/2026 18:28 Suspensão das manobras de atracação e desatracação no terminal BHGE CAXIMBAU."
   },
   "navios": [
     {
@@ -34,21 +34,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-06-28T21:00:00"
-    },
-    {
-      "data": "29/06",
-      "hora": "00:00",
-      "navio": "CHIPOL CHANGJIANG",
-      "calado": "7,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9703538",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-29T00:00:00"
     },
     {
       "data": "29/06",
@@ -184,6 +169,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-29T15:30:00"
+    },
+    {
+      "data": "29/06",
+      "hora": "16:30",
+      "navio": "CHIPOL CHANGJIANG",
+      "calado": "7,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9703538",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-29T16:30:00"
     },
     {
       "data": "29/06",
