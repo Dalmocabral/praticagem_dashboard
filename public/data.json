@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/06/2026 13:15",
+  "ultima_atualizacao": "28/06/2026 14:38",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 26/06/2026 22:14 Embarque e desembarque em águas abrigadas para navios e supplies no período noturno.\nSuspensão das manobras de atracação e desatracação no terminal BHGE CAXIMBAU."
@@ -24,7 +24,7 @@
       "data": "28/06",
       "hora": "16:00",
       "navio": "BOSPORUS HIGHWAY",
-      "calado": "8,50",
+      "calado": "9,35",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -46,7 +46,7 @@
       "imo": "9629469",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-28T17:00:00"
     },
