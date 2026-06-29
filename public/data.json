@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/06/2026 04:00",
+  "ultima_atualizacao": "29/06/2026 09:06",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
@@ -7,67 +7,37 @@
   "navios": [
     {
       "data": "29/06",
-      "hora": "04:30",
-      "navio": "ITHACA",
-      "calado": "7,70",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9968449",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-29T04:30:00"
-    },
-    {
-      "data": "29/06",
-      "hora": "06:30",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-29T06:30:00"
-    },
-    {
-      "data": "29/06",
       "hora": "08:30",
       "navio": "MERCOSUL FORTALEZA",
-      "calado": "10,20",
+      "calado": "10,90",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9784661",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-29T08:30:00"
     },
     {
       "data": "29/06",
-      "hora": "10:00",
+      "hora": "10:30",
       "navio": "NAVARINO",
-      "calado": "14,60",
+      "calado": "13,60",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9400289",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-29T10:00:00"
+      "timestamp": "2026-06-29T10:30:00"
     },
     {
       "data": "29/06",
-      "hora": "12:00",
+      "hora": "12:30",
       "navio": "NAVIOS VERMILION",
       "calado": "12,20",
       "manobra": "E",
@@ -76,13 +46,13 @@
       "imo": "9324837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
-      "timestamp": "2026-06-29T12:00:00"
+      "timestamp": "2026-06-29T12:30:00"
     },
     {
       "data": "29/06",
-      "hora": "13:30",
+      "hora": "14:30",
       "navio": "MSC CATERINA",
       "calado": "11,50",
       "manobra": "E",
@@ -93,22 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-29T13:30:00"
-    },
-    {
-      "data": "29/06",
-      "hora": "15:30",
-      "navio": "EVER FAR",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9850862",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-29T15:30:00"
+      "timestamp": "2026-06-29T14:30:00"
     },
     {
       "data": "29/06",
@@ -156,19 +111,34 @@
       "timestamp": "2026-06-29T20:00:00"
     },
     {
-      "data": "29/06",
-      "hora": "22:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,50",
+      "data": "30/06",
+      "hora": "06:30",
+      "navio": "EVER FAR",
+      "calado": "14,10",
       "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9506394",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850862",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-29T22:00:00"
+      "terminal": "rio",
+      "timestamp": "2026-06-30T06:30:00"
+    },
+    {
+      "data": "30/06",
+      "hora": "08:30",
+      "navio": "SCOT DRESDEN",
+      "calado": "6,50",
+      "manobra": "M",
+      "beco": "WPT 62 -> TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9365245",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-30T08:30:00"
     },
     {
       "data": "30/06",
@@ -187,6 +157,21 @@
     },
     {
       "data": "30/06",
+      "hora": "19:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-30T19:00:00"
+    },
+    {
+      "data": "30/06",
       "hora": "21:00",
       "navio": "MSC ODESSA V",
       "calado": "9,00",
@@ -199,6 +184,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-30T21:00:00"
+    },
+    {
+      "data": "01/07",
+      "hora": "10:30",
+      "navio": "SCOT DRESDEN",
+      "calado": "3,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9365245",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-01T10:30:00"
     },
     {
       "data": "01/07",
@@ -340,11 +340,38 @@
     {
       "navio_rio": "NAVIOS VERMILION",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "29/06 12:00",
+      "manobra_rio_inicio": "29/06 12:30",
       "manobra_rio_fim": "29/06 18:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "29/06 13:30"
+      "manobra_multi_data_hora": "29/06 14:30"
+    },
+    {
+      "navio_rio": "SCOT DRESDEN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "30/06 08:30",
+      "manobra_rio_fim": "01/07 10:30",
+      "navio_multi": "MSC CATERINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "30/06 13:00"
+    },
+    {
+      "navio_rio": "SCOT DRESDEN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "30/06 08:30",
+      "manobra_rio_fim": "01/07 10:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "30/06 19:00"
+    },
+    {
+      "navio_rio": "SCOT DRESDEN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "30/06 08:30",
+      "manobra_rio_fim": "01/07 10:30",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "30/06 21:00"
     }
   ]
 }
