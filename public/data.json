@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "29/06/2026 11:54",
+  "ultima_atualizacao": "29/06/2026 13:09",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
   },
   "navios": [
-    {
-      "data": "29/06",
-      "hora": "10:30",
-      "navio": "NAVARINO",
-      "calado": "13,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9400289",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-29T10:30:00"
-    },
-    {
-      "data": "29/06",
-      "hora": "11:30",
-      "navio": "CHIPOL CHANGJIANG",
-      "calado": "7,70",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9703538",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-29T11:30:00"
-    },
     {
       "data": "29/06",
       "hora": "13:30",
@@ -61,7 +31,7 @@
       "imo": "9324837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-06-29T15:00:00"
     },
