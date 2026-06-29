@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "29/06/2026 09:06",
+  "ultima_atualizacao": "29/06/2026 11:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
   },
   "navios": [
-    {
-      "data": "29/06",
-      "hora": "08:30",
-      "navio": "MERCOSUL FORTALEZA",
-      "calado": "10,90",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9784661",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-29T08:30:00"
-    },
     {
       "data": "29/06",
       "hora": "10:30",
@@ -37,7 +22,37 @@
     },
     {
       "data": "29/06",
-      "hora": "12:30",
+      "hora": "11:30",
+      "navio": "CHIPOL CHANGJIANG",
+      "calado": "7,70",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9703538",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": "saida_atrasada",
+      "terminal": "rio",
+      "timestamp": "2026-06-29T11:30:00"
+    },
+    {
+      "data": "29/06",
+      "hora": "13:30",
+      "navio": "MSC CATERINA",
+      "calado": "11,50",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_futura",
+      "terminal": "multi",
+      "timestamp": "2026-06-29T13:30:00"
+    },
+    {
+      "data": "29/06",
+      "hora": "15:00",
       "navio": "NAVIOS VERMILION",
       "calado": "12,20",
       "manobra": "E",
@@ -48,52 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "entrada_antecipada",
       "terminal": "rio",
-      "timestamp": "2026-06-29T12:30:00"
-    },
-    {
-      "data": "29/06",
-      "hora": "14:30",
-      "navio": "MSC CATERINA",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-29T14:30:00"
-    },
-    {
-      "data": "29/06",
-      "hora": "16:30",
-      "navio": "CHIPOL CHANGJIANG",
-      "calado": "7,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9703538",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-29T16:30:00"
-    },
-    {
-      "data": "29/06",
-      "hora": "18:00",
-      "navio": "NAVIOS VERMILION",
-      "calado": "12,20",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9324837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-29T18:00:00"
+      "timestamp": "2026-06-29T15:00:00"
     },
     {
       "data": "29/06",
@@ -109,6 +79,36 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-06-29T20:00:00"
+    },
+    {
+      "data": "30/06",
+      "hora": "01:00",
+      "navio": "UAL FORTITUDE",
+      "calado": "6,50",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9402079",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-06-30T01:00:00"
+    },
+    {
+      "data": "30/06",
+      "hora": "05:30",
+      "navio": "NAVIOS VERMILION",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-30T05:30:00"
     },
     {
       "data": "30/06",
@@ -139,6 +139,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-06-30T08:30:00"
+    },
+    {
+      "data": "30/06",
+      "hora": "10:30",
+      "navio": "MAERSK FORTALEZA",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9979278",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-30T10:30:00"
     },
     {
       "data": "30/06",
@@ -186,6 +201,36 @@
       "timestamp": "2026-06-30T21:00:00"
     },
     {
+      "data": "30/06",
+      "hora": "23:00",
+      "navio": "MAERSK FORTALEZA",
+      "calado": "12,40",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9979278",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-30T23:00:00"
+    },
+    {
+      "data": "01/07",
+      "hora": "06:30",
+      "navio": "UAL FORTITUDE",
+      "calado": "7,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9402079",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-01T06:30:00"
+    },
+    {
       "data": "01/07",
       "hora": "10:30",
       "navio": "SCOT DRESDEN",
@@ -202,6 +247,21 @@
     },
     {
       "data": "01/07",
+      "hora": "12:30",
+      "navio": "CMA CGM BAHIA",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-01T12:30:00"
+    },
+    {
+      "data": "01/07",
       "hora": "15:30",
       "navio": "MSC ODESSA V",
       "calado": "10,00",
@@ -214,6 +274,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-01T15:30:00"
+    },
+    {
+      "data": "02/07",
+      "hora": "15:00",
+      "navio": "CMA CGM BAHIA",
+      "calado": "14,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9938248",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-02T15:00:00"
     },
     {
       "data": "05/07",
@@ -340,11 +415,20 @@
     {
       "navio_rio": "NAVIOS VERMILION",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "29/06 12:30",
-      "manobra_rio_fim": "29/06 18:00",
-      "navio_multi": "MSC CATERINA",
+      "manobra_rio_inicio": "29/06 15:00",
+      "manobra_rio_fim": "30/06 05:30",
+      "navio_multi": "GRANDE AMBURGO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "29/06 20:00"
+    },
+    {
+      "navio_rio": "NAVIOS VERMILION",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "29/06 15:00",
+      "manobra_rio_fim": "30/06 05:30",
+      "navio_multi": "UAL FORTITUDE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "29/06 14:30"
+      "manobra_multi_data_hora": "30/06 01:00"
     },
     {
       "navio_rio": "SCOT DRESDEN",
@@ -372,6 +456,51 @@
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "30/06 21:00"
+    },
+    {
+      "navio_rio": "SCOT DRESDEN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "30/06 08:30",
+      "manobra_rio_fim": "01/07 10:30",
+      "navio_multi": "UAL FORTITUDE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/07 06:30"
+    },
+    {
+      "navio_rio": "MAERSK FORTALEZA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "30/06 10:30",
+      "manobra_rio_fim": "30/06 23:00",
+      "navio_multi": "MSC CATERINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "30/06 13:00"
+    },
+    {
+      "navio_rio": "MAERSK FORTALEZA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "30/06 10:30",
+      "manobra_rio_fim": "30/06 23:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "30/06 19:00"
+    },
+    {
+      "navio_rio": "MAERSK FORTALEZA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "30/06 10:30",
+      "manobra_rio_fim": "30/06 23:00",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "30/06 21:00"
+    },
+    {
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/07 12:30",
+      "manobra_rio_fim": "02/07 15:00",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/07 15:30"
     }
   ]
 }
