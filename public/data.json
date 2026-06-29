@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "28/06/2026 22:58",
+  "ultima_atualizacao": "29/06/2026 03:42",
   "barra_info": {
-    "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 28/06/2026 18:28 Suspensão das manobras de atracação e desatracação no terminal BHGE CAXIMBAU."
+    "restrita": false,
+    "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
   },
   "navios": [
-    {
-      "data": "28/06",
-      "hora": "19:00",
-      "navio": "SWANSEA",
-      "calado": "14,20",
-      "manobra": "M",
-      "beco": "TECONTPROLONG -> VISITA S",
-      "status": "passado",
-      "imo": "9629469",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-28T19:00:00"
-    },
-    {
-      "data": "28/06",
-      "hora": "21:00",
-      "navio": "EVER FAR",
-      "calado": "14,70",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9850862",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-28T21:00:00"
-    },
     {
       "data": "29/06",
       "hora": "02:00",
@@ -46,28 +16,43 @@
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-29T02:00:00"
     },
     {
       "data": "29/06",
-      "hora": "04:00",
+      "hora": "04:30",
       "navio": "ITHACA",
-      "calado": "8,00",
+      "calado": "7,70",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9968449",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-06-29T04:00:00"
+      "timestamp": "2026-06-29T04:30:00"
     },
     {
       "data": "29/06",
-      "hora": "05:30",
+      "hora": "06:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_futura",
+      "terminal": "multi",
+      "timestamp": "2026-06-29T06:30:00"
+    },
+    {
+      "data": "29/06",
+      "hora": "08:30",
       "navio": "MERCOSUL FORTALEZA",
       "calado": "10,20",
       "manobra": "S",
@@ -78,56 +63,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-06-29T05:30:00"
+      "timestamp": "2026-06-29T08:30:00"
     },
     {
       "data": "29/06",
-      "hora": "07:00",
-      "navio": "SWANSEA",
-      "calado": "14,20",
-      "manobra": "S",
-      "beco": "VISITA S",
-      "status": "hoje",
-      "imo": "9629469",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "visita",
-      "timestamp": "2026-06-29T07:00:00"
-    },
-    {
-      "data": "29/06",
-      "hora": "07:30",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-29T07:30:00"
-    },
-    {
-      "data": "29/06",
-      "hora": "09:30",
-      "navio": "NAVIOS VERMILION",
-      "calado": "12,20",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9324837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-06-29T09:30:00"
-    },
-    {
-      "data": "29/06",
-      "hora": "11:30",
+      "hora": "10:00",
       "navio": "NAVARINO",
       "calado": "14,60",
       "manobra": "S",
@@ -138,7 +78,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-29T11:30:00"
+      "timestamp": "2026-06-29T10:00:00"
+    },
+    {
+      "data": "29/06",
+      "hora": "12:00",
+      "navio": "NAVIOS VERMILION",
+      "calado": "12,20",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-06-29T12:00:00"
     },
     {
       "data": "29/06",
@@ -398,63 +353,9 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "EVER FAR",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "28/06 21:00",
-      "manobra_rio_fim": "29/06 15:30",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "29/06 02:00"
-    },
-    {
-      "navio_rio": "EVER FAR",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "28/06 21:00",
-      "manobra_rio_fim": "29/06 15:30",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/06 04:00"
-    },
-    {
-      "navio_rio": "EVER FAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "28/06 21:00",
-      "manobra_rio_fim": "29/06 15:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "29/06 07:30"
-    },
-    {
-      "navio_rio": "EVER FAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "28/06 21:00",
-      "manobra_rio_fim": "29/06 15:30",
-      "navio_multi": "NAVARINO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/06 11:30"
-    },
-    {
-      "navio_rio": "EVER FAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "28/06 21:00",
-      "manobra_rio_fim": "29/06 15:30",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "29/06 13:30"
-    },
-    {
       "navio_rio": "NAVIOS VERMILION",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "29/06 09:30",
-      "manobra_rio_fim": "29/06 18:00",
-      "navio_multi": "NAVARINO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/06 11:30"
-    },
-    {
-      "navio_rio": "NAVIOS VERMILION",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "29/06 09:30",
+      "manobra_rio_inicio": "29/06 12:00",
       "manobra_rio_fim": "29/06 18:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
