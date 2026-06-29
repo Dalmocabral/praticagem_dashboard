@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "29/06/2026 15:23",
+  "ultima_atualizacao": "29/06/2026 17:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
   },
   "navios": [
-    {
-      "data": "29/06",
-      "hora": "15:00",
-      "navio": "NAVIOS VERMILION",
-      "calado": "12,20",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9324837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-29T15:00:00"
-    },
     {
       "data": "29/06",
       "hora": "20:00",
@@ -31,7 +16,7 @@
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-06-29T20:00:00"
     },
@@ -367,24 +352,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "NAVIOS VERMILION",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "29/06 15:00",
-      "manobra_rio_fim": "30/06 05:30",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/06 20:00"
-    },
-    {
-      "navio_rio": "NAVIOS VERMILION",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/06 15:00",
-      "manobra_rio_fim": "30/06 05:30",
-      "navio_multi": "UAL FORTITUDE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/06 01:00"
-    },
     {
       "navio_rio": "SCOT DRESDEN",
       "manobra_rio_afetada": "S",
