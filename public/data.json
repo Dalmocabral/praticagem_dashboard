@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "30/06/2026 01:38",
+  "ultima_atualizacao": "30/06/2026 05:21",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
   },
   "navios": [
-    {
-      "data": "30/06",
-      "hora": "01:00",
-      "navio": "UAL FORTITUDE",
-      "calado": "6,70",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9402079",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-06-30T01:00:00"
-    },
     {
       "data": "30/06",
       "hora": "05:30",
@@ -31,7 +16,7 @@
       "imo": "9324837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-30T05:30:00"
     },
@@ -39,14 +24,14 @@
       "data": "30/06",
       "hora": "06:30",
       "navio": "EVER FAR",
-      "calado": "14,10",
+      "calado": "14,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9850862",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-06-30T06:30:00"
     },
@@ -61,7 +46,7 @@
       "imo": "9365245",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-06-30T08:30:00"
     },
