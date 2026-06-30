@@ -1,37 +1,22 @@
 {
-  "ultima_atualizacao": "29/06/2026 21:16",
+  "ultima_atualizacao": "30/06/2026 01:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
   },
   "navios": [
     {
-      "data": "29/06",
-      "hora": "20:00",
-      "navio": "GRANDE AMBURGO",
-      "calado": "8,40",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "passado",
-      "imo": "9246607",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-29T20:00:00"
-    },
-    {
       "data": "30/06",
       "hora": "01:00",
       "navio": "UAL FORTITUDE",
-      "calado": "6,50",
+      "calado": "6,70",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9402079",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-06-30T01:00:00"
     },
@@ -46,7 +31,7 @@
       "imo": "9324837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-06-30T05:30:00"
     },
