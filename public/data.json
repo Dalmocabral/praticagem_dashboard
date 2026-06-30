@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "30/06/2026 10:23",
+  "ultima_atualizacao": "30/06/2026 13:05",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
@@ -7,67 +7,7 @@
   "navios": [
     {
       "data": "30/06",
-      "hora": "05:30",
-      "navio": "NAVIOS VERMILION",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9324837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-30T05:30:00"
-    },
-    {
-      "data": "30/06",
-      "hora": "06:30",
-      "navio": "EVER FAR",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9850862",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-30T06:30:00"
-    },
-    {
-      "data": "30/06",
-      "hora": "08:30",
-      "navio": "SCOT DRESDEN",
-      "calado": "7,00",
-      "manobra": "M",
-      "beco": "WPT 62 -> TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9365245",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-06-30T08:30:00"
-    },
-    {
-      "data": "30/06",
-      "hora": "10:30",
-      "navio": "MAERSK FORTALEZA",
-      "calado": "12,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9979278",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-06-30T10:30:00"
-    },
-    {
-      "data": "30/06",
-      "hora": "13:00",
+      "hora": "22:00",
       "navio": "MSC CATERINA",
       "calado": "10,00",
       "manobra": "S",
@@ -76,39 +16,9 @@
       "imo": "9705005",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-06-30T13:00:00"
-    },
-    {
-      "data": "30/06",
-      "hora": "19:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-06-30T19:00:00"
-    },
-    {
-      "data": "30/06",
-      "hora": "21:00",
-      "navio": "MSC ODESSA V",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-06-30T21:00:00"
+      "timestamp": "2026-06-30T22:00:00"
     },
     {
       "data": "30/06",
@@ -142,7 +52,22 @@
     },
     {
       "data": "01/07",
-      "hora": "06:30",
+      "hora": "03:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-01T03:00:00"
+    },
+    {
+      "data": "01/07",
+      "hora": "05:00",
       "navio": "UAL FORTITUDE",
       "calado": "7,00",
       "manobra": "S",
@@ -153,7 +78,22 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-01T06:30:00"
+      "timestamp": "2026-07-01T05:00:00"
+    },
+    {
+      "data": "01/07",
+      "hora": "07:00",
+      "navio": "CAPE AKRITAS",
+      "calado": "12,90",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9706190",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-01T07:00:00"
     },
     {
       "data": "01/07",
@@ -187,21 +127,6 @@
     },
     {
       "data": "01/07",
-      "hora": "15:30",
-      "navio": "MSC ODESSA V",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-01T15:30:00"
-    },
-    {
-      "data": "01/07",
       "hora": "18:00",
       "navio": "XIN CHONG QING",
       "calado": "12,00",
@@ -214,6 +139,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-01T18:00:00"
+    },
+    {
+      "data": "02/07",
+      "hora": "06:30",
+      "navio": "CAPE AKRITAS",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9706190",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-02T06:30:00"
     },
     {
       "data": "02/07",
@@ -379,71 +319,47 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-14T08:00:00"
+    },
+    {
+      "data": "14/07",
+      "hora": "10:00",
+      "navio": "COSCO SHIPPING BRAZIL",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-14T10:00:00"
+    },
+    {
+      "data": "15/07",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING BRAZIL",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-15T08:00:00"
     }
   ],
   "conflitos": [
     {
-      "navio_rio": "SCOT DRESDEN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/06 08:30",
-      "manobra_rio_fim": "01/07 10:30",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/06 13:00"
-    },
-    {
-      "navio_rio": "SCOT DRESDEN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/06 08:30",
-      "manobra_rio_fim": "01/07 10:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/06 19:00"
-    },
-    {
-      "navio_rio": "SCOT DRESDEN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/06 08:30",
-      "manobra_rio_fim": "01/07 10:30",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/06 21:00"
-    },
-    {
-      "navio_rio": "SCOT DRESDEN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/06 08:30",
-      "manobra_rio_fim": "01/07 10:30",
-      "navio_multi": "UAL FORTITUDE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/07 06:30"
-    },
-    {
-      "navio_rio": "MAERSK FORTALEZA",
+      "navio_rio": "XIN CHONG QING",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "30/06 10:30",
-      "manobra_rio_fim": "30/06 23:00",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/06 13:00"
-    },
-    {
-      "navio_rio": "MAERSK FORTALEZA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/06 10:30",
-      "manobra_rio_fim": "30/06 23:00",
+      "manobra_rio_inicio": "01/07 01:00",
+      "manobra_rio_fim": "01/07 18:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/06 19:00"
-    },
-    {
-      "navio_rio": "MAERSK FORTALEZA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/06 10:30",
-      "manobra_rio_fim": "30/06 23:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/06 21:00"
+      "manobra_multi_data_hora": "01/07 03:00"
     },
     {
       "navio_rio": "XIN CHONG QING",
@@ -452,25 +368,25 @@
       "manobra_rio_fim": "01/07 18:00",
       "navio_multi": "UAL FORTITUDE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/07 06:30"
+      "manobra_multi_data_hora": "01/07 05:00"
     },
     {
       "navio_rio": "XIN CHONG QING",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "01/07 01:00",
       "manobra_rio_fim": "01/07 18:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/07 15:30"
+      "navio_multi": "CAPE AKRITAS",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "01/07 07:00"
     },
     {
       "navio_rio": "CMA CGM BAHIA",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "01/07 12:30",
       "manobra_rio_fim": "02/07 15:00",
-      "navio_multi": "MSC ODESSA V",
+      "navio_multi": "CAPE AKRITAS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/07 15:30"
+      "manobra_multi_data_hora": "02/07 06:30"
     }
   ]
 }
