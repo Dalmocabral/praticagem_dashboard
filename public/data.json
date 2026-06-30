@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "30/06/2026 13:05",
+  "ultima_atualizacao": "30/06/2026 15:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
@@ -52,7 +52,22 @@
     },
     {
       "data": "01/07",
-      "hora": "03:00",
+      "hora": "02:30",
+      "navio": "MSC MAGNUM VII",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9252541",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-01T02:30:00"
+    },
+    {
+      "data": "01/07",
+      "hora": "04:30",
       "navio": "LOG-IN DISCOVERY",
       "calado": "10,50",
       "manobra": "S",
@@ -63,22 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-01T03:00:00"
-    },
-    {
-      "data": "01/07",
-      "hora": "05:00",
-      "navio": "UAL FORTITUDE",
-      "calado": "7,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9402079",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-01T05:00:00"
+      "timestamp": "2026-07-01T04:30:00"
     },
     {
       "data": "01/07",
@@ -127,6 +127,21 @@
     },
     {
       "data": "01/07",
+      "hora": "14:30",
+      "navio": "MSC MAGNUM VII",
+      "calado": "12,20",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9252541",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-01T14:30:00"
+    },
+    {
+      "data": "01/07",
       "hora": "18:00",
       "navio": "XIN CHONG QING",
       "calado": "12,00",
@@ -139,6 +154,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-01T18:00:00"
+    },
+    {
+      "data": "01/07",
+      "hora": "21:00",
+      "navio": "UAL FORTITUDE",
+      "calado": "7,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9402079",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-01T21:00:00"
     },
     {
       "data": "02/07",
@@ -357,18 +387,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "01/07 01:00",
       "manobra_rio_fim": "01/07 18:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/07 03:00"
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "01/07 02:30"
     },
     {
       "navio_rio": "XIN CHONG QING",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "01/07 01:00",
       "manobra_rio_fim": "01/07 18:00",
-      "navio_multi": "UAL FORTITUDE",
+      "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/07 05:00"
+      "manobra_multi_data_hora": "01/07 04:30"
     },
     {
       "navio_rio": "XIN CHONG QING",
@@ -378,6 +408,33 @@
       "navio_multi": "CAPE AKRITAS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/07 07:00"
+    },
+    {
+      "navio_rio": "XIN CHONG QING",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/07 01:00",
+      "manobra_rio_fim": "01/07 18:00",
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/07 14:30"
+    },
+    {
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/07 12:30",
+      "manobra_rio_fim": "02/07 15:00",
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/07 14:30"
+    },
+    {
+      "navio_rio": "CMA CGM BAHIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/07 12:30",
+      "manobra_rio_fim": "02/07 15:00",
+      "navio_multi": "UAL FORTITUDE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/07 21:00"
     },
     {
       "navio_rio": "CMA CGM BAHIA",
