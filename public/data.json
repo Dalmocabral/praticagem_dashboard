@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "01/07/2026 15:06",
+  "ultima_atualizacao": "01/07/2026 17:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
   },
   "navios": [
-    {
-      "data": "01/07",
-      "hora": "12:30",
-      "navio": "CMA CGM BAHIA",
-      "calado": "14,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9938248",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-01T12:30:00"
-    },
     {
       "data": "01/07",
       "hora": "14:30",
@@ -61,7 +46,7 @@
       "imo": "9262118",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-07-01T18:30:00"
     },
@@ -76,7 +61,7 @@
       "imo": "9402079",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-01T19:30:00"
     },
@@ -129,7 +114,7 @@
       "data": "02/07",
       "hora": "15:00",
       "navio": "CMA CGM BAHIA",
-      "calado": "14,20",
+      "calado": "14,70",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -159,7 +144,7 @@
       "data": "03/07",
       "hora": "05:00",
       "navio": "LAEM CHABANG EXPRESS",
-      "calado": "12,60",
+      "calado": "9,90",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -412,42 +397,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM BAHIA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/07 12:30",
-      "manobra_rio_fim": "02/07 15:00",
-      "navio_multi": "MSC MAGNUM VII",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/07 14:30"
-    },
-    {
-      "navio_rio": "CMA CGM BAHIA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/07 12:30",
-      "manobra_rio_fim": "02/07 15:00",
-      "navio_multi": "CAPE AKRITAS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/07 16:30"
-    },
-    {
-      "navio_rio": "CMA CGM BAHIA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/07 12:30",
-      "manobra_rio_fim": "02/07 15:00",
-      "navio_multi": "UAL FORTITUDE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/07 19:30"
-    },
-    {
-      "navio_rio": "CMA CGM BAHIA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/07 12:30",
-      "manobra_rio_fim": "02/07 15:00",
-      "navio_multi": "LAEM CHABANG EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/07 23:00"
-    },
     {
       "navio_rio": "GOLDENGATE PARK",
       "manobra_rio_afetada": "E",
