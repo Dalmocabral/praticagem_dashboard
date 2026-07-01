@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/07/2026 17:13",
+  "ultima_atualizacao": "01/07/2026 18:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
@@ -7,39 +7,9 @@
   "navios": [
     {
       "data": "01/07",
-      "hora": "14:30",
-      "navio": "MSC MAGNUM VII",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9252541",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-01T14:30:00"
-    },
-    {
-      "data": "01/07",
-      "hora": "16:30",
-      "navio": "CAPE AKRITAS",
-      "calado": "12,90",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9706190",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-01T16:30:00"
-    },
-    {
-      "data": "01/07",
       "hora": "18:30",
       "navio": "XIN CHONG QING",
-      "calado": "11,20",
+      "calado": "12,00",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -52,9 +22,9 @@
     },
     {
       "data": "01/07",
-      "hora": "19:30",
+      "hora": "21:00",
       "navio": "UAL FORTITUDE",
-      "calado": "7,00",
+      "calado": "6,80",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -63,7 +33,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-07-01T19:30:00"
+      "timestamp": "2026-07-01T21:00:00"
     },
     {
       "data": "01/07",
@@ -97,21 +67,6 @@
     },
     {
       "data": "02/07",
-      "hora": "14:00",
-      "navio": "SUNNY PHOENIX",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9227027",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-02T14:00:00"
-    },
-    {
-      "data": "02/07",
       "hora": "15:00",
       "navio": "CMA CGM BAHIA",
       "calado": "14,70",
@@ -139,6 +94,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-02T17:00:00"
+    },
+    {
+      "data": "02/07",
+      "hora": "19:00",
+      "navio": "SUNNY PHOENIX",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9227027",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-02T19:00:00"
     },
     {
       "data": "03/07",
@@ -216,6 +186,21 @@
       "timestamp": "2026-07-04T07:30:00"
     },
     {
+      "data": "04/07",
+      "hora": "18:00",
+      "navio": "SINAR SUMATERA",
+      "calado": "7,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1015375",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-04T18:00:00"
+    },
+    {
       "data": "05/07",
       "hora": "07:30",
       "navio": "MSC MARSEILLE",
@@ -244,6 +229,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-06T06:30:00"
+    },
+    {
+      "data": "06/07",
+      "hora": "08:00",
+      "navio": "SINAR SUMATERA",
+      "calado": "7,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1015375",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-06T08:00:00"
     },
     {
       "data": "08/07",
