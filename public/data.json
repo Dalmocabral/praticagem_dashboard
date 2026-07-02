@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/07/2026 05:32",
+  "ultima_atualizacao": "02/07/2026 07:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
@@ -7,9 +7,9 @@
   "navios": [
     {
       "data": "02/07",
-      "hora": "08:30",
+      "hora": "09:00",
       "navio": "SUNNY PHOENIX",
-      "calado": "12,60",
+      "calado": "12,70",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -18,11 +18,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "entrada_futura",
       "terminal": "rio",
-      "timestamp": "2026-07-02T08:30:00"
+      "timestamp": "2026-07-02T09:00:00"
     },
     {
       "data": "02/07",
-      "hora": "15:00",
+      "hora": "13:00",
       "navio": "CMA CGM BAHIA",
       "calado": "14,70",
       "manobra": "S",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-02T15:00:00"
+      "timestamp": "2026-07-02T13:00:00"
     },
     {
       "data": "02/07",
@@ -142,6 +142,21 @@
     },
     {
       "data": "04/07",
+      "hora": "09:30",
+      "navio": "MAERSK EVERGLADES",
+      "calado": "11,45",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9928205",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-04T09:30:00"
+    },
+    {
+      "data": "04/07",
       "hora": "18:00",
       "navio": "SINAR SUMATERA",
       "calado": "7,30",
@@ -154,6 +169,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-04T18:00:00"
+    },
+    {
+      "data": "04/07",
+      "hora": "20:00",
+      "navio": "MAERSK EVERGLADES",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9928205",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-04T20:00:00"
     },
     {
       "data": "05/07",
@@ -378,6 +408,15 @@
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "03/07 08:30"
+    },
+    {
+      "navio_rio": "MAERSK EVERGLADES",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "04/07 09:30",
+      "manobra_rio_fim": "04/07 20:00",
+      "navio_multi": "SINAR SUMATERA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "04/07 18:00"
     }
   ]
 }
