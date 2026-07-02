@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "01/07/2026 22:26",
+  "ultima_atualizacao": "02/07/2026 02:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
   },
   "navios": [
-    {
-      "data": "01/07",
-      "hora": "23:00",
-      "navio": "LAEM CHABANG EXPRESS",
-      "calado": "11,70",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9768007",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-01T23:00:00"
-    },
     {
       "data": "02/07",
       "hora": "08:30",
