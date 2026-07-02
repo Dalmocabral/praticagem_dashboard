@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "02/07/2026 10:11",
+  "ultima_atualizacao": "02/07/2026 12:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
   },
   "navios": [
-    {
-      "data": "02/07",
-      "hora": "09:00",
-      "navio": "SUNNY PHOENIX",
-      "calado": "12,70",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9227027",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-02T09:00:00"
-    },
     {
       "data": "02/07",
       "hora": "13:00",
@@ -67,21 +52,6 @@
     },
     {
       "data": "03/07",
-      "hora": "05:00",
-      "navio": "LAEM CHABANG EXPRESS",
-      "calado": "9,90",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9768007",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-03T05:00:00"
-    },
-    {
-      "data": "03/07",
       "hora": "06:30",
       "navio": "CAPE AKRITAS",
       "calado": "14,00",
@@ -109,6 +79,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-03T08:30:00"
+    },
+    {
+      "data": "03/07",
+      "hora": "11:00",
+      "navio": "LAEM CHABANG EXPRESS",
+      "calado": "9,90",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9768007",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-03T11:00:00"
     },
     {
       "data": "04/07",
@@ -387,15 +372,6 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "02/07 17:00",
       "manobra_rio_fim": "04/07 04:00",
-      "navio_multi": "LAEM CHABANG EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/07 05:00"
-    },
-    {
-      "navio_rio": "GOLDENGATE PARK",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/07 17:00",
-      "manobra_rio_fim": "04/07 04:00",
       "navio_multi": "CAPE AKRITAS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "03/07 06:30"
@@ -408,6 +384,15 @@
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "03/07 08:30"
+    },
+    {
+      "navio_rio": "GOLDENGATE PARK",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/07 17:00",
+      "manobra_rio_fim": "04/07 04:00",
+      "navio_multi": "LAEM CHABANG EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/07 11:00"
     },
     {
       "navio_rio": "MAERSK EVERGLADES",
