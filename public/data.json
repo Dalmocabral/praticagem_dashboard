@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/07/2026 12:33",
+  "ultima_atualizacao": "02/07/2026 14:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
@@ -24,14 +24,14 @@
       "data": "02/07",
       "hora": "17:00",
       "navio": "GOLDENGATE PARK",
-      "calado": "9,40",
+      "calado": "9,15",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9493145",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-02T17:00:00"
     },
@@ -82,7 +82,7 @@
     },
     {
       "data": "03/07",
-      "hora": "11:00",
+      "hora": "19:00",
       "navio": "LAEM CHABANG EXPRESS",
       "calado": "9,90",
       "manobra": "S",
@@ -93,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-03T11:00:00"
+      "timestamp": "2026-07-03T19:00:00"
     },
     {
       "data": "04/07",
@@ -392,7 +392,7 @@
       "manobra_rio_fim": "04/07 04:00",
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/07 11:00"
+      "manobra_multi_data_hora": "03/07 19:00"
     },
     {
       "navio_rio": "MAERSK EVERGLADES",
