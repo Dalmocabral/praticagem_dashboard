@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "04/07/2026 15:08",
+  "ultima_atualizacao": "04/07/2026 16:37",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
   },
   "navios": [
-    {
-      "data": "04/07",
-      "hora": "15:00",
-      "navio": "MAERSK EVERGLADES",
-      "calado": "11,60",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9928205",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-04T15:00:00"
-    },
     {
       "data": "04/07",
       "hora": "16:00",
@@ -37,9 +22,9 @@
     },
     {
       "data": "04/07",
-      "hora": "18:00",
+      "hora": "19:00",
       "navio": "BRASILIA HIGHWAY",
-      "calado": "8,90",
+      "calado": "8,84",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
@@ -48,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "entrada_futura",
       "terminal": "multi",
-      "timestamp": "2026-07-04T18:00:00"
+      "timestamp": "2026-07-04T19:00:00"
     },
     {
       "data": "05/07",
@@ -82,6 +67,21 @@
     },
     {
       "data": "05/07",
+      "hora": "10:30",
+      "navio": "HMM JAKARTA",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9323522",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-05T10:30:00"
+    },
+    {
+      "data": "05/07",
       "hora": "15:30",
       "navio": "BRASILIA HIGHWAY",
       "calado": "8,90",
@@ -94,6 +94,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-05T15:30:00"
+    },
+    {
+      "data": "06/07",
+      "hora": "07:00",
+      "navio": "HMM JAKARTA",
+      "calado": "13,00",
+      "manobra": "M",
+      "beco": "TECONT3 -> WPT 91",
+      "status": "futuro",
+      "imo": "9323522",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-06T07:00:00"
     },
     {
       "data": "06/07",
