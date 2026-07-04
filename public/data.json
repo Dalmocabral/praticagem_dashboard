@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "04/07/2026 05:04",
+  "ultima_atualizacao": "04/07/2026 07:23",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
   },
   "navios": [
-    {
-      "data": "04/07",
-      "hora": "04:30",
-      "navio": "MAERSK EVERGLADES",
-      "calado": "11,45",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9928205",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-04T04:30:00"
-    },
     {
       "data": "04/07",
       "hora": "07:00",
@@ -382,33 +367,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK EVERGLADES",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "04/07 04:30",
-      "manobra_rio_fim": "04/07 20:00",
-      "navio_multi": "MSC ORION",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "04/07 07:00"
-    },
-    {
-      "navio_rio": "MAERSK EVERGLADES",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/07 04:30",
-      "manobra_rio_fim": "04/07 20:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "04/07 16:00"
-    },
-    {
-      "navio_rio": "MAERSK EVERGLADES",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/07 04:30",
-      "manobra_rio_fim": "04/07 20:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "04/07 18:00"
-    },
     {
       "navio_rio": "BBC CAMPANA",
       "manobra_rio_afetada": "E",
