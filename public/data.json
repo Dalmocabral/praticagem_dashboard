@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/07/2026 07:23",
+  "ultima_atualizacao": "04/07/2026 08:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
@@ -94,6 +94,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-05T07:00:00"
+    },
+    {
+      "data": "05/07",
+      "hora": "09:00",
+      "navio": "HMM JAKARTA",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9323522",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-05T09:00:00"
     },
     {
       "data": "05/07",
