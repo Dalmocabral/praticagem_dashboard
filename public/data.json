@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/07/2026 19:39",
+  "ultima_atualizacao": "04/07/2026 20:44",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
@@ -38,21 +38,6 @@
     {
       "data": "05/07",
       "hora": "09:00",
-      "navio": "MSC ATHENS",
-      "calado": "14,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9618305",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-05T09:00:00"
-    },
-    {
-      "data": "05/07",
-      "hora": "10:30",
       "navio": "HMM JAKARTA",
       "calado": "14,00",
       "manobra": "E",
@@ -63,11 +48,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-05T10:30:00"
+      "timestamp": "2026-07-05T09:00:00"
     },
     {
       "data": "05/07",
-      "hora": "15:30",
+      "hora": "12:30",
       "navio": "BRASILIA HIGHWAY",
       "calado": "8,90",
       "manobra": "S",
@@ -78,7 +63,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-05T15:30:00"
+      "timestamp": "2026-07-05T12:30:00"
+    },
+    {
+      "data": "05/07",
+      "hora": "16:00",
+      "navio": "MSC ATHENS",
+      "calado": "14,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9618305",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-05T16:00:00"
     },
     {
       "data": "06/07",
