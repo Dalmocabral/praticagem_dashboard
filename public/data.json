@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/07/2026 08:51",
+  "ultima_atualizacao": "04/07/2026 10:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
@@ -7,18 +7,18 @@
   "navios": [
     {
       "data": "04/07",
-      "hora": "07:00",
-      "navio": "MSC ORION",
-      "calado": "11,70",
-      "manobra": "E",
-      "beco": "TECONT2",
+      "hora": "15:00",
+      "navio": "MAERSK EVERGLADES",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
-      "imo": "9857157",
+      "imo": "9928205",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-04T07:00:00"
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-04T15:00:00"
     },
     {
       "data": "04/07",
@@ -49,21 +49,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-04T18:00:00"
-    },
-    {
-      "data": "04/07",
-      "hora": "20:00",
-      "navio": "MAERSK EVERGLADES",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9928205",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-04T20:00:00"
     },
     {
       "data": "04/07",
