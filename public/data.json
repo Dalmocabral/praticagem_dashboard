@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/07/2026 02:06",
+  "ultima_atualizacao": "04/07/2026 05:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/06/2026 23:32"
@@ -24,14 +24,14 @@
       "data": "04/07",
       "hora": "07:00",
       "navio": "MSC ORION",
-      "calado": "11,90",
+      "calado": "11,70",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9857157",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-04T07:00:00"
     },
