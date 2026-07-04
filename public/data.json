@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "04/07/2026 17:35",
+  "ultima_atualizacao": "04/07/2026 18:38",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
   },
   "navios": [
-    {
-      "data": "04/07",
-      "hora": "16:00",
-      "navio": "MSC ODESSA V",
-      "calado": "10,30",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-04T16:00:00"
-    },
     {
       "data": "04/07",
       "hora": "19:00",
@@ -39,7 +24,7 @@
       "data": "05/07",
       "hora": "07:00",
       "navio": "MSC ORION",
-      "calado": "11,70",
+      "calado": "11,60",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
