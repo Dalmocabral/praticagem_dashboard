@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "04/07/2026 20:44",
+  "ultima_atualizacao": "04/07/2026 22:27",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
   },
   "navios": [
-    {
-      "data": "04/07",
-      "hora": "19:00",
-      "navio": "BRASILIA HIGHWAY",
-      "calado": "8,84",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9519119",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-04T19:00:00"
-    },
     {
       "data": "05/07",
       "hora": "07:00",
@@ -27,7 +12,7 @@
       "calado": "11,60",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9857157",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -42,7 +27,7 @@
       "calado": "14,00",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9323522",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,7 +42,7 @@
       "calado": "8,90",
       "manobra": "S",
       "beco": "TECONT5",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9519119",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -72,7 +57,7 @@
       "calado": "14,30",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
