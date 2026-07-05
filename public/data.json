@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/07/2026 13:44",
+  "ultima_atualizacao": "05/07/2026 14:50",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
@@ -7,33 +7,18 @@
   "navios": [
     {
       "data": "05/07",
-      "hora": "11:00",
-      "navio": "HMM JAKARTA",
-      "calado": "13,90",
+      "hora": "23:00",
+      "navio": "SINAR SUMATERA",
+      "calado": "7,30",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "hoje",
-      "imo": "9323522",
+      "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
+      "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-05T11:00:00"
-    },
-    {
-      "data": "05/07",
-      "hora": "13:00",
-      "navio": "BRASILIA HIGHWAY",
-      "calado": "8,48",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9519119",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-05T13:00:00"
+      "timestamp": "2026-07-05T23:00:00"
     },
     {
       "data": "06/07",
@@ -64,21 +49,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-06T10:00:00"
-    },
-    {
-      "data": "06/07",
-      "hora": "12:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "7,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-06T12:00:00"
     },
     {
       "data": "06/07",
