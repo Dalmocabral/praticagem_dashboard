@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/07/2026 14:50",
+  "ultima_atualizacao": "05/07/2026 16:05",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
@@ -24,7 +24,7 @@
       "data": "06/07",
       "hora": "07:00",
       "navio": "HMM JAKARTA",
-      "calado": "13,00",
+      "calado": "12,00",
       "manobra": "M",
       "beco": "TECONT3 -> WPT 91",
       "status": "futuro",
