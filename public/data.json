@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/07/2026 18:06",
+  "ultima_atualizacao": "06/07/2026 19:36",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
@@ -56,7 +56,7 @@
       "navio": "BBC CAMPANA",
       "calado": "6,70",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9291963",
       "tipo_navio": "GENERAL CARGO SHIP",
@@ -86,7 +86,7 @@
       "navio": "BBC CAMPANA",
       "calado": "6,70",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9291963",
       "tipo_navio": "GENERAL CARGO SHIP",
@@ -101,7 +101,7 @@
       "navio": "MAERSK FRANKFURT",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9969065",
       "tipo_navio": "CONTAINER SHIP",
