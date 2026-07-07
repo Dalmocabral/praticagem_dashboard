@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/07/2026 19:21",
+  "ultima_atualizacao": "07/07/2026 20:28",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
@@ -9,7 +9,7 @@
       "data": "07/07",
       "hora": "21:00",
       "navio": "SINAR SUMATERA",
-      "calado": "7,00",
+      "calado": "8,19",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -31,13 +31,13 @@
       "imo": "9291963",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-07-07T22:30:00"
     },
     {
       "data": "08/07",
-      "hora": "01:30",
+      "hora": "00:30",
       "navio": "MSC STRAIT II",
       "calado": "9,10",
       "manobra": "E",
@@ -48,7 +48,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-08T01:30:00"
+      "timestamp": "2026-07-08T00:30:00"
     },
     {
       "data": "08/07",
