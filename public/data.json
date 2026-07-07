@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/07/2026 12:12",
+  "ultima_atualizacao": "07/07/2026 14:27",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
@@ -22,7 +22,7 @@
     },
     {
       "data": "07/07",
-      "hora": "19:00",
+      "hora": "20:30",
       "navio": "SINAR SUMATERA",
       "calado": "7,00",
       "manobra": "S",
@@ -33,7 +33,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-07T19:00:00"
+      "timestamp": "2026-07-07T20:30:00"
     },
     {
       "data": "07/07",
@@ -64,21 +64,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-08T01:30:00"
-    },
-    {
-      "data": "08/07",
-      "hora": "03:30",
-      "navio": "MAERSK FRANKFURT",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9969065",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-08T03:30:00"
     },
     {
       "data": "08/07",
@@ -126,6 +111,36 @@
       "timestamp": "2026-07-08T11:00:00"
     },
     {
+      "data": "08/07",
+      "hora": "13:00",
+      "navio": "MAERSK FRANKFURT",
+      "calado": "14,10",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9969065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-08T13:00:00"
+    },
+    {
+      "data": "08/07",
+      "hora": "16:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-08T16:30:00"
+    },
+    {
       "data": "09/07",
       "hora": "03:00",
       "navio": "MSC STRAIT II",
@@ -139,6 +154,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-09T03:00:00"
+    },
+    {
+      "data": "09/07",
+      "hora": "08:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-09T08:00:00"
     },
     {
       "data": "09/07",
@@ -389,7 +419,7 @@
       "manobra_rio_fim": "07/07 22:30",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/07 19:00"
+      "manobra_multi_data_hora": "07/07 20:30"
     },
     {
       "navio_rio": "KOTA PAHLAWAN",
@@ -414,6 +444,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "08/07 07:00",
       "manobra_rio_fim": "09/07 09:00",
+      "navio_multi": "MSC STRAIT II",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "09/07 03:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "08/07 16:30",
+      "manobra_rio_fim": "09/07 08:00",
       "navio_multi": "MSC STRAIT II",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "09/07 03:00"
