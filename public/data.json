@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "07/07/2026 14:27",
+  "ultima_atualizacao": "07/07/2026 16:22",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
   },
   "navios": [
-    {
-      "data": "07/07",
-      "hora": "14:00",
-      "navio": "BBC CAMPANA",
-      "calado": "6,90",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9291963",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-07T14:00:00"
-    },
     {
       "data": "07/07",
       "hora": "20:30",
@@ -412,15 +397,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "BBC CAMPANA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/07 14:00",
-      "manobra_rio_fim": "07/07 22:30",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/07 20:30"
-    },
     {
       "navio_rio": "KOTA PAHLAWAN",
       "manobra_rio_afetada": "E",
