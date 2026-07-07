@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/07/2026 09:06",
+  "ultima_atualizacao": "07/07/2026 12:12",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
@@ -7,31 +7,16 @@
   "navios": [
     {
       "data": "07/07",
-      "hora": "09:00",
-      "navio": "MAERSK FRANKFURT",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9969065",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-07T09:00:00"
-    },
-    {
-      "data": "07/07",
       "hora": "14:00",
       "navio": "BBC CAMPANA",
-      "calado": "6,70",
+      "calado": "6,90",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9291963",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-07T14:00:00"
     },
@@ -66,25 +51,10 @@
       "timestamp": "2026-07-07T22:30:00"
     },
     {
-      "data": "07/07",
-      "hora": "23:30",
-      "navio": "MAERSK FRANKFURT",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9969065",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-07T23:30:00"
-    },
-    {
       "data": "08/07",
       "hora": "01:30",
       "navio": "MSC STRAIT II",
-      "calado": "9,00",
+      "calado": "9,10",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -94,6 +64,21 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-08T01:30:00"
+    },
+    {
+      "data": "08/07",
+      "hora": "03:30",
+      "navio": "MAERSK FRANKFURT",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9969065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-08T03:30:00"
     },
     {
       "data": "08/07",
@@ -157,7 +142,7 @@
     },
     {
       "data": "09/07",
-      "hora": "08:00",
+      "hora": "09:00",
       "navio": "KOTA PAHLAWAN",
       "calado": "14,70",
       "manobra": "S",
@@ -168,7 +153,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-09T08:00:00"
+      "timestamp": "2026-07-09T09:00:00"
     },
     {
       "data": "09/07",
@@ -398,15 +383,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "MAERSK FRANKFURT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/07 09:00",
-      "manobra_rio_fim": "07/07 23:30",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/07 19:00"
-    },
-    {
       "navio_rio": "BBC CAMPANA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "07/07 14:00",
@@ -419,7 +395,7 @@
       "navio_rio": "KOTA PAHLAWAN",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "08/07 07:00",
-      "manobra_rio_fim": "09/07 08:00",
+      "manobra_rio_fim": "09/07 09:00",
       "navio_multi": "MSC LE HAVRE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "08/07 09:00"
@@ -428,7 +404,7 @@
       "navio_rio": "KOTA PAHLAWAN",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "08/07 07:00",
-      "manobra_rio_fim": "09/07 08:00",
+      "manobra_rio_fim": "09/07 09:00",
       "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "08/07 11:00"
@@ -437,7 +413,7 @@
       "navio_rio": "KOTA PAHLAWAN",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "08/07 07:00",
-      "manobra_rio_fim": "09/07 08:00",
+      "manobra_rio_fim": "09/07 09:00",
       "navio_multi": "MSC STRAIT II",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "09/07 03:00"
