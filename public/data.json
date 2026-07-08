@@ -1,8 +1,8 @@
 {
-  "ultima_atualizacao": "08/07/2026 14:06",
+  "ultima_atualizacao": "08/07/2026 14:57",
   "barra_info": {
     "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
+    "mensagem": "BARRA RESTRITA DESDE 08/07/2026 14:28 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m. Manobras de saída pelo Canal Varrido. Canal Varrido noturno fechado."
   },
   "navios": [
     {
@@ -36,36 +36,6 @@
       "timestamp": "2026-07-08T09:00:00"
     },
     {
-      "data": "08/07",
-      "hora": "14:00",
-      "navio": "MAERSK FRANKFURT",
-      "calado": "14,10",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9969065",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-08T14:00:00"
-    },
-    {
-      "data": "08/07",
-      "hora": "16:30",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-08T16:30:00"
-    },
-    {
       "data": "09/07",
       "hora": "05:00",
       "navio": "INDUSTRIAL HOBART",
@@ -94,21 +64,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-09T07:00:00"
-    },
-    {
-      "data": "09/07",
-      "hora": "08:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-09T08:00:00"
     },
     {
       "data": "09/07",
@@ -159,7 +114,7 @@
       "data": "09/07",
       "hora": "13:30",
       "navio": "COSCO SHIPPING CHILE",
-      "calado": "14,00",
+      "calado": "13,50",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -264,7 +219,7 @@
       "data": "10/07",
       "hora": "15:00",
       "navio": "COSCO SHIPPING CHILE",
-      "calado": "13,50",
+      "calado": "13,00",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
@@ -382,6 +337,21 @@
     },
     {
       "data": "15/07",
+      "hora": "11:00",
+      "navio": "HL EDWARD AUSTIN",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "PG-1",
+      "status": "futuro",
+      "imo": "9972361",
+      "tipo_navio": "LNG TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "pg1",
+      "timestamp": "2026-07-15T11:00:00"
+    },
+    {
+      "data": "15/07",
       "hora": "21:00",
       "navio": "NC BRUMA",
       "calado": "10,00",
@@ -424,6 +394,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-19T07:00:00"
+    },
+    {
+      "data": "19/07",
+      "hora": "15:00",
+      "navio": "HL EDWARD AUSTIN",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "PG-1",
+      "status": "futuro",
+      "imo": "9972361",
+      "tipo_navio": "LNG TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "pg1",
+      "timestamp": "2026-07-19T15:00:00"
     }
   ],
   "conflitos": [
@@ -441,15 +426,6 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "08/07 07:00",
       "manobra_rio_fim": "09/07 09:00",
-      "navio_multi": "MSC STRAIT II",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/07 07:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "08/07 16:30",
-      "manobra_rio_fim": "09/07 08:00",
       "navio_multi": "MSC STRAIT II",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "09/07 07:00"
