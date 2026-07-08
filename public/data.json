@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/07/2026 12:36",
+  "ultima_atualizacao": "08/07/2026 14:06",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
@@ -37,21 +37,6 @@
     },
     {
       "data": "08/07",
-      "hora": "11:00",
-      "navio": "MSC DAKAR X",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9605231",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-08T11:00:00"
-    },
-    {
-      "data": "08/07",
       "hora": "14:00",
       "navio": "MAERSK FRANKFURT",
       "calado": "14,10",
@@ -76,9 +61,24 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-08T16:30:00"
+    },
+    {
+      "data": "09/07",
+      "hora": "05:00",
+      "navio": "INDUSTRIAL HOBART",
+      "calado": "5,70",
+      "manobra": "M",
+      "beco": "WPT 82 -> TECONT5",
+      "status": "futuro",
+      "imo": "9362827",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-09T05:00:00"
     },
     {
       "data": "09/07",
@@ -276,6 +276,36 @@
       "timestamp": "2026-07-10T15:00:00"
     },
     {
+      "data": "10/07",
+      "hora": "16:00",
+      "navio": "INDUSTRIAL HOBART",
+      "calado": "5,90",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9362827",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-10T16:00:00"
+    },
+    {
+      "data": "11/07",
+      "hora": "07:00",
+      "navio": "MSC ATHENS",
+      "calado": "14,35",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9618305",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-11T07:00:00"
+    },
+    {
       "data": "13/07",
       "hora": "10:00",
       "navio": "EVER FASHION",
@@ -405,15 +435,6 @@
       "navio_multi": "MSC LE HAVRE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "08/07 09:00"
-    },
-    {
-      "navio_rio": "KOTA PAHLAWAN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/07 07:00",
-      "manobra_rio_fim": "09/07 09:00",
-      "navio_multi": "MSC DAKAR X",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "08/07 11:00"
     },
     {
       "navio_rio": "KOTA PAHLAWAN",
