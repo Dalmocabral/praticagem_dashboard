@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/07/2026 10:12",
+  "ultima_atualizacao": "08/07/2026 12:36",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 04/07/2026 13:12 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra grande restrita a 11,60m."
@@ -52,7 +52,7 @@
     },
     {
       "data": "08/07",
-      "hora": "13:00",
+      "hora": "14:00",
       "navio": "MAERSK FRANKFURT",
       "calado": "14,10",
       "manobra": "S",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-07-08T13:00:00"
+      "timestamp": "2026-07-08T14:00:00"
     },
     {
       "data": "08/07",
@@ -76,13 +76,13 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-07-08T16:30:00"
     },
     {
       "data": "09/07",
-      "hora": "03:00",
+      "hora": "07:00",
       "navio": "MSC STRAIT II",
       "calado": "7,20",
       "manobra": "S",
@@ -93,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-09T03:00:00"
+      "timestamp": "2026-07-09T07:00:00"
     },
     {
       "data": "09/07",
@@ -186,14 +186,44 @@
       "timestamp": "2026-07-09T15:00:00"
     },
     {
-      "data": "10/07",
-      "hora": "08:00",
-      "navio": "MSC PAMELA",
-      "calado": "14,20",
+      "data": "09/07",
+      "hora": "16:30",
+      "navio": "MAERSK PANGANI",
+      "calado": "12,80",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9290531",
+      "imo": "9786097",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-09T16:30:00"
+    },
+    {
+      "data": "10/07",
+      "hora": "06:00",
+      "navio": "MAERSK PANGANI",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9786097",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-10T06:00:00"
+    },
+    {
+      "data": "10/07",
+      "hora": "08:00",
+      "navio": "MSC ATHENS",
+      "calado": "14,35",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -244,21 +274,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-10T15:00:00"
-    },
-    {
-      "data": "11/07",
-      "hora": "07:00",
-      "navio": "MSC PAMELA",
-      "calado": "13,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9290531",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-11T07:00:00"
     },
     {
       "data": "13/07",
@@ -407,7 +422,7 @@
       "manobra_rio_fim": "09/07 09:00",
       "navio_multi": "MSC STRAIT II",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/07 03:00"
+      "manobra_multi_data_hora": "09/07 07:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -416,7 +431,7 @@
       "manobra_rio_fim": "09/07 08:00",
       "navio_multi": "MSC STRAIT II",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/07 03:00"
+      "manobra_multi_data_hora": "09/07 07:00"
     },
     {
       "navio_rio": "KOTA PUSAKA",
@@ -429,10 +444,28 @@
     },
     {
       "navio_rio": "KOTA PUSAKA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "09/07 12:00",
+      "manobra_rio_fim": "10/07 10:00",
+      "navio_multi": "MAERSK PANGANI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "09/07 16:30"
+    },
+    {
+      "navio_rio": "KOTA PUSAKA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "09/07 12:00",
       "manobra_rio_fim": "10/07 10:00",
-      "navio_multi": "MSC PAMELA",
+      "navio_multi": "MAERSK PANGANI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/07 06:00"
+    },
+    {
+      "navio_rio": "KOTA PUSAKA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/07 12:00",
+      "manobra_rio_fim": "10/07 10:00",
+      "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "10/07 08:00"
     },
@@ -447,10 +480,28 @@
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "09/07 13:30",
+      "manobra_rio_fim": "10/07 15:00",
+      "navio_multi": "MAERSK PANGANI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "09/07 16:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "09/07 13:30",
       "manobra_rio_fim": "10/07 15:00",
-      "navio_multi": "MSC PAMELA",
+      "navio_multi": "MAERSK PANGANI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/07 06:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/07 13:30",
+      "manobra_rio_fim": "10/07 15:00",
+      "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "10/07 08:00"
     },
