@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/07/2026 14:30",
+  "ultima_atualizacao": "09/07/2026 16:10",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/07/2026 08:51 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra Grande restrita para navios com calado acima de 11,60m. Canal Varrido noturno fechado."
@@ -61,7 +61,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-07-09T19:30:00"
     },
@@ -244,6 +244,36 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-11T12:00:00"
+    },
+    {
+      "data": "11/07",
+      "hora": "14:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "10,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9407160",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-11T14:00:00"
+    },
+    {
+      "data": "12/07",
+      "hora": "07:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9407160",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-12T07:00:00"
     },
     {
       "data": "12/07",
