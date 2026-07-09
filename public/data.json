@@ -1,40 +1,10 @@
 {
-  "ultima_atualizacao": "09/07/2026 17:56",
+  "ultima_atualizacao": "09/07/2026 19:39",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/07/2026 08:51 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra Grande restrita para navios com calado acima de 11,60m. Canal Varrido noturno fechado."
   },
   "navios": [
-    {
-      "data": "09/07",
-      "hora": "14:00",
-      "navio": "MAERSK PANGANI",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9786097",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-09T14:00:00"
-    },
-    {
-      "data": "09/07",
-      "hora": "17:30",
-      "navio": "MSC DAKAR X",
-      "calado": "11,50",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9605231",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-09T17:30:00"
-    },
     {
       "data": "09/07",
       "hora": "19:30",
@@ -127,7 +97,7 @@
     },
     {
       "data": "10/07",
-      "hora": "16:00",
+      "hora": "18:00",
       "navio": "INDUSTRIAL HOBART",
       "calado": "5,90",
       "manobra": "S",
@@ -138,7 +108,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-10T16:00:00"
+      "timestamp": "2026-07-10T18:00:00"
     },
     {
       "data": "10/07",
@@ -506,7 +476,7 @@
       "manobra_rio_fim": "10/07 19:00",
       "navio_multi": "INDUSTRIAL HOBART",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/07 16:00"
+      "manobra_multi_data_hora": "10/07 18:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
@@ -515,7 +485,7 @@
       "manobra_rio_fim": "11/07 10:00",
       "navio_multi": "INDUSTRIAL HOBART",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/07 16:00"
+      "manobra_multi_data_hora": "10/07 18:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
