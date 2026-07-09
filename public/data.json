@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/07/2026 19:39",
+  "ultima_atualizacao": "09/07/2026 20:51",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/07/2026 08:51 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra Grande restrita para navios com calado acima de 11,60m. Canal Varrido noturno fechado."
@@ -67,9 +67,9 @@
     },
     {
       "data": "10/07",
-      "hora": "12:00",
+      "hora": "13:30",
       "navio": "KOTA PUSAKA",
-      "calado": "13,50",
+      "calado": "13,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -78,11 +78,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-10T12:00:00"
+      "timestamp": "2026-07-10T13:30:00"
     },
     {
       "data": "10/07",
-      "hora": "14:00",
+      "hora": "15:30",
       "navio": "COSCO SHIPPING CHILE",
       "calado": "13,50",
       "manobra": "E",
@@ -93,7 +93,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-10T14:00:00"
+      "timestamp": "2026-07-10T15:30:00"
     },
     {
       "data": "10/07",
@@ -481,7 +481,7 @@
     {
       "navio_rio": "COSCO SHIPPING CHILE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/07 14:00",
+      "manobra_rio_inicio": "10/07 15:30",
       "manobra_rio_fim": "11/07 10:00",
       "navio_multi": "INDUSTRIAL HOBART",
       "manobra_multi_tipo": "S",
@@ -490,7 +490,7 @@
     {
       "navio_rio": "COSCO SHIPPING CHILE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/07 14:00",
+      "manobra_rio_inicio": "10/07 15:30",
       "manobra_rio_fim": "11/07 10:00",
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "S",
@@ -499,7 +499,7 @@
     {
       "navio_rio": "COSCO SHIPPING CHILE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/07 14:00",
+      "manobra_rio_inicio": "10/07 15:30",
       "manobra_rio_fim": "11/07 10:00",
       "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "S",
