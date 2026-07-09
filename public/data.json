@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/07/2026 16:10",
+  "ultima_atualizacao": "09/07/2026 17:56",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/07/2026 08:51 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra Grande restrita para navios com calado acima de 11,60m. Canal Varrido noturno fechado."
@@ -22,21 +22,6 @@
     },
     {
       "data": "09/07",
-      "hora": "15:30",
-      "navio": "KOTA PUSAKA",
-      "calado": "12,70",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9793961",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-09T15:30:00"
-    },
-    {
-      "data": "09/07",
       "hora": "17:30",
       "navio": "MSC DAKAR X",
       "calado": "11,50",
@@ -54,14 +39,14 @@
       "data": "09/07",
       "hora": "19:30",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
+      "calado": "7,00",
       "manobra": "M",
       "beco": "WPT 92 -> TECONT1",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-07-09T19:30:00"
     },
@@ -277,6 +262,21 @@
     },
     {
       "data": "12/07",
+      "hora": "09:00",
+      "navio": "CMA CGM SANTOS",
+      "calado": "12,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9649835",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-12T09:00:00"
+    },
+    {
+      "data": "12/07",
       "hora": "14:00",
       "navio": "UAL TEXAS",
       "calado": "5,00",
@@ -289,6 +289,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-12T14:00:00"
+    },
+    {
+      "data": "13/07",
+      "hora": "05:00",
+      "navio": "CMA CGM SANTOS",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9649835",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-13T05:00:00"
     },
     {
       "data": "13/07",
@@ -457,42 +472,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "KOTA PUSAKA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/07 15:30",
-      "manobra_rio_fim": "10/07 12:00",
-      "navio_multi": "MSC DAKAR X",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/07 17:30"
-    },
-    {
-      "navio_rio": "KOTA PUSAKA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/07 15:30",
-      "manobra_rio_fim": "10/07 12:00",
-      "navio_multi": "MAERSK PANGANI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/07 06:30"
-    },
-    {
-      "navio_rio": "KOTA PUSAKA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/07 15:30",
-      "manobra_rio_fim": "10/07 12:00",
-      "navio_multi": "MSC ATHENS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/07 08:30"
-    },
-    {
-      "navio_rio": "KOTA PUSAKA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/07 15:30",
-      "manobra_rio_fim": "10/07 12:00",
-      "navio_multi": "MSC MICHELA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/07 10:00"
-    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "S",
