@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "10/07/2026 14:14",
+  "ultima_atualizacao": "10/07/2026 15:50",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/07/2026 08:51 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra Grande restrita para navios com calado acima de 11,60m. Canal Varrido noturno fechado."
   },
   "navios": [
-    {
-      "data": "10/07",
-      "hora": "12:30",
-      "navio": "KOTA PUSAKA",
-      "calado": "12,95",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9793961",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-10T12:30:00"
-    },
     {
       "data": "10/07",
       "hora": "14:30",
@@ -39,7 +24,7 @@
       "data": "10/07",
       "hora": "16:30",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
+      "calado": "7,90",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -219,7 +204,7 @@
       "data": "12/07",
       "hora": "09:00",
       "navio": "CMA CGM SANTOS",
-      "calado": "11,00",
+      "calado": "12,10",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -279,7 +264,7 @@
       "data": "13/07",
       "hora": "05:00",
       "navio": "CMA CGM SANTOS",
-      "calado": "10,90",
+      "calado": "12,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
