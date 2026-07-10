@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/07/2026 19:36",
+  "ultima_atualizacao": "10/07/2026 20:37",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/07/2026 08:51 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra Grande restrita para navios com calado acima de 11,60m. Canal Varrido noturno fechado."
@@ -39,7 +39,7 @@
       "data": "11/07",
       "hora": "06:30",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "9,50",
+      "calado": "10,40",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
