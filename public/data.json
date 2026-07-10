@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/07/2026 12:18",
+  "ultima_atualizacao": "10/07/2026 14:14",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/07/2026 08:51 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra Grande restrita para navios com calado acima de 11,60m. Canal Varrido noturno fechado."
@@ -37,7 +37,7 @@
     },
     {
       "data": "10/07",
-      "hora": "17:30",
+      "hora": "16:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "S",
@@ -46,9 +46,9 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-07-10T17:30:00"
+      "timestamp": "2026-07-10T16:30:00"
     },
     {
       "data": "11/07",
@@ -187,6 +187,21 @@
     },
     {
       "data": "12/07",
+      "hora": "01:00",
+      "navio": "BBC JADE",
+      "calado": "5,80",
+      "manobra": "M",
+      "beco": "A10 -> TECONT5",
+      "status": "futuro",
+      "imo": "9421116",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-12T01:00:00"
+    },
+    {
+      "data": "12/07",
       "hora": "07:00",
       "navio": "CMA CGM RABELAIS",
       "calado": "13,60",
@@ -244,6 +259,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-12T14:00:00"
+    },
+    {
+      "data": "13/07",
+      "hora": "03:00",
+      "navio": "BBC JADE",
+      "calado": "5,90",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9421116",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-13T03:00:00"
     },
     {
       "data": "13/07",
@@ -522,6 +552,24 @@
       "navio_multi": "YM MODERATION",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "12/07 11:00"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "12/07 09:00",
+      "manobra_rio_fim": "13/07 05:00",
+      "navio_multi": "BBC JADE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/07 03:00"
+    },
+    {
+      "navio_rio": "UAL TEXAS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "12/07 14:00",
+      "manobra_rio_fim": "14/07 05:00",
+      "navio_multi": "BBC JADE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/07 03:00"
     },
     {
       "navio_rio": "UAL TEXAS",
