@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "10/07/2026 07:01",
+  "ultima_atualizacao": "10/07/2026 09:34",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/07/2026 08:51 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra Grande restrita para navios com calado acima de 11,60m. Canal Varrido noturno fechado."
   },
   "navios": [
-    {
-      "data": "10/07",
-      "hora": "06:30",
-      "navio": "MAERSK PANGANI",
-      "calado": "13,10",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9786097",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-10T06:30:00"
-    },
     {
       "data": "10/07",
       "hora": "08:30",
@@ -61,7 +46,7 @@
       "imo": "9793961",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-07-10T13:30:00"
     },
@@ -82,21 +67,6 @@
     },
     {
       "data": "10/07",
-      "hora": "18:00",
-      "navio": "INDUSTRIAL HOBART",
-      "calado": "5,90",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9362827",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-10T18:00:00"
-    },
-    {
-      "data": "10/07",
       "hora": "19:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
@@ -111,19 +81,19 @@
       "timestamp": "2026-07-10T19:00:00"
     },
     {
-      "data": "10/07",
-      "hora": "21:00",
-      "navio": "CMA CGM RABELAIS",
-      "calado": "12,60",
+      "data": "11/07",
+      "hora": "05:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "10,60",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9406635",
+      "status": "futuro",
+      "imo": "9407160",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-10T21:00:00"
+      "timestamp": "2026-07-11T05:00:00"
     },
     {
       "data": "11/07",
@@ -142,9 +112,9 @@
     },
     {
       "data": "11/07",
-      "hora": "08:00",
+      "hora": "08:30",
       "navio": "MSC ATHENS",
-      "calado": "14,50",
+      "calado": "14,90",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -153,7 +123,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-11T08:00:00"
+      "timestamp": "2026-07-11T08:30:00"
     },
     {
       "data": "11/07",
@@ -174,9 +144,9 @@
       "data": "11/07",
       "hora": "12:00",
       "navio": "CMA CGM RABELAIS",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONT1",
+      "calado": "13,95",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9406635",
       "tipo_navio": "CONTAINER SHIP",
@@ -187,28 +157,58 @@
     },
     {
       "data": "11/07",
-      "hora": "14:00",
-      "navio": "SEASPAN EMPIRE",
-      "calado": "10,60",
+      "hora": "15:30",
+      "navio": "YM MODERATION",
+      "calado": "13,90",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9664897",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-11T15:30:00"
+    },
+    {
+      "data": "11/07",
+      "hora": "21:00",
+      "navio": "INDUSTRIAL HOBART",
+      "calado": "5,90",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9362827",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-11T21:00:00"
+    },
+    {
+      "data": "11/07",
+      "hora": "23:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9407160",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-11T14:00:00"
+      "timestamp": "2026-07-11T23:00:00"
     },
     {
       "data": "12/07",
       "hora": "07:00",
-      "navio": "SEASPAN EMPIRE",
-      "calado": "12,60",
+      "navio": "CMA CGM RABELAIS",
+      "calado": "13,60",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9407160",
+      "imo": "9406635",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -219,7 +219,7 @@
       "data": "12/07",
       "hora": "09:00",
       "navio": "CMA CGM SANTOS",
-      "calado": "12,00",
+      "calado": "11,00",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -229,6 +229,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-12T09:00:00"
+    },
+    {
+      "data": "12/07",
+      "hora": "11:00",
+      "navio": "YM MODERATION",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9664897",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-12T11:00:00"
     },
     {
       "data": "12/07",
@@ -249,7 +264,7 @@
       "data": "13/07",
       "hora": "05:00",
       "navio": "CMA CGM SANTOS",
-      "calado": "12,00",
+      "calado": "10,90",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -429,48 +444,84 @@
   "conflitos": [
     {
       "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "10/07 15:30",
       "manobra_rio_fim": "11/07 10:00",
+      "navio_multi": "MSC MICHELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "11/07 07:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "10/07 15:30",
+      "manobra_rio_fim": "11/07 10:00",
+      "navio_multi": "MSC ATHENS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "11/07 08:30"
+    },
+    {
+      "navio_rio": "SEASPAN EMPIRE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/07 05:00",
+      "manobra_rio_fim": "11/07 23:00",
+      "navio_multi": "MSC MICHELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "11/07 07:00"
+    },
+    {
+      "navio_rio": "SEASPAN EMPIRE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/07 05:00",
+      "manobra_rio_fim": "11/07 23:00",
+      "navio_multi": "MSC ATHENS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "11/07 08:30"
+    },
+    {
+      "navio_rio": "SEASPAN EMPIRE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "11/07 05:00",
+      "manobra_rio_fim": "11/07 23:00",
+      "navio_multi": "YM MODERATION",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "11/07 15:30"
+    },
+    {
+      "navio_rio": "SEASPAN EMPIRE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "11/07 05:00",
+      "manobra_rio_fim": "11/07 23:00",
       "navio_multi": "INDUSTRIAL HOBART",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/07 18:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/07 15:30",
-      "manobra_rio_fim": "11/07 10:00",
-      "navio_multi": "MSC MICHELA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/07 07:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/07 15:30",
-      "manobra_rio_fim": "11/07 10:00",
-      "navio_multi": "MSC ATHENS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/07 08:00"
+      "manobra_multi_data_hora": "11/07 21:00"
     },
     {
       "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/07 21:00",
-      "manobra_rio_fim": "11/07 12:00",
-      "navio_multi": "MSC MICHELA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/07 07:00"
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/07 12:00",
+      "manobra_rio_fim": "12/07 07:00",
+      "navio_multi": "YM MODERATION",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "11/07 15:30"
     },
     {
       "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/07 21:00",
-      "manobra_rio_fim": "11/07 12:00",
-      "navio_multi": "MSC ATHENS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/07 12:00",
+      "manobra_rio_fim": "12/07 07:00",
+      "navio_multi": "INDUSTRIAL HOBART",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/07 08:00"
+      "manobra_multi_data_hora": "11/07 21:00"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "12/07 09:00",
+      "manobra_rio_fim": "13/07 05:00",
+      "navio_multi": "YM MODERATION",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "12/07 11:00"
     }
   ]
 }
