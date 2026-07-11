@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "11/07/2026 09:09",
+  "ultima_atualizacao": "11/07/2026 10:55",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/07/2026 08:51 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra Grande restrita para navios com calado acima de 11,60m. Canal Varrido noturno fechado."
   },
   "navios": [
-    {
-      "data": "11/07",
-      "hora": "06:30",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-11T06:30:00"
-    },
     {
       "data": "11/07",
       "hora": "09:30",
@@ -39,7 +24,7 @@
       "data": "11/07",
       "hora": "10:30",
       "navio": "COSCO SHIPPING CHILE",
-      "calado": "13,00",
+      "calado": "13,60",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -61,7 +46,7 @@
       "imo": "9406635",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-11T12:30:00"
     },
@@ -76,7 +61,7 @@
       "imo": "9664897",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-07-11T14:00:00"
     },
