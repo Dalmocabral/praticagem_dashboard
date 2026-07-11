@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/07/2026 15:10",
+  "ultima_atualizacao": "11/07/2026 16:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/07/2026 11:39"
@@ -7,24 +7,9 @@
   "navios": [
     {
       "data": "11/07",
-      "hora": "14:00",
-      "navio": "YM MODERATION",
-      "calado": "13,90",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9664897",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-11T14:00:00"
-    },
-    {
-      "data": "11/07",
       "hora": "18:00",
       "navio": "SEASPAN EMPIRE",
-      "calado": "12,60",
+      "calado": "10,30",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -46,7 +31,7 @@
       "imo": "9362827",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-11T19:00:00"
     },
