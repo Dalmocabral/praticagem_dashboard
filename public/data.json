@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/07/2026 20:37",
+  "ultima_atualizacao": "10/07/2026 22:07",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/07/2026 08:51 Embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra Grande restrita para navios com calado acima de 11,60m. Canal Varrido noturno fechado."
@@ -12,7 +12,7 @@
       "calado": "14,80",
       "manobra": "M",
       "beco": "TECONT3 -> VISITA S",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -27,7 +27,7 @@
       "calado": "10,60",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9407160",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -42,7 +42,7 @@
       "calado": "10,40",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -57,7 +57,7 @@
       "calado": "15,15",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9720512",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -72,7 +72,7 @@
       "calado": "13,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9945887",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -87,7 +87,7 @@
       "calado": "13,95",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9406635",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -102,7 +102,7 @@
       "calado": "13,90",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9664897",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -112,12 +112,27 @@
     },
     {
       "data": "11/07",
+      "hora": "18:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9407160",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-11T18:00:00"
+    },
+    {
+      "data": "11/07",
       "hora": "21:00",
       "navio": "INDUSTRIAL HOBART",
       "calado": "5,90",
       "manobra": "S",
       "beco": "TECONT5",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9362827",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
@@ -128,12 +143,12 @@
     {
       "data": "11/07",
       "hora": "23:00",
-      "navio": "SEASPAN EMPIRE",
-      "calado": "12,60",
-      "manobra": "S",
+      "navio": "XIN CHANG SHA",
+      "calado": "11,60",
+      "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9407160",
+      "status": "hoje",
+      "imo": "9312559",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -154,21 +169,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-12T01:00:00"
-    },
-    {
-      "data": "12/07",
-      "hora": "03:00",
-      "navio": "XIN CHANG SHA",
-      "calado": "11,60",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9312559",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-12T03:00:00"
     },
     {
       "data": "12/07",
@@ -246,6 +246,21 @@
       "timestamp": "2026-07-12T14:00:00"
     },
     {
+      "data": "12/07",
+      "hora": "15:30",
+      "navio": "MSC SOFIA PAZ",
+      "calado": "13,80",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9695028",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-12T15:30:00"
+    },
+    {
       "data": "13/07",
       "hora": "03:00",
       "navio": "BBC JADE",
@@ -304,6 +319,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-13T10:00:00"
+    },
+    {
+      "data": "13/07",
+      "hora": "15:30",
+      "navio": "MSC SOFIA PAZ",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9695028",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-13T15:30:00"
     },
     {
       "data": "14/07",
@@ -461,7 +491,7 @@
       "navio_rio": "SEASPAN EMPIRE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "11/07 05:00",
-      "manobra_rio_fim": "11/07 23:00",
+      "manobra_rio_fim": "11/07 18:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "11/07 06:30"
@@ -470,28 +500,19 @@
       "navio_rio": "SEASPAN EMPIRE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "11/07 05:00",
-      "manobra_rio_fim": "11/07 23:00",
+      "manobra_rio_fim": "11/07 18:00",
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "11/07 09:30"
     },
     {
       "navio_rio": "SEASPAN EMPIRE",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "11/07 05:00",
-      "manobra_rio_fim": "11/07 23:00",
+      "manobra_rio_fim": "11/07 18:00",
       "navio_multi": "YM MODERATION",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "11/07 14:00"
-    },
-    {
-      "navio_rio": "SEASPAN EMPIRE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "11/07 05:00",
-      "manobra_rio_fim": "11/07 23:00",
-      "navio_multi": "INDUSTRIAL HOBART",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/07 21:00"
     },
     {
       "navio_rio": "CMA CGM RABELAIS",
@@ -514,7 +535,7 @@
     {
       "navio_rio": "XIN CHANG SHA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/07 03:00",
+      "manobra_rio_inicio": "11/07 23:00",
       "manobra_rio_fim": "12/07 12:00",
       "navio_multi": "YM MODERATION",
       "manobra_multi_tipo": "S",
@@ -531,12 +552,30 @@
     },
     {
       "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "12/07 09:00",
+      "manobra_rio_fim": "13/07 05:00",
+      "navio_multi": "MSC SOFIA PAZ",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "12/07 15:30"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "12/07 09:00",
       "manobra_rio_fim": "13/07 05:00",
       "navio_multi": "BBC JADE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "13/07 03:00"
+    },
+    {
+      "navio_rio": "UAL TEXAS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "12/07 14:00",
+      "manobra_rio_fim": "14/07 05:00",
+      "navio_multi": "MSC SOFIA PAZ",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "12/07 15:30"
     },
     {
       "navio_rio": "UAL TEXAS",
@@ -555,6 +594,24 @@
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "13/07 08:00"
+    },
+    {
+      "navio_rio": "UAL TEXAS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "12/07 14:00",
+      "manobra_rio_fim": "14/07 05:00",
+      "navio_multi": "MSC SOFIA PAZ",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/07 15:30"
+    },
+    {
+      "navio_rio": "EVER FASHION",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/07 10:00",
+      "manobra_rio_fim": "14/07 08:00",
+      "navio_multi": "MSC SOFIA PAZ",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/07 15:30"
     }
   ]
 }
