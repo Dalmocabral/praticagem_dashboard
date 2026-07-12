@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/07/2026 17:54",
+  "ultima_atualizacao": "12/07/2026 18:54",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 12/07/2026 17:31 Restrição de manobras de atracação e desatracação no Tecont"
@@ -21,21 +21,6 @@
       "timestamp": "2026-07-12T13:00:00"
     },
     {
-      "data": "12/07",
-      "hora": "22:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-12T22:00:00"
-    },
-    {
       "data": "13/07",
       "hora": "05:00",
       "navio": "CMA CGM SANTOS",
@@ -49,6 +34,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-13T05:00:00"
+    },
+    {
+      "data": "13/07",
+      "hora": "06:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-13T06:00:00"
     },
     {
       "data": "13/07",
