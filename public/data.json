@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/07/2026 15:40",
+  "ultima_atualizacao": "12/07/2026 16:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/07/2026 11:39"
@@ -19,36 +19,6 @@
       "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-12T13:00:00"
-    },
-    {
-      "data": "12/07",
-      "hora": "15:00",
-      "navio": "UAL TEXAS",
-      "calado": "5,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9542350",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-12T15:00:00"
-    },
-    {
-      "data": "12/07",
-      "hora": "16:30",
-      "navio": "MSC SOFIA PAZ",
-      "calado": "13,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9695028",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-12T16:30:00"
     },
     {
       "data": "12/07",
@@ -94,21 +64,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-13T05:00:00"
-    },
-    {
-      "data": "13/07",
-      "hora": "08:00",
-      "navio": "MSC SOFIA PAZ",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9695028",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-13T08:00:00"
     },
     {
       "data": "13/07",
@@ -337,60 +292,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "UAL TEXAS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/07 15:00",
-      "manobra_rio_fim": "14/07 05:00",
-      "navio_multi": "MSC SOFIA PAZ",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/07 16:30"
-    },
-    {
-      "navio_rio": "UAL TEXAS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/07 15:00",
-      "manobra_rio_fim": "14/07 05:00",
-      "navio_multi": "BBC JADE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/07 21:00"
-    },
-    {
-      "navio_rio": "UAL TEXAS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/07 15:00",
-      "manobra_rio_fim": "14/07 05:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/07 22:00"
-    },
-    {
-      "navio_rio": "UAL TEXAS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/07 15:00",
-      "manobra_rio_fim": "14/07 05:00",
-      "navio_multi": "MSC SOFIA PAZ",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/07 08:00"
-    },
-    {
-      "navio_rio": "UAL TEXAS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/07 15:00",
-      "manobra_rio_fim": "14/07 05:00",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/07 12:00"
-    },
-    {
-      "navio_rio": "UAL TEXAS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/07 15:00",
-      "manobra_rio_fim": "14/07 05:00",
-      "navio_multi": "MSC PAMELA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/07 15:00"
-    },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
       "manobra_rio_afetada": "E",
