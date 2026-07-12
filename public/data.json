@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/07/2026 08:57",
+  "ultima_atualizacao": "12/07/2026 10:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/07/2026 11:39"
@@ -22,22 +22,37 @@
     },
     {
       "data": "12/07",
-      "hora": "12:00",
+      "hora": "11:00",
       "navio": "XIN CHANG SHA",
-      "calado": "11,60",
+      "calado": "11,90",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9312559",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-07-12T12:00:00"
+      "timestamp": "2026-07-12T11:00:00"
     },
     {
       "data": "12/07",
-      "hora": "14:00",
+      "hora": "13:00",
+      "navio": "YM MODERATION",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9664897",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
+      "timestamp": "2026-07-12T13:00:00"
+    },
+    {
+      "data": "12/07",
+      "hora": "15:00",
       "navio": "UAL TEXAS",
       "calado": "5,00",
       "manobra": "E",
@@ -48,28 +63,13 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-12T14:00:00"
+      "timestamp": "2026-07-12T15:00:00"
     },
     {
       "data": "12/07",
-      "hora": "16:00",
-      "navio": "YM MODERATION",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9664897",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-12T16:00:00"
-    },
-    {
-      "data": "12/07",
-      "hora": "18:00",
+      "hora": "16:30",
       "navio": "MSC SOFIA PAZ",
-      "calado": "12,60",
+      "calado": "13,60",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
@@ -78,7 +78,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-12T18:00:00"
+      "timestamp": "2026-07-12T16:30:00"
     },
     {
       "data": "13/07",
@@ -142,7 +142,7 @@
     },
     {
       "data": "13/07",
-      "hora": "15:30",
+      "hora": "12:00",
       "navio": "MSC SOFIA PAZ",
       "calado": "14,55",
       "manobra": "S",
@@ -153,7 +153,37 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-13T15:30:00"
+      "timestamp": "2026-07-13T12:00:00"
+    },
+    {
+      "data": "13/07",
+      "hora": "14:00",
+      "navio": "MSC MELINE",
+      "calado": "11,50",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-13T14:00:00"
+    },
+    {
+      "data": "13/07",
+      "hora": "16:00",
+      "navio": "MSC PAMELA",
+      "calado": "14,10",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-13T16:00:00"
     },
     {
       "data": "14/07",
@@ -169,6 +199,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-14T05:00:00"
+    },
+    {
+      "data": "14/07",
+      "hora": "06:00",
+      "navio": "MSC MELINE",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-14T06:00:00"
     },
     {
       "data": "14/07",
@@ -214,6 +259,21 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-14T12:00:00"
+    },
+    {
+      "data": "14/07",
+      "hora": "14:00",
+      "navio": "MSC PAMELA",
+      "calado": "14,10",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-14T14:00:00"
     },
     {
       "data": "15/07",
@@ -314,7 +374,7 @@
       "manobra_rio_fim": "13/07 05:00",
       "navio_multi": "YM MODERATION",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/07 16:00"
+      "manobra_multi_data_hora": "12/07 13:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
@@ -323,7 +383,7 @@
       "manobra_rio_fim": "13/07 05:00",
       "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/07 18:00"
+      "manobra_multi_data_hora": "12/07 16:30"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
@@ -337,25 +397,16 @@
     {
       "navio_rio": "UAL TEXAS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/07 14:00",
-      "manobra_rio_fim": "14/07 05:00",
-      "navio_multi": "YM MODERATION",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/07 16:00"
-    },
-    {
-      "navio_rio": "UAL TEXAS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/07 14:00",
+      "manobra_rio_inicio": "12/07 15:00",
       "manobra_rio_fim": "14/07 05:00",
       "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/07 18:00"
+      "manobra_multi_data_hora": "12/07 16:30"
     },
     {
       "navio_rio": "UAL TEXAS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/07 14:00",
+      "manobra_rio_inicio": "12/07 15:00",
       "manobra_rio_fim": "14/07 05:00",
       "navio_multi": "BBC JADE",
       "manobra_multi_tipo": "S",
@@ -364,7 +415,7 @@
     {
       "navio_rio": "UAL TEXAS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/07 14:00",
+      "manobra_rio_inicio": "12/07 15:00",
       "manobra_rio_fim": "14/07 05:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
@@ -373,11 +424,29 @@
     {
       "navio_rio": "UAL TEXAS",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/07 14:00",
+      "manobra_rio_inicio": "12/07 15:00",
       "manobra_rio_fim": "14/07 05:00",
       "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/07 15:30"
+      "manobra_multi_data_hora": "13/07 12:00"
+    },
+    {
+      "navio_rio": "UAL TEXAS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "12/07 15:00",
+      "manobra_rio_fim": "14/07 05:00",
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/07 14:00"
+    },
+    {
+      "navio_rio": "UAL TEXAS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "12/07 15:00",
+      "manobra_rio_fim": "14/07 05:00",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/07 16:00"
     },
     {
       "navio_rio": "EVER FASHION",
@@ -386,7 +455,52 @@
       "manobra_rio_fim": "14/07 08:00",
       "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/07 15:30"
+      "manobra_multi_data_hora": "13/07 12:00"
+    },
+    {
+      "navio_rio": "EVER FASHION",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/07 10:00",
+      "manobra_rio_fim": "14/07 08:00",
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/07 14:00"
+    },
+    {
+      "navio_rio": "EVER FASHION",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/07 10:00",
+      "manobra_rio_fim": "14/07 08:00",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/07 16:00"
+    },
+    {
+      "navio_rio": "EVER FASHION",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "13/07 10:00",
+      "manobra_rio_fim": "14/07 08:00",
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/07 06:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING BRAZIL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/07 10:00",
+      "manobra_rio_fim": "15/07 08:00",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/07 14:00"
+    },
+    {
+      "navio_rio": "NC BRUMA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/07 12:00",
+      "manobra_rio_fim": "15/07 21:00",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/07 14:00"
     }
   ]
 }
