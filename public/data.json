@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "12/07/2026 10:47",
+  "ultima_atualizacao": "12/07/2026 11:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/07/2026 11:39"
   },
   "navios": [
-    {
-      "data": "12/07",
-      "hora": "09:00",
-      "navio": "CMA CGM SANTOS",
-      "calado": "12,10",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-12T09:00:00"
-    },
     {
       "data": "12/07",
       "hora": "11:00",
@@ -61,7 +46,7 @@
       "imo": "9542350",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-07-12T15:00:00"
     },
@@ -99,7 +84,7 @@
       "data": "13/07",
       "hora": "05:00",
       "navio": "CMA CGM SANTOS",
-      "calado": "12,00",
+      "calado": "11,60",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -367,33 +352,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/07 09:00",
-      "manobra_rio_fim": "13/07 05:00",
-      "navio_multi": "YM MODERATION",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/07 13:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/07 09:00",
-      "manobra_rio_fim": "13/07 05:00",
-      "navio_multi": "MSC SOFIA PAZ",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/07 16:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/07 09:00",
-      "manobra_rio_fim": "13/07 05:00",
-      "navio_multi": "BBC JADE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/07 03:00"
-    },
     {
       "navio_rio": "UAL TEXAS",
       "manobra_rio_afetada": "E",
