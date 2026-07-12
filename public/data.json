@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "12/07/2026 01:41",
+  "ultima_atualizacao": "12/07/2026 04:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/07/2026 11:39"
   },
   "navios": [
-    {
-      "data": "12/07",
-      "hora": "01:00",
-      "navio": "BBC JADE",
-      "calado": "5,90",
-      "manobra": "M",
-      "beco": "A10 -> TECONT5",
-      "status": "hoje",
-      "imo": "9421116",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-12T01:00:00"
-    },
     {
       "data": "12/07",
       "hora": "07:00",
@@ -31,7 +16,7 @@
       "imo": "9406635",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-07-12T07:00:00"
     },
@@ -174,7 +159,7 @@
       "data": "13/07",
       "hora": "15:30",
       "navio": "MSC SOFIA PAZ",
-      "calado": "12,60",
+      "calado": "14,55",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
