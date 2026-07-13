@@ -1,25 +1,10 @@
 {
-  "ultima_atualizacao": "13/07/2026 14:35",
+  "ultima_atualizacao": "13/07/2026 16:02",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
   },
   "navios": [
-    {
-      "data": "13/07",
-      "hora": "14:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,70",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-13T14:00:00"
-    },
     {
       "data": "13/07",
       "hora": "16:00",
@@ -46,7 +31,7 @@
       "imo": "9649835",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-07-13T18:00:00"
     },
@@ -61,7 +46,7 @@
       "imo": "9542350",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-07-13T19:00:00"
     },
@@ -94,21 +79,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-13T23:00:00"
-    },
-    {
-      "data": "14/07",
-      "hora": "05:00",
-      "navio": "MSC MELINE",
-      "calado": "11,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-14T05:00:00"
     },
     {
       "data": "14/07",
@@ -158,17 +128,32 @@
     {
       "data": "14/07",
       "hora": "11:30",
-      "navio": "MSC PAMELA",
-      "calado": "14,10",
+      "navio": "MSC MARSEILLE",
+      "calado": "11,40",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9290531",
+      "imo": "9975595",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-14T11:30:00"
+    },
+    {
+      "data": "14/07",
+      "hora": "14:00",
+      "navio": "MSC MELINE",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-14T14:00:00"
     },
     {
       "data": "14/07",
@@ -188,12 +173,12 @@
     {
       "data": "15/07",
       "hora": "06:30",
-      "navio": "MSC PAMELA",
-      "calado": "14,10",
+      "navio": "MSC MARSEILLE",
+      "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9290531",
+      "imo": "9975595",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -312,7 +297,25 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "14/07 08:00",
       "manobra_rio_fim": "14/07 15:00",
-      "navio_multi": "MSC PAMELA",
+      "navio_multi": "MSC MARSEILLE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/07 11:30"
+    },
+    {
+      "navio_rio": "NC BRUMA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/07 08:00",
+      "manobra_rio_fim": "14/07 15:00",
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/07 14:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING BRAZIL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/07 10:00",
+      "manobra_rio_fim": "15/07 08:00",
+      "navio_multi": "MSC MARSEILLE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "14/07 11:30"
     },
@@ -321,16 +324,16 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "14/07 10:00",
       "manobra_rio_fim": "15/07 08:00",
-      "navio_multi": "MSC PAMELA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/07 11:30"
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/07 14:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "14/07 10:00",
       "manobra_rio_fim": "15/07 08:00",
-      "navio_multi": "MSC PAMELA",
+      "navio_multi": "MSC MARSEILLE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/07 06:30"
     }
