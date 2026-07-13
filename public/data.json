@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/07/2026 19:31",
+  "ultima_atualizacao": "13/07/2026 20:30",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
@@ -76,7 +76,7 @@
       "imo": "9421116",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-13T23:00:00"
     },
