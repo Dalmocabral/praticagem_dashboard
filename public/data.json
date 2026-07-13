@@ -1,8 +1,8 @@
 {
-  "ultima_atualizacao": "12/07/2026 20:57",
+  "ultima_atualizacao": "13/07/2026 00:48",
   "barra_info": {
     "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 12/07/2026 17:31 Restrição de manobras de atracação e desatracação no Tecont"
+    "mensagem": "BARRA RESTRITA DESDE 12/07/2026 23:41 Restrição de manobras de atracação e desatracação no Tecont. Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m."
   },
   "navios": [
     {
@@ -12,7 +12,7 @@
       "calado": "12,50",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "hoje",
+      "status": "passado",
       "imo": "9664897",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -22,88 +22,58 @@
     },
     {
       "data": "13/07",
-      "hora": "05:00",
+      "hora": "10:00",
       "navio": "CMA CGM SANTOS",
       "calado": "11,60",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9649835",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-13T05:00:00"
+      "timestamp": "2026-07-13T10:00:00"
     },
     {
       "data": "13/07",
-      "hora": "06:00",
+      "hora": "11:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-13T06:00:00"
+      "timestamp": "2026-07-13T11:00:00"
     },
     {
       "data": "13/07",
-      "hora": "08:00",
+      "hora": "13:00",
       "navio": "MSC SOFIA PAZ",
-      "calado": "14,50",
+      "calado": "13,60",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9695028",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-13T08:00:00"
-    },
-    {
-      "data": "13/07",
-      "hora": "10:00",
-      "navio": "MSC SOFIA PAZ",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9695028",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-13T10:00:00"
-    },
-    {
-      "data": "13/07",
-      "hora": "12:00",
-      "navio": "MSC MELINE",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-13T12:00:00"
+      "timestamp": "2026-07-13T13:00:00"
     },
     {
       "data": "13/07",
       "hora": "15:00",
-      "navio": "MSC PAMELA",
-      "calado": "14,10",
+      "navio": "MSC MELINE",
+      "calado": "11,50",
       "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9290531",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9702077",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -112,7 +82,7 @@
     },
     {
       "data": "14/07",
-      "hora": "05:00",
+      "hora": "04:00",
       "navio": "UAL TEXAS",
       "calado": "5,50",
       "manobra": "S",
@@ -123,17 +93,32 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-14T05:00:00"
+      "timestamp": "2026-07-14T04:00:00"
     },
     {
       "data": "14/07",
-      "hora": "06:00",
+      "hora": "05:00",
       "navio": "MSC MELINE",
       "calado": "11,50",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-14T05:00:00"
+    },
+    {
+      "data": "14/07",
+      "hora": "06:00",
+      "navio": "MSC SOFIA PAZ",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9695028",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -172,7 +157,22 @@
     },
     {
       "data": "14/07",
-      "hora": "14:00",
+      "hora": "11:30",
+      "navio": "MSC PAMELA",
+      "calado": "14,10",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-14T11:30:00"
+    },
+    {
+      "data": "15/07",
+      "hora": "06:30",
       "navio": "MSC PAMELA",
       "calado": "14,10",
       "manobra": "S",
@@ -183,7 +183,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-14T14:00:00"
+      "timestamp": "2026-07-15T06:30:00"
     },
     {
       "data": "15/07",
@@ -313,8 +313,17 @@
       "manobra_rio_inicio": "14/07 08:00",
       "manobra_rio_fim": "15/07 08:00",
       "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/07 11:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING BRAZIL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/07 08:00",
+      "manobra_rio_fim": "15/07 08:00",
+      "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/07 14:00"
+      "manobra_multi_data_hora": "15/07 06:30"
     },
     {
       "navio_rio": "NC BRUMA",
@@ -322,8 +331,17 @@
       "manobra_rio_inicio": "14/07 10:00",
       "manobra_rio_fim": "15/07 21:00",
       "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/07 11:30"
+    },
+    {
+      "navio_rio": "NC BRUMA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/07 10:00",
+      "manobra_rio_fim": "15/07 21:00",
+      "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/07 14:00"
+      "manobra_multi_data_hora": "15/07 06:30"
     }
   ]
 }
