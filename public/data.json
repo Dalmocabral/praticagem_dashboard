@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/07/2026 18:28",
+  "ultima_atualizacao": "13/07/2026 19:31",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
@@ -76,30 +76,15 @@
       "imo": "9421116",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-07-13T23:00:00"
     },
     {
       "data": "14/07",
-      "hora": "06:00",
-      "navio": "NC BRUMA",
-      "calado": "10,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9612777",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-14T06:00:00"
-    },
-    {
-      "data": "14/07",
       "hora": "08:00",
       "navio": "MSC SOFIA PAZ",
-      "calado": "12,60",
+      "calado": "14,50",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -142,24 +127,9 @@
     },
     {
       "data": "14/07",
-      "hora": "14:00",
-      "navio": "NC BRUMA",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9612777",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-14T14:00:00"
-    },
-    {
-      "data": "14/07",
       "hora": "15:00",
       "navio": "MSC MELINE",
-      "calado": "11,50",
+      "calado": "10,70",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -322,24 +292,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "NC BRUMA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/07 06:00",
-      "manobra_rio_fim": "14/07 14:00",
-      "navio_multi": "MSC SOFIA PAZ",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/07 08:00"
-    },
-    {
-      "navio_rio": "NC BRUMA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/07 06:00",
-      "manobra_rio_fim": "14/07 14:00",
-      "navio_multi": "MAERSK RUBICON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/07 12:00"
-    },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
       "manobra_rio_afetada": "E",
