@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "14/07/2026 15:05",
+  "ultima_atualizacao": "14/07/2026 16:40",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
   },
   "navios": [
-    {
-      "data": "14/07",
-      "dia_semana": "terça",
-      "hora": "08:00",
-      "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "14,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-14T08:00:00"
-    },
     {
       "data": "14/07",
       "dia_semana": "terça",
@@ -36,22 +20,6 @@
       "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-14T11:00:00"
-    },
-    {
-      "data": "14/07",
-      "dia_semana": "terça",
-      "hora": "13:00",
-      "navio": "MAERSK RUBICON",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9632480",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-14T13:00:00"
     },
     {
       "data": "14/07",
@@ -97,7 +65,7 @@
       "imo": "9372810",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-14T18:30:00"
     },
@@ -359,60 +327,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/07 08:00",
-      "manobra_rio_fim": "15/07 08:00",
-      "navio_multi": "MSC SOFIA PAZ",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/07 11:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/07 08:00",
-      "manobra_rio_fim": "15/07 08:00",
-      "navio_multi": "MAERSK RUBICON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/07 13:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/07 08:00",
-      "manobra_rio_fim": "15/07 08:00",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/07 15:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/07 08:00",
-      "manobra_rio_fim": "15/07 08:00",
-      "navio_multi": "MSC MARSEILLE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/07 17:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/07 08:00",
-      "manobra_rio_fim": "15/07 08:00",
-      "navio_multi": "POLARIS LEADER",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/07 18:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/07 08:00",
-      "manobra_rio_fim": "15/07 08:00",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/07 02:00"
-    },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
