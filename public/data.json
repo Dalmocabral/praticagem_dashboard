@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/07/2026 07:24",
+  "ultima_atualizacao": "14/07/2026 08:56",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
@@ -37,7 +37,7 @@
     },
     {
       "data": "14/07",
-      "hora": "10:00",
+      "hora": "11:00",
       "navio": "MSC SOFIA PAZ",
       "calado": "14,50",
       "manobra": "S",
@@ -48,11 +48,11 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-07-14T10:00:00"
+      "timestamp": "2026-07-14T11:00:00"
     },
     {
       "data": "14/07",
-      "hora": "12:00",
+      "hora": "13:00",
       "navio": "MAERSK RUBICON",
       "calado": "14,00",
       "manobra": "E",
@@ -63,7 +63,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-14T12:00:00"
+      "timestamp": "2026-07-14T13:00:00"
     },
     {
       "data": "14/07",
@@ -96,38 +96,23 @@
       "timestamp": "2026-07-14T17:00:00"
     },
     {
-      "data": "15/07",
-      "hora": "06:30",
-      "navio": "MSC MARSEILLE",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9975595",
-      "tipo_navio": "CONTAINER SHIP",
+      "data": "14/07",
+      "hora": "18:30",
+      "navio": "POLARIS LEADER",
+      "calado": "8,30",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9372810",
+      "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-15T06:30:00"
+      "timestamp": "2026-07-14T18:30:00"
     },
     {
       "data": "15/07",
-      "hora": "08:00",
-      "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9945837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-15T08:00:00"
-    },
-    {
-      "data": "15/07",
-      "hora": "09:00",
+      "hora": "06:30",
       "navio": "MAERSK RUBICON",
       "calado": "14,00",
       "manobra": "S",
@@ -138,7 +123,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-15T09:00:00"
+      "timestamp": "2026-07-15T06:30:00"
+    },
+    {
+      "data": "15/07",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING BRAZIL",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-15T08:00:00"
     },
     {
       "data": "15/07",
@@ -154,6 +154,36 @@
       "alerta": null,
       "terminal": "pg1",
       "timestamp": "2026-07-15T11:00:00"
+    },
+    {
+      "data": "15/07",
+      "hora": "15:00",
+      "navio": "MSC MARSEILLE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9975595",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-15T15:00:00"
+    },
+    {
+      "data": "15/07",
+      "hora": "17:00",
+      "navio": "POLARIS LEADER",
+      "calado": "8,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9372810",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-15T17:00:00"
     },
     {
       "data": "17/07",
@@ -239,7 +269,7 @@
       "manobra_rio_fim": "15/07 08:00",
       "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/07 10:00"
+      "manobra_multi_data_hora": "14/07 11:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
@@ -248,7 +278,7 @@
       "manobra_rio_fim": "15/07 08:00",
       "navio_multi": "MAERSK RUBICON",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/07 12:00"
+      "manobra_multi_data_hora": "14/07 13:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
@@ -270,10 +300,19 @@
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/07 08:00",
+      "manobra_rio_fim": "15/07 08:00",
+      "navio_multi": "POLARIS LEADER",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/07 18:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING BRAZIL",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "14/07 08:00",
       "manobra_rio_fim": "15/07 08:00",
-      "navio_multi": "MSC MARSEILLE",
+      "navio_multi": "MAERSK RUBICON",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/07 06:30"
     }
