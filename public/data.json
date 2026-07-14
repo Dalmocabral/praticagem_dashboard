@@ -1,12 +1,13 @@
 {
-  "ultima_atualizacao": "14/07/2026 10:35",
+  "ultima_atualizacao": "14/07/2026 10:42",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
   },
   "navios": [
     {
-      "data": "ter, 14/07",
+      "data": "14/07",
+      "dia_semana": "terça",
       "hora": "08:00",
       "navio": "COSCO SHIPPING BRAZIL",
       "calado": "14,30",
@@ -21,7 +22,8 @@
       "timestamp": "2026-07-14T08:00:00"
     },
     {
-      "data": "ter, 14/07",
+      "data": "14/07",
+      "dia_semana": "terça",
       "hora": "11:00",
       "navio": "MSC SOFIA PAZ",
       "calado": "14,50",
@@ -36,7 +38,8 @@
       "timestamp": "2026-07-14T11:00:00"
     },
     {
-      "data": "ter, 14/07",
+      "data": "14/07",
+      "dia_semana": "terça",
       "hora": "13:00",
       "navio": "MAERSK RUBICON",
       "calado": "14,00",
@@ -51,7 +54,8 @@
       "timestamp": "2026-07-14T13:00:00"
     },
     {
-      "data": "ter, 14/07",
+      "data": "14/07",
+      "dia_semana": "terça",
       "hora": "15:00",
       "navio": "MSC MELINE",
       "calado": "10,70",
@@ -66,7 +70,8 @@
       "timestamp": "2026-07-14T15:00:00"
     },
     {
-      "data": "ter, 14/07",
+      "data": "14/07",
+      "dia_semana": "terça",
       "hora": "17:00",
       "navio": "MSC MARSEILLE",
       "calado": "11,40",
@@ -81,7 +86,8 @@
       "timestamp": "2026-07-14T17:00:00"
     },
     {
-      "data": "ter, 14/07",
+      "data": "14/07",
+      "dia_semana": "terça",
       "hora": "18:30",
       "navio": "POLARIS LEADER",
       "calado": "8,30",
@@ -96,7 +102,8 @@
       "timestamp": "2026-07-14T18:30:00"
     },
     {
-      "data": "qua, 15/07",
+      "data": "15/07",
+      "dia_semana": "quarta",
       "hora": "06:30",
       "navio": "MAERSK RUBICON",
       "calado": "14,00",
@@ -111,7 +118,8 @@
       "timestamp": "2026-07-15T06:30:00"
     },
     {
-      "data": "qua, 15/07",
+      "data": "15/07",
+      "dia_semana": "quarta",
       "hora": "08:00",
       "navio": "COSCO SHIPPING BRAZIL",
       "calado": "13,50",
@@ -126,7 +134,8 @@
       "timestamp": "2026-07-15T08:00:00"
     },
     {
-      "data": "qua, 15/07",
+      "data": "15/07",
+      "dia_semana": "quarta",
       "hora": "10:00",
       "navio": "ITHACA",
       "calado": "7,70",
@@ -141,7 +150,8 @@
       "timestamp": "2026-07-15T10:00:00"
     },
     {
-      "data": "qua, 15/07",
+      "data": "15/07",
+      "dia_semana": "quarta",
       "hora": "11:00",
       "navio": "HL EDWARD AUSTIN",
       "calado": "11,00",
@@ -156,7 +166,8 @@
       "timestamp": "2026-07-15T11:00:00"
     },
     {
-      "data": "qua, 15/07",
+      "data": "15/07",
+      "dia_semana": "quarta",
       "hora": "15:00",
       "navio": "MSC MARSEILLE",
       "calado": "12,60",
@@ -171,7 +182,8 @@
       "timestamp": "2026-07-15T15:00:00"
     },
     {
-      "data": "qua, 15/07",
+      "data": "15/07",
+      "dia_semana": "quarta",
       "hora": "17:00",
       "navio": "POLARIS LEADER",
       "calado": "8,50",
@@ -186,7 +198,8 @@
       "timestamp": "2026-07-15T17:00:00"
     },
     {
-      "data": "qua, 15/07",
+      "data": "15/07",
+      "dia_semana": "quarta",
       "hora": "19:00",
       "navio": "ZIM BALTIMORE",
       "calado": "12,60",
@@ -201,7 +214,8 @@
       "timestamp": "2026-07-15T19:00:00"
     },
     {
-      "data": "qui, 16/07",
+      "data": "16/07",
+      "dia_semana": "quinta",
       "hora": "07:00",
       "navio": "COSCO SHIPPING ARGENTINA",
       "calado": "13,50",
@@ -216,7 +230,8 @@
       "timestamp": "2026-07-16T07:00:00"
     },
     {
-      "data": "qui, 16/07",
+      "data": "16/07",
+      "dia_semana": "quinta",
       "hora": "10:00",
       "navio": "ZIM BALTIMORE",
       "calado": "12,50",
@@ -231,7 +246,8 @@
       "timestamp": "2026-07-16T10:00:00"
     },
     {
-      "data": "qui, 16/07",
+      "data": "16/07",
+      "dia_semana": "quinta",
       "hora": "11:00",
       "navio": "ITHACA",
       "calado": "7,00",
@@ -246,7 +262,8 @@
       "timestamp": "2026-07-16T11:00:00"
     },
     {
-      "data": "sex, 17/07",
+      "data": "17/07",
+      "dia_semana": "sexta",
       "hora": "14:00",
       "navio": "EVER FASHION",
       "calado": "14,00",
@@ -261,7 +278,8 @@
       "timestamp": "2026-07-17T14:00:00"
     },
     {
-      "data": "sab, 18/07",
+      "data": "18/07",
+      "dia_semana": "sábado",
       "hora": "07:00",
       "navio": "COSCO SHIPPING ARGENTINA",
       "calado": "13,00",
@@ -276,7 +294,8 @@
       "timestamp": "2026-07-18T07:00:00"
     },
     {
-      "data": "sab, 18/07",
+      "data": "18/07",
+      "dia_semana": "sábado",
       "hora": "15:30",
       "navio": "EVER FASHION",
       "calado": "14,00",
@@ -291,7 +310,8 @@
       "timestamp": "2026-07-18T15:30:00"
     },
     {
-      "data": "dom, 19/07",
+      "data": "19/07",
+      "dia_semana": "domingo",
       "hora": "15:00",
       "navio": "HL EDWARD AUSTIN",
       "calado": "10,00",
@@ -306,7 +326,8 @@
       "timestamp": "2026-07-19T15:00:00"
     },
     {
-      "data": "seg, 20/07",
+      "data": "20/07",
+      "dia_semana": "segunda",
       "hora": "10:00",
       "navio": "EVER FAME",
       "calado": "14,00",
@@ -321,7 +342,8 @@
       "timestamp": "2026-07-20T10:00:00"
     },
     {
-      "data": "ter, 21/07",
+      "data": "21/07",
+      "dia_semana": "terça",
       "hora": "13:00",
       "navio": "EVER FAME",
       "calado": "14,00",
