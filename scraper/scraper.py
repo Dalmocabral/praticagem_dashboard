@@ -118,6 +118,9 @@ def get_all_navios_manobras():
                 hoje = datetime.now()
                 # Assuming current year, handling year rollover could be added if needed
                 navio_date = datetime(hoje.year, mes, dia, hora_part, minuto_part)
+                
+                dias_semana = ["seg", "ter", "qua", "qui", "sex", "sab", "dom"]
+                data = f"{dias_semana[navio_date.weekday()]}, {data}"
 
                 status = "futuro"
                 if navio_date.date() == hoje.date(): status = "hoje"
