@@ -1,27 +1,12 @@
 {
-  "ultima_atualizacao": "14/07/2026 08:56",
+  "ultima_atualizacao": "14/07/2026 10:35",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
   },
   "navios": [
     {
-      "data": "13/07",
-      "hora": "18:00",
-      "navio": "CMA CGM SANTOS",
-      "calado": "11,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-13T18:00:00"
-    },
-    {
-      "data": "14/07",
+      "data": "ter, 14/07",
       "hora": "08:00",
       "navio": "COSCO SHIPPING BRAZIL",
       "calado": "14,30",
@@ -36,7 +21,7 @@
       "timestamp": "2026-07-14T08:00:00"
     },
     {
-      "data": "14/07",
+      "data": "ter, 14/07",
       "hora": "11:00",
       "navio": "MSC SOFIA PAZ",
       "calado": "14,50",
@@ -51,7 +36,7 @@
       "timestamp": "2026-07-14T11:00:00"
     },
     {
-      "data": "14/07",
+      "data": "ter, 14/07",
       "hora": "13:00",
       "navio": "MAERSK RUBICON",
       "calado": "14,00",
@@ -61,12 +46,12 @@
       "imo": "9632480",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-14T13:00:00"
     },
     {
-      "data": "14/07",
+      "data": "ter, 14/07",
       "hora": "15:00",
       "navio": "MSC MELINE",
       "calado": "10,70",
@@ -81,7 +66,7 @@
       "timestamp": "2026-07-14T15:00:00"
     },
     {
-      "data": "14/07",
+      "data": "ter, 14/07",
       "hora": "17:00",
       "navio": "MSC MARSEILLE",
       "calado": "11,40",
@@ -96,7 +81,7 @@
       "timestamp": "2026-07-14T17:00:00"
     },
     {
-      "data": "14/07",
+      "data": "ter, 14/07",
       "hora": "18:30",
       "navio": "POLARIS LEADER",
       "calado": "8,30",
@@ -111,7 +96,7 @@
       "timestamp": "2026-07-14T18:30:00"
     },
     {
-      "data": "15/07",
+      "data": "qua, 15/07",
       "hora": "06:30",
       "navio": "MAERSK RUBICON",
       "calado": "14,00",
@@ -126,7 +111,7 @@
       "timestamp": "2026-07-15T06:30:00"
     },
     {
-      "data": "15/07",
+      "data": "qua, 15/07",
       "hora": "08:00",
       "navio": "COSCO SHIPPING BRAZIL",
       "calado": "13,50",
@@ -141,7 +126,22 @@
       "timestamp": "2026-07-15T08:00:00"
     },
     {
-      "data": "15/07",
+      "data": "qua, 15/07",
+      "hora": "10:00",
+      "navio": "ITHACA",
+      "calado": "7,70",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9968449",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-15T10:00:00"
+    },
+    {
+      "data": "qua, 15/07",
       "hora": "11:00",
       "navio": "HL EDWARD AUSTIN",
       "calado": "11,00",
@@ -156,7 +156,7 @@
       "timestamp": "2026-07-15T11:00:00"
     },
     {
-      "data": "15/07",
+      "data": "qua, 15/07",
       "hora": "15:00",
       "navio": "MSC MARSEILLE",
       "calado": "12,60",
@@ -171,7 +171,7 @@
       "timestamp": "2026-07-15T15:00:00"
     },
     {
-      "data": "15/07",
+      "data": "qua, 15/07",
       "hora": "17:00",
       "navio": "POLARIS LEADER",
       "calado": "8,50",
@@ -186,12 +186,72 @@
       "timestamp": "2026-07-15T17:00:00"
     },
     {
-      "data": "17/07",
+      "data": "qua, 15/07",
+      "hora": "19:00",
+      "navio": "ZIM BALTIMORE",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9395953",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-15T19:00:00"
+    },
+    {
+      "data": "qui, 16/07",
+      "hora": "07:00",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "calado": "13,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-16T07:00:00"
+    },
+    {
+      "data": "qui, 16/07",
+      "hora": "10:00",
+      "navio": "ZIM BALTIMORE",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9395953",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-16T10:00:00"
+    },
+    {
+      "data": "qui, 16/07",
+      "hora": "11:00",
+      "navio": "ITHACA",
+      "calado": "7,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9968449",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-16T11:00:00"
+    },
+    {
+      "data": "sex, 17/07",
       "hora": "14:00",
       "navio": "EVER FASHION",
       "calado": "14,00",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9850836",
       "tipo_navio": "CONTAINER SHIP",
@@ -201,12 +261,27 @@
       "timestamp": "2026-07-17T14:00:00"
     },
     {
-      "data": "18/07",
+      "data": "sab, 18/07",
+      "hora": "07:00",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-18T07:00:00"
+    },
+    {
+      "data": "sab, 18/07",
       "hora": "15:30",
       "navio": "EVER FASHION",
       "calado": "14,00",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9850836",
       "tipo_navio": "CONTAINER SHIP",
@@ -216,7 +291,7 @@
       "timestamp": "2026-07-18T15:30:00"
     },
     {
-      "data": "19/07",
+      "data": "dom, 19/07",
       "hora": "15:00",
       "navio": "HL EDWARD AUSTIN",
       "calado": "10,00",
@@ -231,7 +306,7 @@
       "timestamp": "2026-07-19T15:00:00"
     },
     {
-      "data": "20/07",
+      "data": "seg, 20/07",
       "hora": "10:00",
       "navio": "EVER FAME",
       "calado": "14,00",
@@ -246,7 +321,7 @@
       "timestamp": "2026-07-20T10:00:00"
     },
     {
-      "data": "21/07",
+      "data": "ter, 21/07",
       "hora": "13:00",
       "navio": "EVER FAME",
       "calado": "14,00",
@@ -315,6 +390,15 @@
       "navio_multi": "MAERSK RUBICON",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/07 06:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/07 07:00",
+      "manobra_rio_fim": "18/07 07:00",
+      "navio_multi": "ITHACA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/07 11:00"
     }
   ]
 }
