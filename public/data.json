@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/07/2026 11:04",
+  "ultima_atualizacao": "14/07/2026 12:42",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
@@ -26,7 +26,7 @@
       "dia_semana": "terça",
       "hora": "11:00",
       "navio": "MSC SOFIA PAZ",
-      "calado": "14,50",
+      "calado": "14,40",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -65,7 +65,7 @@
       "imo": "9702077",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-14T15:00:00"
     },
@@ -74,7 +74,7 @@
       "dia_semana": "terça",
       "hora": "17:00",
       "navio": "MSC MARSEILLE",
-      "calado": "11,40",
+      "calado": "11,30",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
