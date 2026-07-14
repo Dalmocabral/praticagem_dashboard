@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/07/2026 16:40",
+  "ultima_atualizacao": "14/07/2026 17:44",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
@@ -20,22 +20,6 @@
       "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-14T11:00:00"
-    },
-    {
-      "data": "14/07",
-      "dia_semana": "terça",
-      "hora": "15:00",
-      "navio": "MSC MELINE",
-      "calado": "10,70",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-14T15:00:00"
     },
     {
       "data": "14/07",
@@ -230,22 +214,6 @@
       "timestamp": "2026-07-16T11:00:00"
     },
     {
-      "data": "17/07",
-      "dia_semana": "sexta",
-      "hora": "14:00",
-      "navio": "EVER FASHION",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9850836",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-17T14:00:00"
-    },
-    {
       "data": "18/07",
       "dia_semana": "sábado",
       "hora": "07:00",
@@ -264,7 +232,23 @@
     {
       "data": "18/07",
       "dia_semana": "sábado",
-      "hora": "15:30",
+      "hora": "10:00",
+      "navio": "EVER FASHION",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9850836",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-18T10:00:00"
+    },
+    {
+      "data": "19/07",
+      "dia_semana": "domingo",
+      "hora": "07:00",
       "navio": "EVER FASHION",
       "calado": "14,00",
       "manobra": "S",
@@ -275,7 +259,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-18T15:30:00"
+      "timestamp": "2026-07-19T07:00:00"
     },
     {
       "data": "19/07",
