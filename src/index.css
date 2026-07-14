@@ -145,6 +145,12 @@ body {
   font-size: 0.9rem;
 }
 
+.data-cell .dia-semana {
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  text-transform: capitalize;
+}
+
 .navio-info {
   display: flex;
   align-items: center;

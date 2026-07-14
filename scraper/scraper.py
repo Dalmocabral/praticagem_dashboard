@@ -119,8 +119,8 @@ def get_all_navios_manobras():
                 # Assuming current year, handling year rollover could be added if needed
                 navio_date = datetime(hoje.year, mes, dia, hora_part, minuto_part)
                 
-                dias_semana = ["seg", "ter", "qua", "qui", "sex", "sab", "dom"]
-                data = f"{dias_semana[navio_date.weekday()]}, {data}"
+                dias_semana = ["segunda", "terça", "quarta", "quinta", "sexta", "sábado", "domingo"]
+                dia_semana = dias_semana[navio_date.weekday()]
 
                 status = "futuro"
                 if navio_date.date() == hoje.date(): status = "hoje"
@@ -143,7 +143,7 @@ def get_all_navios_manobras():
                     elif "SUPPLY SHIP" in tipo_navio.upper(): icone = "https://i.ibb.co/ccHFRkVD/suplay-ship.png"
                 
                 navios_manobras.append({
-                    "data": data, "hora": hora, "navio": navio_nome, "calado": calado,
+                    "data": data, "dia_semana": dia_semana, "hora": hora, "navio": navio_nome, "calado": calado,
                     "manobra": manobra, "beco": becos, "status": status, "imo": imo,
                     "tipo_navio": tipo_navio, "icone": icone, "alerta": alerta,
                     "terminal": current_terminal,

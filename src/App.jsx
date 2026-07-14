@@ -76,6 +76,7 @@ function App() {
                   <td className="col-data" data-label="Data / Hora">
                     <div className="data-cell">
                       <span>{navio.data}</span>
+                      <span className="dia-semana">{navio.dia_semana}</span>
                       <span className="hora">{navio.hora}</span>
                     </div>
                   </td>
