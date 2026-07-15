@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/07/2026 19:09",
+  "ultima_atualizacao": "15/07/2026 20:12",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
@@ -138,7 +138,7 @@
       "dia_semana": "quinta",
       "hora": "15:00",
       "navio": "MSC INIYA V",
-      "calado": "11,50",
+      "calado": "10,86",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
