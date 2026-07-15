@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/07/2026 14:25",
+  "ultima_atualizacao": "15/07/2026 15:39",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
@@ -33,7 +33,7 @@
       "imo": "9372810",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-15T18:30:00"
     },
@@ -90,7 +90,7 @@
       "dia_semana": "quinta",
       "hora": "07:00",
       "navio": "COSCO SHIPPING ARGENTINA",
-      "calado": "13,50",
+      "calado": "12,30",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -250,7 +250,7 @@
       "dia_semana": "sábado",
       "hora": "07:00",
       "navio": "COSCO SHIPPING ARGENTINA",
-      "calado": "13,00",
+      "calado": "12,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -328,9 +328,9 @@
     {
       "data": "31/07",
       "dia_semana": "sexta",
-      "hora": "08:00",
+      "hora": "13:00",
       "navio": "CMA CGM COBALT",
-      "calado": "13,80",
+      "calado": "15,10",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -339,7 +339,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-31T08:00:00"
+      "timestamp": "2026-07-31T13:00:00"
     },
     {
       "data": "01/08",
