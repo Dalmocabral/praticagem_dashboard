@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/07/2026 05:57",
+  "ultima_atualizacao": "15/07/2026 07:58",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
@@ -10,7 +10,7 @@
       "dia_semana": "quarta",
       "hora": "08:00",
       "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "13,50",
+      "calado": "13,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -33,9 +33,25 @@
       "imo": "9972361",
       "tipo_navio": "LNG TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "pg1",
       "timestamp": "2026-07-15T11:00:00"
+    },
+    {
+      "data": "15/07",
+      "dia_semana": "quarta",
+      "hora": "14:00",
+      "navio": "ZIM BALTIMORE",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9395953",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-15T14:00:00"
     },
     {
       "data": "15/07",
@@ -52,22 +68,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-15T17:00:00"
-    },
-    {
-      "data": "15/07",
-      "dia_semana": "quarta",
-      "hora": "19:00",
-      "navio": "ZIM BALTIMORE",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9395953",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-15T19:00:00"
     },
     {
       "data": "16/07",
@@ -132,6 +132,38 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-16T11:00:00"
+    },
+    {
+      "data": "17/07",
+      "dia_semana": "sexta",
+      "hora": "12:00",
+      "navio": "INDUSTRIAL KATHARINA",
+      "calado": "6,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9435129",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-17T12:00:00"
+    },
+    {
+      "data": "18/07",
+      "dia_semana": "sábado",
+      "hora": "05:00",
+      "navio": "INDUSTRIAL KATHARINA",
+      "calado": "6,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9435129",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-18T05:00:00"
     },
     {
       "data": "18/07",
@@ -234,7 +266,16 @@
     {
       "navio_rio": "ZIM BALTIMORE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/07 19:00",
+      "manobra_rio_inicio": "15/07 14:00",
+      "manobra_rio_fim": "16/07 10:00",
+      "navio_multi": "POLARIS LEADER",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/07 17:00"
+    },
+    {
+      "navio_rio": "ZIM BALTIMORE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/07 14:00",
       "manobra_rio_fim": "16/07 10:00",
       "navio_multi": "MSC MARSEILLE",
       "manobra_multi_tipo": "S",
