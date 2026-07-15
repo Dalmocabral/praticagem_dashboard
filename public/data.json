@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/07/2026 07:58",
+  "ultima_atualizacao": "15/07/2026 09:21",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
@@ -26,21 +26,21 @@
       "dia_semana": "quarta",
       "hora": "11:00",
       "navio": "HL EDWARD AUSTIN",
-      "calado": "11,00",
+      "calado": "11,10",
       "manobra": "E",
       "beco": "PG-1",
       "status": "hoje",
       "imo": "9972361",
       "tipo_navio": "LNG TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "pg1",
       "timestamp": "2026-07-15T11:00:00"
     },
     {
       "data": "15/07",
       "dia_semana": "quarta",
-      "hora": "14:00",
+      "hora": "16:30",
       "navio": "ZIM BALTIMORE",
       "calado": "12,60",
       "manobra": "E",
@@ -51,12 +51,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-15T14:00:00"
+      "timestamp": "2026-07-15T16:30:00"
     },
     {
       "data": "15/07",
       "dia_semana": "quarta",
-      "hora": "17:00",
+      "hora": "18:30",
       "navio": "POLARIS LEADER",
       "calado": "8,50",
       "manobra": "S",
@@ -67,7 +67,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-15T17:00:00"
+      "timestamp": "2026-07-15T18:30:00"
     },
     {
       "data": "16/07",
@@ -84,6 +84,38 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-16T01:00:00"
+    },
+    {
+      "data": "16/07",
+      "dia_semana": "quinta",
+      "hora": "03:00",
+      "navio": "MSC BREMEN",
+      "calado": "9,90",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9369734",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-16T03:00:00"
+    },
+    {
+      "data": "16/07",
+      "dia_semana": "quinta",
+      "hora": "05:30",
+      "navio": "GRANDE SAN PAOLO",
+      "calado": "8,60",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9253208",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-16T05:30:00"
     },
     {
       "data": "16/07",
@@ -132,6 +164,86 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-16T11:00:00"
+    },
+    {
+      "data": "16/07",
+      "dia_semana": "quinta",
+      "hora": "13:00",
+      "navio": "MSC PAMELA",
+      "calado": "13,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-16T13:00:00"
+    },
+    {
+      "data": "16/07",
+      "dia_semana": "quinta",
+      "hora": "15:00",
+      "navio": "MSC BREMEN",
+      "calado": "9,90",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9369734",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-16T15:00:00"
+    },
+    {
+      "data": "17/07",
+      "dia_semana": "sexta",
+      "hora": "03:00",
+      "navio": "GRANDE SAN PAOLO",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9253208",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-17T03:00:00"
+    },
+    {
+      "data": "17/07",
+      "dia_semana": "sexta",
+      "hora": "07:00",
+      "navio": "MSC PAMELA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-17T07:00:00"
+    },
+    {
+      "data": "17/07",
+      "dia_semana": "sexta",
+      "hora": "08:00",
+      "navio": "HL EDWARD AUSTIN",
+      "calado": "10,00",
+      "manobra": "M",
+      "beco": "PG-1 -> AF GNL",
+      "status": "futuro",
+      "imo": "9972361",
+      "tipo_navio": "LNG TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "pg1",
+      "timestamp": "2026-07-17T08:00:00"
     },
     {
       "data": "17/07",
@@ -186,9 +298,9 @@
       "dia_semana": "sábado",
       "hora": "10:00",
       "navio": "EVER FASHION",
-      "calado": "14,00",
+      "calado": "13,20",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9850836",
       "tipo_navio": "CONTAINER SHIP",
@@ -202,9 +314,9 @@
       "dia_semana": "domingo",
       "hora": "07:00",
       "navio": "EVER FASHION",
-      "calado": "14,00",
+      "calado": "13,00",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9850836",
       "tipo_navio": "CONTAINER SHIP",
@@ -212,22 +324,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-19T07:00:00"
-    },
-    {
-      "data": "19/07",
-      "dia_semana": "domingo",
-      "hora": "15:00",
-      "navio": "HL EDWARD AUSTIN",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "PG-1",
-      "status": "futuro",
-      "imo": "9972361",
-      "tipo_navio": "LNG TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "pg1",
-      "timestamp": "2026-07-19T15:00:00"
     },
     {
       "data": "20/07",
@@ -260,26 +356,76 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-21T13:00:00"
+    },
+    {
+      "data": "31/07",
+      "dia_semana": "sexta",
+      "hora": "08:00",
+      "navio": "CMA CGM COBALT",
+      "calado": "13,80",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996680",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-31T08:00:00"
+    },
+    {
+      "data": "01/08",
+      "dia_semana": "sábado",
+      "hora": "08:00",
+      "navio": "CMA CGM COBALT",
+      "calado": "13,70",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996680",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-01T08:00:00"
     }
   ],
   "conflitos": [
     {
       "navio_rio": "ZIM BALTIMORE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/07 14:00",
+      "manobra_rio_inicio": "15/07 16:30",
       "manobra_rio_fim": "16/07 10:00",
       "navio_multi": "POLARIS LEADER",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/07 17:00"
+      "manobra_multi_data_hora": "15/07 18:30"
     },
     {
       "navio_rio": "ZIM BALTIMORE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/07 14:00",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/07 16:30",
       "manobra_rio_fim": "16/07 10:00",
       "navio_multi": "MSC MARSEILLE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/07 01:00"
+    },
+    {
+      "navio_rio": "ZIM BALTIMORE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/07 16:30",
+      "manobra_rio_fim": "16/07 10:00",
+      "navio_multi": "MSC BREMEN",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/07 03:00"
+    },
+    {
+      "navio_rio": "ZIM BALTIMORE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/07 16:30",
+      "manobra_rio_fim": "16/07 10:00",
+      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/07 05:30"
     },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
@@ -289,6 +435,42 @@
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/07 11:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/07 07:00",
+      "manobra_rio_fim": "18/07 07:00",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/07 13:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/07 07:00",
+      "manobra_rio_fim": "18/07 07:00",
+      "navio_multi": "MSC BREMEN",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/07 15:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/07 07:00",
+      "manobra_rio_fim": "18/07 07:00",
+      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/07 03:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/07 07:00",
+      "manobra_rio_fim": "18/07 07:00",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/07 07:00"
     }
   ]
 }
