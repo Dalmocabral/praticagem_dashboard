@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/07/2026 12:56",
+  "ultima_atualizacao": "15/07/2026 14:25",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
@@ -8,32 +8,16 @@
     {
       "data": "15/07",
       "dia_semana": "quarta",
-      "hora": "11:00",
-      "navio": "HL EDWARD AUSTIN",
-      "calado": "11,10",
-      "manobra": "E",
-      "beco": "PG-1",
-      "status": "hoje",
-      "imo": "9972361",
-      "tipo_navio": "LNG TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_futura",
-      "terminal": "pg1",
-      "timestamp": "2026-07-15T11:00:00"
-    },
-    {
-      "data": "15/07",
-      "dia_semana": "quarta",
       "hora": "16:30",
       "navio": "ZIM BALTIMORE",
-      "calado": "12,60",
+      "calado": "12,50",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9395953",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-15T16:30:00"
     },
