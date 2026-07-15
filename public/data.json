@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "15/07/2026 17:58",
+  "ultima_atualizacao": "15/07/2026 19:09",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
   },
   "navios": [
-    {
-      "data": "15/07",
-      "dia_semana": "quarta",
-      "hora": "16:30",
-      "navio": "ZIM BALTIMORE",
-      "calado": "12,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9395953",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-15T16:30:00"
-    },
     {
       "data": "15/07",
       "dia_semana": "quarta",
@@ -154,7 +138,7 @@
       "dia_semana": "quinta",
       "hora": "15:00",
       "navio": "MSC INIYA V",
-      "calado": "11,30",
+      "calado": "11,50",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -186,7 +170,7 @@
       "dia_semana": "sexta",
       "hora": "07:00",
       "navio": "MSC PAMELA",
-      "calado": "12,60",
+      "calado": "12,40",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -391,42 +375,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "ZIM BALTIMORE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/07 16:30",
-      "manobra_rio_fim": "16/07 10:00",
-      "navio_multi": "POLARIS LEADER",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/07 18:30"
-    },
-    {
-      "navio_rio": "ZIM BALTIMORE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/07 16:30",
-      "manobra_rio_fim": "16/07 10:00",
-      "navio_multi": "MSC MARSEILLE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/07 01:00"
-    },
-    {
-      "navio_rio": "ZIM BALTIMORE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/07 16:30",
-      "manobra_rio_fim": "16/07 10:00",
-      "navio_multi": "MSC INIYA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/07 03:00"
-    },
-    {
-      "navio_rio": "ZIM BALTIMORE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/07 16:30",
-      "manobra_rio_fim": "16/07 10:00",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/07 05:30"
-    },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
