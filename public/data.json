@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "16/07/2026 15:34",
+  "ultima_atualizacao": "16/07/2026 16:44",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
   },
   "navios": [
-    {
-      "data": "16/07",
-      "dia_semana": "quinta",
-      "hora": "12:00",
-      "navio": "MSC CATERINA",
-      "calado": "13,90",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-16T12:00:00"
-    },
     {
       "data": "16/07",
       "dia_semana": "quinta",
@@ -33,7 +17,7 @@
       "imo": "9313931",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-16T19:30:00"
     },
