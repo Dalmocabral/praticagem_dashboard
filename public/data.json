@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "16/07/2026 03:05",
+  "ultima_atualizacao": "16/07/2026 05:32",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
   },
   "navios": [
-    {
-      "data": "16/07",
-      "dia_semana": "quinta",
-      "hora": "02:30",
-      "navio": "MSC INIYA V",
-      "calado": "11,40",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9313931",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-16T02:30:00"
-    },
     {
       "data": "16/07",
       "dia_semana": "quinta",
@@ -49,7 +33,7 @@
       "imo": "9945849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-16T07:00:00"
     },
