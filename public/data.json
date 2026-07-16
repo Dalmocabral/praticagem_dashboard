@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "16/07/2026 00:41",
+  "ultima_atualizacao": "16/07/2026 03:05",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
   },
   "navios": [
-    {
-      "data": "16/07",
-      "dia_semana": "quinta",
-      "hora": "00:30",
-      "navio": "MSC MARSEILLE",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9975595",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-16T00:30:00"
-    },
     {
       "data": "16/07",
       "dia_semana": "quinta",
@@ -49,7 +33,7 @@
       "imo": "9253208",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-16T05:30:00"
     },
@@ -65,7 +49,7 @@
       "imo": "9945849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-07-16T07:00:00"
     },
