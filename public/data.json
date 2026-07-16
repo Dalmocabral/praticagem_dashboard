@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/07/2026 14:13",
+  "ultima_atualizacao": "16/07/2026 15:34",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
@@ -24,7 +24,7 @@
     {
       "data": "16/07",
       "dia_semana": "quinta",
-      "hora": "18:00",
+      "hora": "19:30",
       "navio": "MSC INIYA V",
       "calado": "11,50",
       "manobra": "S",
@@ -35,7 +35,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-07-16T18:00:00"
+      "timestamp": "2026-07-16T19:30:00"
     },
     {
       "data": "16/07",
@@ -120,7 +120,7 @@
     {
       "data": "17/07",
       "dia_semana": "sexta",
-      "hora": "10:00",
+      "hora": "08:30",
       "navio": "GRANDE AMBURGO",
       "calado": "8,50",
       "manobra": "E",
@@ -131,7 +131,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-17T10:00:00"
+      "timestamp": "2026-07-17T08:30:00"
     },
     {
       "data": "17/07",
