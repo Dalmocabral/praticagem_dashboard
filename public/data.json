@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/07/2026 05:32",
+  "ultima_atualizacao": "16/07/2026 07:31",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
@@ -40,23 +40,23 @@
     {
       "data": "16/07",
       "dia_semana": "quinta",
-      "hora": "10:00",
+      "hora": "09:00",
       "navio": "ZIM BALTIMORE",
-      "calado": "12,50",
+      "calado": "12,55",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9395953",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-07-16T10:00:00"
+      "timestamp": "2026-07-16T09:00:00"
     },
     {
       "data": "16/07",
       "dia_semana": "quinta",
-      "hora": "11:00",
+      "hora": "10:00",
       "navio": "ITHACA",
       "calado": "7,00",
       "manobra": "S",
@@ -65,14 +65,14 @@
       "imo": "9968449",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-07-16T11:00:00"
+      "timestamp": "2026-07-16T10:00:00"
     },
     {
       "data": "16/07",
       "dia_semana": "quinta",
-      "hora": "13:00",
+      "hora": "12:00",
       "navio": "MSC PAMELA",
       "calado": "13,00",
       "manobra": "E",
@@ -83,7 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-16T13:00:00"
+      "timestamp": "2026-07-16T12:00:00"
     },
     {
       "data": "16/07",
@@ -334,7 +334,7 @@
       "manobra_rio_fim": "18/07 07:00",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/07 11:00"
+      "manobra_multi_data_hora": "16/07 10:00"
     },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
@@ -343,7 +343,7 @@
       "manobra_rio_fim": "18/07 07:00",
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "16/07 13:00"
+      "manobra_multi_data_hora": "16/07 12:00"
     },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
