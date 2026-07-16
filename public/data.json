@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "16/07/2026 11:19",
+  "ultima_atualizacao": "16/07/2026 12:52",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/07/2026 13:39 Autorizado embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a 11,50m"
   },
   "navios": [
-    {
-      "data": "16/07",
-      "dia_semana": "quinta",
-      "hora": "09:00",
-      "navio": "ZIM BALTIMORE",
-      "calado": "12,55",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9395953",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-16T09:00:00"
-    },
-    {
-      "data": "16/07",
-      "dia_semana": "quinta",
-      "hora": "10:00",
-      "navio": "ITHACA",
-      "calado": "7,80",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9968449",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-16T10:00:00"
-    },
     {
       "data": "16/07",
       "dia_semana": "quinta",
@@ -58,7 +26,7 @@
       "dia_semana": "quinta",
       "hora": "18:00",
       "navio": "MSC INIYA V",
-      "calado": "10,86",
+      "calado": "11,50",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -88,6 +56,22 @@
     {
       "data": "17/07",
       "dia_semana": "sexta",
+      "hora": "01:00",
+      "navio": "MSC CATERINA",
+      "calado": "14,10",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-17T01:00:00"
+    },
+    {
+      "data": "17/07",
+      "dia_semana": "sexta",
       "hora": "04:30",
       "navio": "MSC STRAIT II",
       "calado": "9,90",
@@ -100,22 +84,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-17T04:30:00"
-    },
-    {
-      "data": "17/07",
-      "dia_semana": "sexta",
-      "hora": "06:30",
-      "navio": "MSC CATERINA",
-      "calado": "14,10",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-17T06:30:00"
     },
     {
       "data": "17/07",
@@ -262,6 +230,22 @@
       "timestamp": "2026-07-18T14:00:00"
     },
     {
+      "data": "18/07",
+      "dia_semana": "sábado",
+      "hora": "15:00",
+      "navio": "XIAMEN EXPRESS",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9630420",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-18T15:00:00"
+    },
+    {
       "data": "19/07",
       "dia_semana": "domingo",
       "hora": "07:00",
@@ -392,6 +376,15 @@
       "navio_multi": "MSC STRAIT II",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "18/07 14:00"
+    },
+    {
+      "navio_rio": "EVER FASHION",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/07 10:00",
+      "manobra_rio_fim": "19/07 07:00",
+      "navio_multi": "XIAMEN EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/07 15:00"
     }
   ]
 }
