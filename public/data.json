@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/07/2026 22:14",
+  "ultima_atualizacao": "17/07/2026 01:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -10,7 +10,7 @@
       "dia_semana": "sexta",
       "hora": "01:00",
       "navio": "MSC CATERINA",
-      "calado": "14,60",
+      "calado": "14,80",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -33,7 +33,7 @@
       "imo": "9253208",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-17T02:00:00"
     },
@@ -49,7 +49,7 @@
       "imo": "9351218",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-07-17T04:30:00"
     },
@@ -84,6 +84,22 @@
       "alerta": null,
       "terminal": "pg1",
       "timestamp": "2026-07-17T08:00:00"
+    },
+    {
+      "data": "17/07",
+      "dia_semana": "sexta",
+      "hora": "08:30",
+      "navio": "DOVER HIGHWAY",
+      "calado": "8,90",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9574107",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-17T08:30:00"
     },
     {
       "data": "17/07",
@@ -164,6 +180,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-18T10:00:00"
+    },
+    {
+      "data": "18/07",
+      "dia_semana": "sábado",
+      "hora": "12:00",
+      "navio": "DOVER HIGHWAY",
+      "calado": "8,90",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9574107",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-18T12:00:00"
     },
     {
       "data": "18/07",
@@ -428,6 +460,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "18/07 06:00",
       "manobra_rio_fim": "18/07 17:00",
+      "navio_multi": "DOVER HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/07 12:00"
+    },
+    {
+      "navio_rio": "DUSSELDORF EXPRESS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/07 06:00",
+      "manobra_rio_fim": "18/07 17:00",
       "navio_multi": "MSC STRAIT II",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "18/07 14:00"
@@ -440,6 +481,15 @@
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "18/07 15:00"
+    },
+    {
+      "navio_rio": "EVER FASHION",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/07 10:00",
+      "manobra_rio_fim": "19/07 09:00",
+      "navio_multi": "DOVER HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/07 12:00"
     },
     {
       "navio_rio": "EVER FASHION",
