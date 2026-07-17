@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "17/07/2026 12:40",
+  "ultima_atualizacao": "17/07/2026 13:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "17/07",
-      "dia_semana": "sexta",
-      "hora": "11:30",
-      "navio": "INDUSTRIAL KATHARINA",
-      "calado": "6,70",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9435129",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-17T11:30:00"
-    },
     {
       "data": "18/07",
       "dia_semana": "sábado",
@@ -232,22 +216,6 @@
     {
       "data": "19/07",
       "dia_semana": "domingo",
-      "hora": "12:00",
-      "navio": "TINA I",
-      "calado": "12,40",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9267156",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-19T12:00:00"
-    },
-    {
-      "data": "19/07",
-      "dia_semana": "domingo",
       "hora": "14:30",
       "navio": "MSC BREMEN",
       "calado": "12,10",
@@ -276,6 +244,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-19T15:30:00"
+    },
+    {
+      "data": "19/07",
+      "dia_semana": "domingo",
+      "hora": "17:30",
+      "navio": "TINA I",
+      "calado": "12,40",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9267156",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-19T17:30:00"
     },
     {
       "data": "20/07",
@@ -392,15 +376,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "INDUSTRIAL KATHARINA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/07 11:30",
-      "manobra_rio_fim": "18/07 13:00",
-      "navio_multi": "DOVER HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/07 12:00"
-    },
-    {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "18/07 06:00",
@@ -489,24 +464,6 @@
       "navio_multi": "MSC BREMEN",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "18/07 22:30"
-    },
-    {
-      "navio_rio": "TINA I",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/07 12:00",
-      "manobra_rio_fim": "20/07 12:00",
-      "navio_multi": "MSC BREMEN",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/07 14:30"
-    },
-    {
-      "navio_rio": "TINA I",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/07 12:00",
-      "manobra_rio_fim": "20/07 12:00",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/07 15:30"
     }
   ]
 }
