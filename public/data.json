@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/07/2026 16:22",
+  "ultima_atualizacao": "17/07/2026 17:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -184,6 +184,22 @@
     {
       "data": "19/07",
       "dia_semana": "domingo",
+      "hora": "01:00",
+      "navio": "ONE PREMIUM",
+      "calado": "14,10",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9444261",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-19T01:00:00"
+    },
+    {
+      "data": "19/07",
+      "dia_semana": "domingo",
       "hora": "10:00",
       "navio": "DUSSELDORF EXPRESS",
       "calado": "10,50",
@@ -328,6 +344,22 @@
     {
       "data": "21/07",
       "dia_semana": "terça",
+      "hora": "07:00",
+      "navio": "ONE PREMIUM",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9444261",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-21T07:00:00"
+    },
+    {
+      "data": "21/07",
+      "dia_semana": "terça",
       "hora": "13:00",
       "navio": "EVER FAME",
       "calado": "14,00",
@@ -448,6 +480,15 @@
       "manobra_multi_data_hora": "18/07 22:30"
     },
     {
+      "navio_rio": "EVER FASHION",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/07 10:00",
+      "manobra_rio_fim": "19/07 13:30",
+      "navio_multi": "ONE PREMIUM",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/07 01:00"
+    },
+    {
       "navio_rio": "DUSSELDORF EXPRESS",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "18/07 19:00",
@@ -464,6 +505,24 @@
       "navio_multi": "MSC BREMEN",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "18/07 22:30"
+    },
+    {
+      "navio_rio": "DUSSELDORF EXPRESS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/07 19:00",
+      "manobra_rio_fim": "19/07 10:00",
+      "navio_multi": "ONE PREMIUM",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/07 01:00"
+    },
+    {
+      "navio_rio": "EVER FAME",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "20/07 10:00",
+      "manobra_rio_fim": "21/07 13:00",
+      "navio_multi": "ONE PREMIUM",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/07 07:00"
     }
   ]
 }
