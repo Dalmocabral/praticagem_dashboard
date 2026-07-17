@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "17/07/2026 03:59",
+  "ultima_atualizacao": "17/07/2026 06:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "17/07",
-      "dia_semana": "sexta",
-      "hora": "04:30",
-      "navio": "MSC STRAIT II",
-      "calado": "9,85",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9351218",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-17T04:30:00"
-    },
     {
       "data": "17/07",
       "dia_semana": "sexta",
@@ -33,7 +17,7 @@
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-17T07:00:00"
     },
@@ -42,14 +26,14 @@
       "dia_semana": "sexta",
       "hora": "08:00",
       "navio": "HL EDWARD AUSTIN",
-      "calado": "10,00",
+      "calado": "10,10",
       "manobra": "M",
       "beco": "PG-1 -> AF GNL",
       "status": "hoje",
       "imo": "9972361",
       "tipo_navio": "LNG TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "pg1",
       "timestamp": "2026-07-17T08:00:00"
     },
@@ -58,14 +42,14 @@
       "dia_semana": "sexta",
       "hora": "08:30",
       "navio": "DOVER HIGHWAY",
-      "calado": "8,90",
+      "calado": "8,85",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9574107",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-17T08:30:00"
     },
