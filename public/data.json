@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/07/2026 18:24",
+  "ultima_atualizacao": "17/07/2026 19:22",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -40,55 +40,7 @@
     {
       "data": "18/07",
       "dia_semana": "sábado",
-      "hora": "10:00",
-      "navio": "EVER FASHION",
-      "calado": "13,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9850836",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-18T10:00:00"
-    },
-    {
-      "data": "18/07",
-      "dia_semana": "sábado",
-      "hora": "12:00",
-      "navio": "DOVER HIGHWAY",
-      "calado": "8,90",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9574107",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-18T12:00:00"
-    },
-    {
-      "data": "18/07",
-      "dia_semana": "sábado",
-      "hora": "13:00",
-      "navio": "INDUSTRIAL KATHARINA",
-      "calado": "6,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9435129",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-18T13:00:00"
-    },
-    {
-      "data": "18/07",
-      "dia_semana": "sábado",
-      "hora": "14:00",
+      "hora": "09:00",
       "navio": "MSC STRAIT II",
       "calado": "9,00",
       "manobra": "S",
@@ -99,23 +51,71 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-18T14:00:00"
+      "timestamp": "2026-07-18T09:00:00"
     },
     {
       "data": "18/07",
       "dia_semana": "sábado",
-      "hora": "15:00",
-      "navio": "XIAMEN EXPRESS",
-      "calado": "10,10",
-      "manobra": "M",
-      "beco": "TECONT3 -> VISITA S",
+      "hora": "11:00",
+      "navio": "EVER FASHION",
+      "calado": "13,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9630420",
+      "imo": "9850836",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-18T11:00:00"
+    },
+    {
+      "data": "18/07",
+      "dia_semana": "sábado",
+      "hora": "12:30",
+      "navio": "MSC BREMEN",
+      "calado": "12,70",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9369734",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-18T15:00:00"
+      "timestamp": "2026-07-18T12:30:00"
+    },
+    {
+      "data": "18/07",
+      "dia_semana": "sábado",
+      "hora": "14:30",
+      "navio": "INDUSTRIAL KATHARINA",
+      "calado": "6,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9435129",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-18T14:30:00"
+    },
+    {
+      "data": "18/07",
+      "dia_semana": "sábado",
+      "hora": "16:00",
+      "navio": "DOVER HIGHWAY",
+      "calado": "8,90",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9574107",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-18T16:00:00"
     },
     {
       "data": "18/07",
@@ -168,18 +168,18 @@
     {
       "data": "18/07",
       "dia_semana": "sábado",
-      "hora": "22:30",
-      "navio": "MSC BREMEN",
-      "calado": "11,40",
-      "manobra": "E",
-      "beco": "TECONT2",
+      "hora": "23:00",
+      "navio": "XIAMEN EXPRESS",
+      "calado": "10,10",
+      "manobra": "M",
+      "beco": "TECONT3 -> VISITA S",
       "status": "futuro",
-      "imo": "9369734",
+      "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-18T22:30:00"
+      "timestamp": "2026-07-18T23:00:00"
     },
     {
       "data": "19/07",
@@ -409,44 +409,53 @@
   "conflitos": [
     {
       "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "18/07 06:00",
       "manobra_rio_fim": "18/07 17:00",
-      "navio_multi": "DOVER HIGHWAY",
+      "navio_multi": "MSC STRAIT II",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/07 12:00"
+      "manobra_multi_data_hora": "18/07 09:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "18/07 06:00",
       "manobra_rio_fim": "18/07 17:00",
-      "navio_multi": "MSC STRAIT II",
+      "navio_multi": "MSC BREMEN",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "18/07 12:30"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/07 06:00",
+      "manobra_rio_fim": "18/07 17:00",
+      "navio_multi": "DOVER HIGHWAY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/07 14:00"
+      "manobra_multi_data_hora": "18/07 16:00"
     },
     {
       "navio_rio": "EVER FASHION",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/07 10:00",
+      "manobra_rio_inicio": "18/07 11:00",
+      "manobra_rio_fim": "20/07 02:00",
+      "navio_multi": "MSC BREMEN",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "18/07 12:30"
+    },
+    {
+      "navio_rio": "EVER FASHION",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/07 11:00",
       "manobra_rio_fim": "20/07 02:00",
       "navio_multi": "DOVER HIGHWAY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/07 12:00"
+      "manobra_multi_data_hora": "18/07 16:00"
     },
     {
       "navio_rio": "EVER FASHION",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/07 10:00",
-      "manobra_rio_fim": "20/07 02:00",
-      "navio_multi": "MSC STRAIT II",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/07 14:00"
-    },
-    {
-      "navio_rio": "EVER FASHION",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/07 10:00",
+      "manobra_rio_inicio": "18/07 11:00",
       "manobra_rio_fim": "20/07 02:00",
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "E",
@@ -455,16 +464,7 @@
     {
       "navio_rio": "EVER FASHION",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/07 10:00",
-      "manobra_rio_fim": "20/07 02:00",
-      "navio_multi": "MSC BREMEN",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/07 22:30"
-    },
-    {
-      "navio_rio": "EVER FASHION",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/07 10:00",
+      "manobra_rio_inicio": "18/07 11:00",
       "manobra_rio_fim": "20/07 02:00",
       "navio_multi": "ONE PREMIUM",
       "manobra_multi_tipo": "E",
@@ -473,7 +473,7 @@
     {
       "navio_rio": "EVER FASHION",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/07 10:00",
+      "manobra_rio_inicio": "18/07 11:00",
       "manobra_rio_fim": "20/07 02:00",
       "navio_multi": "MSC BREMEN",
       "manobra_multi_tipo": "S",
@@ -482,7 +482,7 @@
     {
       "navio_rio": "EVER FASHION",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/07 10:00",
+      "manobra_rio_inicio": "18/07 11:00",
       "manobra_rio_fim": "20/07 02:00",
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "S",
@@ -496,15 +496,6 @@
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "18/07 21:00"
-    },
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/07 19:00",
-      "manobra_rio_fim": "19/07 10:00",
-      "navio_multi": "MSC BREMEN",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/07 22:30"
     },
     {
       "navio_rio": "DUSSELDORF EXPRESS",
