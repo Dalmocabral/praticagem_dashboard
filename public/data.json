@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/07/2026 07:59",
+  "ultima_atualizacao": "17/07/2026 09:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -65,7 +65,7 @@
       "imo": "9435129",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-17T11:30:00"
     },
@@ -196,6 +196,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-18T17:00:00"
+    },
+    {
+      "data": "18/07",
+      "dia_semana": "sábado",
+      "hora": "18:30",
+      "navio": "MSC BREMEN",
+      "calado": "11,40",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9369734",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-18T18:30:00"
     },
     {
       "data": "18/07",
@@ -466,9 +482,27 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "18/07 10:00",
       "manobra_rio_fim": "19/07 09:00",
+      "navio_multi": "MSC BREMEN",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "18/07 18:30"
+    },
+    {
+      "navio_rio": "EVER FASHION",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/07 10:00",
+      "manobra_rio_fim": "19/07 09:00",
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "18/07 21:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/07 19:00",
+      "manobra_rio_fim": "19/07 05:00",
+      "navio_multi": "MSC BREMEN",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "18/07 18:30"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
