@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/07/2026 06:48",
+  "ultima_atualizacao": "18/07/2026 07:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -26,7 +26,7 @@
       "dia_semana": "sábado",
       "hora": "08:00",
       "navio": "MSC STRAIT II",
-      "calado": "7,40",
+      "calado": "7,00",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -49,7 +49,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-18T10:00:00"
     },
@@ -65,7 +65,7 @@
       "imo": "9369734",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-07-18T11:30:00"
     },
