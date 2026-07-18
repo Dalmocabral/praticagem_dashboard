@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/07/2026 13:34",
+  "ultima_atualizacao": "18/07/2026 14:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -42,9 +42,9 @@
       "dia_semana": "sábado",
       "hora": "15:00",
       "navio": "XIAMEN EXPRESS",
-      "calado": "10,10",
-      "manobra": "M",
-      "beco": "TECONT3 -> VISITA S",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT3",
       "status": "hoje",
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
@@ -58,7 +58,7 @@
       "dia_semana": "sábado",
       "hora": "16:00",
       "navio": "DOVER HIGHWAY",
-      "calado": "8,90",
+      "calado": "9,05",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -81,7 +81,7 @@
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-07-18T18:00:00"
     },
@@ -138,7 +138,7 @@
       "dia_semana": "domingo",
       "hora": "09:00",
       "navio": "MSC BREMEN",
-      "calado": "12,10",
+      "calado": "13,60",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -439,6 +439,15 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "EVER FASHION",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/07 13:00",
+      "manobra_rio_fim": "20/07 02:00",
+      "navio_multi": "XIAMEN EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/07 15:00"
+    },
     {
       "navio_rio": "EVER FASHION",
       "manobra_rio_afetada": "E",
