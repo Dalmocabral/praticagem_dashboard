@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/07/2026 16:50",
+  "ultima_atualizacao": "18/07/2026 17:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -20,38 +20,6 @@
       "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-18T11:30:00"
-    },
-    {
-      "data": "18/07",
-      "dia_semana": "sábado",
-      "hora": "15:00",
-      "navio": "XIAMEN EXPRESS",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9630420",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-18T15:00:00"
-    },
-    {
-      "data": "18/07",
-      "dia_semana": "sábado",
-      "hora": "16:00",
-      "navio": "DOVER HIGHWAY",
-      "calado": "9,05",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9574107",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-18T16:00:00"
     },
     {
       "data": "18/07",
@@ -81,7 +49,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-07-18T21:00:00"
     },
@@ -216,7 +184,7 @@
     {
       "data": "20/07",
       "dia_semana": "segunda",
-      "hora": "02:00",
+      "hora": "03:00",
       "navio": "EVER FASHION",
       "calado": "11,80",
       "manobra": "S",
@@ -227,7 +195,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-20T02:00:00"
+      "timestamp": "2026-07-20T03:00:00"
     },
     {
       "data": "20/07",
