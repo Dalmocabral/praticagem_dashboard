@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/07/2026 03:16",
+  "ultima_atualizacao": "18/07/2026 05:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,32 +8,16 @@
     {
       "data": "18/07",
       "dia_semana": "sábado",
-      "hora": "04:00",
-      "navio": "INDUSTRIAL KATHARINA",
-      "calado": "6,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9435129",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-18T04:00:00"
-    },
-    {
-      "data": "18/07",
-      "dia_semana": "sábado",
       "hora": "07:00",
       "navio": "COSCO SHIPPING ARGENTINA",
-      "calado": "12,10",
+      "calado": "12,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9945849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-07-18T07:00:00"
     },
@@ -49,7 +33,7 @@
       "imo": "9351218",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-18T08:00:00"
     },
