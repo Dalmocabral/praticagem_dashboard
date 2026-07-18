@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/07/2026 14:38",
+  "ultima_atualizacao": "18/07/2026 15:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -81,7 +81,7 @@
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-18T18:00:00"
     },
