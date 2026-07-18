@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/07/2026 12:35",
+  "ultima_atualizacao": "18/07/2026 13:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -65,7 +65,7 @@
       "imo": "9574107",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-18T16:00:00"
     },
@@ -342,6 +342,22 @@
       "timestamp": "2026-07-20T17:00:00"
     },
     {
+      "data": "20/07",
+      "dia_semana": "segunda",
+      "hora": "18:30",
+      "navio": "SINAR SUMATERA",
+      "calado": "7,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1015375",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-20T18:30:00"
+    },
+    {
       "data": "21/07",
       "dia_semana": "terça",
       "hora": "12:00",
@@ -372,6 +388,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-21T13:00:00"
+    },
+    {
+      "data": "21/07",
+      "dia_semana": "terça",
+      "hora": "21:00",
+      "navio": "SINAR SUMATERA",
+      "calado": "6,80",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1015375",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-21T21:00:00"
     },
     {
       "data": "31/07",
@@ -532,6 +564,15 @@
       "navio_multi": "MSC PALAK",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "20/07 17:00"
+    },
+    {
+      "navio_rio": "EVER FAME",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/07 10:00",
+      "manobra_rio_fim": "21/07 13:00",
+      "navio_multi": "SINAR SUMATERA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "20/07 18:30"
     },
     {
       "navio_rio": "EVER FAME",
