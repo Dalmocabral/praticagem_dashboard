@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/07/2026 11:34",
+  "ultima_atualizacao": "18/07/2026 12:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -49,7 +49,7 @@
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-18T15:00:00"
     },
@@ -65,7 +65,7 @@
       "imo": "9574107",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-07-18T16:00:00"
     },
@@ -326,6 +326,38 @@
       "timestamp": "2026-07-20T15:00:00"
     },
     {
+      "data": "20/07",
+      "dia_semana": "segunda",
+      "hora": "17:00",
+      "navio": "MSC PALAK",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9735206",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-20T17:00:00"
+    },
+    {
+      "data": "21/07",
+      "dia_semana": "terça",
+      "hora": "12:00",
+      "navio": "MSC PALAK",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9735206",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-21T12:00:00"
+    },
+    {
       "data": "21/07",
       "dia_semana": "terça",
       "hora": "13:00",
@@ -491,6 +523,24 @@
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "20/07 13:00"
+    },
+    {
+      "navio_rio": "EVER FAME",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/07 10:00",
+      "manobra_rio_fim": "21/07 13:00",
+      "navio_multi": "MSC PALAK",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "20/07 17:00"
+    },
+    {
+      "navio_rio": "EVER FAME",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "20/07 10:00",
+      "manobra_rio_fim": "21/07 13:00",
+      "navio_multi": "MSC PALAK",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/07 12:00"
     }
   ]
 }
