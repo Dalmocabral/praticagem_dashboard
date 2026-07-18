@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "18/07/2026 10:23",
+  "ultima_atualizacao": "18/07/2026 11:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "18/07",
-      "dia_semana": "sábado",
-      "hora": "10:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,20",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-18T10:00:00"
-    },
     {
       "data": "18/07",
       "dia_semana": "sábado",
@@ -59,13 +43,13 @@
       "hora": "15:00",
       "navio": "XIAMEN EXPRESS",
       "calado": "10,10",
-      "manobra": "S",
-      "beco": "TECONT3",
+      "manobra": "M",
+      "beco": "TECONT3 -> VISITA S",
       "status": "hoje",
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-07-18T15:00:00"
     },
@@ -184,18 +168,18 @@
     {
       "data": "19/07",
       "dia_semana": "domingo",
-      "hora": "15:30",
-      "navio": "GRANDE AMBURGO",
-      "calado": "8,80",
-      "manobra": "S",
-      "beco": "TECONT5",
+      "hora": "14:00",
+      "navio": "MSC PAMELA",
+      "calado": "13,00",
+      "manobra": "E",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9246607",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-19T15:30:00"
+      "timestamp": "2026-07-19T14:00:00"
     },
     {
       "data": "19/07",
@@ -212,6 +196,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-19T17:30:00"
+    },
+    {
+      "data": "19/07",
+      "dia_semana": "domingo",
+      "hora": "20:00",
+      "navio": "GRANDE AMBURGO",
+      "calado": "8,80",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9246607",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-19T20:00:00"
+    },
+    {
+      "data": "19/07",
+      "dia_semana": "domingo",
+      "hora": "21:00",
+      "navio": "ONE PREMIUM",
+      "calado": "12,20",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9444261",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-19T21:00:00"
     },
     {
       "data": "20/07",
@@ -280,6 +296,22 @@
     {
       "data": "20/07",
       "dia_semana": "segunda",
+      "hora": "13:00",
+      "navio": "MSC PAMELA",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9290531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-20T13:00:00"
+    },
+    {
+      "data": "20/07",
+      "dia_semana": "segunda",
       "hora": "15:00",
       "navio": "CMA CGM VERACRUZ",
       "calado": "10,50",
@@ -292,22 +324,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-20T15:00:00"
-    },
-    {
-      "data": "21/07",
-      "dia_semana": "terça",
-      "hora": "07:00",
-      "navio": "ONE PREMIUM",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9444261",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-21T07:00:00"
     },
     {
       "data": "21/07",
@@ -360,51 +376,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/07 10:00",
-      "manobra_rio_fim": "18/07 20:00",
-      "navio_multi": "MSC BREMEN",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/07 11:30"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/07 10:00",
-      "manobra_rio_fim": "18/07 20:00",
-      "navio_multi": "XIAMEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/07 15:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/07 10:00",
-      "manobra_rio_fim": "18/07 20:00",
-      "navio_multi": "DOVER HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/07 16:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/07 10:00",
-      "manobra_rio_fim": "18/07 20:00",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/07 18:00"
-    },
-    {
-      "navio_rio": "EVER FASHION",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/07 13:00",
-      "manobra_rio_fim": "20/07 02:00",
-      "navio_multi": "XIAMEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/07 15:00"
-    },
-    {
       "navio_rio": "EVER FASHION",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "18/07 13:00",
@@ -445,9 +416,27 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "18/07 13:00",
       "manobra_rio_fim": "20/07 02:00",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/07 14:00"
+    },
+    {
+      "navio_rio": "EVER FASHION",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/07 13:00",
+      "manobra_rio_fim": "20/07 02:00",
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/07 15:30"
+      "manobra_multi_data_hora": "19/07 20:00"
+    },
+    {
+      "navio_rio": "EVER FASHION",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/07 13:00",
+      "manobra_rio_fim": "20/07 02:00",
+      "navio_multi": "ONE PREMIUM",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/07 21:00"
     },
     {
       "navio_rio": "DUSSELDORF EXPRESS",
@@ -466,15 +455,42 @@
       "navio_multi": "MSC BREMEN",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "19/07 09:00"
+    },
+    {
+      "navio_rio": "TINA I",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/07 17:30",
+      "manobra_rio_fim": "20/07 12:00",
+      "navio_multi": "GRANDE AMBURGO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/07 20:00"
+    },
+    {
+      "navio_rio": "TINA I",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/07 17:30",
+      "manobra_rio_fim": "20/07 12:00",
+      "navio_multi": "ONE PREMIUM",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/07 21:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "20/07 07:00",
+      "manobra_rio_fim": "20/07 15:00",
+      "navio_multi": "MSC PAMELA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/07 13:00"
     },
     {
       "navio_rio": "EVER FAME",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "20/07 10:00",
       "manobra_rio_fim": "21/07 13:00",
-      "navio_multi": "ONE PREMIUM",
+      "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/07 07:00"
+      "manobra_multi_data_hora": "20/07 13:00"
     }
   ]
 }
