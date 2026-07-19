@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "18/07/2026 22:07",
+  "ultima_atualizacao": "19/07/2026 01:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "18/07",
-      "dia_semana": "sábado",
-      "hora": "21:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,70",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-18T21:00:00"
-    },
-    {
-      "data": "18/07",
-      "dia_semana": "sábado",
-      "hora": "23:00",
-      "navio": "DUSSELDORF EXPRESS",
-      "calado": "10,20",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9143556",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-18T23:00:00"
-    },
     {
       "data": "19/07",
       "dia_semana": "domingo",
@@ -56,22 +24,6 @@
     {
       "data": "19/07",
       "dia_semana": "domingo",
-      "hora": "09:00",
-      "navio": "MSC BREMEN",
-      "calado": "13,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9369734",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-19T09:00:00"
-    },
-    {
-      "data": "19/07",
-      "dia_semana": "domingo",
       "hora": "10:00",
       "navio": "DUSSELDORF EXPRESS",
       "calado": "10,50",
@@ -84,6 +36,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-19T10:00:00"
+    },
+    {
+      "data": "19/07",
+      "dia_semana": "domingo",
+      "hora": "11:00",
+      "navio": "MSC BREMEN",
+      "calado": "13,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9369734",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-19T11:00:00"
     },
     {
       "data": "19/07",
@@ -359,24 +327,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/07 23:00",
-      "manobra_rio_fim": "19/07 10:00",
-      "navio_multi": "ONE PREMIUM",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/07 01:00"
-    },
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/07 23:00",
-      "manobra_rio_fim": "19/07 10:00",
-      "navio_multi": "MSC BREMEN",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/07 09:00"
-    },
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "S",
