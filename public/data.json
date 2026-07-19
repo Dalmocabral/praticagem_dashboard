@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "19/07/2026 07:49",
+  "ultima_atualizacao": "19/07/2026 08:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "19/07",
-      "dia_semana": "domingo",
-      "hora": "10:00",
-      "navio": "DUSSELDORF EXPRESS",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9143556",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-19T10:00:00"
-    },
     {
       "data": "19/07",
       "dia_semana": "domingo",
@@ -33,7 +17,7 @@
       "imo": "9369734",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-19T11:00:00"
     },
@@ -52,6 +36,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-19T14:00:00"
+    },
+    {
+      "data": "19/07",
+      "dia_semana": "domingo",
+      "hora": "16:00",
+      "navio": "DUSSELDORF EXPRESS",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9143556",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-19T16:00:00"
     },
     {
       "data": "19/07",
