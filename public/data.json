@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "19/07/2026 01:34",
+  "ultima_atualizacao": "19/07/2026 04:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "19/07",
-      "dia_semana": "domingo",
-      "hora": "01:00",
-      "navio": "ONE PREMIUM",
-      "calado": "14,10",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9444261",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-19T01:00:00"
-    },
     {
       "data": "19/07",
       "dia_semana": "domingo",
