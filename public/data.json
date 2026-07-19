@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/07/2026 09:52",
+  "ultima_atualizacao": "19/07/2026 11:22",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -33,7 +33,7 @@
       "imo": "9290531",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-19T14:00:00"
     },
@@ -68,22 +68,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-19T20:00:00"
-    },
-    {
-      "data": "19/07",
-      "dia_semana": "domingo",
-      "hora": "21:00",
-      "navio": "ONE PREMIUM",
-      "calado": "12,20",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9444261",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-19T21:00:00"
     },
     {
       "data": "20/07",
@@ -132,6 +116,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-20T10:00:00"
+    },
+    {
+      "data": "20/07",
+      "dia_semana": "segunda",
+      "hora": "12:00",
+      "navio": "ONE PREMIUM",
+      "calado": "12,20",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9444261",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-20T12:00:00"
     },
     {
       "data": "20/07",
@@ -316,9 +316,27 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "20/07 07:00",
       "manobra_rio_fim": "20/07 15:00",
+      "navio_multi": "ONE PREMIUM",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/07 12:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "20/07 07:00",
+      "manobra_rio_fim": "20/07 15:00",
       "navio_multi": "MSC PAMELA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "20/07 13:00"
+    },
+    {
+      "navio_rio": "EVER FAME",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/07 10:00",
+      "manobra_rio_fim": "21/07 13:00",
+      "navio_multi": "ONE PREMIUM",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/07 12:00"
     },
     {
       "navio_rio": "EVER FAME",
