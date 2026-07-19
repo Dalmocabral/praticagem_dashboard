@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "19/07/2026 15:37",
+  "ultima_atualizacao": "19/07/2026 16:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "19/07",
-      "dia_semana": "domingo",
-      "hora": "14:00",
-      "navio": "MSC PAMELA",
-      "calado": "13,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9290531",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-19T14:00:00"
-    },
     {
       "data": "19/07",
       "dia_semana": "domingo",
