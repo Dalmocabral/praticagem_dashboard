@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/07/2026 12:25",
+  "ultima_atualizacao": "20/07/2026 14:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,41 +8,9 @@
     {
       "data": "20/07",
       "dia_semana": "segunda",
-      "hora": "09:00",
-      "navio": "ONE PREMIUM",
-      "calado": "12,70",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9444261",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-20T09:00:00"
-    },
-    {
-      "data": "20/07",
-      "dia_semana": "segunda",
-      "hora": "11:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-20T11:00:00"
-    },
-    {
-      "data": "20/07",
-      "dia_semana": "segunda",
       "hora": "14:00",
       "navio": "MSC PAMELA",
-      "calado": "12,10",
+      "calado": "12,20",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -65,7 +33,7 @@
       "imo": "9850800",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-20T16:00:00"
     },
@@ -81,7 +49,7 @@
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-07-20T18:00:00"
     },
