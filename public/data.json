@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "20/07/2026 05:11",
+  "ultima_atualizacao": "20/07/2026 08:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "20/07",
-      "dia_semana": "segunda",
-      "hora": "05:00",
-      "navio": "GRANDE AMBURGO",
-      "calado": "9,30",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9246607",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-20T05:00:00"
-    },
     {
       "data": "20/07",
       "dia_semana": "segunda",
@@ -49,7 +33,7 @@
       "imo": "9444261",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-20T09:00:00"
     },
@@ -65,7 +49,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-20T11:00:00"
     },
