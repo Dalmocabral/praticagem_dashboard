@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "20/07/2026 19:43",
+  "ultima_atualizacao": "20/07/2026 20:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "20/07",
-      "dia_semana": "segunda",
-      "hora": "16:00",
-      "navio": "EVER FAME",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9850800",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-20T16:00:00"
-    },
-    {
-      "data": "20/07",
-      "dia_semana": "segunda",
-      "hora": "18:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "7,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-20T18:00:00"
-    },
     {
       "data": "21/07",
       "dia_semana": "terça",
@@ -49,7 +17,7 @@
       "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-07-21T00:00:00"
     },
@@ -391,15 +359,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "EVER FAME",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/07 16:00",
-      "manobra_rio_fim": "21/07 14:30",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/07 18:00"
-    },
     {
       "navio_rio": "CMA CGM IRON",
       "manobra_rio_afetada": "E",
