@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "20/07/2026 08:15",
+  "ultima_atualizacao": "20/07/2026 10:20",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "20/07",
-      "dia_semana": "segunda",
-      "hora": "07:00",
-      "navio": "CMA CGM VERACRUZ",
-      "calado": "10,70",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9418377",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-20T07:00:00"
-    },
     {
       "data": "20/07",
       "dia_semana": "segunda",
@@ -56,7 +40,7 @@
     {
       "data": "20/07",
       "dia_semana": "segunda",
-      "hora": "13:00",
+      "hora": "14:00",
       "navio": "MSC PAMELA",
       "calado": "12,10",
       "manobra": "S",
@@ -65,14 +49,14 @@
       "imo": "9290531",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-07-20T13:00:00"
+      "timestamp": "2026-07-20T14:00:00"
     },
     {
       "data": "20/07",
       "dia_semana": "segunda",
-      "hora": "15:00",
+      "hora": "16:00",
       "navio": "EVER FAME",
       "calado": "13,85",
       "manobra": "E",
@@ -83,12 +67,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-20T15:00:00"
+      "timestamp": "2026-07-20T16:00:00"
     },
     {
       "data": "20/07",
       "dia_semana": "segunda",
-      "hora": "17:00",
+      "hora": "18:00",
       "navio": "SINAR SUMATERA",
       "calado": "7,00",
       "manobra": "E",
@@ -99,39 +83,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-20T17:00:00"
+      "timestamp": "2026-07-20T18:00:00"
     },
     {
-      "data": "20/07",
-      "dia_semana": "segunda",
-      "hora": "21:00",
+      "data": "21/07",
+      "dia_semana": "terça",
+      "hora": "00:00",
       "navio": "CMA CGM VERACRUZ",
-      "calado": "10,50",
+      "calado": "11,00",
       "manobra": "S",
       "beco": "TECONT1",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-20T21:00:00"
-    },
-    {
-      "data": "21/07",
-      "dia_semana": "terça",
-      "hora": "12:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-21T12:00:00"
+      "timestamp": "2026-07-21T00:00:00"
     },
     {
       "data": "21/07",
@@ -182,6 +150,22 @@
       "timestamp": "2026-07-21T21:00:00"
     },
     {
+      "data": "21/07",
+      "dia_semana": "terça",
+      "hora": "23:00",
+      "navio": "MSC PALAK",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9735206",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-21T23:00:00"
+    },
+    {
       "data": "22/07",
       "dia_semana": "quarta",
       "hora": "07:00",
@@ -200,6 +184,22 @@
     {
       "data": "22/07",
       "dia_semana": "quarta",
+      "hora": "08:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-22T08:00:00"
+    },
+    {
+      "data": "22/07",
+      "dia_semana": "quarta",
       "hora": "10:00",
       "navio": "TINA I",
       "calado": "12,40",
@@ -212,6 +212,70 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-22T10:00:00"
+    },
+    {
+      "data": "22/07",
+      "dia_semana": "quarta",
+      "hora": "12:00",
+      "navio": "MSC YAMUNA VI",
+      "calado": "11,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9288409",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-22T12:00:00"
+    },
+    {
+      "data": "22/07",
+      "dia_semana": "quarta",
+      "hora": "15:00",
+      "navio": "MSC PALAK",
+      "calado": "13,90",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9735206",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-22T15:00:00"
+    },
+    {
+      "data": "22/07",
+      "dia_semana": "quarta",
+      "hora": "17:00",
+      "navio": "MSC NAOMI",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9704984",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-22T17:00:00"
+    },
+    {
+      "data": "22/07",
+      "dia_semana": "quarta",
+      "hora": "19:00",
+      "navio": "STOLT COBALT",
+      "calado": "9,40",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9739305",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-22T19:00:00"
     },
     {
       "data": "23/07",
@@ -228,6 +292,54 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-23T07:00:00"
+    },
+    {
+      "data": "23/07",
+      "dia_semana": "quinta",
+      "hora": "08:00",
+      "navio": "MSC YAMUNA VI",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9288409",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-23T08:00:00"
+    },
+    {
+      "data": "23/07",
+      "dia_semana": "quinta",
+      "hora": "10:00",
+      "navio": "MSC NAOMI",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9704984",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-23T10:00:00"
+    },
+    {
+      "data": "24/07",
+      "dia_semana": "sexta",
+      "hora": "10:00",
+      "navio": "STOLT COBALT",
+      "calado": "8,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9739305",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-24T10:00:00"
     },
     {
       "data": "31/07",
@@ -264,58 +376,13 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/07 07:00",
-      "manobra_rio_fim": "20/07 21:00",
-      "navio_multi": "ONE PREMIUM",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/07 09:00"
-    },
-    {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/07 07:00",
-      "manobra_rio_fim": "20/07 21:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/07 11:00"
-    },
-    {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/07 07:00",
-      "manobra_rio_fim": "20/07 21:00",
-      "navio_multi": "MSC PAMELA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/07 13:00"
-    },
-    {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "20/07 07:00",
-      "manobra_rio_fim": "20/07 21:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/07 17:00"
-    },
-    {
       "navio_rio": "EVER FAME",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/07 15:00",
+      "manobra_rio_inicio": "20/07 16:00",
       "manobra_rio_fim": "21/07 13:00",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/07 17:00"
-    },
-    {
-      "navio_rio": "EVER FAME",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "20/07 15:00",
-      "manobra_rio_fim": "21/07 13:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/07 12:00"
+      "manobra_multi_data_hora": "20/07 18:00"
     },
     {
       "navio_rio": "CMA CGM IRON",
@@ -325,6 +392,60 @@
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "21/07 21:00"
+    },
+    {
+      "navio_rio": "CMA CGM IRON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/07 15:00",
+      "manobra_rio_fim": "22/07 07:00",
+      "navio_multi": "MSC PALAK",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/07 23:00"
+    },
+    {
+      "navio_rio": "TINA I",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/07 10:00",
+      "manobra_rio_fim": "23/07 07:00",
+      "navio_multi": "MSC YAMUNA VI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "22/07 12:00"
+    },
+    {
+      "navio_rio": "TINA I",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/07 10:00",
+      "manobra_rio_fim": "23/07 07:00",
+      "navio_multi": "MSC PALAK",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/07 15:00"
+    },
+    {
+      "navio_rio": "TINA I",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/07 10:00",
+      "manobra_rio_fim": "23/07 07:00",
+      "navio_multi": "MSC NAOMI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "22/07 17:00"
+    },
+    {
+      "navio_rio": "STOLT COBALT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/07 19:00",
+      "manobra_rio_fim": "24/07 10:00",
+      "navio_multi": "MSC YAMUNA VI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/07 08:00"
+    },
+    {
+      "navio_rio": "STOLT COBALT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/07 19:00",
+      "manobra_rio_fim": "24/07 10:00",
+      "navio_multi": "MSC NAOMI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/07 10:00"
     }
   ]
 }
