@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/07/2026 14:00",
+  "ultima_atualizacao": "20/07/2026 16:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -26,7 +26,7 @@
       "dia_semana": "segunda",
       "hora": "16:00",
       "navio": "EVER FAME",
-      "calado": "13,85",
+      "calado": "13,70",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -49,7 +49,7 @@
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-20T18:00:00"
     },
@@ -68,6 +68,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-21T00:00:00"
+    },
+    {
+      "data": "21/07",
+      "dia_semana": "terça",
+      "hora": "04:00",
+      "navio": "NC BREDA",
+      "calado": "8,80",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9612765",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-21T04:00:00"
+    },
+    {
+      "data": "21/07",
+      "dia_semana": "terça",
+      "hora": "13:30",
+      "navio": "NC BREDA",
+      "calado": "8,80",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9612765",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-21T13:30:00"
     },
     {
       "data": "21/07",
@@ -262,6 +294,22 @@
       "timestamp": "2026-07-22T19:00:00"
     },
     {
+      "data": "22/07",
+      "dia_semana": "quarta",
+      "hora": "21:00",
+      "navio": "CLARITY",
+      "calado": "6,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9416381",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-22T21:00:00"
+    },
+    {
       "data": "23/07",
       "dia_semana": "quinta",
       "hora": "08:00",
@@ -308,6 +356,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-23T11:00:00"
+    },
+    {
+      "data": "24/07",
+      "dia_semana": "sexta",
+      "hora": "10:00",
+      "navio": "CLARITY",
+      "calado": "6,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9416381",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-24T10:00:00"
     },
     {
       "data": "31/07",
@@ -411,6 +475,24 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "22/07 19:00",
       "manobra_rio_fim": "23/07 11:00",
+      "navio_multi": "MSC NAOMI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/07 10:00"
+    },
+    {
+      "navio_rio": "CLARITY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/07 21:00",
+      "manobra_rio_fim": "24/07 10:00",
+      "navio_multi": "MSC YAMUNA VI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/07 08:00"
+    },
+    {
+      "navio_rio": "CLARITY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/07 21:00",
+      "manobra_rio_fim": "24/07 10:00",
       "navio_multi": "MSC NAOMI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/07 10:00"
