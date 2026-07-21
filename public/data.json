@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/07/2026 10:48",
+  "ultima_atualizacao": "21/07/2026 12:27",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -17,7 +17,7 @@
       "imo": "9612765",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-07-21T14:30:00"
     },
@@ -72,6 +72,22 @@
     {
       "data": "22/07",
       "dia_semana": "quarta",
+      "hora": "05:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-22T05:00:00"
+    },
+    {
+      "data": "22/07",
+      "dia_semana": "quarta",
       "hora": "06:00",
       "navio": "SINAR SUMATERA",
       "calado": "6,80",
@@ -88,29 +104,13 @@
     {
       "data": "22/07",
       "dia_semana": "quarta",
-      "hora": "07:00",
-      "navio": "CMA CGM IRON",
-      "calado": "12,90",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9996678",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-22T07:00:00"
-    },
-    {
-      "data": "22/07",
-      "dia_semana": "quarta",
       "hora": "08:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "12,60",
-      "manobra": "S",
+      "navio": "MSC PALAK",
+      "calado": "13,90",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9506394",
+      "imo": "9735206",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -137,24 +137,8 @@
       "data": "22/07",
       "dia_semana": "quarta",
       "hora": "12:00",
-      "navio": "MSC PALAK",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9735206",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-22T12:00:00"
-    },
-    {
-      "data": "22/07",
-      "dia_semana": "quarta",
-      "hora": "14:00",
       "navio": "MSC YAMUNA VI",
-      "calado": "11,30",
+      "calado": "12,90",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -163,7 +147,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-22T14:00:00"
+      "timestamp": "2026-07-22T12:00:00"
     },
     {
       "data": "22/07",
@@ -185,6 +169,22 @@
       "data": "22/07",
       "dia_semana": "quarta",
       "hora": "21:00",
+      "navio": "CMA CGM IRON",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996678",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-22T21:00:00"
+    },
+    {
+      "data": "22/07",
+      "dia_semana": "quarta",
+      "hora": "23:00",
       "navio": "CLARITY",
       "calado": "6,50",
       "manobra": "E",
@@ -195,7 +195,7 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-22T21:00:00"
+      "timestamp": "2026-07-22T23:00:00"
     },
     {
       "data": "23/07",
@@ -248,7 +248,7 @@
     {
       "data": "23/07",
       "dia_semana": "quinta",
-      "hora": "11:00",
+      "hora": "12:00",
       "navio": "TINA I",
       "calado": "12,40",
       "manobra": "S",
@@ -259,12 +259,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-23T11:00:00"
+      "timestamp": "2026-07-23T12:00:00"
     },
     {
       "data": "23/07",
       "dia_semana": "quinta",
-      "hora": "13:00",
+      "hora": "14:00",
       "navio": "YM MODERATION",
       "calado": "9,80",
       "manobra": "E",
@@ -275,7 +275,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-23T13:00:00"
+      "timestamp": "2026-07-23T14:00:00"
     },
     {
       "data": "24/07",
@@ -326,6 +326,38 @@
       "timestamp": "2026-07-24T16:00:00"
     },
     {
+      "data": "25/07",
+      "dia_semana": "sábado",
+      "hora": "20:00",
+      "navio": "STOLT COBALT",
+      "calado": "9,40",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9739305",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-25T20:00:00"
+    },
+    {
+      "data": "27/07",
+      "dia_semana": "segunda",
+      "hora": "07:00",
+      "navio": "STOLT COBALT",
+      "calado": "8,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9739305",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-27T07:00:00"
+    },
+    {
       "data": "31/07",
       "dia_semana": "sexta",
       "hora": "13:00",
@@ -364,6 +396,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "21/07 16:30",
       "manobra_rio_fim": "22/07 10:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/07 05:00"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "21/07 16:30",
+      "manobra_rio_fim": "22/07 10:00",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "22/07 06:00"
@@ -373,24 +414,51 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "21/07 16:30",
       "manobra_rio_fim": "22/07 10:00",
+      "navio_multi": "MSC PALAK",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "22/07 08:00"
+    },
+    {
+      "navio_rio": "CMA CGM IRON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/07 22:00",
+      "manobra_rio_fim": "22/07 21:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/07 05:00"
+    },
+    {
+      "navio_rio": "CMA CGM IRON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/07 22:00",
+      "manobra_rio_fim": "22/07 21:00",
+      "navio_multi": "SINAR SUMATERA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/07 06:00"
+    },
+    {
+      "navio_rio": "CMA CGM IRON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/07 22:00",
+      "manobra_rio_fim": "22/07 21:00",
+      "navio_multi": "MSC PALAK",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "22/07 08:00"
     },
     {
       "navio_rio": "CMA CGM IRON",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "21/07 22:00",
-      "manobra_rio_fim": "22/07 07:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/07 06:00"
+      "manobra_rio_fim": "22/07 21:00",
+      "navio_multi": "MSC YAMUNA VI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "22/07 12:00"
     },
     {
       "navio_rio": "TINA I",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "22/07 19:00",
-      "manobra_rio_fim": "23/07 11:00",
+      "manobra_rio_fim": "23/07 12:00",
       "navio_multi": "MSC PALAK",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/07 07:00"
@@ -399,7 +467,7 @@
       "navio_rio": "TINA I",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "22/07 19:00",
-      "manobra_rio_fim": "23/07 11:00",
+      "manobra_rio_fim": "23/07 12:00",
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/07 08:00"
@@ -408,7 +476,7 @@
       "navio_rio": "TINA I",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "22/07 19:00",
-      "manobra_rio_fim": "23/07 11:00",
+      "manobra_rio_fim": "23/07 12:00",
       "navio_multi": "MSC NAOMI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/07 10:00"
@@ -416,7 +484,7 @@
     {
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/07 21:00",
+      "manobra_rio_inicio": "22/07 23:00",
       "manobra_rio_fim": "24/07 10:00",
       "navio_multi": "MSC PALAK",
       "manobra_multi_tipo": "S",
@@ -425,7 +493,7 @@
     {
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/07 21:00",
+      "manobra_rio_inicio": "22/07 23:00",
       "manobra_rio_fim": "24/07 10:00",
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "S",
@@ -434,7 +502,7 @@
     {
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/07 21:00",
+      "manobra_rio_inicio": "22/07 23:00",
       "manobra_rio_fim": "24/07 10:00",
       "navio_multi": "MSC NAOMI",
       "manobra_multi_tipo": "E",
@@ -443,11 +511,11 @@
     {
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/07 21:00",
+      "manobra_rio_inicio": "22/07 23:00",
       "manobra_rio_fim": "24/07 10:00",
       "navio_multi": "YM MODERATION",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/07 13:00"
+      "manobra_multi_data_hora": "23/07 14:00"
     }
   ]
 }
