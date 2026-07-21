@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/07/2026 18:20",
+  "ultima_atualizacao": "21/07/2026 19:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -106,7 +106,7 @@
       "dia_semana": "quarta",
       "hora": "12:00",
       "navio": "MSC NAOMI",
-      "calado": "12,60",
+      "calado": "13,70",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -150,9 +150,9 @@
       "timestamp": "2026-07-22T21:00:00"
     },
     {
-      "data": "22/07",
-      "dia_semana": "quarta",
-      "hora": "23:00",
+      "data": "23/07",
+      "dia_semana": "quinta",
+      "hora": "00:30",
       "navio": "CLARITY",
       "calado": "6,50",
       "manobra": "E",
@@ -163,7 +163,7 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-22T23:00:00"
+      "timestamp": "2026-07-23T00:30:00"
     },
     {
       "data": "23/07",
@@ -356,6 +356,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-01T08:00:00"
+    },
+    {
+      "data": "05/08",
+      "dia_semana": "quarta",
+      "hora": "07:00",
+      "navio": "KOTA ELOK",
+      "calado": "14,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "1081831",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-05T07:00:00"
+    },
+    {
+      "data": "06/08",
+      "dia_semana": "quinta",
+      "hora": "07:00",
+      "navio": "KOTA ELOK",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "1081831",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-06T07:00:00"
     }
   ],
   "conflitos": [
@@ -425,7 +457,7 @@
     {
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/07 23:00",
+      "manobra_rio_inicio": "23/07 00:30",
       "manobra_rio_fim": "24/07 10:00",
       "navio_multi": "MSC PALAK",
       "manobra_multi_tipo": "S",
@@ -434,7 +466,7 @@
     {
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/07 23:00",
+      "manobra_rio_inicio": "23/07 00:30",
       "manobra_rio_fim": "24/07 10:00",
       "navio_multi": "MSC NAOMI",
       "manobra_multi_tipo": "S",
@@ -443,7 +475,7 @@
     {
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/07 23:00",
+      "manobra_rio_inicio": "23/07 00:30",
       "manobra_rio_fim": "24/07 10:00",
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "E",
@@ -452,7 +484,7 @@
     {
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/07 23:00",
+      "manobra_rio_inicio": "23/07 00:30",
       "manobra_rio_fim": "24/07 10:00",
       "navio_multi": "YM MODERATION",
       "manobra_multi_tipo": "E",
