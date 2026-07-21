@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/07/2026 19:25",
+  "ultima_atualizacao": "21/07/2026 20:30",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -120,23 +120,7 @@
     {
       "data": "22/07",
       "dia_semana": "quarta",
-      "hora": "19:00",
-      "navio": "TINA I",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9267156",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-22T19:00:00"
-    },
-    {
-      "data": "22/07",
-      "dia_semana": "quarta",
-      "hora": "21:00",
+      "hora": "20:30",
       "navio": "CMA CGM IRON",
       "calado": "12,60",
       "manobra": "S",
@@ -147,7 +131,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-22T21:00:00"
+      "timestamp": "2026-07-22T20:30:00"
+    },
+    {
+      "data": "22/07",
+      "dia_semana": "quarta",
+      "hora": "22:30",
+      "navio": "TINA I",
+      "calado": "14,40",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9267156",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-22T22:30:00"
     },
     {
       "data": "23/07",
@@ -218,7 +218,7 @@
       "dia_semana": "quinta",
       "hora": "12:00",
       "navio": "TINA I",
-      "calado": "12,40",
+      "calado": "14,40",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
@@ -395,7 +395,7 @@
       "navio_rio": "CMA CGM IRON",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "21/07 21:00",
-      "manobra_rio_fim": "22/07 21:00",
+      "manobra_rio_fim": "22/07 20:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "22/07 05:00"
@@ -404,7 +404,7 @@
       "navio_rio": "CMA CGM IRON",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "21/07 21:00",
-      "manobra_rio_fim": "22/07 21:00",
+      "manobra_rio_fim": "22/07 20:30",
       "navio_multi": "MSC PALAK",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "22/07 07:00"
@@ -413,7 +413,7 @@
       "navio_rio": "CMA CGM IRON",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "21/07 21:00",
-      "manobra_rio_fim": "22/07 21:00",
+      "manobra_rio_fim": "22/07 20:30",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "22/07 10:00"
@@ -422,7 +422,7 @@
       "navio_rio": "CMA CGM IRON",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "21/07 21:00",
-      "manobra_rio_fim": "22/07 21:00",
+      "manobra_rio_fim": "22/07 20:30",
       "navio_multi": "MSC NAOMI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "22/07 12:00"
@@ -430,7 +430,7 @@
     {
       "navio_rio": "TINA I",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/07 19:00",
+      "manobra_rio_inicio": "22/07 22:30",
       "manobra_rio_fim": "23/07 12:00",
       "navio_multi": "MSC PALAK",
       "manobra_multi_tipo": "S",
@@ -439,7 +439,7 @@
     {
       "navio_rio": "TINA I",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/07 19:00",
+      "manobra_rio_inicio": "22/07 22:30",
       "manobra_rio_fim": "23/07 12:00",
       "navio_multi": "MSC NAOMI",
       "manobra_multi_tipo": "S",
@@ -448,7 +448,7 @@
     {
       "navio_rio": "TINA I",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/07 19:00",
+      "manobra_rio_inicio": "22/07 22:30",
       "manobra_rio_fim": "23/07 12:00",
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "E",
