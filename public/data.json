@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/07/2026 22:12",
+  "ultima_atualizacao": "21/07/2026 01:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,7 +8,7 @@
     {
       "data": "21/07",
       "dia_semana": "terça",
-      "hora": "02:00",
+      "hora": "06:00",
       "navio": "CMA CGM VERACRUZ",
       "calado": "11,00",
       "manobra": "S",
@@ -17,14 +17,14 @@
       "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-21T02:00:00"
+      "timestamp": "2026-07-21T06:00:00"
     },
     {
       "data": "21/07",
       "dia_semana": "terça",
-      "hora": "04:00",
+      "hora": "08:00",
       "navio": "NC BREDA",
       "calado": "8,80",
       "manobra": "E",
@@ -35,7 +35,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-21T04:00:00"
+      "timestamp": "2026-07-21T08:00:00"
     },
     {
       "data": "21/07",
@@ -74,7 +74,7 @@
       "dia_semana": "terça",
       "hora": "16:30",
       "navio": "CMA CGM IRON",
-      "calado": "13,00",
+      "calado": "11,70",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
