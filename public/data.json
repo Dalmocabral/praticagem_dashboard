@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/07/2026 16:58",
+  "ultima_atualizacao": "21/07/2026 18:20",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,25 +8,9 @@
     {
       "data": "21/07",
       "dia_semana": "terça",
-      "hora": "16:30",
-      "navio": "MAERSK FREEPORT",
-      "calado": "13,05",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9991202",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-21T16:30:00"
-    },
-    {
-      "data": "21/07",
-      "dia_semana": "terça",
       "hora": "19:00",
       "navio": "EVER FAME",
-      "calado": "12,30",
+      "calado": "12,35",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -49,7 +33,7 @@
       "imo": "9996678",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-21T21:00:00"
     },
@@ -72,7 +56,7 @@
     {
       "data": "22/07",
       "dia_semana": "quarta",
-      "hora": "08:00",
+      "hora": "07:00",
       "navio": "MSC PALAK",
       "calado": "13,90",
       "manobra": "E",
@@ -83,14 +67,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-22T08:00:00"
+      "timestamp": "2026-07-22T07:00:00"
     },
     {
       "data": "22/07",
       "dia_semana": "quarta",
       "hora": "09:00",
       "navio": "MAERSK FREEPORT",
-      "calado": "12,50",
+      "calado": "13,25",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
@@ -376,24 +360,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/07 16:30",
-      "manobra_rio_fim": "22/07 09:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/07 05:00"
-    },
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/07 16:30",
-      "manobra_rio_fim": "22/07 09:00",
-      "navio_multi": "MSC PALAK",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "22/07 08:00"
-    },
-    {
       "navio_rio": "CMA CGM IRON",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "21/07 21:00",
@@ -409,7 +375,7 @@
       "manobra_rio_fim": "22/07 21:00",
       "navio_multi": "MSC PALAK",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "22/07 08:00"
+      "manobra_multi_data_hora": "22/07 07:00"
     },
     {
       "navio_rio": "CMA CGM IRON",
