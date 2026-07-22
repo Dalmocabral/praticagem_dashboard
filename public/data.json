@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "22/07/2026 12:16",
+  "ultima_atualizacao": "22/07/2026 13:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "22/07",
-      "dia_semana": "quarta",
-      "hora": "12:00",
-      "navio": "MSC NAOMI",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9704984",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-22T12:00:00"
-    },
     {
       "data": "22/07",
       "dia_semana": "quarta",
@@ -90,7 +74,7 @@
       "dia_semana": "quinta",
       "hora": "06:30",
       "navio": "MSC PALAK",
-      "calado": "13,90",
+      "calado": "14,50",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -280,6 +264,22 @@
     {
       "data": "24/07",
       "dia_semana": "sexta",
+      "hora": "21:00",
+      "navio": "NAVIOS DOMINO",
+      "calado": "11,70",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9478494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-24T21:00:00"
+    },
+    {
+      "data": "24/07",
+      "dia_semana": "sexta",
       "hora": "23:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,90",
@@ -292,6 +292,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-24T23:00:00"
+    },
+    {
+      "data": "25/07",
+      "dia_semana": "sábado",
+      "hora": "08:00",
+      "navio": "NAVIOS DOMINO",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9478494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-25T08:00:00"
     },
     {
       "data": "25/07",
