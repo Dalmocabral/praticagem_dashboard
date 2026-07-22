@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/07/2026 17:47",
+  "ultima_atualizacao": "22/07/2026 18:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -17,7 +17,7 @@
       "imo": "9267156",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-07-22T22:30:00"
     },
@@ -283,8 +283,8 @@
       "hora": "23:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,90",
-      "manobra": "S",
-      "beco": "TECONT1",
+      "manobra": "M",
+      "beco": "TECONT1 -> TECONT4",
       "status": "futuro",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
@@ -308,6 +308,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-25T08:00:00"
+    },
+    {
+      "data": "25/07",
+      "dia_semana": "sábado",
+      "hora": "10:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,90",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-25T10:00:00"
     },
     {
       "data": "25/07",
@@ -613,7 +629,7 @@
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "24/07 12:00",
       "manobra_rio_fim": "24/07 23:00",
       "navio_multi": "MSC LE HAVRE",
@@ -622,7 +638,7 @@
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "24/07 12:00",
       "manobra_rio_fim": "24/07 23:00",
       "navio_multi": "MSC INSA",
