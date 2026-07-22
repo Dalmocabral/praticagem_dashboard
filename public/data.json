@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "22/07/2026 10:07",
+  "ultima_atualizacao": "22/07/2026 12:16",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "22/07",
-      "dia_semana": "quarta",
-      "hora": "09:00",
-      "navio": "MAERSK FREEPORT",
-      "calado": "13,30",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9991202",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-22T09:00:00"
-    },
-    {
-      "data": "22/07",
-      "dia_semana": "quarta",
-      "hora": "10:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "7,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-22T10:00:00"
-    },
     {
       "data": "22/07",
       "dia_semana": "quarta",
@@ -58,7 +26,7 @@
       "dia_semana": "quarta",
       "hora": "22:30",
       "navio": "TINA I",
-      "calado": "14,40",
+      "calado": "14,20",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -170,7 +138,7 @@
       "dia_semana": "quinta",
       "hora": "12:00",
       "navio": "TINA I",
-      "calado": "14,40",
+      "calado": "14,20",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
