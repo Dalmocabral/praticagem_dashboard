@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/07/2026 15:06",
+  "ultima_atualizacao": "22/07/2026 16:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -106,7 +106,7 @@
       "dia_semana": "quinta",
       "hora": "10:30",
       "navio": "MSC NAOMI",
-      "calado": "13,00",
+      "calado": "13,90",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -168,22 +168,6 @@
     {
       "data": "24/07",
       "dia_semana": "sexta",
-      "hora": "10:00",
-      "navio": "CLARITY",
-      "calado": "6,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9416381",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-24T10:00:00"
-    },
-    {
-      "data": "24/07",
-      "dia_semana": "sexta",
       "hora": "12:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,80",
@@ -196,6 +180,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-24T12:00:00"
+    },
+    {
+      "data": "24/07",
+      "dia_semana": "sexta",
+      "hora": "14:00",
+      "navio": "CLARITY",
+      "calado": "6,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9416381",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-24T14:00:00"
     },
     {
       "data": "24/07",
@@ -543,7 +543,7 @@
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/07 02:30",
-      "manobra_rio_fim": "24/07 10:00",
+      "manobra_rio_fim": "24/07 14:00",
       "navio_multi": "GRANDE GUINEA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/07 04:00"
@@ -552,7 +552,7 @@
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/07 02:30",
-      "manobra_rio_fim": "24/07 10:00",
+      "manobra_rio_fim": "24/07 14:00",
       "navio_multi": "MSC PALAK",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/07 06:30"
@@ -561,7 +561,7 @@
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/07 02:30",
-      "manobra_rio_fim": "24/07 10:00",
+      "manobra_rio_fim": "24/07 14:00",
       "navio_multi": "YM MODERATION",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/07 08:30"
@@ -570,7 +570,7 @@
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/07 02:30",
-      "manobra_rio_fim": "24/07 10:00",
+      "manobra_rio_fim": "24/07 14:00",
       "navio_multi": "MSC NAOMI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/07 10:30"
@@ -579,7 +579,7 @@
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/07 02:30",
-      "manobra_rio_fim": "24/07 10:00",
+      "manobra_rio_fim": "24/07 14:00",
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/07 14:00"
@@ -588,7 +588,7 @@
       "navio_rio": "CLARITY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/07 02:30",
-      "manobra_rio_fim": "24/07 10:00",
+      "manobra_rio_fim": "24/07 14:00",
       "navio_multi": "GRANDE GUINEA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/07 16:00"
