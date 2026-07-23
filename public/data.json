@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "23/07/2026 08:18",
+  "ultima_atualizacao": "23/07/2026 09:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "23/07",
-      "dia_semana": "quinta",
-      "hora": "06:30",
-      "navio": "MSC PALAK",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9735206",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-23T06:30:00"
-    },
     {
       "data": "23/07",
       "dia_semana": "quinta",
@@ -58,14 +42,14 @@
       "dia_semana": "quinta",
       "hora": "11:30",
       "navio": "MSC YAMUNA VI",
-      "calado": "12,90",
+      "calado": "13,20",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9288409",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-23T11:30:00"
     },
@@ -104,6 +88,54 @@
     {
       "data": "24/07",
       "dia_semana": "sexta",
+      "hora": "07:30",
+      "navio": "MSC YAMUNA VI",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9288409",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-24T07:30:00"
+    },
+    {
+      "data": "24/07",
+      "dia_semana": "sexta",
+      "hora": "08:30",
+      "navio": "YM MODERATION",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9664897",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-24T08:30:00"
+    },
+    {
+      "data": "24/07",
+      "dia_semana": "sexta",
+      "hora": "10:30",
+      "navio": "MSC LE HAVRE",
+      "calado": "12,20",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9975583",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-24T10:30:00"
+    },
+    {
+      "data": "24/07",
+      "dia_semana": "sexta",
       "hora": "12:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,80",
@@ -136,55 +168,7 @@
     {
       "data": "24/07",
       "dia_semana": "sexta",
-      "hora": "15:00",
-      "navio": "MSC YAMUNA VI",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9288409",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-24T15:00:00"
-    },
-    {
-      "data": "24/07",
-      "dia_semana": "sexta",
       "hora": "16:00",
-      "navio": "YM MODERATION",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9664897",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-24T16:00:00"
-    },
-    {
-      "data": "24/07",
-      "dia_semana": "sexta",
-      "hora": "18:00",
-      "navio": "MSC LE HAVRE",
-      "calado": "12,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9975583",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-24T18:00:00"
-    },
-    {
-      "data": "24/07",
-      "dia_semana": "sexta",
-      "hora": "19:30",
       "navio": "MSC INSA",
       "calado": "10,80",
       "manobra": "E",
@@ -195,7 +179,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-24T19:30:00"
+      "timestamp": "2026-07-24T16:00:00"
     },
     {
       "data": "24/07",
@@ -460,36 +444,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "24/07 12:00",
       "manobra_rio_fim": "24/07 23:00",
-      "navio_multi": "MSC YAMUNA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/07 15:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/07 12:00",
-      "manobra_rio_fim": "24/07 23:00",
-      "navio_multi": "YM MODERATION",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/07 16:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/07 12:00",
-      "manobra_rio_fim": "24/07 23:00",
-      "navio_multi": "MSC LE HAVRE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/07 18:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/07 12:00",
-      "manobra_rio_fim": "24/07 23:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/07 19:30"
+      "manobra_multi_data_hora": "24/07 16:00"
     }
   ]
 }
