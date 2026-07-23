@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "23/07/2026 09:53",
+  "ultima_atualizacao": "23/07/2026 12:09",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "23/07",
-      "dia_semana": "quinta",
-      "hora": "08:00",
-      "navio": "MSC NAOMI",
-      "calado": "13,90",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9704984",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-23T08:00:00"
-    },
-    {
-      "data": "23/07",
-      "dia_semana": "quinta",
-      "hora": "10:00",
-      "navio": "YM MODERATION",
-      "calado": "9,80",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9664897",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-23T10:00:00"
-    },
     {
       "data": "23/07",
       "dia_semana": "quinta",
@@ -65,14 +33,14 @@
       "imo": "9267156",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-07-23T15:00:00"
     },
     {
       "data": "23/07",
       "dia_semana": "quinta",
-      "hora": "20:00",
+      "hora": "23:30",
       "navio": "GRANDE GUINEA",
       "calado": "8,80",
       "manobra": "S",
@@ -83,7 +51,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-23T20:00:00"
+      "timestamp": "2026-07-23T23:30:00"
     },
     {
       "data": "24/07",
@@ -344,7 +312,7 @@
     {
       "data": "31/07",
       "dia_semana": "sexta",
-      "hora": "13:00",
+      "hora": "14:00",
       "navio": "CMA CGM COBALT",
       "calado": "15,10",
       "manobra": "E",
@@ -355,7 +323,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-31T13:00:00"
+      "timestamp": "2026-07-31T14:00:00"
     },
     {
       "data": "01/08",
