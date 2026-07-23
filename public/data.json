@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/07/2026 19:43",
+  "ultima_atualizacao": "23/07/2026 20:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -17,7 +17,7 @@
       "imo": "9437919",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-23T23:30:00"
     },
@@ -169,22 +169,6 @@
       "data": "25/07",
       "dia_semana": "sábado",
       "hora": "08:00",
-      "navio": "CMA CGM PUCCINI",
-      "calado": "14,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9280627",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-25T08:00:00"
-    },
-    {
-      "data": "25/07",
-      "dia_semana": "sábado",
-      "hora": "08:00",
       "navio": "LORI",
       "calado": "10,40",
       "manobra": "S",
@@ -196,6 +180,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-25T08:00:00"
+    },
+    {
+      "data": "25/07",
+      "dia_semana": "sábado",
+      "hora": "10:00",
+      "navio": "CMA CGM PUCCINI",
+      "calado": "14,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9280627",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-25T10:00:00"
     },
     {
       "data": "25/07",
@@ -268,7 +268,7 @@
       "navio": "CMA CGM PUCCINI",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9280627",
       "tipo_navio": "CONTAINER SHIP",
@@ -460,7 +460,7 @@
     {
       "navio_rio": "CMA CGM PUCCINI",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/07 08:00",
+      "manobra_rio_inicio": "25/07 10:00",
       "manobra_rio_fim": "26/07 03:00",
       "navio_multi": "MSC LE HAVRE",
       "manobra_multi_tipo": "S",
@@ -469,7 +469,7 @@
     {
       "navio_rio": "CMA CGM PUCCINI",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/07 08:00",
+      "manobra_rio_inicio": "25/07 10:00",
       "manobra_rio_fim": "26/07 03:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "S",
