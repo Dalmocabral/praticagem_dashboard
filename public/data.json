@@ -1,58 +1,10 @@
 {
-  "ultima_atualizacao": "23/07/2026 03:20",
+  "ultima_atualizacao": "23/07/2026 06:05",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "22/07",
-      "dia_semana": "quarta",
-      "hora": "22:30",
-      "navio": "TINA I",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9267156",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-22T22:30:00"
-    },
-    {
-      "data": "23/07",
-      "dia_semana": "quinta",
-      "hora": "02:30",
-      "navio": "CLARITY",
-      "calado": "6,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9416381",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-23T02:30:00"
-    },
-    {
-      "data": "23/07",
-      "dia_semana": "quinta",
-      "hora": "04:00",
-      "navio": "GRANDE GUINEA",
-      "calado": "8,90",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9437919",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-23T04:00:00"
-    },
     {
       "data": "23/07",
       "dia_semana": "quinta",
@@ -65,30 +17,14 @@
       "imo": "9735206",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-23T06:30:00"
     },
     {
       "data": "23/07",
       "dia_semana": "quinta",
-      "hora": "08:30",
-      "navio": "YM MODERATION",
-      "calado": "9,80",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9664897",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-23T08:30:00"
-    },
-    {
-      "data": "23/07",
-      "dia_semana": "quinta",
-      "hora": "10:30",
+      "hora": "08:00",
       "navio": "MSC NAOMI",
       "calado": "13,90",
       "manobra": "S",
@@ -97,30 +33,30 @@
       "imo": "9704984",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-07-23T10:30:00"
+      "timestamp": "2026-07-23T08:00:00"
     },
     {
       "data": "23/07",
       "dia_semana": "quinta",
-      "hora": "12:00",
-      "navio": "TINA I",
-      "calado": "14,20",
-      "manobra": "S",
-      "beco": "TECONT1",
+      "hora": "10:00",
+      "navio": "YM MODERATION",
+      "calado": "9,80",
+      "manobra": "E",
+      "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9267156",
+      "imo": "9664897",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-23T12:00:00"
+      "alerta": "entrada_antecipada",
+      "terminal": "multi",
+      "timestamp": "2026-07-23T10:00:00"
     },
     {
       "data": "23/07",
       "dia_semana": "quinta",
-      "hora": "14:00",
+      "hora": "11:30",
       "navio": "MSC YAMUNA VI",
       "calado": "12,90",
       "manobra": "E",
@@ -131,7 +67,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-23T14:00:00"
+      "timestamp": "2026-07-23T11:30:00"
+    },
+    {
+      "data": "23/07",
+      "dia_semana": "quinta",
+      "hora": "15:00",
+      "navio": "TINA I",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9267156",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-23T15:00:00"
     },
     {
       "data": "23/07",
@@ -503,96 +455,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "TINA I",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/07 22:30",
-      "manobra_rio_fim": "23/07 12:00",
-      "navio_multi": "GRANDE GUINEA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/07 04:00"
-    },
-    {
-      "navio_rio": "TINA I",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/07 22:30",
-      "manobra_rio_fim": "23/07 12:00",
-      "navio_multi": "MSC PALAK",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/07 06:30"
-    },
-    {
-      "navio_rio": "TINA I",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/07 22:30",
-      "manobra_rio_fim": "23/07 12:00",
-      "navio_multi": "YM MODERATION",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/07 08:30"
-    },
-    {
-      "navio_rio": "TINA I",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/07 22:30",
-      "manobra_rio_fim": "23/07 12:00",
-      "navio_multi": "MSC NAOMI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/07 10:30"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/07 02:30",
-      "manobra_rio_fim": "24/07 14:00",
-      "navio_multi": "GRANDE GUINEA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/07 04:00"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/07 02:30",
-      "manobra_rio_fim": "24/07 14:00",
-      "navio_multi": "MSC PALAK",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/07 06:30"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/07 02:30",
-      "manobra_rio_fim": "24/07 14:00",
-      "navio_multi": "YM MODERATION",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/07 08:30"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/07 02:30",
-      "manobra_rio_fim": "24/07 14:00",
-      "navio_multi": "MSC NAOMI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/07 10:30"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/07 02:30",
-      "manobra_rio_fim": "24/07 14:00",
-      "navio_multi": "MSC YAMUNA VI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/07 14:00"
-    },
-    {
-      "navio_rio": "CLARITY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/07 02:30",
-      "manobra_rio_fim": "24/07 14:00",
-      "navio_multi": "GRANDE GUINEA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/07 20:00"
-    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
