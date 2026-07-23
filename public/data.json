@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/07/2026 00:43",
+  "ultima_atualizacao": "23/07/2026 03:20",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -24,22 +24,6 @@
     {
       "data": "23/07",
       "dia_semana": "quinta",
-      "hora": "00:30",
-      "navio": "CMA CGM IRON",
-      "calado": "11,90",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996678",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-23T00:30:00"
-    },
-    {
-      "data": "23/07",
-      "dia_semana": "quinta",
       "hora": "02:30",
       "navio": "CLARITY",
       "calado": "6,30",
@@ -58,14 +42,14 @@
       "dia_semana": "quinta",
       "hora": "04:00",
       "navio": "GRANDE GUINEA",
-      "calado": "9,30",
+      "calado": "8,90",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9437919",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-23T04:00:00"
     },
@@ -81,7 +65,7 @@
       "imo": "9735206",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-07-23T06:30:00"
     },
