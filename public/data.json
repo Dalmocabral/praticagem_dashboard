@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/07/2026 21:06",
+  "ultima_atualizacao": "23/07/2026 00:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -26,14 +26,14 @@
       "dia_semana": "quinta",
       "hora": "00:30",
       "navio": "CMA CGM IRON",
-      "calado": "11,70",
+      "calado": "11,90",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9996678",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-07-23T00:30:00"
     },
@@ -42,14 +42,14 @@
       "dia_semana": "quinta",
       "hora": "02:30",
       "navio": "CLARITY",
-      "calado": "6,50",
+      "calado": "6,30",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9416381",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-23T02:30:00"
     },
@@ -65,7 +65,7 @@
       "imo": "9437919",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-07-23T04:00:00"
     },
@@ -152,7 +152,7 @@
     {
       "data": "23/07",
       "dia_semana": "quinta",
-      "hora": "16:00",
+      "hora": "20:00",
       "navio": "GRANDE GUINEA",
       "calado": "8,80",
       "manobra": "S",
@@ -163,7 +163,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-23T16:00:00"
+      "timestamp": "2026-07-23T20:00:00"
     },
     {
       "data": "24/07",
@@ -607,7 +607,7 @@
       "manobra_rio_fim": "24/07 14:00",
       "navio_multi": "GRANDE GUINEA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/07 16:00"
+      "manobra_multi_data_hora": "23/07 20:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
