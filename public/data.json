@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/07/2026 12:03",
+  "ultima_atualizacao": "24/07/2026 13:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -42,7 +42,7 @@
       "dia_semana": "sexta",
       "hora": "15:00",
       "navio": "NAVIOS DOMINO",
-      "calado": "11,70",
+      "calado": "11,60",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -65,7 +65,7 @@
       "imo": "9975583",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-24T16:30:00"
     },
