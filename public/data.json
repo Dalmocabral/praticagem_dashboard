@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "24/07/2026 11:47",
+  "ultima_atualizacao": "24/07/2026 12:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "24/07",
-      "dia_semana": "sexta",
-      "hora": "11:00",
-      "navio": "CLARITY",
-      "calado": "7,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9416381",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-24T11:00:00"
-    },
     {
       "data": "24/07",
       "dia_semana": "sexta",
@@ -65,7 +49,7 @@
       "imo": "9478494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-24T15:00:00"
     },
