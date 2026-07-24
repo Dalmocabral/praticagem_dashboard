@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "23/07/2026 22:13",
+  "ultima_atualizacao": "24/07/2026 01:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "23/07",
-      "dia_semana": "quinta",
-      "hora": "23:30",
-      "navio": "GRANDE GUINEA",
-      "calado": "8,90",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "passado",
-      "imo": "9437919",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-23T23:30:00"
-    },
     {
       "data": "24/07",
       "dia_semana": "sexta",
