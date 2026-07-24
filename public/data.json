@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/07/2026 08:25",
+  "ultima_atualizacao": "24/07/2026 09:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -9,16 +9,16 @@
       "data": "24/07",
       "dia_semana": "sexta",
       "hora": "11:00",
-      "navio": "MSC YAMUNA VI",
-      "calado": "14,00",
+      "navio": "CLARITY",
+      "calado": "7,50",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
-      "imo": "9288409",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "imo": "9416381",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": "saida_atrasada",
-      "terminal": "multi",
+      "terminal": "rio",
       "timestamp": "2026-07-24T11:00:00"
     },
     {
@@ -33,30 +33,30 @@
       "imo": "9664897",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-24T12:00:00"
     },
     {
       "data": "24/07",
       "dia_semana": "sexta",
-      "hora": "14:00",
-      "navio": "CLARITY",
-      "calado": "6,50",
+      "hora": "13:00",
+      "navio": "MSC YAMUNA VI",
+      "calado": "14,00",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT2",
       "status": "hoje",
-      "imo": "9416381",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-24T14:00:00"
+      "imo": "9288409",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
+      "terminal": "multi",
+      "timestamp": "2026-07-24T13:00:00"
     },
     {
       "data": "24/07",
       "dia_semana": "sexta",
-      "hora": "16:00",
+      "hora": "15:00",
       "navio": "NAVIOS DOMINO",
       "calado": "11,70",
       "manobra": "E",
@@ -67,12 +67,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-24T16:00:00"
+      "timestamp": "2026-07-24T15:00:00"
     },
     {
       "data": "24/07",
       "dia_semana": "sexta",
-      "hora": "17:30",
+      "hora": "16:30",
       "navio": "MSC LE HAVRE",
       "calado": "12,20",
       "manobra": "E",
@@ -83,12 +83,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-24T17:30:00"
+      "timestamp": "2026-07-24T16:30:00"
     },
     {
       "data": "24/07",
       "dia_semana": "sexta",
-      "hora": "19:00",
+      "hora": "18:00",
       "navio": "MSC INSA",
       "calado": "10,80",
       "manobra": "E",
@@ -99,7 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-24T19:00:00"
+      "timestamp": "2026-07-24T18:00:00"
     },
     {
       "data": "24/07",
@@ -458,20 +458,20 @@
     {
       "navio_rio": "NAVIOS DOMINO",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/07 16:00",
+      "manobra_rio_inicio": "24/07 15:00",
       "manobra_rio_fim": "25/07 04:00",
       "navio_multi": "MSC LE HAVRE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/07 17:30"
+      "manobra_multi_data_hora": "24/07 16:30"
     },
     {
       "navio_rio": "NAVIOS DOMINO",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/07 16:00",
+      "manobra_rio_inicio": "24/07 15:00",
       "manobra_rio_fim": "25/07 04:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/07 19:00"
+      "manobra_multi_data_hora": "24/07 18:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
