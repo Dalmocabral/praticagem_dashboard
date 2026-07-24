@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/07/2026 10:02",
+  "ultima_atualizacao": "24/07/2026 11:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -42,7 +42,7 @@
       "dia_semana": "sexta",
       "hora": "13:00",
       "navio": "MSC YAMUNA VI",
-      "calado": "14,00",
+      "calado": "14,05",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -65,7 +65,7 @@
       "imo": "9478494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-07-24T15:00:00"
     },
@@ -90,7 +90,7 @@
       "dia_semana": "sexta",
       "hora": "18:00",
       "navio": "MSC INSA",
-      "calado": "10,80",
+      "calado": "10,70",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
