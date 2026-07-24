@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "24/07/2026 19:15",
+  "ultima_atualizacao": "24/07/2026 20:28",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "24/07",
-      "dia_semana": "sexta",
-      "hora": "18:00",
-      "navio": "MSC INSA",
-      "calado": "10,70",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-24T18:00:00"
-    },
     {
       "data": "24/07",
       "dia_semana": "sexta",
