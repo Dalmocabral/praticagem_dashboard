@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "25/07/2026 16:59",
+  "ultima_atualizacao": "25/07/2026 18:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "25/07",
-      "dia_semana": "sábado",
-      "hora": "15:30",
-      "navio": "CMA CGM PUCCINI",
-      "calado": "14,30",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9280627",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-25T15:30:00"
-    },
     {
       "data": "25/07",
       "dia_semana": "sábado",
