@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "25/07/2026 05:52",
+  "ultima_atualizacao": "25/07/2026 07:24",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "25/07",
-      "dia_semana": "sábado",
-      "hora": "04:00",
-      "navio": "NAVIOS DOMINO",
-      "calado": "12,30",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9478494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-25T04:00:00"
-    },
     {
       "data": "25/07",
       "dia_semana": "sábado",
@@ -36,22 +20,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-25T06:30:00"
-    },
-    {
-      "data": "25/07",
-      "dia_semana": "sábado",
-      "hora": "08:30",
-      "navio": "LORI",
-      "calado": "10,40",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9631125",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-25T08:30:00"
     },
     {
       "data": "25/07",
