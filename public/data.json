@@ -1,30 +1,14 @@
 {
-  "ultima_atualizacao": "25/07/2026 21:15",
+  "ultima_atualizacao": "26/07/2026 01:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
     {
-      "data": "25/07",
-      "dia_semana": "sábado",
-      "hora": "19:30",
-      "navio": "LORI",
-      "calado": "10,55",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9631125",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-25T19:30:00"
-    },
-    {
       "data": "26/07",
       "dia_semana": "domingo",
-      "hora": "03:00",
+      "hora": "04:00",
       "navio": "MSC INSA",
       "calado": "10,30",
       "manobra": "S",
@@ -33,9 +17,9 @@
       "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-07-26T03:00:00"
+      "timestamp": "2026-07-26T04:00:00"
     },
     {
       "data": "26/07",
