@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "26/07/2026 10:50",
+  "ultima_atualizacao": "26/07/2026 11:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "26/07",
-      "dia_semana": "domingo",
-      "hora": "09:30",
-      "navio": "MSC LE HAVRE",
-      "calado": "15,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9975583",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-26T09:30:00"
-    },
-    {
-      "data": "26/07",
-      "dia_semana": "domingo",
-      "hora": "10:30",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,90",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-26T10:30:00"
-    },
     {
       "data": "26/07",
       "dia_semana": "domingo",
@@ -65,7 +33,7 @@
       "imo": "9768007",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-07-26T15:30:00"
     },
