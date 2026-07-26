@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/07/2026 13:09",
+  "ultima_atualizacao": "26/07/2026 14:16",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -24,22 +24,6 @@
     {
       "data": "26/07",
       "dia_semana": "domingo",
-      "hora": "15:30",
-      "navio": "LAEM CHABANG EXPRESS",
-      "calado": "14,98",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9768007",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-26T15:30:00"
-    },
-    {
-      "data": "26/07",
-      "dia_semana": "domingo",
       "hora": "17:30",
       "navio": "STOLT COBALT",
       "calado": "9,50",
@@ -49,7 +33,7 @@
       "imo": "9739305",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-07-26T17:30:00"
     },
@@ -89,6 +73,22 @@
       "data": "27/07",
       "dia_semana": "segunda",
       "hora": "10:00",
+      "navio": "LAEM CHABANG EXPRESS",
+      "calado": "14,92",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9768007",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-27T10:00:00"
+    },
+    {
+      "data": "27/07",
+      "dia_semana": "segunda",
+      "hora": "12:30",
       "navio": "LE HAVRE",
       "calado": "14,00",
       "manobra": "E",
@@ -99,12 +99,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-27T10:00:00"
+      "timestamp": "2026-07-27T12:30:00"
     },
     {
       "data": "27/07",
       "dia_semana": "segunda",
-      "hora": "12:00",
+      "hora": "14:30",
       "navio": "MSC ALBANY",
       "calado": "10,80",
       "manobra": "E",
@@ -115,7 +115,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-27T12:00:00"
+      "timestamp": "2026-07-27T14:30:00"
     },
     {
       "data": "27/07",
@@ -421,8 +421,8 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "26/07 17:30",
       "manobra_rio_fim": "28/07 10:00",
-      "navio_multi": "LE HAVRE",
-      "manobra_multi_tipo": "E",
+      "navio_multi": "LAEM CHABANG EXPRESS",
+      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "27/07 10:00"
     },
     {
@@ -430,9 +430,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "26/07 17:30",
       "manobra_rio_fim": "28/07 10:00",
+      "navio_multi": "LE HAVRE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "27/07 12:30"
+    },
+    {
+      "navio_rio": "STOLT COBALT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "26/07 17:30",
+      "manobra_rio_fim": "28/07 10:00",
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/07 12:00"
+      "manobra_multi_data_hora": "27/07 14:30"
     },
     {
       "navio_rio": "STOLT COBALT",
@@ -466,18 +475,27 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "27/07 06:00",
       "manobra_rio_fim": "27/07 18:00",
-      "navio_multi": "LE HAVRE",
-      "manobra_multi_tipo": "E",
+      "navio_multi": "LAEM CHABANG EXPRESS",
+      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "27/07 10:00"
     },
     {
       "navio_rio": "BALTIYSKIY-202",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "27/07 06:00",
+      "manobra_rio_fim": "27/07 18:00",
+      "navio_multi": "LE HAVRE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "27/07 12:30"
+    },
+    {
+      "navio_rio": "BALTIYSKIY-202",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "27/07 06:00",
       "manobra_rio_fim": "27/07 18:00",
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/07 12:00"
+      "manobra_multi_data_hora": "27/07 14:30"
     },
     {
       "navio_rio": "MAERSK MONTE AZUL",
