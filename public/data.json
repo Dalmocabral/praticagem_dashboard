@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/07/2026 09:00",
+  "ultima_atualizacao": "26/07/2026 10:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -26,7 +26,7 @@
       "dia_semana": "domingo",
       "hora": "10:30",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,90",
+      "calado": "8,90",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -49,7 +49,7 @@
       "imo": "9323510",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-26T12:30:00"
     },
@@ -152,6 +152,22 @@
     {
       "data": "27/07",
       "dia_semana": "segunda",
+      "hora": "16:00",
+      "navio": "MAERSK MONTE AZUL",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9348053",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-27T16:00:00"
+    },
+    {
+      "data": "27/07",
+      "dia_semana": "segunda",
       "hora": "18:00",
       "navio": "BALTIYSKIY-202",
       "calado": "3,20",
@@ -196,6 +212,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-07-28T07:30:00"
+    },
+    {
+      "data": "28/07",
+      "dia_semana": "terça",
+      "hora": "09:00",
+      "navio": "MAERSK MONTE AZUL",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9348053",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-28T09:00:00"
     },
     {
       "data": "28/07",
@@ -478,6 +510,24 @@
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "27/07 12:00"
+    },
+    {
+      "navio_rio": "MAERSK MONTE AZUL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "27/07 16:00",
+      "manobra_rio_fim": "28/07 09:00",
+      "navio_multi": "LE HAVRE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/07 06:30"
+    },
+    {
+      "navio_rio": "MAERSK MONTE AZUL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "27/07 16:00",
+      "manobra_rio_fim": "28/07 09:00",
+      "navio_multi": "MSC ALBANY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/07 07:30"
     }
   ]
 }
