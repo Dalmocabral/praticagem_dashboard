@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "26/07/2026 03:45",
+  "ultima_atualizacao": "26/07/2026 06:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "26/07",
-      "dia_semana": "domingo",
-      "hora": "04:00",
-      "navio": "MSC INSA",
-      "calado": "10,20",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-26T04:00:00"
-    },
     {
       "data": "26/07",
       "dia_semana": "domingo",
@@ -40,7 +24,23 @@
     {
       "data": "26/07",
       "dia_semana": "domingo",
-      "hora": "09:00",
+      "hora": "09:30",
+      "navio": "MSC LE HAVRE",
+      "calado": "15,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9975583",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
+      "terminal": "multi",
+      "timestamp": "2026-07-26T09:30:00"
+    },
+    {
+      "data": "26/07",
+      "dia_semana": "domingo",
+      "hora": "10:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,90",
       "manobra": "S",
@@ -51,23 +51,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-26T09:00:00"
-    },
-    {
-      "data": "26/07",
-      "dia_semana": "domingo",
-      "hora": "10:00",
-      "navio": "MSC LE HAVRE",
-      "calado": "15,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9975583",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-26T10:00:00"
+      "timestamp": "2026-07-26T10:30:00"
     },
     {
       "data": "26/07",
