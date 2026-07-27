@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "27/07/2026 19:38",
+  "ultima_atualizacao": "27/07/2026 20:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "27/07",
-      "dia_semana": "segunda",
-      "hora": "16:00",
-      "navio": "MAERSK MONTE AZUL",
-      "calado": "13,90",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9348053",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-27T16:00:00"
-    },
     {
       "data": "28/07",
       "dia_semana": "terça",
