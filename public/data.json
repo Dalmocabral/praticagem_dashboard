@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "27/07/2026 18:31",
+  "ultima_atualizacao": "27/07/2026 19:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "27/07",
-      "dia_semana": "segunda",
-      "hora": "14:30",
-      "navio": "MSC ALBANY",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9619438",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-27T14:30:00"
-    },
     {
       "data": "27/07",
       "dia_semana": "segunda",
@@ -36,22 +20,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-27T16:00:00"
-    },
-    {
-      "data": "27/07",
-      "dia_semana": "segunda",
-      "hora": "18:00",
-      "navio": "BALTIYSKIY-202",
-      "calado": "3,20",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9057252",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-27T18:00:00"
     },
     {
       "data": "28/07",
