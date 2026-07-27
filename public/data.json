@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/07/2026 22:21",
+  "ultima_atualizacao": "27/07/2026 02:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -17,7 +17,7 @@
       "imo": "9057252",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-07-27T06:00:00"
     },
