@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "27/07/2026 14:09",
+  "ultima_atualizacao": "27/07/2026 15:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "27/07",
-      "dia_semana": "segunda",
-      "hora": "12:30",
-      "navio": "LE HAVRE",
-      "calado": "13,95",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9307243",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-27T12:30:00"
-    },
     {
       "data": "27/07",
       "dia_semana": "segunda",
@@ -42,7 +26,7 @@
       "dia_semana": "segunda",
       "hora": "16:00",
       "navio": "MAERSK MONTE AZUL",
-      "calado": "13,80",
+      "calado": "13,90",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
@@ -65,7 +49,7 @@
       "imo": "9057252",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-07-27T18:00:00"
     },
