@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/07/2026 14:54",
+  "ultima_atualizacao": "28/07/2026 16:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -10,7 +10,7 @@
       "dia_semana": "terça",
       "hora": "16:30",
       "navio": "MSC ALBANY",
-      "calado": "10,00",
+      "calado": "10,20",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -33,7 +33,7 @@
       "imo": "9945837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-07-28T18:30:00"
     },
@@ -104,7 +104,7 @@
     {
       "data": "29/07",
       "dia_semana": "quarta",
-      "hora": "06:00",
+      "hora": "09:00",
       "navio": "NC BRISA",
       "calado": "8,70",
       "manobra": "S",
@@ -115,7 +115,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-29T06:00:00"
+      "timestamp": "2026-07-29T09:00:00"
     },
     {
       "data": "29/07",
@@ -136,7 +136,7 @@
     {
       "data": "29/07",
       "dia_semana": "quarta",
-      "hora": "14:00",
+      "hora": "14:30",
       "navio": "COSCO SHIPPING BRAZIL",
       "calado": "13,80",
       "manobra": "S",
@@ -147,12 +147,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-29T14:00:00"
+      "timestamp": "2026-07-29T14:30:00"
     },
     {
       "data": "29/07",
       "dia_semana": "quarta",
-      "hora": "16:00",
+      "hora": "16:30",
       "navio": "EVER FAIR",
       "calado": "14,40",
       "manobra": "E",
@@ -163,7 +163,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-07-29T16:00:00"
+      "timestamp": "2026-07-29T16:30:00"
     },
     {
       "data": "29/07",
@@ -427,7 +427,7 @@
       "navio_rio": "COSCO SHIPPING BRAZIL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/07 18:30",
-      "manobra_rio_fim": "29/07 14:00",
+      "manobra_rio_fim": "29/07 14:30",
       "navio_multi": "LE HAVRE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "28/07 21:00"
@@ -436,7 +436,7 @@
       "navio_rio": "COSCO SHIPPING BRAZIL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/07 18:30",
-      "manobra_rio_fim": "29/07 14:00",
+      "manobra_rio_fim": "29/07 14:30",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "29/07 00:30"
@@ -445,7 +445,7 @@
       "navio_rio": "COSCO SHIPPING BRAZIL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/07 18:30",
-      "manobra_rio_fim": "29/07 14:00",
+      "manobra_rio_fim": "29/07 14:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "29/07 02:00"
@@ -454,7 +454,7 @@
       "navio_rio": "COSCO SHIPPING BRAZIL",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "28/07 18:30",
-      "manobra_rio_fim": "29/07 14:00",
+      "manobra_rio_fim": "29/07 14:30",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "29/07 12:00"
@@ -463,7 +463,7 @@
       "navio_rio": "NC BRISA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/07 23:00",
-      "manobra_rio_fim": "29/07 06:00",
+      "manobra_rio_fim": "29/07 09:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "29/07 00:30"
@@ -472,7 +472,7 @@
       "navio_rio": "NC BRISA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/07 23:00",
-      "manobra_rio_fim": "29/07 06:00",
+      "manobra_rio_fim": "29/07 09:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "29/07 02:00"
@@ -480,7 +480,7 @@
     {
       "navio_rio": "EVER FAIR",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "29/07 16:00",
+      "manobra_rio_inicio": "29/07 16:30",
       "manobra_rio_fim": "30/07 16:00",
       "navio_multi": "ONE PREMIUM",
       "manobra_multi_tipo": "E",
@@ -489,7 +489,7 @@
     {
       "navio_rio": "EVER FAIR",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/07 16:00",
+      "manobra_rio_inicio": "29/07 16:30",
       "manobra_rio_fim": "30/07 16:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
@@ -498,7 +498,7 @@
     {
       "navio_rio": "EVER FAIR",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/07 16:00",
+      "manobra_rio_inicio": "29/07 16:30",
       "manobra_rio_fim": "30/07 16:00",
       "navio_multi": "MSC CAROLINA",
       "manobra_multi_tipo": "E",
@@ -507,7 +507,7 @@
     {
       "navio_rio": "EVER FAIR",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/07 16:00",
+      "manobra_rio_inicio": "29/07 16:30",
       "manobra_rio_fim": "30/07 16:00",
       "navio_multi": "ONE PREMIUM",
       "manobra_multi_tipo": "S",
