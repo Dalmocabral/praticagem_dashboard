@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "28/07/2026 07:02",
+  "ultima_atualizacao": "28/07/2026 09:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "28/07",
-      "dia_semana": "terça",
-      "hora": "06:30",
-      "navio": "MAERSK MONTE AZUL",
-      "calado": "13,95",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9348053",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-28T06:30:00"
-    },
     {
       "data": "28/07",
       "dia_semana": "terça",
@@ -33,14 +17,14 @@
       "imo": "9739305",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-07-28T11:00:00"
     },
     {
       "data": "28/07",
       "dia_semana": "terça",
-      "hora": "13:30",
+      "hora": "15:00",
       "navio": "MSC ALBANY",
       "calado": "10,00",
       "manobra": "S",
@@ -51,28 +35,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-28T13:30:00"
+      "timestamp": "2026-07-28T15:00:00"
     },
     {
       "data": "28/07",
       "dia_semana": "terça",
-      "hora": "14:30",
-      "navio": "LE HAVRE",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9307243",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-28T14:30:00"
-    },
-    {
-      "data": "28/07",
-      "dia_semana": "terça",
-      "hora": "16:30",
+      "hora": "17:00",
       "navio": "MAERSK KARUN",
       "calado": "12,60",
       "manobra": "E",
@@ -83,14 +51,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-28T16:30:00"
+      "timestamp": "2026-07-28T17:00:00"
     },
     {
       "data": "28/07",
       "dia_semana": "terça",
       "hora": "18:30",
       "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "12,60",
+      "calado": "13,10",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -104,18 +72,18 @@
     {
       "data": "28/07",
       "dia_semana": "terça",
-      "hora": "20:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,60",
-      "manobra": "E",
+      "hora": "20:30",
+      "navio": "LE HAVRE",
+      "calado": "12,60",
+      "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9506394",
+      "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-28T20:00:00"
+      "timestamp": "2026-07-28T20:30:00"
     },
     {
       "data": "28/07",
@@ -132,6 +100,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-28T22:30:00"
+    },
+    {
+      "data": "29/07",
+      "dia_semana": "quarta",
+      "hora": "00:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-29T00:00:00"
     },
     {
       "data": "29/07",
@@ -364,9 +348,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "28/07 18:30",
       "manobra_rio_fim": "29/07 14:00",
+      "navio_multi": "LE HAVRE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/07 20:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING BRAZIL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/07 18:30",
+      "manobra_rio_fim": "29/07 14:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "28/07 20:00"
+      "manobra_multi_data_hora": "29/07 00:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
@@ -376,6 +369,15 @@
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "29/07 07:00"
+    },
+    {
+      "navio_rio": "NC BRISA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/07 22:30",
+      "manobra_rio_fim": "29/07 06:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "29/07 00:00"
     },
     {
       "navio_rio": "EVER FAIR",
