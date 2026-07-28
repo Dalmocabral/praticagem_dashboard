@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/07/2026 22:09",
+  "ultima_atualizacao": "28/07/2026 01:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -324,6 +324,38 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-12T15:00:00"
+    },
+    {
+      "data": "14/08",
+      "dia_semana": "sexta",
+      "hora": "06:30",
+      "navio": "EVER LEADER",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9595503",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-14T06:30:00"
+    },
+    {
+      "data": "15/08",
+      "dia_semana": "sábado",
+      "hora": "06:30",
+      "navio": "EVER LEADER",
+      "calado": "14,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9595503",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-15T06:30:00"
     }
   ],
   "conflitos": [
