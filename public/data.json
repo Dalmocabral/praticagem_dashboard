@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "28/07/2026 17:48",
+  "ultima_atualizacao": "28/07/2026 18:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "28/07",
-      "dia_semana": "terça",
-      "hora": "16:30",
-      "navio": "MSC ALBANY",
-      "calado": "10,20",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9619438",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-28T16:30:00"
-    },
     {
       "data": "28/07",
       "dia_semana": "terça",
@@ -49,7 +33,7 @@
       "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-28T21:00:00"
     },
@@ -218,7 +202,7 @@
       "dia_semana": "quinta",
       "hora": "15:00",
       "navio": "ONE PREMIUM",
-      "calado": "9,00",
+      "calado": "11,10",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
