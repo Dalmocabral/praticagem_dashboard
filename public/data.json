@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/07/2026 16:39",
+  "ultima_atualizacao": "28/07/2026 17:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -49,7 +49,7 @@
       "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-07-28T21:00:00"
     },
@@ -266,7 +266,7 @@
       "dia_semana": "sábado",
       "hora": "23:00",
       "navio": "ITHACA",
-      "calado": "6,50",
+      "calado": "9,10",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
