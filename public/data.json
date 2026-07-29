@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/07/2026 06:17",
+  "ultima_atualizacao": "29/07/2026 08:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -26,7 +26,7 @@
       "dia_semana": "quarta",
       "hora": "08:30",
       "navio": "NC BRISA",
-      "calado": "8,50",
+      "calado": "8,00",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -42,14 +42,14 @@
       "dia_semana": "quarta",
       "hora": "12:00",
       "navio": "MAERSK KARUN",
-      "calado": "12,80",
+      "calado": "13,20",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9624299",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-07-29T12:00:00"
     },
