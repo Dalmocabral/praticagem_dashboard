@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "29/07/2026 17:38",
+  "ultima_atualizacao": "29/07/2026 18:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "29/07",
-      "dia_semana": "quarta",
-      "hora": "16:00",
-      "navio": "EVER FAIR",
-      "calado": "14,40",
-      "manobra": "E",
-      "beco": "VISITA N",
-      "status": "hoje",
-      "imo": "9850886",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "visita",
-      "timestamp": "2026-07-29T16:00:00"
-    },
     {
       "data": "29/07",
       "dia_semana": "quarta",
@@ -40,7 +24,7 @@
     {
       "data": "29/07",
       "dia_semana": "quarta",
-      "hora": "20:00",
+      "hora": "20:30",
       "navio": "EVER FAIR",
       "calado": "14,40",
       "manobra": "M",
@@ -51,7 +35,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-07-29T20:00:00"
+      "timestamp": "2026-07-29T20:30:00"
     },
     {
       "data": "30/07",
@@ -298,7 +282,7 @@
     {
       "navio_rio": "EVER FAIR",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/07 20:00",
+      "manobra_rio_inicio": "29/07 20:30",
       "manobra_rio_fim": "30/07 16:00",
       "navio_multi": "ONE PREMIUM",
       "manobra_multi_tipo": "S",
