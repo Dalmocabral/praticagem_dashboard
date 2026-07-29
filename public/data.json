@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/07/2026 08:36",
+  "ultima_atualizacao": "29/07/2026 10:22",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,39 +8,7 @@
     {
       "data": "29/07",
       "dia_semana": "quarta",
-      "hora": "02:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "11,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-29T02:00:00"
-    },
-    {
-      "data": "29/07",
-      "dia_semana": "quarta",
-      "hora": "08:30",
-      "navio": "NC BRISA",
-      "calado": "8,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9612789",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-29T08:30:00"
-    },
-    {
-      "data": "29/07",
-      "dia_semana": "quarta",
-      "hora": "12:00",
+      "hora": "13:00",
       "navio": "MAERSK KARUN",
       "calado": "13,20",
       "manobra": "S",
@@ -49,9 +17,9 @@
       "imo": "9624299",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-07-29T12:00:00"
+      "timestamp": "2026-07-29T13:00:00"
     },
     {
       "data": "29/07",
@@ -104,7 +72,7 @@
     {
       "data": "30/07",
       "dia_semana": "quinta",
-      "hora": "08:00",
+      "hora": "11:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "10,00",
       "manobra": "S",
@@ -115,12 +83,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-30T08:00:00"
+      "timestamp": "2026-07-30T11:00:00"
     },
     {
       "data": "30/07",
       "dia_semana": "quinta",
-      "hora": "10:00",
+      "hora": "13:00",
       "navio": "MSC CAROLINA",
       "calado": "12,20",
       "manobra": "E",
@@ -131,7 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-30T10:00:00"
+      "timestamp": "2026-07-30T13:00:00"
     },
     {
       "data": "30/07",
@@ -278,9 +246,9 @@
       "timestamp": "2026-08-06T07:00:00"
     },
     {
-      "data": "11/08",
-      "dia_semana": "terça",
-      "hora": "11:30",
+      "data": "12/08",
+      "dia_semana": "quarta",
+      "hora": "07:00",
       "navio": "CAPE SOUNIO",
       "calado": "14,00",
       "manobra": "E",
@@ -291,12 +259,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-11T11:30:00"
+      "timestamp": "2026-08-12T07:00:00"
     },
     {
-      "data": "12/08",
-      "dia_semana": "quarta",
-      "hora": "15:00",
+      "data": "13/08",
+      "dia_semana": "quinta",
+      "hora": "07:00",
       "navio": "CAPE SOUNIO",
       "calado": "13,00",
       "manobra": "S",
@@ -307,7 +275,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-12T15:00:00"
+      "timestamp": "2026-08-13T07:00:00"
     },
     {
       "data": "14/08",
@@ -359,7 +327,7 @@
       "manobra_rio_fim": "30/07 16:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/07 08:00"
+      "manobra_multi_data_hora": "30/07 11:00"
     },
     {
       "navio_rio": "EVER FAIR",
@@ -368,7 +336,7 @@
       "manobra_rio_fim": "30/07 16:00",
       "navio_multi": "MSC CAROLINA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/07 10:00"
+      "manobra_multi_data_hora": "30/07 13:00"
     },
     {
       "navio_rio": "EVER FAIR",
