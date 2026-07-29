@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/07/2026 13:52",
+  "ultima_atualizacao": "29/07/2026 15:06",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -65,41 +65,9 @@
       "imo": "9444261",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-29T18:00:00"
-    },
-    {
-      "data": "30/07",
-      "dia_semana": "quinta",
-      "hora": "11:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-30T11:00:00"
-    },
-    {
-      "data": "30/07",
-      "dia_semana": "quinta",
-      "hora": "13:00",
-      "navio": "MSC CAROLINA",
-      "calado": "12,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9295397",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-30T13:00:00"
     },
     {
       "data": "30/07",
@@ -136,7 +104,23 @@
     {
       "data": "30/07",
       "dia_semana": "quinta",
-      "hora": "18:00",
+      "hora": "17:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-30T17:00:00"
+    },
+    {
+      "data": "30/07",
+      "dia_semana": "quinta",
+      "hora": "19:00",
       "navio": "ITHACA",
       "calado": "6,80",
       "manobra": "E",
@@ -147,7 +131,39 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-30T18:00:00"
+      "timestamp": "2026-07-30T19:00:00"
+    },
+    {
+      "data": "30/07",
+      "dia_semana": "quinta",
+      "hora": "20:30",
+      "navio": "MSC MELINE",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-30T20:30:00"
+    },
+    {
+      "data": "31/07",
+      "dia_semana": "sexta",
+      "hora": "15:30",
+      "navio": "MSC MELINE",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-31T15:30:00"
     },
     {
       "data": "01/08",
@@ -164,22 +180,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-01T23:00:00"
-    },
-    {
-      "data": "02/08",
-      "dia_semana": "domingo",
-      "hora": "01:00",
-      "navio": "MSC CAROLINA",
-      "calado": "12,20",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9295397",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-02T01:00:00"
     },
     {
       "data": "04/08",
@@ -319,24 +319,6 @@
       "navio_multi": "ONE PREMIUM",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "29/07 18:00"
-    },
-    {
-      "navio_rio": "EVER FAIR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/07 16:00",
-      "manobra_rio_fim": "30/07 16:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/07 11:00"
-    },
-    {
-      "navio_rio": "EVER FAIR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/07 16:00",
-      "manobra_rio_fim": "30/07 16:00",
-      "navio_multi": "MSC CAROLINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/07 13:00"
     },
     {
       "navio_rio": "EVER FAIR",
