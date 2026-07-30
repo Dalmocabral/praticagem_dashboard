@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "30/07/2026 10:10",
+  "ultima_atualizacao": "30/07/2026 12:24",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "29/07",
-      "dia_semana": "quarta",
-      "hora": "18:00",
-      "navio": "ONE PREMIUM",
-      "calado": "9,90",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9444261",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-29T18:00:00"
-    },
     {
       "data": "30/07",
       "dia_semana": "quinta",
@@ -118,9 +102,9 @@
       "timestamp": "2026-07-31T10:00:00"
     },
     {
-      "data": "31/07",
-      "dia_semana": "sexta",
-      "hora": "15:30",
+      "data": "01/08",
+      "dia_semana": "sábado",
+      "hora": "06:30",
       "navio": "MSC MELINE",
       "calado": "13,50",
       "manobra": "S",
@@ -131,7 +115,55 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-31T15:30:00"
+      "timestamp": "2026-08-01T06:30:00"
+    },
+    {
+      "data": "01/08",
+      "dia_semana": "sábado",
+      "hora": "08:30",
+      "navio": "VALOR",
+      "calado": "10,20",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9628154",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-01T08:30:00"
+    },
+    {
+      "data": "01/08",
+      "dia_semana": "sábado",
+      "hora": "11:00",
+      "navio": "ITHACA",
+      "calado": "9,10",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9968449",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-01T11:00:00"
+    },
+    {
+      "data": "01/08",
+      "dia_semana": "sábado",
+      "hora": "13:00",
+      "navio": "MSC CAROLINA",
+      "calado": "12,20",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9295397",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-01T13:00:00"
     },
     {
       "data": "01/08",
@@ -150,20 +182,36 @@
       "timestamp": "2026-08-01T16:00:00"
     },
     {
-      "data": "01/08",
-      "dia_semana": "sábado",
-      "hora": "23:00",
-      "navio": "ITHACA",
-      "calado": "9,10",
+      "data": "02/08",
+      "dia_semana": "domingo",
+      "hora": "06:30",
+      "navio": "VALOR",
+      "calado": "10,20",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9968449",
+      "imo": "9628154",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-01T23:00:00"
+      "timestamp": "2026-08-02T06:30:00"
+    },
+    {
+      "data": "02/08",
+      "dia_semana": "domingo",
+      "hora": "15:00",
+      "navio": "MSC CAROLINA",
+      "calado": "12,20",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9295397",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-02T15:00:00"
     },
     {
       "data": "04/08",
