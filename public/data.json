@@ -1,39 +1,23 @@
 {
-  "ultima_atualizacao": "30/07/2026 22:16",
+  "ultima_atualizacao": "31/07/2026 01:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
     {
-      "data": "30/07",
-      "dia_semana": "quinta",
-      "hora": "22:30",
-      "navio": "EVER FAIR",
-      "calado": "13,70",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9850886",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-07-30T22:30:00"
-    },
-    {
       "data": "31/07",
       "dia_semana": "sexta",
       "hora": "03:30",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "10,00",
+      "calado": "9,30",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-07-31T03:30:00"
     },
@@ -49,7 +33,7 @@
       "imo": "9628154",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-07-31T05:30:00"
     },
@@ -216,7 +200,7 @@
     {
       "data": "01/08",
       "dia_semana": "sábado",
-      "hora": "15:00",
+      "hora": "17:00",
       "navio": "MAERSK REDWOOD",
       "calado": "10,30",
       "manobra": "S",
@@ -227,12 +211,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-01T15:00:00"
+      "timestamp": "2026-08-01T17:00:00"
     },
     {
       "data": "01/08",
       "dia_semana": "sábado",
-      "hora": "16:00",
+      "hora": "18:00",
       "navio": "GRAND VEGA",
       "calado": "8,40",
       "manobra": "S",
@@ -243,7 +227,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-01T16:00:00"
+      "timestamp": "2026-08-01T18:00:00"
     },
     {
       "data": "02/08",
@@ -411,7 +395,7 @@
       "navio_rio": "MAERSK REDWOOD",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "31/07 23:00",
-      "manobra_rio_fim": "01/08 15:00",
+      "manobra_rio_fim": "01/08 17:00",
       "navio_multi": "VALOR",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "01/08 06:30"
@@ -420,7 +404,7 @@
       "navio_rio": "MAERSK REDWOOD",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "31/07 23:00",
-      "manobra_rio_fim": "01/08 15:00",
+      "manobra_rio_fim": "01/08 17:00",
       "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/08 08:30"
@@ -429,7 +413,7 @@
       "navio_rio": "MAERSK REDWOOD",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "31/07 23:00",
-      "manobra_rio_fim": "01/08 15:00",
+      "manobra_rio_fim": "01/08 17:00",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "01/08 11:00"
@@ -438,7 +422,7 @@
       "navio_rio": "MAERSK REDWOOD",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "31/07 23:00",
-      "manobra_rio_fim": "01/08 15:00",
+      "manobra_rio_fim": "01/08 17:00",
       "navio_multi": "MSC CAROLINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/08 13:00"
