@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/07/2026 09:24",
+  "ultima_atualizacao": "31/07/2026 10:30",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -20,22 +20,6 @@
       "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-31T05:30:00"
-    },
-    {
-      "data": "31/07",
-      "dia_semana": "sexta",
-      "hora": "07:30",
-      "navio": "ONE PREMIUM",
-      "calado": "11,20",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9444261",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-31T07:30:00"
     },
     {
       "data": "31/07",
@@ -72,22 +56,6 @@
     {
       "data": "31/07",
       "dia_semana": "sexta",
-      "hora": "20:00",
-      "navio": "FELIXSTOWE",
-      "calado": "12,00",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9227039",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-07-31T20:00:00"
-    },
-    {
-      "data": "31/07",
-      "dia_semana": "sexta",
       "hora": "23:00",
       "navio": "MAERSK REDWOOD",
       "calado": "10,10",
@@ -104,10 +72,10 @@
     {
       "data": "01/08",
       "dia_semana": "sábado",
-      "hora": "05:30",
+      "hora": "01:00",
       "navio": "FELIXSTOWE",
-      "calado": "12,20",
-      "manobra": "S",
+      "calado": "12,30",
+      "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9227039",
@@ -115,7 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-01T05:30:00"
+      "timestamp": "2026-08-01T01:00:00"
     },
     {
       "data": "01/08",
@@ -228,6 +196,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-01T18:00:00"
+    },
+    {
+      "data": "01/08",
+      "dia_semana": "sábado",
+      "hora": "19:00",
+      "navio": "FELIXSTOWE",
+      "calado": "12,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9227039",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-01T19:00:00"
     },
     {
       "data": "01/08",
@@ -442,6 +426,51 @@
       "navio_multi": "MSC CAROLINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/08 15:00"
+    },
+    {
+      "navio_rio": "FELIXSTOWE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/08 01:00",
+      "manobra_rio_fim": "01/08 19:00",
+      "navio_multi": "VALOR",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/08 06:30"
+    },
+    {
+      "navio_rio": "FELIXSTOWE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/08 01:00",
+      "manobra_rio_fim": "01/08 19:00",
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "01/08 08:30"
+    },
+    {
+      "navio_rio": "FELIXSTOWE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/08 01:00",
+      "manobra_rio_fim": "01/08 19:00",
+      "navio_multi": "ITHACA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/08 12:30"
+    },
+    {
+      "navio_rio": "FELIXSTOWE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/08 01:00",
+      "manobra_rio_fim": "01/08 19:00",
+      "navio_multi": "MSC CAROLINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "01/08 15:00"
+    },
+    {
+      "navio_rio": "FELIXSTOWE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/08 01:00",
+      "manobra_rio_fim": "01/08 19:00",
+      "navio_multi": "GRAND VEGA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/08 18:00"
     },
     {
       "navio_rio": "CMA CGM SAMBHAR",
