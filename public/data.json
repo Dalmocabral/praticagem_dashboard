@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "31/07/2026 10:30",
+  "ultima_atualizacao": "31/07/2026 12:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "31/07",
-      "dia_semana": "sexta",
-      "hora": "05:30",
-      "navio": "VALOR",
-      "calado": "10,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-31T05:30:00"
-    },
-    {
-      "data": "31/07",
-      "dia_semana": "sexta",
-      "hora": "09:30",
-      "navio": "ITHACA",
-      "calado": "6,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9968449",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-07-31T09:30:00"
-    },
     {
       "data": "31/07",
       "dia_semana": "sexta",
@@ -76,7 +44,7 @@
       "navio": "FELIXSTOWE",
       "calado": "12,30",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9227039",
       "tipo_navio": "CONTAINER SHIP",
@@ -88,7 +56,7 @@
     {
       "data": "01/08",
       "dia_semana": "sábado",
-      "hora": "06:30",
+      "hora": "03:00",
       "navio": "VALOR",
       "calado": "10,20",
       "manobra": "S",
@@ -99,12 +67,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-01T06:30:00"
+      "timestamp": "2026-08-01T03:00:00"
     },
     {
       "data": "01/08",
       "dia_semana": "sábado",
-      "hora": "08:30",
+      "hora": "06:30",
       "navio": "MSC MELINE",
       "calado": "14,35",
       "manobra": "E",
@@ -115,6 +83,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
+      "timestamp": "2026-08-01T06:30:00"
+    },
+    {
+      "data": "01/08",
+      "dia_semana": "sábado",
+      "hora": "08:30",
+      "navio": "MAERSK REDWOOD",
+      "calado": "10,30",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9943085",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
       "timestamp": "2026-08-01T08:30:00"
     },
     {
@@ -169,12 +153,12 @@
       "data": "01/08",
       "dia_semana": "sábado",
       "hora": "17:00",
-      "navio": "MAERSK REDWOOD",
-      "calado": "10,30",
+      "navio": "FELIXSTOWE",
+      "calado": "12,20",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
-      "imo": "9943085",
+      "imo": "9227039",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -196,22 +180,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-01T18:00:00"
-    },
-    {
-      "data": "01/08",
-      "dia_semana": "sábado",
-      "hora": "19:00",
-      "navio": "FELIXSTOWE",
-      "calado": "12,20",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9227039",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-01T19:00:00"
     },
     {
       "data": "01/08",
@@ -395,61 +363,43 @@
       "navio_rio": "MAERSK REDWOOD",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "31/07 23:00",
-      "manobra_rio_fim": "01/08 17:00",
+      "manobra_rio_fim": "01/08 08:30",
       "navio_multi": "VALOR",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/08 06:30"
+      "manobra_multi_data_hora": "01/08 03:00"
     },
     {
       "navio_rio": "MAERSK REDWOOD",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "31/07 23:00",
-      "manobra_rio_fim": "01/08 17:00",
+      "manobra_rio_fim": "01/08 08:30",
       "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/08 08:30"
-    },
-    {
-      "navio_rio": "MAERSK REDWOOD",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "31/07 23:00",
-      "manobra_rio_fim": "01/08 17:00",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/08 12:30"
-    },
-    {
-      "navio_rio": "MAERSK REDWOOD",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "31/07 23:00",
-      "manobra_rio_fim": "01/08 17:00",
-      "navio_multi": "MSC CAROLINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/08 15:00"
-    },
-    {
-      "navio_rio": "FELIXSTOWE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/08 01:00",
-      "manobra_rio_fim": "01/08 19:00",
-      "navio_multi": "VALOR",
-      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "01/08 06:30"
     },
     {
       "navio_rio": "FELIXSTOWE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "01/08 01:00",
-      "manobra_rio_fim": "01/08 19:00",
+      "manobra_rio_fim": "01/08 17:00",
+      "navio_multi": "VALOR",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/08 03:00"
+    },
+    {
+      "navio_rio": "FELIXSTOWE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/08 01:00",
+      "manobra_rio_fim": "01/08 17:00",
       "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/08 08:30"
+      "manobra_multi_data_hora": "01/08 06:30"
     },
     {
       "navio_rio": "FELIXSTOWE",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "01/08 01:00",
-      "manobra_rio_fim": "01/08 19:00",
+      "manobra_rio_fim": "01/08 17:00",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "01/08 12:30"
@@ -458,19 +408,10 @@
       "navio_rio": "FELIXSTOWE",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "01/08 01:00",
-      "manobra_rio_fim": "01/08 19:00",
+      "manobra_rio_fim": "01/08 17:00",
       "navio_multi": "MSC CAROLINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/08 15:00"
-    },
-    {
-      "navio_rio": "FELIXSTOWE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/08 01:00",
-      "manobra_rio_fim": "01/08 19:00",
-      "navio_multi": "GRAND VEGA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/08 18:00"
     },
     {
       "navio_rio": "CMA CGM SAMBHAR",
