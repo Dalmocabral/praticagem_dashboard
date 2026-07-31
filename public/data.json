@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "31/07/2026 07:19",
+  "ultima_atualizacao": "31/07/2026 08:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "31/07",
-      "dia_semana": "sexta",
-      "hora": "03:30",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,30",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-07-31T03:30:00"
-    },
     {
       "data": "31/07",
       "dia_semana": "sexta",
@@ -81,7 +65,7 @@
       "imo": "9355252",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-31T11:00:00"
     },
