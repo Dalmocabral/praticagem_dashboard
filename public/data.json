@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/07/2026 18:16",
+  "ultima_atualizacao": "31/07/2026 19:27",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -17,7 +17,7 @@
       "imo": "9943085",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-07-31T23:00:00"
     },
@@ -200,6 +200,22 @@
     {
       "data": "02/08",
       "dia_semana": "domingo",
+      "hora": "04:30",
+      "navio": "MERCOSUL GUARUJA",
+      "calado": "11,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9539494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-02T04:30:00"
+    },
+    {
+      "data": "02/08",
+      "dia_semana": "domingo",
       "hora": "06:30",
       "navio": "MSC MELINE",
       "calado": "13,50",
@@ -260,6 +276,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-02T15:00:00"
+    },
+    {
+      "data": "02/08",
+      "dia_semana": "domingo",
+      "hora": "16:00",
+      "navio": "MERCOSUL GUARUJA",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9539494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-02T16:00:00"
     },
     {
       "data": "03/08",
@@ -487,6 +519,42 @@
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/08 20:00"
+    },
+    {
+      "navio_rio": "MERCOSUL GUARUJA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/08 04:30",
+      "manobra_rio_fim": "02/08 16:00",
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/08 06:30"
+    },
+    {
+      "navio_rio": "MERCOSUL GUARUJA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/08 04:30",
+      "manobra_rio_fim": "02/08 16:00",
+      "navio_multi": "BREMERHAVEN EXPRESS",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "02/08 08:30"
+    },
+    {
+      "navio_rio": "MERCOSUL GUARUJA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/08 04:30",
+      "manobra_rio_fim": "02/08 16:00",
+      "navio_multi": "SINAR SUMATERA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/08 14:00"
+    },
+    {
+      "navio_rio": "MERCOSUL GUARUJA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/08 04:30",
+      "manobra_rio_fim": "02/08 16:00",
+      "navio_multi": "MSC CAROLINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/08 15:00"
     }
   ]
 }
