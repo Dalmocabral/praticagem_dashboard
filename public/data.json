@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/07/2026 15:17",
+  "ultima_atualizacao": "31/07/2026 16:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -168,6 +168,22 @@
     {
       "data": "01/08",
       "dia_semana": "sábado",
+      "hora": "20:00",
+      "navio": "SINAR SUMATERA",
+      "calado": "7,10",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "1015375",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-01T20:00:00"
+    },
+    {
+      "data": "01/08",
+      "dia_semana": "sábado",
       "hora": "23:00",
       "navio": "CMA CGM SAMBHAR",
       "calado": "12,45",
@@ -200,6 +216,38 @@
     {
       "data": "02/08",
       "dia_semana": "domingo",
+      "hora": "08:30",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "11,10",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-02T08:30:00"
+    },
+    {
+      "data": "02/08",
+      "dia_semana": "domingo",
+      "hora": "14:00",
+      "navio": "SINAR SUMATERA",
+      "calado": "6,80",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "1015375",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-02T14:00:00"
+    },
+    {
+      "data": "02/08",
+      "dia_semana": "domingo",
       "hora": "15:00",
       "navio": "MSC CAROLINA",
       "calado": "12,20",
@@ -212,6 +260,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-02T15:00:00"
+    },
+    {
+      "data": "03/08",
+      "dia_semana": "segunda",
+      "hora": "06:30",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-03T06:30:00"
     },
     {
       "data": "04/08",
@@ -414,6 +478,15 @@
       "navio_multi": "GRAND VEGA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "01/08 18:00"
+    },
+    {
+      "navio_rio": "CMA CGM SAMBHAR",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/08 10:30",
+      "manobra_rio_fim": "01/08 23:00",
+      "navio_multi": "SINAR SUMATERA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "01/08 20:00"
     }
   ]
 }
