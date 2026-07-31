@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/07/2026 04:41",
+  "ultima_atualizacao": "31/07/2026 07:19",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -42,7 +42,7 @@
       "dia_semana": "sexta",
       "hora": "07:30",
       "navio": "ONE PREMIUM",
-      "calado": "11,10",
+      "calado": "11,20",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -65,7 +65,7 @@
       "imo": "9968449",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-07-31T09:30:00"
     },
@@ -81,7 +81,7 @@
       "imo": "9355252",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-07-31T11:00:00"
     },
