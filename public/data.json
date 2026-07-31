@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "30/07/2026 20:43",
+  "ultima_atualizacao": "30/07/2026 22:16",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -10,10 +10,10 @@
       "dia_semana": "quinta",
       "hora": "22:30",
       "navio": "EVER FAIR",
-      "calado": "13,80",
+      "calado": "13,70",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "hoje",
+      "status": "passado",
       "imo": "9850886",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -24,82 +24,82 @@
     {
       "data": "31/07",
       "dia_semana": "sexta",
-      "hora": "02:30",
-      "navio": "ONE PREMIUM",
-      "calado": "11,10",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9444261",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-07-31T02:30:00"
-    },
-    {
-      "data": "31/07",
-      "dia_semana": "sexta",
-      "hora": "04:30",
+      "hora": "03:30",
       "navio": "LOG-IN DISCOVERY",
       "calado": "10,00",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-31T04:30:00"
+      "timestamp": "2026-07-31T03:30:00"
     },
     {
       "data": "31/07",
       "dia_semana": "sexta",
-      "hora": "06:30",
+      "hora": "05:30",
       "navio": "VALOR",
       "calado": "10,20",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9628154",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-31T06:30:00"
+      "timestamp": "2026-07-31T05:30:00"
     },
     {
       "data": "31/07",
       "dia_semana": "sexta",
-      "hora": "08:30",
+      "hora": "07:30",
+      "navio": "ONE PREMIUM",
+      "calado": "11,10",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9444261",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-07-31T07:30:00"
+    },
+    {
+      "data": "31/07",
+      "dia_semana": "sexta",
+      "hora": "09:30",
       "navio": "ITHACA",
       "calado": "6,80",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9968449",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-31T08:30:00"
+      "timestamp": "2026-07-31T09:30:00"
     },
     {
       "data": "31/07",
       "dia_semana": "sexta",
-      "hora": "10:00",
+      "hora": "11:00",
       "navio": "GRAND VEGA",
       "calado": "8,20",
       "manobra": "E",
       "beco": "TECONT5",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9355252",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-07-31T10:00:00"
+      "timestamp": "2026-07-31T11:00:00"
     },
     {
       "data": "31/07",
@@ -109,13 +109,29 @@
       "calado": "12,00",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9227039",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-07-31T20:00:00"
+    },
+    {
+      "data": "31/07",
+      "dia_semana": "sexta",
+      "hora": "23:00",
+      "navio": "MAERSK REDWOOD",
+      "calado": "10,10",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9943085",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-07-31T23:00:00"
     },
     {
       "data": "01/08",
@@ -196,6 +212,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-01T13:00:00"
+    },
+    {
+      "data": "01/08",
+      "dia_semana": "sábado",
+      "hora": "15:00",
+      "navio": "MAERSK REDWOOD",
+      "calado": "10,30",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9943085",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-01T15:00:00"
     },
     {
       "data": "01/08",
@@ -374,5 +406,42 @@
       "timestamp": "2026-08-15T06:30:00"
     }
   ],
-  "conflitos": []
+  "conflitos": [
+    {
+      "navio_rio": "MAERSK REDWOOD",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "31/07 23:00",
+      "manobra_rio_fim": "01/08 15:00",
+      "navio_multi": "VALOR",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/08 06:30"
+    },
+    {
+      "navio_rio": "MAERSK REDWOOD",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/07 23:00",
+      "manobra_rio_fim": "01/08 15:00",
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "01/08 08:30"
+    },
+    {
+      "navio_rio": "MAERSK REDWOOD",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/07 23:00",
+      "manobra_rio_fim": "01/08 15:00",
+      "navio_multi": "ITHACA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/08 11:00"
+    },
+    {
+      "navio_rio": "MAERSK REDWOOD",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/07 23:00",
+      "manobra_rio_fim": "01/08 15:00",
+      "navio_multi": "MSC CAROLINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "01/08 13:00"
+    }
+  ]
 }
