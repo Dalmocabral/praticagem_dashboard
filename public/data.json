@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/08/2026 13:12",
+  "ultima_atualizacao": "01/08/2026 14:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -26,7 +26,7 @@
       "dia_semana": "sábado",
       "hora": "15:00",
       "navio": "FELIXSTOWE",
-      "calado": "12,00",
+      "calado": "12,65",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -65,7 +65,7 @@
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-08-01T18:00:00"
     },
