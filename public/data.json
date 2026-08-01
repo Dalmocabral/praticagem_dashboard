@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/08/2026 14:18",
+  "ultima_atualizacao": "01/08/2026 15:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -65,7 +65,7 @@
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-01T18:00:00"
     },
@@ -106,7 +106,7 @@
       "dia_semana": "domingo",
       "hora": "01:00",
       "navio": "MSC CAROLINA",
-      "calado": "12,20",
+      "calado": "10,39",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
