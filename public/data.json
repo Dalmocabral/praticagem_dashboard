@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/08/2026 18:35",
+  "ultima_atualizacao": "01/08/2026 19:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -20,38 +20,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-08-01T10:30:00"
-    },
-    {
-      "data": "01/08",
-      "dia_semana": "sábado",
-      "hora": "16:00",
-      "navio": "GRAND VEGA",
-      "calado": "8,30",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9355252",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-01T16:00:00"
-    },
-    {
-      "data": "01/08",
-      "dia_semana": "sábado",
-      "hora": "18:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "7,00",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-01T18:00:00"
     },
     {
       "data": "01/08",
@@ -81,7 +49,7 @@
       "imo": "9968449",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-08-01T22:00:00"
     },
@@ -343,24 +311,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM SAMBHAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/08 10:30",
-      "manobra_rio_fim": "01/08 21:00",
-      "navio_multi": "GRAND VEGA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/08 16:00"
-    },
-    {
-      "navio_rio": "CMA CGM SAMBHAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/08 10:30",
-      "manobra_rio_fim": "01/08 21:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/08 18:00"
-    },
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "E",
