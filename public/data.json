@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "31/07/2026 22:11",
+  "ultima_atualizacao": "01/08/2026 01:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "31/07",
-      "dia_semana": "sexta",
-      "hora": "23:00",
-      "navio": "MAERSK REDWOOD",
-      "calado": "10,10",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9943085",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-07-31T23:00:00"
-    },
     {
       "data": "01/08",
       "dia_semana": "sábado",
@@ -42,14 +26,14 @@
       "dia_semana": "sábado",
       "hora": "03:00",
       "navio": "VALOR",
-      "calado": "10,20",
+      "calado": "9,65",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9628154",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-08-01T03:00:00"
     },
@@ -218,7 +202,7 @@
       "dia_semana": "domingo",
       "hora": "06:30",
       "navio": "MSC MELINE",
-      "calado": "13,50",
+      "calado": "14,70",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -439,24 +423,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK REDWOOD",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/07 23:00",
-      "manobra_rio_fim": "01/08 08:30",
-      "navio_multi": "VALOR",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/08 03:00"
-    },
-    {
-      "navio_rio": "MAERSK REDWOOD",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "31/07 23:00",
-      "manobra_rio_fim": "01/08 08:30",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/08 06:30"
-    },
     {
       "navio_rio": "FELIXSTOWE",
       "manobra_rio_afetada": "E",
