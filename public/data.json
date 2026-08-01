@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/08/2026 08:01",
+  "ultima_atualizacao": "01/08/2026 09:09",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,25 +8,9 @@
     {
       "data": "01/08",
       "dia_semana": "sábado",
-      "hora": "06:30",
-      "navio": "MSC MELINE",
-      "calado": "14,35",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-01T06:30:00"
-    },
-    {
-      "data": "01/08",
-      "dia_semana": "sábado",
       "hora": "08:30",
       "navio": "MAERSK REDWOOD",
-      "calado": "10,30",
+      "calado": "9,70",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
