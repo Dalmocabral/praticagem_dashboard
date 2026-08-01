@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "01/08/2026 04:15",
+  "ultima_atualizacao": "01/08/2026 06:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "01/08",
-      "dia_semana": "sábado",
-      "hora": "03:00",
-      "navio": "VALOR",
-      "calado": "9,65",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-01T03:00:00"
-    },
     {
       "data": "01/08",
       "dia_semana": "sábado",
@@ -49,7 +33,7 @@
       "imo": "9943085",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-08-01T08:30:00"
     },
