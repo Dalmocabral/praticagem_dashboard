@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/08/2026 15:34",
+  "ultima_atualizacao": "02/08/2026 16:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,25 +8,9 @@
     {
       "data": "02/08",
       "dia_semana": "domingo",
-      "hora": "15:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "6,10",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-02T15:00:00"
-    },
-    {
-      "data": "02/08",
-      "dia_semana": "domingo",
       "hora": "17:00",
       "navio": "MERCOSUL GUARUJA",
-      "calado": "11,50",
+      "calado": "11,30",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -49,7 +33,7 @@
       "imo": "9277802",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-02T19:00:00"
     },
