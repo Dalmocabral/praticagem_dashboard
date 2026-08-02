@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "02/08/2026 18:40",
+  "ultima_atualizacao": "02/08/2026 19:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "02/08",
-      "dia_semana": "domingo",
-      "hora": "17:00",
-      "navio": "MERCOSUL GUARUJA",
-      "calado": "11,30",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9539494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-02T17:00:00"
-    },
     {
       "data": "02/08",
       "dia_semana": "domingo",
