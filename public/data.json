@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/08/2026 11:01",
+  "ultima_atualizacao": "02/08/2026 12:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,23 +8,7 @@
     {
       "data": "02/08",
       "dia_semana": "domingo",
-      "hora": "10:30",
-      "navio": "BREMERHAVEN EXPRESS",
-      "calado": "11,10",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9723253",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-02T10:30:00"
-    },
-    {
-      "data": "02/08",
-      "dia_semana": "domingo",
-      "hora": "14:00",
+      "hora": "15:00",
       "navio": "SINAR SUMATERA",
       "calado": "6,80",
       "manobra": "S",
@@ -35,12 +19,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-08-02T14:00:00"
+      "timestamp": "2026-08-02T15:00:00"
     },
     {
       "data": "02/08",
       "dia_semana": "domingo",
-      "hora": "16:00",
+      "hora": "17:00",
       "navio": "MERCOSUL GUARUJA",
       "calado": "11,50",
       "manobra": "S",
@@ -51,7 +35,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-02T16:00:00"
+      "timestamp": "2026-08-02T17:00:00"
     },
     {
       "data": "02/08",
@@ -88,9 +72,9 @@
     {
       "data": "03/08",
       "dia_semana": "segunda",
-      "hora": "14:00",
+      "hora": "16:00",
       "navio": "MAERSK MONTE ALEGRE",
-      "calado": "14,00",
+      "calado": "13,40",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -99,7 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-03T14:00:00"
+      "timestamp": "2026-08-03T16:00:00"
     },
     {
       "data": "03/08",
@@ -154,7 +138,7 @@
       "dia_semana": "terça",
       "hora": "08:30",
       "navio": "MAERSK MONTE ALEGRE",
-      "calado": "14,10",
+      "calado": "13,50",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
@@ -314,7 +298,7 @@
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "03/08 14:00",
+      "manobra_rio_inicio": "03/08 16:00",
       "manobra_rio_fim": "04/08 08:30",
       "navio_multi": "MSC CAROLINA",
       "manobra_multi_tipo": "S",
@@ -323,7 +307,7 @@
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "03/08 14:00",
+      "manobra_rio_inicio": "03/08 16:00",
       "manobra_rio_fim": "04/08 08:30",
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
