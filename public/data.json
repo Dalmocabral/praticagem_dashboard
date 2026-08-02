@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "02/08/2026 09:12",
+  "ultima_atualizacao": "02/08/2026 11:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "02/08",
-      "dia_semana": "domingo",
-      "hora": "08:30",
-      "navio": "MSC MELINE",
-      "calado": "14,70",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-02T08:30:00"
-    },
     {
       "data": "02/08",
       "dia_semana": "domingo",
@@ -49,7 +33,7 @@
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-08-02T14:00:00"
     },
@@ -88,22 +72,6 @@
     {
       "data": "03/08",
       "dia_semana": "segunda",
-      "hora": "06:30",
-      "navio": "BREMERHAVEN EXPRESS",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9723253",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-03T06:30:00"
-    },
-    {
-      "data": "03/08",
-      "dia_semana": "segunda",
       "hora": "07:30",
       "navio": "RCC AMERICA",
       "calado": "8,50",
@@ -116,6 +84,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-03T07:30:00"
+    },
+    {
+      "data": "03/08",
+      "dia_semana": "segunda",
+      "hora": "14:00",
+      "navio": "MAERSK MONTE ALEGRE",
+      "calado": "14,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9348065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-03T14:00:00"
     },
     {
       "data": "03/08",
@@ -134,6 +118,22 @@
       "timestamp": "2026-08-03T19:00:00"
     },
     {
+      "data": "03/08",
+      "dia_semana": "segunda",
+      "hora": "20:00",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-03T20:00:00"
+    },
+    {
       "data": "04/08",
       "dia_semana": "terça",
       "hora": "06:30",
@@ -148,6 +148,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-04T06:30:00"
+    },
+    {
+      "data": "04/08",
+      "dia_semana": "terça",
+      "hora": "08:30",
+      "navio": "MAERSK MONTE ALEGRE",
+      "calado": "14,10",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9348065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-04T08:30:00"
     },
     {
       "data": "05/08",
@@ -196,6 +212,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-06T07:00:00"
+    },
+    {
+      "data": "06/08",
+      "dia_semana": "quinta",
+      "hora": "09:00",
+      "navio": "CMA CGM KRYPTON",
+      "calado": "13,26",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996733",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-06T09:00:00"
+    },
+    {
+      "data": "07/08",
+      "dia_semana": "sexta",
+      "hora": "07:00",
+      "navio": "CMA CGM KRYPTON",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996733",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-07T07:00:00"
     },
     {
       "data": "12/08",
@@ -262,5 +310,24 @@
       "timestamp": "2026-08-15T06:30:00"
     }
   ],
-  "conflitos": []
+  "conflitos": [
+    {
+      "navio_rio": "MAERSK MONTE ALEGRE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/08 14:00",
+      "manobra_rio_fim": "04/08 08:30",
+      "navio_multi": "MSC CAROLINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/08 19:00"
+    },
+    {
+      "navio_rio": "MAERSK MONTE ALEGRE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/08 14:00",
+      "manobra_rio_fim": "04/08 08:30",
+      "navio_multi": "BREMERHAVEN EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/08 20:00"
+    }
+  ]
 }
