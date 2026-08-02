@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/08/2026 04:23",
+  "ultima_atualizacao": "02/08/2026 06:32",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,23 +8,7 @@
     {
       "data": "02/08",
       "dia_semana": "domingo",
-      "hora": "04:30",
-      "navio": "MERCOSUL GUARUJA",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9539494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-02T04:30:00"
-    },
-    {
-      "data": "02/08",
-      "dia_semana": "domingo",
-      "hora": "06:30",
+      "hora": "08:30",
       "navio": "MSC MELINE",
       "calado": "14,70",
       "manobra": "S",
@@ -35,12 +19,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-08-02T06:30:00"
+      "timestamp": "2026-08-02T08:30:00"
     },
     {
       "data": "02/08",
       "dia_semana": "domingo",
-      "hora": "08:30",
+      "hora": "11:00",
       "navio": "BREMERHAVEN EXPRESS",
       "calado": "11,10",
       "manobra": "E",
@@ -51,7 +35,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-02T08:30:00"
+      "timestamp": "2026-08-02T11:00:00"
     },
     {
       "data": "02/08",
@@ -246,33 +230,5 @@
       "timestamp": "2026-08-15T06:30:00"
     }
   ],
-  "conflitos": [
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/08 04:30",
-      "manobra_rio_fim": "02/08 16:00",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/08 06:30"
-    },
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/08 04:30",
-      "manobra_rio_fim": "02/08 16:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/08 08:30"
-    },
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "02/08 04:30",
-      "manobra_rio_fim": "02/08 16:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/08 14:00"
-    }
-  ]
+  "conflitos": []
 }
