@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/08/2026 05:28",
+  "ultima_atualizacao": "03/08/2026 08:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,7 +8,7 @@
     {
       "data": "03/08",
       "dia_semana": "segunda",
-      "hora": "07:30",
+      "hora": "10:30",
       "navio": "RCC AMERICA",
       "calado": "8,50",
       "manobra": "S",
@@ -19,7 +19,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-08-03T07:30:00"
+      "timestamp": "2026-08-03T10:30:00"
     },
     {
       "data": "03/08",
@@ -116,6 +116,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-04T08:30:00"
+    },
+    {
+      "data": "04/08",
+      "dia_semana": "terça",
+      "hora": "10:30",
+      "navio": "MAERSK CHAMBAL",
+      "calado": "13,90",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9525376",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-04T10:30:00"
     },
     {
       "data": "04/08",
@@ -305,6 +321,15 @@
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "03/08 22:00"
+    },
+    {
+      "navio_rio": "EVER FAITH",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "04/08 06:30",
+      "manobra_rio_fim": "05/08 07:00",
+      "navio_multi": "MAERSK CHAMBAL",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "04/08 10:30"
     },
     {
       "navio_rio": "EVER FAITH",
