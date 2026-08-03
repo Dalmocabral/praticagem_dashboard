@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/08/2026 14:19",
+  "ultima_atualizacao": "03/08/2026 16:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -33,7 +33,7 @@
       "imo": "9701140",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-03T18:00:00"
     },
@@ -232,7 +232,7 @@
     {
       "data": "05/08",
       "dia_semana": "quarta",
-      "hora": "15:30",
+      "hora": "16:00",
       "navio": "CMA CGM KRYPTON",
       "calado": "13,50",
       "manobra": "S",
@@ -243,7 +243,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-05T15:30:00"
+      "timestamp": "2026-08-05T16:00:00"
     },
     {
       "data": "06/08",
@@ -394,7 +394,7 @@
       "navio_rio": "CMA CGM KRYPTON",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "04/08 16:30",
-      "manobra_rio_fim": "05/08 15:30",
+      "manobra_rio_fim": "05/08 16:00",
       "navio_multi": "MAERSK CHAMBAL",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "05/08 06:00"
@@ -403,7 +403,7 @@
       "navio_rio": "CMA CGM KRYPTON",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "04/08 16:30",
-      "manobra_rio_fim": "05/08 15:30",
+      "manobra_rio_fim": "05/08 16:00",
       "navio_multi": "MSC SABRINA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "05/08 15:00"
