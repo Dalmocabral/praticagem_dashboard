@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "02/08/2026 20:43",
+  "ultima_atualizacao": "02/08/2026 22:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "02/08",
-      "dia_semana": "domingo",
-      "hora": "19:00",
-      "navio": "RCC AMERICA",
-      "calado": "8,50",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9277802",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-02T19:00:00"
-    },
     {
       "data": "03/08",
       "dia_semana": "segunda",
@@ -29,7 +13,7 @@
       "calado": "8,50",
       "manobra": "S",
       "beco": "TECONT5",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9277802",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -45,7 +29,7 @@
       "calado": "13,40",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9348065",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -61,7 +45,7 @@
       "calado": "12,20",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9295397",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -77,13 +61,29 @@
       "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-03T20:00:00"
+    },
+    {
+      "data": "03/08",
+      "dia_semana": "segunda",
+      "hora": "22:00",
+      "navio": "GOODWOOD",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9701140",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-03T22:00:00"
     },
     {
       "data": "04/08",
@@ -116,6 +116,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-04T08:30:00"
+    },
+    {
+      "data": "04/08",
+      "dia_semana": "terça",
+      "hora": "15:00",
+      "navio": "GOODWOOD",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9701140",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-04T15:00:00"
     },
     {
       "data": "05/08",
@@ -280,6 +296,24 @@
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "03/08 20:00"
+    },
+    {
+      "navio_rio": "MAERSK MONTE ALEGRE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/08 16:00",
+      "manobra_rio_fim": "04/08 08:30",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/08 22:00"
+    },
+    {
+      "navio_rio": "EVER FAITH",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "04/08 06:30",
+      "manobra_rio_fim": "05/08 07:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "04/08 15:00"
     }
   ]
 }
