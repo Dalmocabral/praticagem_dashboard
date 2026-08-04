@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "04/08/2026 05:24",
+  "ultima_atualizacao": "04/08/2026 08:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "04/08",
-      "dia_semana": "terça",
-      "hora": "04:30",
-      "navio": "BREMERHAVEN EXPRESS",
-      "calado": "9,80",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9723253",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-04T04:30:00"
-    },
     {
       "data": "04/08",
       "dia_semana": "terça",
@@ -42,14 +26,14 @@
       "dia_semana": "terça",
       "hora": "08:30",
       "navio": "MAERSK MONTE ALEGRE",
-      "calado": "13,50",
+      "calado": "13,30",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9348065",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-08-04T08:30:00"
     },
@@ -65,7 +49,7 @@
       "imo": "9979022",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-04T10:30:00"
     },
@@ -104,7 +88,7 @@
     {
       "data": "04/08",
       "dia_semana": "terça",
-      "hora": "16:30",
+      "hora": "16:00",
       "navio": "CMA CGM KRYPTON",
       "calado": "14,00",
       "manobra": "E",
@@ -115,7 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-04T16:30:00"
+      "timestamp": "2026-08-04T16:00:00"
     },
     {
       "data": "04/08",
@@ -343,7 +327,7 @@
     {
       "navio_rio": "CMA CGM KRYPTON",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "04/08 16:30",
+      "manobra_rio_inicio": "04/08 16:00",
       "manobra_rio_fim": "05/08 16:00",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "S",
@@ -352,7 +336,7 @@
     {
       "navio_rio": "CMA CGM KRYPTON",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/08 16:30",
+      "manobra_rio_inicio": "04/08 16:00",
       "manobra_rio_fim": "05/08 16:00",
       "navio_multi": "MAERSK CHAMBAL",
       "manobra_multi_tipo": "S",
@@ -361,7 +345,7 @@
     {
       "navio_rio": "CMA CGM KRYPTON",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/08 16:30",
+      "manobra_rio_inicio": "04/08 16:00",
       "manobra_rio_fim": "05/08 16:00",
       "navio_multi": "MSC SABRINA",
       "manobra_multi_tipo": "S",
