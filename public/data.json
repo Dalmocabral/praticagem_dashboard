@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/08/2026 15:59",
+  "ultima_atualizacao": "04/08/2026 17:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -26,7 +26,7 @@
       "dia_semana": "terça",
       "hora": "18:30",
       "navio": "GOODWOOD",
-      "calado": "9,00",
+      "calado": "8,70",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -49,7 +49,7 @@
       "imo": "9246592",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-04T20:30:00"
     },
@@ -72,23 +72,7 @@
     {
       "data": "05/08",
       "dia_semana": "quarta",
-      "hora": "06:00",
-      "navio": "MAERSK CHAMBAL",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9525376",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-05T06:00:00"
-    },
-    {
-      "data": "05/08",
-      "dia_semana": "quarta",
-      "hora": "08:00",
+      "hora": "06:30",
       "navio": "KOTA ELOK",
       "calado": "14,60",
       "manobra": "E",
@@ -99,7 +83,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-05T08:00:00"
+      "timestamp": "2026-08-05T06:30:00"
+    },
+    {
+      "data": "05/08",
+      "dia_semana": "quarta",
+      "hora": "08:30",
+      "navio": "MAERSK CHAMBAL",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9525376",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-05T08:30:00"
     },
     {
       "data": "05/08",
@@ -384,7 +384,7 @@
       "manobra_rio_fim": "05/08 16:00",
       "navio_multi": "MAERSK CHAMBAL",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/08 06:00"
+      "manobra_multi_data_hora": "05/08 08:30"
     },
     {
       "navio_rio": "CMA CGM KRYPTON",
@@ -407,7 +407,16 @@
     {
       "navio_rio": "KOTA ELOK",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/08 08:00",
+      "manobra_rio_inicio": "05/08 06:30",
+      "manobra_rio_fim": "06/08 06:30",
+      "navio_multi": "MAERSK CHAMBAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/08 08:30"
+    },
+    {
+      "navio_rio": "KOTA ELOK",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/08 06:30",
       "manobra_rio_fim": "06/08 06:30",
       "navio_multi": "GREENHOUSE",
       "manobra_multi_tipo": "E",
@@ -416,7 +425,7 @@
     {
       "navio_rio": "KOTA ELOK",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/08 08:00",
+      "manobra_rio_inicio": "05/08 06:30",
       "manobra_rio_fim": "06/08 06:30",
       "navio_multi": "MSC SABRINA",
       "manobra_multi_tipo": "S",
@@ -425,7 +434,7 @@
     {
       "navio_rio": "KOTA ELOK",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/08 08:00",
+      "manobra_rio_inicio": "05/08 06:30",
       "manobra_rio_fim": "06/08 06:30",
       "navio_multi": "MSC SUSANNA",
       "manobra_multi_tipo": "E",
@@ -434,7 +443,7 @@
     {
       "navio_rio": "KOTA ELOK",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/08 08:00",
+      "manobra_rio_inicio": "05/08 06:30",
       "manobra_rio_fim": "06/08 06:30",
       "navio_multi": "GRANDE FRANCIA",
       "manobra_multi_tipo": "S",
