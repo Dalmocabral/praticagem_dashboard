@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "04/08/2026 18:56",
+  "ultima_atualizacao": "04/08/2026 20:11",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "04/08",
-      "dia_semana": "terça",
-      "hora": "18:30",
-      "navio": "GOODWOOD",
-      "calado": "8,70",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9701140",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-04T18:30:00"
-    },
     {
       "data": "04/08",
       "dia_semana": "terça",
