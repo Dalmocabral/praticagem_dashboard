@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/08/2026 06:09",
+  "ultima_atualizacao": "05/08/2026 08:30",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,23 +8,7 @@
     {
       "data": "05/08",
       "dia_semana": "quarta",
-      "hora": "06:30",
-      "navio": "KOTA ELOK",
-      "calado": "14,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "1081831",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-05T06:30:00"
-    },
-    {
-      "data": "05/08",
-      "dia_semana": "quarta",
-      "hora": "08:30",
+      "hora": "11:00",
       "navio": "MAERSK CHAMBAL",
       "calado": "14,50",
       "manobra": "S",
@@ -35,12 +19,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-08-05T08:30:00"
+      "timestamp": "2026-08-05T11:00:00"
     },
     {
       "data": "05/08",
       "dia_semana": "quarta",
-      "hora": "11:00",
+      "hora": "13:00",
       "navio": "GREENHOUSE",
       "calado": "12,60",
       "manobra": "E",
@@ -51,7 +35,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-05T11:00:00"
+      "timestamp": "2026-08-05T13:00:00"
     },
     {
       "data": "05/08",
@@ -295,51 +279,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "KOTA ELOK",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/08 06:30",
-      "manobra_rio_fim": "06/08 06:30",
-      "navio_multi": "MAERSK CHAMBAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/08 08:30"
-    },
-    {
-      "navio_rio": "KOTA ELOK",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/08 06:30",
-      "manobra_rio_fim": "06/08 06:30",
-      "navio_multi": "GREENHOUSE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/08 11:00"
-    },
-    {
-      "navio_rio": "KOTA ELOK",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/08 06:30",
-      "manobra_rio_fim": "06/08 06:30",
-      "navio_multi": "MSC SABRINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/08 15:00"
-    },
-    {
-      "navio_rio": "KOTA ELOK",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/08 06:30",
-      "manobra_rio_fim": "06/08 06:30",
-      "navio_multi": "MSC SUSANNA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/08 18:00"
-    },
-    {
-      "navio_rio": "KOTA ELOK",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/08 06:30",
-      "manobra_rio_fim": "06/08 06:30",
-      "navio_multi": "GRANDE FRANCIA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/08 22:00"
-    },
     {
       "navio_rio": "LONCOMILLA",
       "manobra_rio_afetada": "E",
