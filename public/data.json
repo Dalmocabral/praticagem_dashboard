@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/08/2026 15:50",
+  "ultima_atualizacao": "05/08/2026 17:21",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -33,7 +33,7 @@
       "imo": "9437385",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-08-05T19:30:00"
     },
@@ -104,7 +104,7 @@
     {
       "data": "06/08",
       "dia_semana": "quinta",
-      "hora": "06:30",
+      "hora": "10:00",
       "navio": "KOTA ELOK",
       "calado": "13,80",
       "manobra": "S",
@@ -115,12 +115,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-06T06:30:00"
+      "timestamp": "2026-08-06T10:00:00"
     },
     {
       "data": "06/08",
       "dia_semana": "quinta",
-      "hora": "08:00",
+      "hora": "11:00",
       "navio": "LONCOMILLA",
       "calado": "11,80",
       "manobra": "S",
@@ -131,14 +131,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-06T08:00:00"
+      "timestamp": "2026-08-06T11:00:00"
     },
     {
       "data": "06/08",
       "dia_semana": "quinta",
       "hora": "12:00",
       "navio": "GREENHOUSE",
-      "calado": "12,00",
+      "calado": "11,70",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -283,7 +283,7 @@
       "navio_rio": "LONCOMILLA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/08 19:30",
-      "manobra_rio_fim": "06/08 08:00",
+      "manobra_rio_fim": "06/08 11:00",
       "navio_multi": "MSC SABRINA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "05/08 21:30"
@@ -292,7 +292,7 @@
       "navio_rio": "LONCOMILLA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/08 19:30",
-      "manobra_rio_fim": "06/08 08:00",
+      "manobra_rio_fim": "06/08 11:00",
       "navio_multi": "GRANDE FRANCIA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "05/08 22:30"
@@ -301,16 +301,16 @@
       "navio_rio": "LONCOMILLA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/08 19:30",
-      "manobra_rio_fim": "06/08 08:00",
+      "manobra_rio_fim": "06/08 11:00",
       "navio_multi": "MSC SUSANNA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "06/08 00:30"
     },
     {
       "navio_rio": "LONCOMILLA",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/08 19:30",
-      "manobra_rio_fim": "06/08 08:00",
+      "manobra_rio_fim": "06/08 11:00",
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "06/08 02:00"
