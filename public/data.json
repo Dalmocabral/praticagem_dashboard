@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "06/08/2026 04:21",
+  "ultima_atualizacao": "06/08/2026 07:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "06/08",
-      "dia_semana": "quinta",
-      "hora": "03:00",
-      "navio": "GRANDE SAN PAOLO",
-      "calado": "9,20",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9253208",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-06T03:00:00"
-    },
-    {
-      "data": "06/08",
-      "dia_semana": "quinta",
-      "hora": "11:00",
-      "navio": "LONCOMILLA",
-      "calado": "11,80",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9437385",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-06T11:00:00"
-    },
     {
       "data": "06/08",
       "dia_semana": "quinta",
@@ -56,18 +24,18 @@
     {
       "data": "06/08",
       "dia_semana": "quinta",
-      "hora": "14:00",
-      "navio": "MSC URSULA VI",
-      "calado": "9,50",
-      "manobra": "E",
-      "beco": "TECONT2",
+      "hora": "13:00",
+      "navio": "LONCOMILLA",
+      "calado": "11,80",
+      "manobra": "S",
+      "beco": "TECONT1",
       "status": "hoje",
-      "imo": "9168867",
+      "imo": "9437385",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-06T14:00:00"
+      "terminal": "rio",
+      "timestamp": "2026-08-06T13:00:00"
     },
     {
       "data": "06/08",
@@ -104,9 +72,25 @@
     {
       "data": "07/08",
       "dia_semana": "sexta",
+      "hora": "04:00",
+      "navio": "MSC URSULA VI",
+      "calado": "9,50",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9168867",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-07T04:00:00"
+    },
+    {
+      "data": "07/08",
+      "dia_semana": "sexta",
       "hora": "07:00",
       "navio": "MSC SUSANNA",
-      "calado": "12,75",
+      "calado": "10,90",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
