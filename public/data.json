@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "05/08/2026 22:08",
+  "ultima_atualizacao": "06/08/2026 01:30",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "05/08",
-      "dia_semana": "quarta",
-      "hora": "21:30",
-      "navio": "GRANDE FRANCIA",
-      "calado": "9,10",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "passado",
-      "imo": "9246592",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-05T21:30:00"
-    },
     {
       "data": "05/08",
       "dia_semana": "quarta",
@@ -49,7 +33,7 @@
       "imo": "9290543",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-06T01:30:00"
     },
@@ -65,25 +49,9 @@
       "imo": "9253208",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-06T03:00:00"
-    },
-    {
-      "data": "06/08",
-      "dia_semana": "quinta",
-      "hora": "10:00",
-      "navio": "KOTA ELOK",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "1081831",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-06T10:00:00"
     },
     {
       "data": "06/08",
@@ -132,6 +100,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-06T14:00:00"
+    },
+    {
+      "data": "06/08",
+      "dia_semana": "quinta",
+      "hora": "16:00",
+      "navio": "KOTA ELOK",
+      "calado": "13,80",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "1081831",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-06T16:00:00"
     },
     {
       "data": "06/08",
