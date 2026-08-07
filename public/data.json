@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/08/2026 20:16",
+  "ultima_atualizacao": "07/08/2026 20:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -118,6 +118,22 @@
       "timestamp": "2026-08-08T17:00:00"
     },
     {
+      "data": "08/08",
+      "dia_semana": "sábado",
+      "hora": "19:00",
+      "navio": "SINAR SUMATERA",
+      "calado": "7,10",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "1015375",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-08T19:00:00"
+    },
+    {
       "data": "09/08",
       "dia_semana": "domingo",
       "hora": "10:00",
@@ -132,6 +148,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-09T10:00:00"
+    },
+    {
+      "data": "09/08",
+      "dia_semana": "domingo",
+      "hora": "16:00",
+      "navio": "SINAR SUMATERA",
+      "calado": "7,10",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "1015375",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-09T16:00:00"
     },
     {
       "data": "09/08",
@@ -312,6 +344,15 @@
       "navio_multi": "MSC URSULA VI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "08/08 16:00"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "09/08 10:00",
+      "manobra_rio_fim": "10/08 00:00",
+      "navio_multi": "SINAR SUMATERA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "09/08 16:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
