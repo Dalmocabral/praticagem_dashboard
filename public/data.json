@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/08/2026 18:52",
+  "ultima_atualizacao": "07/08/2026 19:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -33,7 +33,7 @@
       "imo": "9290543",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-08-07T23:00:00"
     },
@@ -60,7 +60,7 @@
       "navio": "MAERSK ACADIA",
       "calado": "10,40",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9928188",
       "tipo_navio": "CONTAINER SHIP",
@@ -108,7 +108,7 @@
       "navio": "MAERSK ACADIA",
       "calado": "10,60",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9928188",
       "tipo_navio": "CONTAINER SHIP",
@@ -230,38 +230,6 @@
       "timestamp": "2026-08-13T07:00:00"
     },
     {
-      "data": "14/08",
-      "dia_semana": "sexta",
-      "hora": "06:30",
-      "navio": "EVER LEADER",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9595503",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-14T06:30:00"
-    },
-    {
-      "data": "15/08",
-      "dia_semana": "sábado",
-      "hora": "06:30",
-      "navio": "EVER LEADER",
-      "calado": "14,20",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9595503",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-15T06:30:00"
-    },
-    {
       "data": "18/08",
       "dia_semana": "terça",
       "hora": "08:00",
@@ -292,6 +260,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-19T08:00:00"
+    },
+    {
+      "data": "19/08",
+      "dia_semana": "quarta",
+      "hora": "10:00",
+      "navio": "EVER LEADER",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9595503",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-19T10:00:00"
+    },
+    {
+      "data": "20/08",
+      "dia_semana": "quinta",
+      "hora": "06:00",
+      "navio": "EVER LEADER",
+      "calado": "14,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9595503",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-20T06:00:00"
     }
   ],
   "conflitos": [
