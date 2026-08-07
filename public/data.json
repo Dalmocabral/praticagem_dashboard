@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/08/2026 02:11",
+  "ultima_atualizacao": "07/08/2026 03:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -33,7 +33,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-08-07T06:00:00"
     },
@@ -56,7 +56,7 @@
     {
       "data": "07/08",
       "dia_semana": "sexta",
-      "hora": "11:00",
+      "hora": "17:00",
       "navio": "MSC URSULA VI",
       "calado": "9,50",
       "manobra": "E",
@@ -67,12 +67,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-07T11:00:00"
+      "timestamp": "2026-08-07T17:00:00"
     },
     {
       "data": "07/08",
       "dia_semana": "sexta",
-      "hora": "16:00",
+      "hora": "19:00",
       "navio": "MSC SUSANNA",
       "calado": "10,90",
       "manobra": "S",
@@ -83,23 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-07T16:00:00"
-    },
-    {
-      "data": "07/08",
-      "dia_semana": "sexta",
-      "hora": "22:30",
-      "navio": "MSC URSULA VI",
-      "calado": "10,70",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9168867",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-07T22:30:00"
+      "timestamp": "2026-08-07T19:00:00"
     },
     {
       "data": "08/08",
@@ -148,6 +132,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-08T15:00:00"
+    },
+    {
+      "data": "08/08",
+      "dia_semana": "sábado",
+      "hora": "16:00",
+      "navio": "MSC URSULA VI",
+      "calado": "10,70",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9168867",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-08T16:00:00"
     },
     {
       "data": "08/08",
@@ -279,7 +279,7 @@
       "manobra_rio_fim": "08/08 01:00",
       "navio_multi": "MSC URSULA VI",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/08 11:00"
+      "manobra_multi_data_hora": "07/08 17:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -288,16 +288,7 @@
       "manobra_rio_fim": "08/08 01:00",
       "navio_multi": "MSC SUSANNA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/08 16:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/08 06:00",
-      "manobra_rio_fim": "08/08 01:00",
-      "navio_multi": "MSC URSULA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/08 22:30"
+      "manobra_multi_data_hora": "07/08 19:00"
     },
     {
       "navio_rio": "MAERSK ACADIA",
@@ -307,6 +298,15 @@
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "08/08 15:00"
+    },
+    {
+      "navio_rio": "MAERSK ACADIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "08/08 04:30",
+      "manobra_rio_fim": "08/08 17:00",
+      "navio_multi": "MSC URSULA VI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "08/08 16:00"
     }
   ]
 }
