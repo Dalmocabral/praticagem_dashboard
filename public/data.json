@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/08/2026 00:21",
+  "ultima_atualizacao": "07/08/2026 02:11",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,18 +8,18 @@
     {
       "data": "07/08",
       "dia_semana": "sexta",
-      "hora": "04:00",
+      "hora": "02:30",
       "navio": "GRANDE SAN PAOLO",
-      "calado": "9,00",
+      "calado": "9,80",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9253208",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-08-07T04:00:00"
+      "timestamp": "2026-08-07T02:30:00"
     },
     {
       "data": "07/08",
@@ -33,7 +33,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-08-07T06:00:00"
     },
