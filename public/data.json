@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/08/2026 19:34",
+  "ultima_atualizacao": "07/08/2026 20:16",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -10,7 +10,7 @@
       "dia_semana": "sexta",
       "hora": "21:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,60",
+      "calado": "8,90",
       "manobra": "M",
       "beco": "TECONTPROLONG -> TECONT4",
       "status": "hoje",
@@ -33,7 +33,7 @@
       "imo": "9290543",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-08-07T23:00:00"
     },
