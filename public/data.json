@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/08/2026 14:27",
+  "ultima_atualizacao": "07/08/2026 15:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -72,7 +72,7 @@
     {
       "data": "08/08",
       "dia_semana": "sábado",
-      "hora": "15:00",
+      "hora": "07:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,80",
       "manobra": "S",
@@ -83,7 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-08T15:00:00"
+      "timestamp": "2026-08-08T07:00:00"
     },
     {
       "data": "08/08",
@@ -297,12 +297,12 @@
   "conflitos": [
     {
       "navio_rio": "MAERSK ACADIA",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "08/08 04:30",
       "manobra_rio_fim": "08/08 17:00",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/08 15:00"
+      "manobra_multi_data_hora": "08/08 07:00"
     },
     {
       "navio_rio": "MAERSK ACADIA",
