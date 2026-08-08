@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "08/08/2026 15:53",
+  "ultima_atualizacao": "08/08/2026 16:31",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "08/08",
-      "dia_semana": "sábado",
-      "hora": "15:00",
-      "navio": "MAERSK ACADIA",
-      "calado": "10,55",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9928188",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-08T15:00:00"
-    },
     {
       "data": "08/08",
       "dia_semana": "sábado",
