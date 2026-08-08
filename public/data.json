@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "08/08/2026 12:03",
+  "ultima_atualizacao": "08/08/2026 12:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "08/08",
-      "dia_semana": "sábado",
-      "hora": "11:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-08T11:00:00"
-    },
     {
       "data": "08/08",
       "dia_semana": "sábado",
@@ -198,6 +182,38 @@
       "timestamp": "2026-08-13T07:00:00"
     },
     {
+      "data": "16/08",
+      "dia_semana": "domingo",
+      "hora": "06:30",
+      "navio": "EVER LEADER",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9595503",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-16T06:30:00"
+    },
+    {
+      "data": "17/08",
+      "dia_semana": "segunda",
+      "hora": "07:00",
+      "navio": "EVER LEADER",
+      "calado": "14,20",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9595503",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-17T07:00:00"
+    },
+    {
       "data": "18/08",
       "dia_semana": "terça",
       "hora": "08:00",
@@ -228,38 +244,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-19T08:00:00"
-    },
-    {
-      "data": "19/08",
-      "dia_semana": "quarta",
-      "hora": "10:00",
-      "navio": "EVER LEADER",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9595503",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-19T10:00:00"
-    },
-    {
-      "data": "20/08",
-      "dia_semana": "quinta",
-      "hora": "06:00",
-      "navio": "EVER LEADER",
-      "calado": "14,20",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9595503",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-20T06:00:00"
     }
   ],
   "conflitos": [
