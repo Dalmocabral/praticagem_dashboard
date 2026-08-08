@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/08/2026 07:13",
+  "ultima_atualizacao": "08/08/2026 07:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,7 +8,7 @@
     {
       "data": "08/08",
       "dia_semana": "sábado",
-      "hora": "09:00",
+      "hora": "11:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,80",
       "manobra": "S",
@@ -17,9 +17,9 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
+      "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-08-08T09:00:00"
+      "timestamp": "2026-08-08T11:00:00"
     },
     {
       "data": "08/08",
