@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/08/2026 10:05",
+  "ultima_atualizacao": "08/08/2026 10:55",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -24,7 +24,7 @@
     {
       "data": "08/08",
       "dia_semana": "sábado",
-      "hora": "17:00",
+      "hora": "15:00",
       "navio": "MAERSK ACADIA",
       "calado": "10,60",
       "manobra": "S",
@@ -35,12 +35,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-08T17:00:00"
+      "timestamp": "2026-08-08T15:00:00"
     },
     {
       "data": "08/08",
       "dia_semana": "sábado",
-      "hora": "19:00",
+      "hora": "18:00",
       "navio": "SINAR SUMATERA",
       "calado": "7,10",
       "manobra": "E",
@@ -51,7 +51,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-08T19:00:00"
+      "timestamp": "2026-08-08T18:00:00"
     },
     {
       "data": "09/08",
@@ -72,9 +72,9 @@
     {
       "data": "09/08",
       "dia_semana": "domingo",
-      "hora": "10:00",
+      "hora": "08:00",
       "navio": "CMA CGM SANTOS",
-      "calado": "12,60",
+      "calado": "11,95",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -83,7 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-09T10:00:00"
+      "timestamp": "2026-08-09T08:00:00"
     },
     {
       "data": "09/08",
@@ -265,8 +265,8 @@
   "conflitos": [
     {
       "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/08 10:00",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/08 08:00",
       "manobra_rio_fim": "10/08 00:00",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
@@ -275,7 +275,7 @@
     {
       "navio_rio": "CMA CGM SANTOS",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/08 10:00",
+      "manobra_rio_inicio": "09/08 08:00",
       "manobra_rio_fim": "10/08 00:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
