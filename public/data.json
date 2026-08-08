@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "08/08/2026 06:38",
+  "ultima_atualizacao": "08/08/2026 07:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "08/08",
-      "dia_semana": "sábado",
-      "hora": "04:30",
-      "navio": "MAERSK ACADIA",
-      "calado": "10,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9928188",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-08T04:30:00"
-    },
     {
       "data": "08/08",
       "dia_semana": "sábado",
@@ -279,24 +263,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK ACADIA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/08 04:30",
-      "manobra_rio_fim": "08/08 17:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/08 09:00"
-    },
-    {
-      "navio_rio": "MAERSK ACADIA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "08/08 04:30",
-      "manobra_rio_fim": "08/08 17:00",
-      "navio_multi": "MSC URSULA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/08 16:00"
-    },
     {
       "navio_rio": "CMA CGM SANTOS",
       "manobra_rio_afetada": "E",
