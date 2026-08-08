@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/08/2026 22:19",
+  "ultima_atualizacao": "08/08/2026 00:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -8,25 +8,9 @@
     {
       "data": "07/08",
       "dia_semana": "sexta",
-      "hora": "21:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,90",
-      "manobra": "M",
-      "beco": "TECONTPROLONG -> TECONT4",
-      "status": "passado",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-07T21:00:00"
-    },
-    {
-      "data": "07/08",
-      "dia_semana": "sexta",
       "hora": "23:30",
       "navio": "MSC SUSANNA",
-      "calado": "10,90",
+      "calado": "11,10",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "passado",
@@ -49,7 +33,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-08T01:30:00"
     },
