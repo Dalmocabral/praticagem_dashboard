@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/08/2026 08:50",
+  "ultima_atualizacao": "09/08/2026 09:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -104,6 +104,22 @@
     {
       "data": "10/08",
       "dia_semana": "segunda",
+      "hora": "15:00",
+      "navio": "MSC MARSEILLE",
+      "calado": "13,70",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9975595",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-10T15:00:00"
+    },
+    {
+      "data": "10/08",
+      "dia_semana": "segunda",
       "hora": "22:00",
       "navio": "NC BRAVO",
       "calado": "8,80",
@@ -148,6 +164,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-11T06:00:00"
+    },
+    {
+      "data": "11/08",
+      "dia_semana": "terça",
+      "hora": "15:00",
+      "navio": "MSC MARSEILLE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9975595",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-11T15:00:00"
     },
     {
       "data": "12/08",
