@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "09/08/2026 09:35",
+  "ultima_atualizacao": "09/08/2026 10:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
   },
   "navios": [
-    {
-      "data": "09/08",
-      "dia_semana": "domingo",
-      "hora": "08:00",
-      "navio": "CMA CGM SANTOS",
-      "calado": "11,95",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-09T08:00:00"
-    },
     {
       "data": "09/08",
       "dia_semana": "domingo",
@@ -88,6 +72,22 @@
     {
       "data": "10/08",
       "dia_semana": "segunda",
+      "hora": "11:00",
+      "navio": "XIN WEI HAI",
+      "calado": "11,70",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9312573",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-10T11:00:00"
+    },
+    {
+      "data": "10/08",
+      "dia_semana": "segunda",
       "hora": "13:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "11,60",
@@ -116,6 +116,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-10T15:00:00"
+    },
+    {
+      "data": "10/08",
+      "dia_semana": "segunda",
+      "hora": "20:00",
+      "navio": "XIN WEI HAI",
+      "calado": "11,70",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9312573",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-10T20:00:00"
     },
     {
       "data": "10/08",
@@ -280,13 +296,22 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/08 08:00",
-      "manobra_rio_fim": "10/08 00:00",
-      "navio_multi": "SINAR SUMATERA",
+      "navio_rio": "XIN WEI HAI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/08 11:00",
+      "manobra_rio_fim": "10/08 20:00",
+      "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/08 21:00"
+      "manobra_multi_data_hora": "10/08 13:00"
+    },
+    {
+      "navio_rio": "XIN WEI HAI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/08 11:00",
+      "manobra_rio_fim": "10/08 20:00",
+      "navio_multi": "MSC MARSEILLE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/08 15:00"
     },
     {
       "navio_rio": "NC BRAVO",
