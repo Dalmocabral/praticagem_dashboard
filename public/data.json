@@ -1,57 +1,25 @@
 {
-  "ultima_atualizacao": "09/08/2026 20:15",
+  "ultima_atualizacao": "09/08/2026 20:52",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/08/2026 14:06 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande restrita a calados de até 11,00m"
   },
   "navios": [
     {
-      "data": "09/08",
-      "dia_semana": "domingo",
-      "hora": "23:00",
+      "data": "10/08",
+      "dia_semana": "segunda",
+      "hora": "02:30",
       "navio": "SINAR SUMATERA",
       "calado": "8,40",
       "manobra": "S",
       "beco": "TECONT4",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-09T23:00:00"
-    },
-    {
-      "data": "10/08",
-      "dia_semana": "segunda",
-      "hora": "01:00",
-      "navio": "MSC URSULA VI",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9168867",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-10T01:00:00"
-    },
-    {
-      "data": "10/08",
-      "dia_semana": "segunda",
-      "hora": "03:00",
-      "navio": "HMM BANGKOK",
-      "calado": "10,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9323510",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-10T03:00:00"
+      "timestamp": "2026-08-10T02:30:00"
     },
     {
       "data": "10/08",
@@ -84,6 +52,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-10T06:30:00"
+    },
+    {
+      "data": "10/08",
+      "dia_semana": "segunda",
+      "hora": "07:30",
+      "navio": "MSC URSULA VI",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9168867",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-10T07:30:00"
+    },
+    {
+      "data": "10/08",
+      "dia_semana": "segunda",
+      "hora": "09:30",
+      "navio": "HMM BANGKOK",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9323510",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-10T09:30:00"
     },
     {
       "data": "10/08",
@@ -136,7 +136,7 @@
     {
       "data": "10/08",
       "dia_semana": "segunda",
-      "hora": "17:00",
+      "hora": "19:00",
       "navio": "KITE ARROW",
       "calado": "7,70",
       "manobra": "S",
@@ -147,7 +147,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-10T17:00:00"
+      "timestamp": "2026-08-10T19:00:00"
     },
     {
       "data": "10/08",
@@ -393,9 +393,27 @@
   "conflitos": [
     {
       "navio_rio": "KITE ARROW",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/08 04:30",
+      "manobra_rio_fim": "10/08 19:00",
+      "navio_multi": "MSC URSULA VI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/08 07:30"
+    },
+    {
+      "navio_rio": "KITE ARROW",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/08 04:30",
+      "manobra_rio_fim": "10/08 19:00",
+      "navio_multi": "HMM BANGKOK",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/08 09:30"
+    },
+    {
+      "navio_rio": "KITE ARROW",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "10/08 04:30",
-      "manobra_rio_fim": "10/08 17:00",
+      "manobra_rio_fim": "10/08 19:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/08 13:00"
@@ -404,7 +422,7 @@
       "navio_rio": "KITE ARROW",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "10/08 04:30",
-      "manobra_rio_fim": "10/08 17:00",
+      "manobra_rio_fim": "10/08 19:00",
       "navio_multi": "MSC MARSEILLE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "10/08 15:00"
