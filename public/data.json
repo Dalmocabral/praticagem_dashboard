@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/08/2026 08:16",
+  "ultima_atualizacao": "09/08/2026 08:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -24,7 +24,7 @@
     {
       "data": "09/08",
       "dia_semana": "domingo",
-      "hora": "16:00",
+      "hora": "21:00",
       "navio": "SINAR SUMATERA",
       "calado": "7,10",
       "manobra": "S",
@@ -35,55 +35,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-09T16:00:00"
-    },
-    {
-      "data": "09/08",
-      "dia_semana": "domingo",
-      "hora": "19:00",
-      "navio": "MSC URSULA VI",
-      "calado": "11,30",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9168867",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-09T19:00:00"
-    },
-    {
-      "data": "09/08",
-      "dia_semana": "domingo",
-      "hora": "21:00",
-      "navio": "HMM BANGKOK",
-      "calado": "10,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9323510",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
       "timestamp": "2026-08-09T21:00:00"
-    },
-    {
-      "data": "09/08",
-      "dia_semana": "domingo",
-      "hora": "23:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "11,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-09T23:00:00"
     },
     {
       "data": "10/08",
@@ -100,6 +52,54 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-10T00:00:00"
+    },
+    {
+      "data": "10/08",
+      "dia_semana": "segunda",
+      "hora": "01:00",
+      "navio": "MSC URSULA VI",
+      "calado": "11,30",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9168867",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-10T01:00:00"
+    },
+    {
+      "data": "10/08",
+      "dia_semana": "segunda",
+      "hora": "03:00",
+      "navio": "HMM BANGKOK",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9323510",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-10T03:00:00"
+    },
+    {
+      "data": "10/08",
+      "dia_semana": "segunda",
+      "hora": "13:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "11,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-10T13:00:00"
     },
     {
       "data": "10/08",
@@ -254,34 +254,7 @@
       "manobra_rio_fim": "10/08 00:00",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/08 16:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/08 08:00",
-      "manobra_rio_fim": "10/08 00:00",
-      "navio_multi": "MSC URSULA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/08 19:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/08 08:00",
-      "manobra_rio_fim": "10/08 00:00",
-      "navio_multi": "HMM BANGKOK",
-      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "09/08 21:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/08 08:00",
-      "manobra_rio_fim": "10/08 00:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/08 23:00"
     },
     {
       "navio_rio": "NC BRAVO",
