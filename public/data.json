@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/08/2026 10:34",
+  "ultima_atualizacao": "09/08/2026 11:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 16/07/2026 21:39"
@@ -72,6 +72,22 @@
     {
       "data": "10/08",
       "dia_semana": "segunda",
+      "hora": "04:30",
+      "navio": "KITE ARROW",
+      "calado": "7,70",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9077082",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-10T04:30:00"
+    },
+    {
+      "data": "10/08",
+      "dia_semana": "segunda",
       "hora": "11:00",
       "navio": "XIN WEI HAI",
       "calado": "11,70",
@@ -116,6 +132,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-10T15:00:00"
+    },
+    {
+      "data": "10/08",
+      "dia_semana": "segunda",
+      "hora": "17:00",
+      "navio": "KITE ARROW",
+      "calado": "7,70",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9077082",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-10T17:00:00"
     },
     {
       "data": "10/08",
@@ -295,6 +327,24 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "KITE ARROW",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "10/08 04:30",
+      "manobra_rio_fim": "10/08 17:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/08 13:00"
+    },
+    {
+      "navio_rio": "KITE ARROW",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "10/08 04:30",
+      "manobra_rio_fim": "10/08 17:00",
+      "navio_multi": "MSC MARSEILLE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/08 15:00"
+    },
     {
       "navio_rio": "XIN WEI HAI",
       "manobra_rio_afetada": "E",
