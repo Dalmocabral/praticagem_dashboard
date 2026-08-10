@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/08/2026 14:34",
+  "ultima_atualizacao": "10/08/2026 15:31",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/08/2026 14:06 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande restrita a calados de até 11,00m"
@@ -24,22 +24,6 @@
     {
       "data": "10/08",
       "dia_semana": "segunda",
-      "hora": "13:00",
-      "navio": "XIN WEI HAI",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9312573",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-10T13:00:00"
-    },
-    {
-      "data": "10/08",
-      "dia_semana": "segunda",
       "hora": "16:00",
       "navio": "KITE ARROW",
       "calado": "7,20",
@@ -56,7 +40,7 @@
     {
       "data": "10/08",
       "dia_semana": "segunda",
-      "hora": "18:00",
+      "hora": "20:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,60",
       "manobra": "S",
@@ -65,9 +49,9 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-10T18:00:00"
+      "timestamp": "2026-08-10T20:00:00"
     },
     {
       "data": "10/08",
@@ -84,6 +68,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-10T22:00:00"
+    },
+    {
+      "data": "11/08",
+      "dia_semana": "terça",
+      "hora": "04:00",
+      "navio": "INDUSTRIAL HOBART",
+      "calado": "6,00",
+      "manobra": "M",
+      "beco": "A7PARTE2 -> TECONT5",
+      "status": "futuro",
+      "imo": "9362827",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-11T04:00:00"
     },
     {
       "data": "11/08",
@@ -311,15 +311,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "XIN WEI HAI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/08 13:00",
-      "manobra_rio_fim": "11/08 06:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/08 18:00"
-    },
     {
       "navio_rio": "STEPHANIE C",
       "manobra_rio_afetada": "E",
