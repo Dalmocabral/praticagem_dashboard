@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/08/2026 11:41",
+  "ultima_atualizacao": "10/08/2026 12:41",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/08/2026 14:06 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande restrita a calados de até 11,00m"
@@ -56,23 +56,7 @@
     {
       "data": "10/08",
       "dia_semana": "segunda",
-      "hora": "15:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-10T15:00:00"
-    },
-    {
-      "data": "10/08",
-      "dia_semana": "segunda",
-      "hora": "19:00",
+      "hora": "16:00",
       "navio": "KITE ARROW",
       "calado": "7,70",
       "manobra": "M",
@@ -81,9 +65,25 @@
       "imo": "9077082",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
-      "timestamp": "2026-08-10T19:00:00"
+      "timestamp": "2026-08-10T16:00:00"
+    },
+    {
+      "data": "10/08",
+      "dia_semana": "segunda",
+      "hora": "18:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-10T18:00:00"
     },
     {
       "data": "10/08",
@@ -120,7 +120,7 @@
     {
       "data": "11/08",
       "dia_semana": "terça",
-      "hora": "06:00",
+      "hora": "07:00",
       "navio": "NC BRAVO",
       "calado": "8,80",
       "manobra": "S",
@@ -131,7 +131,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-11T06:00:00"
+      "timestamp": "2026-08-11T07:00:00"
     },
     {
       "data": "11/08",
@@ -334,7 +334,7 @@
       "manobra_rio_fim": "11/08 00:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/08 15:00"
+      "manobra_multi_data_hora": "10/08 18:00"
     },
     {
       "navio_rio": "STEPHANIE C",
