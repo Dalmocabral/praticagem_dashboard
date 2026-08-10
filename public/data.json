@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/08/2026 15:31",
+  "ultima_atualizacao": "10/08/2026 16:36",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/08/2026 14:06 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande restrita a calados de até 11,00m"
@@ -49,7 +49,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-08-10T20:00:00"
     },
@@ -122,7 +122,7 @@
       "dia_semana": "terça",
       "hora": "08:00",
       "navio": "HMM BANGKOK",
-      "calado": "10,00",
+      "calado": "10,50",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "futuro",
@@ -308,6 +308,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-19T08:00:00"
+    },
+    {
+      "data": "25/08",
+      "dia_semana": "terça",
+      "hora": "12:00",
+      "navio": "CMA CGM YUKON",
+      "calado": "13,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9732606",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-25T12:00:00"
+    },
+    {
+      "data": "26/08",
+      "dia_semana": "quarta",
+      "hora": "16:00",
+      "navio": "CMA CGM YUKON",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9732606",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-26T16:00:00"
     }
   ],
   "conflitos": [
