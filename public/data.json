@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/08/2026 18:59",
+  "ultima_atualizacao": "10/08/2026 19:51",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/08/2026 14:06 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande restrita a calados de até 11,00m"
@@ -33,7 +33,7 @@
       "imo": "9612791",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-08-10T22:00:00"
     },
