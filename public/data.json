@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/08/2026 00:28",
+  "ultima_atualizacao": "10/08/2026 02:07",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/08/2026 14:06 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande restrita a calados de até 11,00m"
@@ -10,7 +10,7 @@
       "dia_semana": "segunda",
       "hora": "02:00",
       "navio": "SINAR SUMATERA",
-      "calado": "8,40",
+      "calado": "8,20",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "hoje",
@@ -33,7 +33,7 @@
       "imo": "9077082",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-08-10T04:30:00"
     },
