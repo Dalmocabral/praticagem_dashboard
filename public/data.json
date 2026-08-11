@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "11/08/2026 03:10",
+  "ultima_atualizacao": "11/08/2026 04:39",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/08/2026 14:06 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande restrita a calados de até 11,00m"
   },
   "navios": [
-    {
-      "data": "11/08",
-      "dia_semana": "terça",
-      "hora": "01:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,40",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-11T01:00:00"
-    },
     {
       "data": "11/08",
       "dia_semana": "terça",
@@ -49,7 +33,7 @@
       "imo": "9694531",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-08-11T08:00:00"
     },
