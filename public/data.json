@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/08/2026 10:57",
+  "ultima_atualizacao": "11/08/2026 12:07",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/08/2026 14:06 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande restrita a calados de até 11,00m"
@@ -8,25 +8,9 @@
     {
       "data": "11/08",
       "dia_semana": "terça",
-      "hora": "10:00",
-      "navio": "NC BRAVO",
-      "calado": "8,45",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9612791",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-11T10:00:00"
-    },
-    {
-      "data": "11/08",
-      "dia_semana": "terça",
       "hora": "11:30",
       "navio": "MSC MARSEILLE",
-      "calado": "15,00",
+      "calado": "15,10",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -65,7 +49,7 @@
       "imo": "9694531",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-08-11T16:00:00"
     },
@@ -116,6 +100,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-12T08:00:00"
+    },
+    {
+      "data": "12/08",
+      "dia_semana": "quarta",
+      "hora": "11:00",
+      "navio": "YM MOVEMENT",
+      "calado": "13,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9660011",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-12T11:00:00"
     },
     {
       "data": "12/08",
@@ -182,6 +182,22 @@
       "timestamp": "2026-08-13T11:00:00"
     },
     {
+      "data": "13/08",
+      "dia_semana": "quinta",
+      "hora": "12:00",
+      "navio": "YM MOVEMENT",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9660011",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-13T12:00:00"
+    },
+    {
       "data": "14/08",
       "dia_semana": "sexta",
       "hora": "16:00",
@@ -198,6 +214,22 @@
       "timestamp": "2026-08-14T16:00:00"
     },
     {
+      "data": "15/08",
+      "dia_semana": "sábado",
+      "hora": "15:00",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-15T15:00:00"
+    },
+    {
       "data": "16/08",
       "dia_semana": "domingo",
       "hora": "06:30",
@@ -212,6 +244,54 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-16T06:30:00"
+    },
+    {
+      "data": "16/08",
+      "dia_semana": "domingo",
+      "hora": "08:30",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-16T08:30:00"
+    },
+    {
+      "data": "16/08",
+      "dia_semana": "domingo",
+      "hora": "10:30",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "10,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-16T10:30:00"
+    },
+    {
+      "data": "17/08",
+      "dia_semana": "segunda",
+      "hora": "06:00",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-17T06:00:00"
     },
     {
       "data": "17/08",
@@ -335,6 +415,15 @@
       "navio_multi": "CAPE SOUNIO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "13/08 07:00"
+    },
+    {
+      "navio_rio": "EVER LEADING",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/08 09:00",
+      "manobra_rio_fim": "14/08 16:00",
+      "navio_multi": "YM MOVEMENT",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "13/08 12:00"
     }
   ]
 }
