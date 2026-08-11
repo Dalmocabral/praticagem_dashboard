@@ -1,48 +1,16 @@
 {
-  "ultima_atualizacao": "10/08/2026 21:03",
+  "ultima_atualizacao": "10/08/2026 23:23",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/08/2026 14:06 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande restrita a calados de até 11,00m"
   },
   "navios": [
     {
-      "data": "10/08",
-      "dia_semana": "segunda",
-      "hora": "09:30",
-      "navio": "HMM BANGKOK",
-      "calado": "9,90",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "passado",
-      "imo": "9323510",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-10T09:30:00"
-    },
-    {
-      "data": "10/08",
-      "dia_semana": "segunda",
-      "hora": "22:00",
-      "navio": "NC BRAVO",
-      "calado": "8,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9612791",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-10T22:00:00"
-    },
-    {
       "data": "11/08",
       "dia_semana": "terça",
-      "hora": "00:00",
+      "hora": "01:00",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "9,60",
+      "calado": "9,40",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -51,30 +19,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-08-11T00:00:00"
-    },
-    {
-      "data": "11/08",
-      "dia_semana": "terça",
-      "hora": "04:00",
-      "navio": "INDUSTRIAL HOBART",
-      "calado": "6,00",
-      "manobra": "M",
-      "beco": "A7PARTE2 -> TECONT5",
-      "status": "hoje",
-      "imo": "9362827",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-11T04:00:00"
+      "timestamp": "2026-08-11T01:00:00"
     },
     {
       "data": "11/08",
       "dia_semana": "terça",
       "hora": "06:00",
       "navio": "XIN WEI HAI",
-      "calado": "11,70",
+      "calado": "11,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -138,7 +90,7 @@
       "dia_semana": "terça",
       "hora": "12:00",
       "navio": "MSC MARSEILLE",
-      "calado": "15,30",
+      "calado": "15,00",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -214,6 +166,38 @@
       "timestamp": "2026-08-12T08:00:00"
     },
     {
+      "data": "12/08",
+      "dia_semana": "quarta",
+      "hora": "10:00",
+      "navio": "SPYROS V",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9453365",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-12T10:00:00"
+    },
+    {
+      "data": "12/08",
+      "dia_semana": "quarta",
+      "hora": "22:00",
+      "navio": "SPYROS V",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9453365",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-12T22:00:00"
+    },
+    {
       "data": "13/08",
       "dia_semana": "quinta",
       "hora": "07:00",
@@ -228,6 +212,38 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-13T07:00:00"
+    },
+    {
+      "data": "13/08",
+      "dia_semana": "quinta",
+      "hora": "09:00",
+      "navio": "EVER LEADING",
+      "calado": "10,70",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9595462",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-13T09:00:00"
+    },
+    {
+      "data": "14/08",
+      "dia_semana": "sexta",
+      "hora": "16:00",
+      "navio": "EVER LEADING",
+      "calado": "10,70",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9595462",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-14T16:00:00"
     },
     {
       "data": "16/08",
@@ -359,15 +375,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "NC BRAVO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/08 22:00",
-      "manobra_rio_fim": "11/08 10:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/08 00:00"
-    },
     {
       "navio_rio": "STEPHANIE C",
       "manobra_rio_afetada": "E",
