@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/08/2026 09:28",
+  "ultima_atualizacao": "12/08/2026 11:01",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/08/2026 18:05 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m. Canal Varrido fechado."
@@ -42,7 +42,7 @@
       "dia_semana": "quinta",
       "hora": "09:00",
       "navio": "EVER LEADING",
-      "calado": "10,70",
+      "calado": "10,60",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
