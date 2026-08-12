@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/08/2026 07:42",
+  "ultima_atualizacao": "12/08/2026 08:33",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/08/2026 18:05 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m. Canal Varrido fechado."
@@ -17,7 +17,7 @@
       "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-08-12T12:30:00"
     },
@@ -54,22 +54,6 @@
       "timestamp": "2026-08-12T17:00:00"
     },
     {
-      "data": "12/08",
-      "dia_semana": "quarta",
-      "hora": "19:00",
-      "navio": "SPYROS V",
-      "calado": "11,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9453365",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-12T19:00:00"
-    },
-    {
       "data": "13/08",
       "dia_semana": "quinta",
       "hora": "07:00",
@@ -104,22 +88,6 @@
     {
       "data": "13/08",
       "dia_semana": "quinta",
-      "hora": "11:00",
-      "navio": "SPYROS V",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9453365",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-13T11:00:00"
-    },
-    {
-      "data": "13/08",
-      "dia_semana": "quinta",
       "hora": "12:00",
       "navio": "YM MOVEMENT",
       "calado": "13,00",
@@ -132,6 +100,38 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-13T12:00:00"
+    },
+    {
+      "data": "13/08",
+      "dia_semana": "quinta",
+      "hora": "14:00",
+      "navio": "SPYROS V",
+      "calado": "12,30",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9453365",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-13T14:00:00"
+    },
+    {
+      "data": "14/08",
+      "dia_semana": "sexta",
+      "hora": "07:00",
+      "navio": "SPYROS V",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9453365",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-14T07:00:00"
     },
     {
       "data": "14/08",
@@ -359,15 +359,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "SPYROS V",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/08 19:00",
-      "manobra_rio_fim": "13/08 11:00",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/08 07:00"
-    },
     {
       "navio_rio": "EVER LEADING",
       "manobra_rio_afetada": "E",
