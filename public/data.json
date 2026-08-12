@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/08/2026 19:56",
+  "ultima_atualizacao": "12/08/2026 20:51",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/08/2026 18:05 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m. Canal Varrido fechado."
@@ -166,6 +166,38 @@
       "timestamp": "2026-08-14T17:00:00"
     },
     {
+      "data": "14/08",
+      "dia_semana": "sexta",
+      "hora": "19:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,70",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-14T19:00:00"
+    },
+    {
+      "data": "15/08",
+      "dia_semana": "sábado",
+      "hora": "07:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "M",
+      "beco": "TECONT1 -> TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-15T07:00:00"
+    },
+    {
       "data": "15/08",
       "dia_semana": "sábado",
       "hora": "15:00",
@@ -212,6 +244,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-16T10:30:00"
+    },
+    {
+      "data": "16/08",
+      "dia_semana": "domingo",
+      "hora": "17:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-16T17:00:00"
     },
     {
       "data": "17/08",
@@ -430,6 +478,15 @@
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/08 09:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/08 10:30",
+      "manobra_rio_fim": "17/08 06:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/08 17:00"
     }
   ]
 }
