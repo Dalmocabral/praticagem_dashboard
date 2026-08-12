@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/08/2026 18:08",
+  "ultima_atualizacao": "12/08/2026 19:02",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/08/2026 18:05 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m. Canal Varrido fechado."
@@ -170,7 +170,7 @@
       "dia_semana": "sábado",
       "hora": "15:00",
       "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "12,60",
+      "calado": "14,30",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
