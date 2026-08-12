@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/08/2026 22:38",
+  "ultima_atualizacao": "12/08/2026 00:50",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/08/2026 18:05 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m. Canal Varrido fechado."
@@ -8,7 +8,7 @@
     {
       "data": "12/08",
       "dia_semana": "quarta",
-      "hora": "02:00",
+      "hora": "05:00",
       "navio": "INDUSTRIAL HOBART",
       "calado": "6,00",
       "manobra": "M",
@@ -17,9 +17,9 @@
       "imo": "9362827",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-12T02:00:00"
+      "timestamp": "2026-08-12T05:00:00"
     },
     {
       "data": "12/08",
