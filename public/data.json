@@ -1,41 +1,25 @@
 {
-  "ultima_atualizacao": "12/08/2026 13:10",
+  "ultima_atualizacao": "12/08/2026 14:14",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/08/2026 18:05 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m. Canal Varrido fechado."
   },
   "navios": [
     {
-      "data": "12/08",
-      "dia_semana": "quarta",
-      "hora": "15:30",
+      "data": "13/08",
+      "dia_semana": "quinta",
+      "hora": "06:30",
       "navio": "XIAMEN EXPRESS",
       "calado": "14,80",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9630420",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-12T15:30:00"
-    },
-    {
-      "data": "13/08",
-      "dia_semana": "quinta",
-      "hora": "07:00",
-      "navio": "MSC AMALFI",
-      "calado": "13,75",
-      "manobra": "E",
-      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9605279",
+      "imo": "9630420",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-13T07:00:00"
+      "timestamp": "2026-08-13T06:30:00"
     },
     {
       "data": "13/08",
@@ -56,22 +40,6 @@
     {
       "data": "13/08",
       "dia_semana": "quinta",
-      "hora": "11:00",
-      "navio": "YM MOVEMENT",
-      "calado": "13,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9660011",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-13T11:00:00"
-    },
-    {
-      "data": "13/08",
-      "dia_semana": "quinta",
       "hora": "14:00",
       "navio": "SPYROS V",
       "calado": "12,30",
@@ -84,6 +52,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-13T14:00:00"
+    },
+    {
+      "data": "13/08",
+      "dia_semana": "quinta",
+      "hora": "15:30",
+      "navio": "MSC AMALFI",
+      "calado": "13,75",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9605279",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-13T15:30:00"
+    },
+    {
+      "data": "13/08",
+      "dia_semana": "quinta",
+      "hora": "17:00",
+      "navio": "YM MOVEMENT",
+      "calado": "13,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9660011",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-13T17:00:00"
     },
     {
       "data": "14/08",
@@ -364,9 +364,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "13/08 09:00",
       "manobra_rio_fim": "14/08 16:00",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/08 15:30"
+    },
+    {
+      "navio_rio": "EVER LEADING",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/08 09:00",
+      "manobra_rio_fim": "14/08 16:00",
       "navio_multi": "YM MOVEMENT",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/08 11:00"
+      "manobra_multi_data_hora": "13/08 17:00"
     },
     {
       "navio_rio": "EVER LEADING",
@@ -385,6 +394,24 @@
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/08 09:00"
+    },
+    {
+      "navio_rio": "SPYROS V",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/08 14:00",
+      "manobra_rio_fim": "14/08 07:00",
+      "navio_multi": "MSC AMALFI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/08 15:30"
+    },
+    {
+      "navio_rio": "SPYROS V",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/08 14:00",
+      "manobra_rio_fim": "14/08 07:00",
+      "navio_multi": "YM MOVEMENT",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "13/08 17:00"
     }
   ]
 }
