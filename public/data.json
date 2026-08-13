@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/08/2026 18:01",
+  "ultima_atualizacao": "13/08/2026 18:57",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/08/2026 12:44 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m."
@@ -40,22 +40,6 @@
     {
       "data": "14/08",
       "dia_semana": "sexta",
-      "hora": "02:00",
-      "navio": "INDUSTRIAL HOBART",
-      "calado": "6,50",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9362827",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-14T02:00:00"
-    },
-    {
-      "data": "14/08",
-      "dia_semana": "sexta",
       "hora": "10:00",
       "navio": "VIKING BRASILIA",
       "calado": "8,00",
@@ -68,6 +52,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-14T10:00:00"
+    },
+    {
+      "data": "14/08",
+      "dia_semana": "sexta",
+      "hora": "12:00",
+      "navio": "INDUSTRIAL HOBART",
+      "calado": "6,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9362827",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-14T12:00:00"
     },
     {
       "data": "14/08",
