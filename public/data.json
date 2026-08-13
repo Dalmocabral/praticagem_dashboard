@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/08/2026 22:28",
+  "ultima_atualizacao": "13/08/2026 00:52",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/08/2026 18:05 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m. Canal Varrido fechado."
@@ -84,6 +84,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-13T17:00:00"
+    },
+    {
+      "data": "14/08",
+      "dia_semana": "sexta",
+      "hora": "06:00",
+      "navio": "VIKING BRASILIA",
+      "calado": "8,00",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9368895",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-14T06:00:00"
     },
     {
       "data": "14/08",
@@ -196,6 +212,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-14T20:30:00"
+    },
+    {
+      "data": "15/08",
+      "dia_semana": "sábado",
+      "hora": "05:00",
+      "navio": "VIKING BRASILIA",
+      "calado": "8,60",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9368895",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-15T05:00:00"
     },
     {
       "data": "15/08",
@@ -462,6 +494,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "13/08 08:30",
       "manobra_rio_fim": "14/08 14:00",
+      "navio_multi": "VIKING BRASILIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/08 06:00"
+    },
+    {
+      "navio_rio": "CMA CGM COBALT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "13/08 08:30",
+      "manobra_rio_fim": "14/08 14:00",
       "navio_multi": "YM MOVEMENT",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/08 08:00"
@@ -498,6 +539,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "13/08 10:00",
       "manobra_rio_fim": "14/08 16:00",
+      "navio_multi": "VIKING BRASILIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/08 06:00"
+    },
+    {
+      "navio_rio": "EVER LEADING",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "13/08 10:00",
+      "manobra_rio_fim": "14/08 16:00",
       "navio_multi": "YM MOVEMENT",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/08 08:00"
@@ -510,6 +560,24 @@
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/08 09:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/08 19:00",
+      "manobra_rio_fim": "15/08 07:00",
+      "navio_multi": "VIKING BRASILIA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/08 05:00"
+    },
+    {
+      "navio_rio": "SPYROS V",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/08 20:30",
+      "manobra_rio_fim": "15/08 09:00",
+      "navio_multi": "VIKING BRASILIA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/08 05:00"
     },
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
