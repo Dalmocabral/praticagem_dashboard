@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/08/2026 14:14",
+  "ultima_atualizacao": "13/08/2026 15:11",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/08/2026 12:44 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m."
@@ -10,7 +10,7 @@
       "dia_semana": "quinta",
       "hora": "15:30",
       "navio": "MSC AMALFI",
-      "calado": "13,75",
+      "calado": "13,80",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -90,7 +90,7 @@
       "dia_semana": "sexta",
       "hora": "15:00",
       "navio": "CMA CGM COBALT",
-      "calado": "10,90",
+      "calado": "10,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -234,7 +234,7 @@
       "dia_semana": "sábado",
       "hora": "15:00",
       "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "14,30",
+      "calado": "14,40",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
