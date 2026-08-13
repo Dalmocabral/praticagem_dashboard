@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "13/08/2026 09:31",
+  "ultima_atualizacao": "13/08/2026 11:04",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 11/08/2026 18:05 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m. Canal Varrido fechado."
   },
   "navios": [
-    {
-      "data": "13/08",
-      "dia_semana": "quinta",
-      "hora": "08:30",
-      "navio": "CMA CGM COBALT",
-      "calado": "10,90",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996680",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-13T08:30:00"
-    },
     {
       "data": "13/08",
       "dia_semana": "quinta",
@@ -120,7 +104,7 @@
     {
       "data": "14/08",
       "dia_semana": "sexta",
-      "hora": "14:00",
+      "hora": "15:00",
       "navio": "CMA CGM COBALT",
       "calado": "10,90",
       "manobra": "S",
@@ -131,7 +115,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-14T14:00:00"
+      "timestamp": "2026-08-14T15:00:00"
     },
     {
       "data": "14/08",
@@ -455,51 +439,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM COBALT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/08 08:30",
-      "manobra_rio_fim": "14/08 14:00",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/08 15:30"
-    },
-    {
-      "navio_rio": "CMA CGM COBALT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/08 08:30",
-      "manobra_rio_fim": "14/08 14:00",
-      "navio_multi": "YM MOVEMENT",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/08 17:00"
-    },
-    {
-      "navio_rio": "CMA CGM COBALT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/08 08:30",
-      "manobra_rio_fim": "14/08 14:00",
-      "navio_multi": "VIKING BRASILIA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/08 06:00"
-    },
-    {
-      "navio_rio": "CMA CGM COBALT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/08 08:30",
-      "manobra_rio_fim": "14/08 14:00",
-      "navio_multi": "YM MOVEMENT",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/08 08:00"
-    },
-    {
-      "navio_rio": "CMA CGM COBALT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/08 08:30",
-      "manobra_rio_fim": "14/08 14:00",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/08 09:00"
-    },
     {
       "navio_rio": "EVER LEADING",
       "manobra_rio_afetada": "E",
