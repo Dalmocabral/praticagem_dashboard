@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/08/2026 13:11",
+  "ultima_atualizacao": "13/08/2026 14:14",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/08/2026 12:44 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m."
@@ -33,7 +33,7 @@
       "imo": "9660011",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-13T17:00:00"
     },
@@ -56,7 +56,7 @@
     {
       "data": "14/08",
       "dia_semana": "sexta",
-      "hora": "06:00",
+      "hora": "10:00",
       "navio": "VIKING BRASILIA",
       "calado": "8,00",
       "manobra": "E",
@@ -67,50 +67,18 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-14T06:00:00"
+      "timestamp": "2026-08-14T10:00:00"
     },
     {
       "data": "14/08",
       "dia_semana": "sexta",
-      "hora": "09:00",
+      "hora": "14:00",
       "navio": "MSC AMALFI",
       "calado": "13,00",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9605279",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-14T09:00:00"
-    },
-    {
-      "data": "14/08",
-      "dia_semana": "sexta",
-      "hora": "11:00",
-      "navio": "CAPE SOUNIO",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9727625",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-14T11:00:00"
-    },
-    {
-      "data": "14/08",
-      "dia_semana": "sexta",
-      "hora": "14:00",
-      "navio": "YM MOVEMENT",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9660011",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -148,6 +116,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-14T16:00:00"
+    },
+    {
+      "data": "14/08",
+      "dia_semana": "sexta",
+      "hora": "17:00",
+      "navio": "YM MOVEMENT",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9660011",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-14T17:00:00"
     },
     {
       "data": "14/08",
@@ -292,22 +276,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-15T22:00:00"
-    },
-    {
-      "data": "15/08",
-      "dia_semana": "sábado",
-      "hora": "23:00",
-      "navio": "CAPE SOUNIO",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9727625",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-15T23:00:00"
     },
     {
       "data": "16/08",
@@ -540,15 +508,6 @@
       "navio_multi": "MSC BASEL V",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/08 22:00"
-    },
-    {
-      "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/08 15:00",
-      "manobra_rio_fim": "16/08 08:30",
-      "navio_multi": "CAPE SOUNIO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/08 23:00"
     }
   ]
 }
