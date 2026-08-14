@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/08/2026 13:29",
+  "ultima_atualizacao": "14/08/2026 14:33",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/08/2026 12:44 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m."
@@ -49,7 +49,7 @@
       "imo": "9453365",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-08-14T16:30:00"
     },
@@ -65,7 +65,7 @@
       "imo": "9360764",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-08-14T18:30:00"
     },
@@ -169,12 +169,12 @@
       "data": "15/08",
       "dia_semana": "sábado",
       "hora": "13:00",
-      "navio": "MSC MAXINE",
-      "calado": "13,40",
+      "navio": "MSC INSA",
+      "calado": "13,70",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9720287",
+      "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -232,6 +232,22 @@
     {
       "data": "16/08",
       "dia_semana": "domingo",
+      "hora": "07:30",
+      "navio": "MSC INSA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1016666",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-16T07:30:00"
+    },
+    {
+      "data": "16/08",
+      "dia_semana": "domingo",
       "hora": "08:30",
       "navio": "CMA CGM FRANCOISE SAGAN",
       "calado": "12,60",
@@ -260,22 +276,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-16T10:30:00"
-    },
-    {
-      "data": "16/08",
-      "dia_semana": "domingo",
-      "hora": "15:30",
-      "navio": "MSC MAXINE",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9720287",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-16T15:30:00"
     },
     {
       "data": "16/08",
@@ -549,13 +549,13 @@
       "manobra_multi_data_hora": "15/08 22:00"
     },
     {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/08 10:30",
-      "manobra_rio_fim": "17/08 06:00",
-      "navio_multi": "MSC MAXINE",
+      "navio_rio": "CMA CGM FRANCOISE SAGAN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "15/08 15:00",
+      "manobra_rio_fim": "16/08 08:30",
+      "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/08 15:30"
+      "manobra_multi_data_hora": "16/08 07:30"
     },
     {
       "navio_rio": "CMA CGM VERACRUZ",
