@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "14/08/2026 17:44",
+  "ultima_atualizacao": "14/08/2026 18:10",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/08/2026 12:44 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m."
@@ -136,22 +136,6 @@
     {
       "data": "15/08",
       "dia_semana": "sábado",
-      "hora": "15:00",
-      "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9356696",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-15T15:00:00"
-    },
-    {
-      "data": "15/08",
-      "dia_semana": "sábado",
       "hora": "17:00",
       "navio": "VIKING BRASILIA",
       "calado": "8,60",
@@ -180,6 +164,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-15T18:00:00"
+    },
+    {
+      "data": "15/08",
+      "dia_semana": "sábado",
+      "hora": "20:00",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-15T20:00:00"
     },
     {
       "data": "15/08",
@@ -601,16 +601,7 @@
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/08 15:00",
-      "manobra_rio_fim": "16/08 08:30",
-      "navio_multi": "VIKING BRASILIA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/08 17:00"
-    },
-    {
-      "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/08 15:00",
+      "manobra_rio_inicio": "15/08 20:00",
       "manobra_rio_fim": "16/08 08:30",
       "navio_multi": "MSC BASEL V",
       "manobra_multi_tipo": "S",
@@ -618,8 +609,8 @@
     },
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/08 15:00",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/08 20:00",
       "manobra_rio_fim": "16/08 08:30",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "E",
@@ -628,7 +619,7 @@
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/08 15:00",
+      "manobra_rio_inicio": "15/08 20:00",
       "manobra_rio_fim": "16/08 08:30",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "S",
