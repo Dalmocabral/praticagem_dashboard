@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/08/2026 09:54",
+  "ultima_atualizacao": "15/08/2026 10:32",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 07:45 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -56,22 +56,6 @@
     {
       "data": "15/08",
       "dia_semana": "sábado",
-      "hora": "14:30",
-      "navio": "VIKING BRASILIA",
-      "calado": "8,60",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9368895",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-15T14:30:00"
-    },
-    {
-      "data": "15/08",
-      "dia_semana": "sábado",
       "hora": "16:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,70",
@@ -84,6 +68,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-15T16:30:00"
+    },
+    {
+      "data": "15/08",
+      "dia_semana": "sábado",
+      "hora": "18:00",
+      "navio": "VIKING BRASILIA",
+      "calado": "8,60",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9368895",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-15T18:00:00"
     },
     {
       "data": "15/08",
@@ -136,22 +136,6 @@
     {
       "data": "16/08",
       "dia_semana": "domingo",
-      "hora": "09:30",
-      "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9356696",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-16T09:30:00"
-    },
-    {
-      "data": "16/08",
-      "dia_semana": "domingo",
       "hora": "11:30",
       "navio": "CMA CGM VERACRUZ",
       "calado": "10,50",
@@ -184,10 +168,10 @@
     {
       "data": "16/08",
       "dia_semana": "domingo",
-      "hora": "15:30",
+      "hora": "16:00",
       "navio": "CMA CGM FRANCOISE SAGAN",
       "calado": "12,60",
-      "manobra": "S",
+      "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9356696",
@@ -195,7 +179,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-16T15:30:00"
+      "timestamp": "2026-08-16T16:00:00"
     },
     {
       "data": "17/08",
@@ -244,6 +228,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-17T06:00:00"
+    },
+    {
+      "data": "17/08",
+      "dia_semana": "segunda",
+      "hora": "07:00",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-17T07:00:00"
     },
     {
       "data": "18/08",
@@ -456,15 +456,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/08 09:30",
-      "manobra_rio_fim": "16/08 15:30",
-      "navio_multi": "MSC DAMLA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/08 13:30"
-    },
-    {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "16/08 11:30",
@@ -487,6 +478,24 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "16/08 11:30",
       "manobra_rio_fim": "17/08 06:00",
+      "navio_multi": "ITHACA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/08 04:00"
+    },
+    {
+      "navio_rio": "CMA CGM FRANCOISE SAGAN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/08 16:00",
+      "manobra_rio_fim": "17/08 07:00",
+      "navio_multi": "BOSPORUS HIGHWAY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "17/08 02:00"
+    },
+    {
+      "navio_rio": "CMA CGM FRANCOISE SAGAN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/08 16:00",
+      "manobra_rio_fim": "17/08 07:00",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "17/08 04:00"
