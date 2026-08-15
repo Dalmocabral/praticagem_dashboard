@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "15/08/2026 09:00",
+  "ultima_atualizacao": "15/08/2026 09:54",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 07:45 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "15/08",
-      "dia_semana": "sábado",
-      "hora": "06:30",
-      "navio": "MSC DAMLA",
-      "calado": "14,10",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9250983",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-15T06:30:00"
-    },
     {
       "data": "15/08",
       "dia_semana": "sábado",
@@ -65,7 +49,7 @@
       "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-15T12:30:00"
     },
