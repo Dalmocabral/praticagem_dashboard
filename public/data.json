@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "15/08/2026 11:53",
+  "ultima_atualizacao": "15/08/2026 12:22",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 07:45 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "15/08",
-      "dia_semana": "sábado",
-      "hora": "10:30",
-      "navio": "SPYROS V",
-      "calado": "12,40",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9453365",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-15T10:30:00"
-    },
-    {
-      "data": "15/08",
-      "dia_semana": "sábado",
-      "hora": "12:30",
-      "navio": "MSC INSA",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-15T12:30:00"
-    },
     {
       "data": "15/08",
       "dia_semana": "sábado",
@@ -120,25 +88,9 @@
     {
       "data": "16/08",
       "dia_semana": "domingo",
-      "hora": "07:30",
-      "navio": "MSC INSA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-16T07:30:00"
-    },
-    {
-      "data": "16/08",
-      "dia_semana": "domingo",
       "hora": "10:30",
       "navio": "CMA CGM VERACRUZ",
-      "calado": "10,50",
+      "calado": "10,30",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -471,15 +423,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/08 01:30",
-      "manobra_rio_fim": "16/08 14:30",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/08 07:30"
-    },
     {
       "navio_rio": "NYK DIANA",
       "manobra_rio_afetada": "S",
