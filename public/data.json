@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/08/2026 20:00",
+  "ultima_atualizacao": "15/08/2026 20:30",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -40,7 +40,7 @@
     {
       "data": "16/08",
       "dia_semana": "domingo",
-      "hora": "03:30",
+      "hora": "03:00",
       "navio": "MSC BASEL V",
       "calado": "9,00",
       "manobra": "S",
@@ -51,7 +51,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-16T03:30:00"
+      "timestamp": "2026-08-16T03:00:00"
     },
     {
       "data": "16/08",
@@ -494,7 +494,7 @@
       "manobra_rio_fim": "16/08 13:00",
       "navio_multi": "MSC BASEL V",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/08 03:30"
+      "manobra_multi_data_hora": "16/08 03:00"
     },
     {
       "navio_rio": "NYK DIANA",
