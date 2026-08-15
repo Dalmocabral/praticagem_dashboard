@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/08/2026 04:33",
+  "ultima_atualizacao": "15/08/2026 04:57",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 13/08/2026 12:44 Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,00m."
@@ -8,25 +8,9 @@
     {
       "data": "15/08",
       "dia_semana": "sábado",
-      "hora": "03:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-15T03:00:00"
-    },
-    {
-      "data": "15/08",
-      "dia_semana": "sábado",
       "hora": "06:30",
       "navio": "MSC DAMLA",
-      "calado": "14,20",
+      "calado": "14,10",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
@@ -487,42 +471,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/08 03:00",
-      "manobra_rio_fim": "15/08 18:30",
-      "navio_multi": "MSC DAMLA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/08 06:30"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/08 03:00",
-      "manobra_rio_fim": "15/08 18:30",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/08 08:30"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/08 03:00",
-      "manobra_rio_fim": "15/08 18:30",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/08 12:30"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/08 03:00",
-      "manobra_rio_fim": "15/08 18:30",
-      "navio_multi": "VIKING BRASILIA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/08 14:30"
-    },
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
       "manobra_rio_afetada": "E",
