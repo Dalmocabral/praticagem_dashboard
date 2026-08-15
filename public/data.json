@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/08/2026 13:37",
+  "ultima_atualizacao": "15/08/2026 13:58",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -10,7 +10,7 @@
       "dia_semana": "sábado",
       "hora": "15:30",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,70",
+      "calado": "9,10",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
