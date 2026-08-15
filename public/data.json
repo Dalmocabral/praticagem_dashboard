@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/08/2026 14:51",
+  "ultima_atualizacao": "15/08/2026 15:22",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -24,7 +24,7 @@
     {
       "data": "15/08",
       "dia_semana": "sábado",
-      "hora": "18:00",
+      "hora": "17:30",
       "navio": "VIKING BRASILIA",
       "calado": "8,60",
       "manobra": "S",
@@ -33,9 +33,9 @@
       "imo": "9368895",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-08-15T18:00:00"
+      "timestamp": "2026-08-15T17:30:00"
     },
     {
       "data": "15/08",
