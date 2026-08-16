@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/08/2026 19:59",
+  "ultima_atualizacao": "16/08/2026 20:29",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -17,7 +17,7 @@
       "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-08-17T00:00:00"
     },
@@ -72,7 +72,7 @@
     {
       "data": "17/08",
       "dia_semana": "segunda",
-      "hora": "09:00",
+      "hora": "12:00",
       "navio": "CMA CGM FRANCOISE SAGAN",
       "calado": "14,50",
       "manobra": "E",
@@ -83,7 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-17T09:00:00"
+      "timestamp": "2026-08-17T12:00:00"
     },
     {
       "data": "17/08",
@@ -104,34 +104,18 @@
     {
       "data": "17/08",
       "dia_semana": "segunda",
-      "hora": "15:00",
-      "navio": "MSC MAXINE",
-      "calado": "13,40",
+      "hora": "15:30",
+      "navio": "COPIAPO",
+      "calado": "11,15",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9720287",
+      "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-17T15:00:00"
-    },
-    {
-      "data": "17/08",
-      "dia_semana": "segunda",
-      "hora": "17:00",
-      "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9356696",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-17T17:00:00"
+      "timestamp": "2026-08-17T15:30:00"
     },
     {
       "data": "17/08",
@@ -200,6 +184,22 @@
     {
       "data": "18/08",
       "dia_semana": "terça",
+      "hora": "10:00",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-18T10:00:00"
+    },
+    {
+      "data": "18/08",
+      "dia_semana": "terça",
       "hora": "13:30",
       "navio": "MSC INSA",
       "calado": "13,70",
@@ -217,12 +217,12 @@
       "data": "18/08",
       "dia_semana": "terça",
       "hora": "15:30",
-      "navio": "MSC MAXINE",
-      "calado": "13,50",
+      "navio": "COPIAPO",
+      "calado": "11,50",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9720287",
+      "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -453,27 +453,45 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "17/08 07:00",
       "manobra_rio_fim": "17/08 18:00",
-      "navio_multi": "MSC MAXINE",
+      "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/08 15:00"
+      "manobra_multi_data_hora": "17/08 15:30"
     },
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/08 09:00",
-      "manobra_rio_fim": "17/08 17:00",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "17/08 12:00",
+      "manobra_rio_fim": "18/08 10:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "17/08 13:30"
     },
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/08 09:00",
-      "manobra_rio_fim": "17/08 17:00",
-      "navio_multi": "MSC MAXINE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "17/08 12:00",
+      "manobra_rio_fim": "18/08 10:00",
+      "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/08 15:00"
+      "manobra_multi_data_hora": "17/08 15:30"
+    },
+    {
+      "navio_rio": "CMA CGM FRANCOISE SAGAN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "17/08 12:00",
+      "manobra_rio_fim": "18/08 10:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/08 05:00"
+    },
+    {
+      "navio_rio": "CMA CGM FRANCOISE SAGAN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "17/08 12:00",
+      "manobra_rio_fim": "18/08 10:00",
+      "navio_multi": "BOSPORUS HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/08 06:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
@@ -489,7 +507,7 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "18/08 08:00",
       "manobra_rio_fim": "19/08 08:00",
-      "navio_multi": "MSC MAXINE",
+      "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "18/08 15:30"
     }
