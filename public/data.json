@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/08/2026 11:10",
+  "ultima_atualizacao": "16/08/2026 11:41",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -33,14 +33,14 @@
       "imo": "9250983",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-08-16T14:30:00"
     },
     {
       "data": "16/08",
       "dia_semana": "domingo",
-      "hora": "18:30",
+      "hora": "17:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "11,20",
       "manobra": "E",
@@ -51,7 +51,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-16T18:30:00"
+      "timestamp": "2026-08-16T17:00:00"
     },
     {
       "data": "17/08",
