@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/08/2026 15:39",
+  "ultima_atualizacao": "16/08/2026 16:03",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -22,20 +22,20 @@
       "timestamp": "2026-08-16T17:00:00"
     },
     {
-      "data": "16/08",
-      "dia_semana": "domingo",
-      "hora": "23:00",
+      "data": "17/08",
+      "dia_semana": "segunda",
+      "hora": "01:00",
       "navio": "ITHACA",
       "calado": "7,00",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9968449",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-16T23:00:00"
+      "timestamp": "2026-08-17T01:00:00"
     },
     {
       "data": "17/08",
