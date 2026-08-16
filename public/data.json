@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "16/08/2026 02:21",
+  "ultima_atualizacao": "16/08/2026 02:51",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "15/08",
-      "dia_semana": "sábado",
-      "hora": "23:00",
-      "navio": "ITHACA",
-      "calado": "7,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "passado",
-      "imo": "9968449",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-15T23:00:00"
-    },
-    {
-      "data": "16/08",
-      "dia_semana": "domingo",
-      "hora": "01:00",
-      "navio": "NYK DIANA",
-      "calado": "11,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9337688",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-16T01:00:00"
-    },
     {
       "data": "16/08",
       "dia_semana": "domingo",
@@ -487,24 +455,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "16/08 01:00",
-      "manobra_rio_fim": "16/08 13:00",
-      "navio_multi": "MSC BASEL V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/08 03:00"
-    },
-    {
-      "navio_rio": "NYK DIANA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/08 01:00",
-      "manobra_rio_fim": "16/08 13:00",
-      "navio_multi": "MSC DAMLA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "16/08 11:00"
-    },
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
