@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "16/08/2026 17:40",
+  "ultima_atualizacao": "16/08/2026 18:00",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "16/08",
-      "dia_semana": "domingo",
-      "hora": "17:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "11,20",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-16T17:00:00"
-    },
     {
       "data": "17/08",
       "dia_semana": "segunda",
