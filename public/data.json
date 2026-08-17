@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "17/08/2026 04:30",
+  "ultima_atualizacao": "17/08/2026 05:20",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "17/08",
-      "dia_semana": "segunda",
-      "hora": "03:00",
-      "navio": "BOSPORUS HIGHWAY",
-      "calado": "9,10",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9519107",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-17T03:00:00"
-    },
-    {
-      "data": "17/08",
-      "dia_semana": "segunda",
-      "hora": "07:00",
-      "navio": "MALIAKOS",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9464247",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-17T07:00:00"
-    },
     {
       "data": "17/08",
       "dia_semana": "segunda",
@@ -91,7 +59,7 @@
       "hora": "18:00",
       "navio": "MALIAKOS",
       "calado": "11,50",
-      "manobra": "S",
+      "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9464247",
@@ -100,6 +68,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-17T18:00:00"
+    },
+    {
+      "data": "18/08",
+      "dia_semana": "terça",
+      "hora": "04:00",
+      "navio": "MALIAKOS",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9464247",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-18T04:00:00"
     },
     {
       "data": "18/08",
@@ -407,24 +391,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MALIAKOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/08 07:00",
-      "manobra_rio_fim": "17/08 18:00",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/08 13:30"
-    },
-    {
-      "navio_rio": "MALIAKOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/08 07:00",
-      "manobra_rio_fim": "17/08 18:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/08 15:30"
-    },
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
       "manobra_rio_afetada": "E",
