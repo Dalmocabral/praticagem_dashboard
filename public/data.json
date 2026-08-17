@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/08/2026 08:35",
+  "ultima_atualizacao": "17/08/2026 08:58",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -70,6 +70,22 @@
       "timestamp": "2026-08-17T18:00:00"
     },
     {
+      "data": "17/08",
+      "dia_semana": "segunda",
+      "hora": "20:00",
+      "navio": "BOSPORUS HIGHWAY",
+      "calado": "9,20",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9519107",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-17T20:00:00"
+    },
+    {
       "data": "18/08",
       "dia_semana": "terça",
       "hora": "04:00",
@@ -100,22 +116,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-18T05:00:00"
-    },
-    {
-      "data": "18/08",
-      "dia_semana": "terça",
-      "hora": "06:00",
-      "navio": "BOSPORUS HIGHWAY",
-      "calado": "9,20",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9519107",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-18T06:00:00"
     },
     {
       "data": "18/08",
@@ -411,6 +411,15 @@
     },
     {
       "navio_rio": "CMA CGM FRANCOISE SAGAN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "17/08 12:00",
+      "manobra_rio_fim": "18/08 10:00",
+      "navio_multi": "BOSPORUS HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/08 20:00"
+    },
+    {
+      "navio_rio": "CMA CGM FRANCOISE SAGAN",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "17/08 12:00",
       "manobra_rio_fim": "18/08 10:00",
@@ -419,13 +428,13 @@
       "manobra_multi_data_hora": "18/08 05:00"
     },
     {
-      "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/08 12:00",
-      "manobra_rio_fim": "18/08 10:00",
+      "navio_rio": "MALIAKOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "17/08 18:00",
+      "manobra_rio_fim": "18/08 04:00",
       "navio_multi": "BOSPORUS HIGHWAY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/08 06:00"
+      "manobra_multi_data_hora": "17/08 20:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
