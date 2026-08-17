@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "17/08/2026 10:00",
+  "ultima_atualizacao": "17/08/2026 10:48",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "17/08",
-      "dia_semana": "segunda",
-      "hora": "12:00",
-      "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9356696",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-17T12:00:00"
-    },
     {
       "data": "17/08",
       "dia_semana": "segunda",
@@ -33,7 +17,7 @@
       "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-17T13:30:00"
     },
@@ -84,6 +68,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-17T20:00:00"
+    },
+    {
+      "data": "17/08",
+      "dia_semana": "segunda",
+      "hora": "22:00",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9356696",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-17T22:00:00"
     },
     {
       "data": "18/08",
@@ -391,33 +391,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/08 12:00",
-      "manobra_rio_fim": "18/08 10:00",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/08 13:30"
-    },
-    {
-      "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/08 12:00",
-      "manobra_rio_fim": "18/08 10:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/08 15:30"
-    },
-    {
-      "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/08 12:00",
-      "manobra_rio_fim": "18/08 10:00",
-      "navio_multi": "BOSPORUS HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/08 20:00"
-    },
     {
       "navio_rio": "MALIAKOS",
       "manobra_rio_afetada": "E",
