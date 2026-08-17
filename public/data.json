@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/08/2026 08:03",
+  "ultima_atualizacao": "17/08/2026 08:35",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -216,7 +216,7 @@
     {
       "data": "19/08",
       "dia_semana": "quarta",
-      "hora": "17:00",
+      "hora": "18:00",
       "navio": "NC BRUMA",
       "calado": "9,00",
       "manobra": "E",
@@ -227,7 +227,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-19T17:00:00"
+      "timestamp": "2026-08-19T18:00:00"
     },
     {
       "data": "20/08",
