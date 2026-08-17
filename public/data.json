@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "17/08/2026 00:14",
+  "ultima_atualizacao": "17/08/2026 01:06",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "17/08",
-      "dia_semana": "segunda",
-      "hora": "00:00",
-      "navio": "CMA CGM VERACRUZ",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9418377",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-17T00:00:00"
-    },
     {
       "data": "17/08",
       "dia_semana": "segunda",
@@ -42,7 +26,7 @@
       "dia_semana": "segunda",
       "hora": "03:00",
       "navio": "BOSPORUS HIGHWAY",
-      "calado": "9,20",
+      "calado": "9,10",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
