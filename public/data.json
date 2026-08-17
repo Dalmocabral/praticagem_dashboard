@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/08/2026 08:58",
+  "ultima_atualizacao": "17/08/2026 10:00",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -17,7 +17,7 @@
       "imo": "9356696",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-08-17T12:00:00"
     },
@@ -33,7 +33,7 @@
       "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-08-17T13:30:00"
     },
@@ -104,22 +104,6 @@
     {
       "data": "18/08",
       "dia_semana": "terça",
-      "hora": "05:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-18T05:00:00"
-    },
-    {
-      "data": "18/08",
-      "dia_semana": "terça",
       "hora": "08:00",
       "navio": "COSCO SHIPPING MEXICO",
       "calado": "12,50",
@@ -148,6 +132,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-18T10:00:00"
+    },
+    {
+      "data": "18/08",
+      "dia_semana": "terça",
+      "hora": "13:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-18T13:00:00"
     },
     {
       "data": "18/08",
@@ -419,15 +419,6 @@
       "manobra_multi_data_hora": "17/08 20:00"
     },
     {
-      "navio_rio": "CMA CGM FRANCOISE SAGAN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/08 12:00",
-      "manobra_rio_fim": "18/08 10:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/08 05:00"
-    },
-    {
       "navio_rio": "MALIAKOS",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "17/08 18:00",
@@ -435,6 +426,15 @@
       "navio_multi": "BOSPORUS HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "17/08 20:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/08 08:00",
+      "manobra_rio_fim": "19/08 08:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/08 13:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
