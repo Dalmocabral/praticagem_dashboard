@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "17/08/2026 16:58",
+  "ultima_atualizacao": "17/08/2026 17:36",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 17/08/2026 12:31 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "17/08",
-      "dia_semana": "segunda",
-      "hora": "15:30",
-      "navio": "COPIAPO",
-      "calado": "11,15",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9687526",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-17T15:30:00"
-    },
     {
       "data": "17/08",
       "dia_semana": "segunda",
@@ -65,7 +49,7 @@
       "imo": "9464247",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-08-17T21:00:00"
     },
