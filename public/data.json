@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/08/2026 11:49",
+  "ultima_atualizacao": "17/08/2026 12:14",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 15/08/2026 12:59 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -312,6 +312,22 @@
     {
       "data": "20/08",
       "dia_semana": "quinta",
+      "hora": "11:00",
+      "navio": "RDO ENDEAVOUR",
+      "calado": "13,30",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9302102",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-20T11:00:00"
+    },
+    {
+      "data": "20/08",
+      "dia_semana": "quinta",
       "hora": "14:00",
       "navio": "EVER LEADER",
       "calado": "14,20",
@@ -542,6 +558,15 @@
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "19/08 16:30"
+    },
+    {
+      "navio_rio": "EVER LEADER",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "19/08 10:00",
+      "manobra_rio_fim": "20/08 14:00",
+      "navio_multi": "RDO ENDEAVOUR",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/08 11:00"
     }
   ]
 }
