@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "17/08/2026 15:16",
+  "ultima_atualizacao": "17/08/2026 16:03",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 17/08/2026 12:31 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "17/08",
-      "dia_semana": "segunda",
-      "hora": "13:30",
-      "navio": "MSC INSA",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-17T13:30:00"
-    },
     {
       "data": "17/08",
       "dia_semana": "segunda",
@@ -65,7 +49,7 @@
       "imo": "9519107",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-08-17T19:00:00"
     },
