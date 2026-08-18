@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "18/08/2026 13:25",
+  "ultima_atualizacao": "18/08/2026 13:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
   },
   "navios": [
-    {
-      "data": "18/08",
-      "dia_semana": "terça",
-      "hora": "12:00",
-      "navio": "MSC INSA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-18T12:00:00"
-    },
     {
       "data": "18/08",
       "dia_semana": "terça",
@@ -49,7 +33,7 @@
       "imo": "9628154",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-18T16:30:00"
     },
@@ -90,7 +74,7 @@
       "dia_semana": "quarta",
       "hora": "06:00",
       "navio": "VALOR",
-      "calado": "14,00",
+      "calado": "15,00",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
