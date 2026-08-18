@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "18/08/2026 09:14",
+  "ultima_atualizacao": "18/08/2026 10:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
   },
   "navios": [
-    {
-      "data": "18/08",
-      "dia_semana": "terça",
-      "hora": "07:00",
-      "navio": "MALIAKOS",
-      "calado": "10,10",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9464247",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-18T07:00:00"
-    },
-    {
-      "data": "18/08",
-      "dia_semana": "terça",
-      "hora": "09:00",
-      "navio": "COSCO SHIPPING MEXICO",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945863",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-18T09:00:00"
-    },
     {
       "data": "18/08",
       "dia_semana": "terça",
@@ -76,7 +44,7 @@
       "navio": "VALOR",
       "calado": "14,55",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "hoje",
       "imo": "9628154",
       "tipo_navio": "CONTAINER SHIP",
@@ -100,6 +68,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-18T19:00:00"
+    },
+    {
+      "data": "18/08",
+      "dia_semana": "terça",
+      "hora": "21:00",
+      "navio": "MSC SHANELLE V",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9292175",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-18T21:00:00"
     },
     {
       "data": "19/08",
@@ -156,7 +140,7 @@
       "navio": "VALOR",
       "calado": "14,00",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9628154",
       "tipo_navio": "CONTAINER SHIP",
@@ -196,6 +180,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-19T18:00:00"
+    },
+    {
+      "data": "19/08",
+      "dia_semana": "quarta",
+      "hora": "20:00",
+      "navio": "MSC SHANELLE V",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9292175",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-19T20:00:00"
     },
     {
       "data": "20/08",
@@ -392,42 +392,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "COSCO SHIPPING MEXICO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/08 09:00",
-      "manobra_rio_fim": "19/08 08:00",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/08 12:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING MEXICO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/08 09:00",
-      "manobra_rio_fim": "19/08 08:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/08 15:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING MEXICO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/08 09:00",
-      "manobra_rio_fim": "19/08 08:00",
-      "navio_multi": "VALOR",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/08 17:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING MEXICO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/08 09:00",
-      "manobra_rio_fim": "19/08 08:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/08 19:00"
-    },
-    {
       "navio_rio": "EVER LEADER",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "19/08 10:00",
@@ -456,12 +420,30 @@
     },
     {
       "navio_rio": "EVER LEADER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/08 10:00",
+      "manobra_rio_fim": "20/08 14:00",
+      "navio_multi": "MSC SHANELLE V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/08 20:00"
+    },
+    {
+      "navio_rio": "EVER LEADER",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "19/08 10:00",
       "manobra_rio_fim": "20/08 14:00",
       "navio_multi": "RDO ENDEAVOUR",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "20/08 11:00"
+    },
+    {
+      "navio_rio": "NC BRUMA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/08 18:00",
+      "manobra_rio_fim": "20/08 03:00",
+      "navio_multi": "MSC SHANELLE V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/08 20:00"
     }
   ]
 }
