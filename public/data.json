@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/08/2026 10:12",
+  "ultima_atualizacao": "18/08/2026 10:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -10,7 +10,7 @@
       "dia_semana": "terça",
       "hora": "12:00",
       "navio": "MSC INSA",
-      "calado": "12,70",
+      "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -24,7 +24,7 @@
     {
       "data": "18/08",
       "dia_semana": "terça",
-      "hora": "15:00",
+      "hora": "14:30",
       "navio": "COPIAPO",
       "calado": "9,80",
       "manobra": "S",
@@ -33,9 +33,9 @@
       "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-08-18T15:00:00"
+      "timestamp": "2026-08-18T14:30:00"
     },
     {
       "data": "18/08",
@@ -88,6 +88,22 @@
     {
       "data": "19/08",
       "dia_semana": "quarta",
+      "hora": "06:00",
+      "navio": "VALOR",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9628154",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-19T06:00:00"
+    },
+    {
+      "data": "19/08",
+      "dia_semana": "quarta",
       "hora": "08:00",
       "navio": "COSCO SHIPPING MEXICO",
       "calado": "12,50",
@@ -136,22 +152,6 @@
     {
       "data": "19/08",
       "dia_semana": "quarta",
-      "hora": "14:00",
-      "navio": "VALOR",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-19T14:00:00"
-    },
-    {
-      "data": "19/08",
-      "dia_semana": "quarta",
       "hora": "16:30",
       "navio": "MSC ADELE",
       "calado": "13,20",
@@ -186,7 +186,7 @@
       "dia_semana": "quarta",
       "hora": "20:00",
       "navio": "MSC SHANELLE V",
-      "calado": "10,00",
+      "calado": "10,60",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -399,15 +399,6 @@
       "navio_multi": "RDO ENDEAVOUR",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "19/08 12:00"
-    },
-    {
-      "navio_rio": "EVER LEADER",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/08 10:00",
-      "manobra_rio_fim": "20/08 14:00",
-      "navio_multi": "VALOR",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/08 14:00"
     },
     {
       "navio_rio": "EVER LEADER",
