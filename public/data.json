@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "18/08/2026 07:10",
+  "ultima_atualizacao": "18/08/2026 07:48",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 17/08/2026 12:31 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "18/08",
-      "dia_semana": "terça",
-      "hora": "06:00",
-      "navio": "CMA CGM FRANCOISE SAGAN",
-      "calado": "14,30",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9356696",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-18T06:00:00"
-    },
     {
       "data": "18/08",
       "dia_semana": "terça",
@@ -42,7 +26,7 @@
       "dia_semana": "terça",
       "hora": "09:00",
       "navio": "COSCO SHIPPING MEXICO",
-      "calado": "12,50",
+      "calado": "14,20",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
