@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/08/2026 16:49",
+  "ultima_atualizacao": "18/08/2026 17:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -49,7 +49,7 @@
       "imo": "9292175",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-18T20:00:00"
     },
@@ -104,9 +104,9 @@
     {
       "data": "19/08",
       "dia_semana": "quarta",
-      "hora": "10:00",
+      "hora": "09:00",
       "navio": "EVER LEADER",
-      "calado": "14,20",
+      "calado": "14,16",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -115,7 +115,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-19T10:00:00"
+      "timestamp": "2026-08-19T09:00:00"
     },
     {
       "data": "19/08",
@@ -378,7 +378,7 @@
     {
       "navio_rio": "EVER LEADER",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/08 10:00",
+      "manobra_rio_inicio": "19/08 09:00",
       "manobra_rio_fim": "20/08 14:00",
       "navio_multi": "RDO ENDEAVOUR",
       "manobra_multi_tipo": "E",
@@ -387,7 +387,7 @@
     {
       "navio_rio": "EVER LEADER",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/08 10:00",
+      "manobra_rio_inicio": "19/08 09:00",
       "manobra_rio_fim": "20/08 14:00",
       "navio_multi": "GRANDE GUINEA",
       "manobra_multi_tipo": "E",
@@ -396,7 +396,7 @@
     {
       "navio_rio": "EVER LEADER",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/08 10:00",
+      "manobra_rio_inicio": "19/08 09:00",
       "manobra_rio_fim": "20/08 14:00",
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "E",
@@ -405,7 +405,7 @@
     {
       "navio_rio": "EVER LEADER",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/08 10:00",
+      "manobra_rio_inicio": "19/08 09:00",
       "manobra_rio_fim": "20/08 14:00",
       "navio_multi": "MSC SHANELLE V",
       "manobra_multi_tipo": "S",
@@ -414,7 +414,7 @@
     {
       "navio_rio": "EVER LEADER",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/08 10:00",
+      "manobra_rio_inicio": "19/08 09:00",
       "manobra_rio_fim": "20/08 14:00",
       "navio_multi": "GRANDE GUINEA",
       "manobra_multi_tipo": "S",
@@ -423,7 +423,7 @@
     {
       "navio_rio": "EVER LEADER",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/08 10:00",
+      "manobra_rio_inicio": "19/08 09:00",
       "manobra_rio_fim": "20/08 14:00",
       "navio_multi": "RDO ENDEAVOUR",
       "manobra_multi_tipo": "S",
