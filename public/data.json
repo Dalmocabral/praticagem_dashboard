@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/08/2026 11:45",
+  "ultima_atualizacao": "18/08/2026 12:16",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -106,7 +106,7 @@
       "dia_semana": "quarta",
       "hora": "08:00",
       "navio": "COSCO SHIPPING MEXICO",
-      "calado": "12,50",
+      "calado": "13,30",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -168,22 +168,6 @@
     {
       "data": "19/08",
       "dia_semana": "quarta",
-      "hora": "18:00",
-      "navio": "NC BRUMA",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9612777",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-19T18:00:00"
-    },
-    {
-      "data": "19/08",
-      "dia_semana": "quarta",
       "hora": "20:00",
       "navio": "MSC SHANELLE V",
       "calado": "10,60",
@@ -196,22 +180,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-19T20:00:00"
-    },
-    {
-      "data": "20/08",
-      "dia_semana": "quinta",
-      "hora": "03:00",
-      "navio": "NC BRUMA",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9612777",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-20T03:00:00"
     },
     {
       "data": "20/08",
@@ -426,15 +394,6 @@
       "navio_multi": "RDO ENDEAVOUR",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "20/08 11:00"
-    },
-    {
-      "navio_rio": "NC BRUMA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/08 18:00",
-      "manobra_rio_fim": "20/08 03:00",
-      "navio_multi": "MSC SHANELLE V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/08 20:00"
     }
   ]
 }
