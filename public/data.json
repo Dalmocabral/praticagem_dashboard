@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "18/08/2026 18:03",
+  "ultima_atualizacao": "18/08/2026 18:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
   },
   "navios": [
-    {
-      "data": "18/08",
-      "dia_semana": "terça",
-      "hora": "14:30",
-      "navio": "COPIAPO",
-      "calado": "9,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9687526",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-18T14:30:00"
-    },
-    {
-      "data": "18/08",
-      "dia_semana": "terça",
-      "hora": "16:30",
-      "navio": "VALOR",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-18T16:30:00"
-    },
     {
       "data": "18/08",
       "dia_semana": "terça",
