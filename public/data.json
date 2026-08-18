@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/08/2026 16:25",
+  "ultima_atualizacao": "18/08/2026 16:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -40,23 +40,7 @@
     {
       "data": "18/08",
       "dia_semana": "terça",
-      "hora": "19:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-18T19:00:00"
-    },
-    {
-      "data": "18/08",
-      "dia_semana": "terça",
-      "hora": "21:00",
+      "hora": "20:00",
       "navio": "MSC SHANELLE V",
       "calado": "10,00",
       "manobra": "E",
@@ -65,9 +49,25 @@
       "imo": "9292175",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_antecipada",
+      "terminal": "multi",
+      "timestamp": "2026-08-18T20:00:00"
+    },
+    {
+      "data": "18/08",
+      "dia_semana": "terça",
+      "hora": "22:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "hoje",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-18T21:00:00"
+      "timestamp": "2026-08-18T22:00:00"
     },
     {
       "data": "19/08",
