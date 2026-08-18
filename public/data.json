@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/08/2026 15:52",
+  "ultima_atualizacao": "18/08/2026 16:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -49,7 +49,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-08-18T19:00:00"
     },
@@ -88,7 +88,7 @@
     {
       "data": "19/08",
       "dia_semana": "quarta",
-      "hora": "08:00",
+      "hora": "07:00",
       "navio": "COSCO SHIPPING MEXICO",
       "calado": "13,30",
       "manobra": "S",
@@ -99,7 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-19T08:00:00"
+      "timestamp": "2026-08-19T07:00:00"
     },
     {
       "data": "19/08",
