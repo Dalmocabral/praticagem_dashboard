@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/08/2026 05:18",
+  "ultima_atualizacao": "18/08/2026 05:58",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 17/08/2026 12:31 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -26,7 +26,7 @@
       "dia_semana": "terça",
       "hora": "07:00",
       "navio": "MALIAKOS",
-      "calado": "11,00",
+      "calado": "10,10",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
