@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/08/2026 14:35",
+  "ultima_atualizacao": "18/08/2026 15:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -26,7 +26,7 @@
       "dia_semana": "terça",
       "hora": "16:30",
       "navio": "VALOR",
-      "calado": "14,55",
+      "calado": "14,50",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
@@ -49,7 +49,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-08-18T19:00:00"
     },
@@ -136,6 +136,22 @@
     {
       "data": "19/08",
       "dia_semana": "quarta",
+      "hora": "14:00",
+      "navio": "GRANDE GUINEA",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9437919",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-19T14:00:00"
+    },
+    {
+      "data": "19/08",
+      "dia_semana": "quarta",
       "hora": "16:30",
       "navio": "MSC ADELE",
       "calado": "13,20",
@@ -164,6 +180,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-19T20:00:00"
+    },
+    {
+      "data": "20/08",
+      "dia_semana": "quinta",
+      "hora": "04:00",
+      "navio": "GRANDE GUINEA",
+      "calado": "8,80",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9437919",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-20T04:00:00"
     },
     {
       "data": "20/08",
@@ -357,6 +389,15 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "19/08 10:00",
       "manobra_rio_fim": "20/08 14:00",
+      "navio_multi": "GRANDE GUINEA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/08 14:00"
+    },
+    {
+      "navio_rio": "EVER LEADER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/08 10:00",
+      "manobra_rio_fim": "20/08 14:00",
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "19/08 16:30"
@@ -369,6 +410,15 @@
       "navio_multi": "MSC SHANELLE V",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "19/08 20:00"
+    },
+    {
+      "navio_rio": "EVER LEADER",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "19/08 10:00",
+      "manobra_rio_fim": "20/08 14:00",
+      "navio_multi": "GRANDE GUINEA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/08 04:00"
     },
     {
       "navio_rio": "EVER LEADER",
