@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "17/08/2026 22:14",
+  "ultima_atualizacao": "17/08/2026 23:30",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 17/08/2026 12:31 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "17/08",
-      "dia_semana": "segunda",
-      "hora": "21:00",
-      "navio": "MALIAKOS",
-      "calado": "10,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9464247",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-17T21:00:00"
-    },
     {
       "data": "18/08",
       "dia_semana": "terça",
