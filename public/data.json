@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/08/2026 01:08",
+  "ultima_atualizacao": "18/08/2026 01:52",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 17/08/2026 12:31 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -88,7 +88,7 @@
     {
       "data": "18/08",
       "dia_semana": "terça",
-      "hora": "15:30",
+      "hora": "15:00",
       "navio": "COPIAPO",
       "calado": "9,80",
       "manobra": "S",
@@ -99,7 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-18T15:30:00"
+      "timestamp": "2026-08-18T15:00:00"
     },
     {
       "data": "18/08",
@@ -432,7 +432,7 @@
       "manobra_rio_fim": "19/08 08:00",
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/08 15:30"
+      "manobra_multi_data_hora": "18/08 15:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
