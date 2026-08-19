@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "19/08/2026 13:26",
+  "ultima_atualizacao": "19/08/2026 13:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
   },
   "navios": [
-    {
-      "data": "19/08",
-      "dia_semana": "quarta",
-      "hora": "12:00",
-      "navio": "RDO ENDEAVOUR",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9302102",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-19T12:00:00"
-    },
     {
       "data": "19/08",
       "dia_semana": "quarta",
@@ -33,7 +17,7 @@
       "imo": "9437919",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-08-19T17:30:00"
     },
