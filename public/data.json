@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/08/2026 18:08",
+  "ultima_atualizacao": "19/08/2026 18:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -8,23 +8,7 @@
     {
       "data": "19/08",
       "dia_semana": "quarta",
-      "hora": "17:30",
-      "navio": "GRANDE GUINEA",
-      "calado": "9,70",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9437919",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-19T17:30:00"
-    },
-    {
-      "data": "19/08",
-      "dia_semana": "quarta",
-      "hora": "20:00",
+      "hora": "21:30",
       "navio": "MSC SHANELLE V",
       "calado": "10,80",
       "manobra": "S",
@@ -35,7 +19,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-08-19T20:00:00"
+      "timestamp": "2026-08-19T21:30:00"
     },
     {
       "data": "20/08",
