@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/08/2026 17:02",
+  "ultima_atualizacao": "19/08/2026 17:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -74,7 +74,7 @@
       "dia_semana": "quinta",
       "hora": "11:00",
       "navio": "RDO ENDEAVOUR",
-      "calado": "13,30",
+      "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
