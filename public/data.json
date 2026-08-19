@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "19/08/2026 11:00",
+  "ultima_atualizacao": "19/08/2026 11:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
   },
   "navios": [
-    {
-      "data": "19/08",
-      "dia_semana": "quarta",
-      "hora": "07:00",
-      "navio": "COSCO SHIPPING MEXICO",
-      "calado": "13,30",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945863",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-19T07:00:00"
-    },
-    {
-      "data": "19/08",
-      "dia_semana": "quarta",
-      "hora": "09:00",
-      "navio": "EVER LEADER",
-      "calado": "14,15",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9595503",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-19T09:00:00"
-    },
     {
       "data": "19/08",
       "dia_semana": "quarta",
@@ -88,22 +56,6 @@
     {
       "data": "20/08",
       "dia_semana": "quinta",
-      "hora": "04:00",
-      "navio": "GRANDE GUINEA",
-      "calado": "8,80",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9437919",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-20T04:00:00"
-    },
-    {
-      "data": "20/08",
-      "dia_semana": "quinta",
       "hora": "06:30",
       "navio": "MSC ADELE",
       "calado": "13,20",
@@ -132,6 +84,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-20T08:30:00"
+    },
+    {
+      "data": "20/08",
+      "dia_semana": "quinta",
+      "hora": "10:00",
+      "navio": "GRANDE GUINEA",
+      "calado": "8,80",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9437919",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-20T10:00:00"
     },
     {
       "data": "20/08",
@@ -358,51 +326,5 @@
       "timestamp": "2026-09-03T16:00:00"
     }
   ],
-  "conflitos": [
-    {
-      "navio_rio": "EVER LEADER",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/08 09:00",
-      "manobra_rio_fim": "20/08 08:30",
-      "navio_multi": "RDO ENDEAVOUR",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/08 12:00"
-    },
-    {
-      "navio_rio": "EVER LEADER",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/08 09:00",
-      "manobra_rio_fim": "20/08 08:30",
-      "navio_multi": "GRANDE GUINEA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/08 17:30"
-    },
-    {
-      "navio_rio": "EVER LEADER",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/08 09:00",
-      "manobra_rio_fim": "20/08 08:30",
-      "navio_multi": "MSC SHANELLE V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/08 20:00"
-    },
-    {
-      "navio_rio": "EVER LEADER",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/08 09:00",
-      "manobra_rio_fim": "20/08 08:30",
-      "navio_multi": "GRANDE GUINEA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/08 04:00"
-    },
-    {
-      "navio_rio": "EVER LEADER",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/08 09:00",
-      "manobra_rio_fim": "20/08 08:30",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/08 06:30"
-    }
-  ]
+  "conflitos": []
 }
