@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/08/2026 08:44",
+  "ultima_atualizacao": "19/08/2026 09:14",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -49,7 +49,7 @@
       "imo": "9302102",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-19T12:00:00"
     },
@@ -150,6 +150,22 @@
       "timestamp": "2026-08-20T11:00:00"
     },
     {
+      "data": "20/08",
+      "dia_semana": "quinta",
+      "hora": "14:00",
+      "navio": "MSC MAXINE",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9720287",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-20T14:00:00"
+    },
+    {
       "data": "21/08",
       "dia_semana": "sexta",
       "hora": "15:30",
@@ -164,6 +180,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-21T15:30:00"
+    },
+    {
+      "data": "21/08",
+      "dia_semana": "sexta",
+      "hora": "20:00",
+      "navio": "MSC MAXINE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9720287",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-21T20:00:00"
     },
     {
       "data": "26/08",
