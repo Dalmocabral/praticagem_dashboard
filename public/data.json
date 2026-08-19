@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/08/2026 15:46",
+  "ultima_atualizacao": "19/08/2026 16:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -33,7 +33,7 @@
       "imo": "9292175",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-08-19T20:00:00"
     },
@@ -72,22 +72,6 @@
     {
       "data": "20/08",
       "dia_semana": "quinta",
-      "hora": "10:00",
-      "navio": "GRANDE GUINEA",
-      "calado": "8,80",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9437919",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-20T10:00:00"
-    },
-    {
-      "data": "20/08",
-      "dia_semana": "quinta",
       "hora": "11:00",
       "navio": "RDO ENDEAVOUR",
       "calado": "13,30",
@@ -100,6 +84,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-20T11:00:00"
+    },
+    {
+      "data": "20/08",
+      "dia_semana": "quinta",
+      "hora": "12:00",
+      "navio": "GRANDE GUINEA",
+      "calado": "8,80",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9437919",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-20T12:00:00"
     },
     {
       "data": "20/08",
@@ -122,7 +122,7 @@
       "dia_semana": "quinta",
       "hora": "16:00",
       "navio": "CMA CGM THORIUM",
-      "calado": "14,00",
+      "calado": "10,60",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
