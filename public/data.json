@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/08/2026 12:56",
+  "ultima_atualizacao": "20/08/2026 13:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -17,7 +17,7 @@
       "imo": "9996745",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-08-20T16:00:00"
     },
@@ -104,6 +104,22 @@
     {
       "data": "21/08",
       "dia_semana": "sexta",
+      "hora": "17:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-21T17:30:00"
+    },
+    {
+      "data": "21/08",
+      "dia_semana": "sexta",
       "hora": "20:00",
       "navio": "MSC MAXINE",
       "calado": "12,60",
@@ -120,6 +136,22 @@
     {
       "data": "22/08",
       "dia_semana": "sábado",
+      "hora": "05:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "10,00",
+      "manobra": "M",
+      "beco": "TECONTPROLONG -> TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-22T05:00:00"
+    },
+    {
+      "data": "22/08",
+      "dia_semana": "sábado",
       "hora": "07:00",
       "navio": "MAERSK EVERGLADES",
       "calado": "10,90",
@@ -132,6 +164,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-22T07:00:00"
+    },
+    {
+      "data": "22/08",
+      "dia_semana": "sábado",
+      "hora": "15:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-22T15:30:00"
     },
     {
       "data": "23/08",
@@ -337,6 +385,24 @@
       "navio_multi": "GRANDE GUINEA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "21/08 01:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/08 17:30",
+      "manobra_rio_fim": "22/08 05:00",
+      "navio_multi": "MSC MAXINE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/08 20:00"
+    },
+    {
+      "navio_rio": "MAERSK EVERGLADES",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/08 07:00",
+      "manobra_rio_fim": "23/08 08:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/08 15:30"
     }
   ]
 }
