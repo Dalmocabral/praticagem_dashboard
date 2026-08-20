@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "20/08/2026 08:00",
+  "ultima_atualizacao": "20/08/2026 08:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
   },
   "navios": [
-    {
-      "data": "20/08",
-      "dia_semana": "quinta",
-      "hora": "06:30",
-      "navio": "MSC ADELE",
-      "calado": "13,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-20T06:30:00"
-    },
     {
       "data": "20/08",
       "dia_semana": "quinta",
