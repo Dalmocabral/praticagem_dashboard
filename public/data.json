@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "20/08/2026 17:12",
+  "ultima_atualizacao": "20/08/2026 17:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
   },
   "navios": [
-    {
-      "data": "20/08",
-      "dia_semana": "quinta",
-      "hora": "16:00",
-      "navio": "CMA CGM THORIUM",
-      "calado": "10,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996745",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-20T16:00:00"
-    },
     {
       "data": "20/08",
       "dia_semana": "quinta",
@@ -359,33 +343,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "20/08 16:00",
-      "manobra_rio_fim": "21/08 06:30",
-      "navio_multi": "RDO ENDEAVOUR",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/08 22:00"
-    },
-    {
-      "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "20/08 16:00",
-      "manobra_rio_fim": "21/08 06:30",
-      "navio_multi": "MSC MAXINE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/08 00:00"
-    },
-    {
-      "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "20/08 16:00",
-      "manobra_rio_fim": "21/08 06:30",
-      "navio_multi": "GRANDE GUINEA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/08 02:00"
-    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
