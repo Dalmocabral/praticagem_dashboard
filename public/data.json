@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/08/2026 07:32",
+  "ultima_atualizacao": "20/08/2026 08:00",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -150,6 +150,22 @@
       "timestamp": "2026-08-21T20:00:00"
     },
     {
+      "data": "22/08",
+      "dia_semana": "sábado",
+      "hora": "07:00",
+      "navio": "MAERSK EVERGLADES",
+      "calado": "10,90",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9928205",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-22T07:00:00"
+    },
+    {
       "data": "23/08",
       "dia_semana": "domingo",
       "hora": "06:00",
@@ -164,6 +180,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-23T06:00:00"
+    },
+    {
+      "data": "23/08",
+      "dia_semana": "domingo",
+      "hora": "08:00",
+      "navio": "MAERSK EVERGLADES",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9928205",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-23T08:00:00"
     },
     {
       "data": "23/08",
