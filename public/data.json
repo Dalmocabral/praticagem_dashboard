@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/08/2026 00:30",
+  "ultima_atualizacao": "20/08/2026 01:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -40,22 +40,6 @@
     {
       "data": "20/08",
       "dia_semana": "quinta",
-      "hora": "11:00",
-      "navio": "RDO ENDEAVOUR",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9302102",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-20T11:00:00"
-    },
-    {
-      "data": "20/08",
-      "dia_semana": "quinta",
       "hora": "12:00",
       "navio": "GRANDE GUINEA",
       "calado": "8,80",
@@ -72,22 +56,6 @@
     {
       "data": "20/08",
       "dia_semana": "quinta",
-      "hora": "14:00",
-      "navio": "MSC MAXINE",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9720287",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-20T14:00:00"
-    },
-    {
-      "data": "20/08",
-      "dia_semana": "quinta",
       "hora": "16:00",
       "navio": "CMA CGM THORIUM",
       "calado": "10,60",
@@ -100,6 +68,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-20T16:00:00"
+    },
+    {
+      "data": "20/08",
+      "dia_semana": "quinta",
+      "hora": "19:00",
+      "navio": "RDO ENDEAVOUR",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9302102",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-20T19:00:00"
+    },
+    {
+      "data": "20/08",
+      "dia_semana": "quinta",
+      "hora": "21:00",
+      "navio": "MSC MAXINE",
+      "calado": "12,20",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9720287",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-20T21:00:00"
     },
     {
       "data": "21/08",
@@ -310,5 +310,24 @@
       "timestamp": "2026-09-03T16:00:00"
     }
   ],
-  "conflitos": []
+  "conflitos": [
+    {
+      "navio_rio": "CMA CGM THORIUM",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/08 16:00",
+      "manobra_rio_fim": "21/08 06:00",
+      "navio_multi": "RDO ENDEAVOUR",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/08 19:00"
+    },
+    {
+      "navio_rio": "CMA CGM THORIUM",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/08 16:00",
+      "manobra_rio_fim": "21/08 06:00",
+      "navio_multi": "MSC MAXINE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "20/08 21:00"
+    }
+  ]
 }
