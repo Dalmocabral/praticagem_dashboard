@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "20/08/2026 09:00",
+  "ultima_atualizacao": "20/08/2026 10:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
   },
   "navios": [
-    {
-      "data": "20/08",
-      "dia_semana": "quinta",
-      "hora": "08:30",
-      "navio": "EVER LEADER",
-      "calado": "13,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9595503",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-20T08:30:00"
-    },
     {
       "data": "20/08",
       "dia_semana": "quinta",
