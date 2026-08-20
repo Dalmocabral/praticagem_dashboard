@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/08/2026 14:49",
+  "ultima_atualizacao": "20/08/2026 15:23",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -24,7 +24,7 @@
     {
       "data": "20/08",
       "dia_semana": "quinta",
-      "hora": "19:00",
+      "hora": "22:00",
       "navio": "RDO ENDEAVOUR",
       "calado": "12,60",
       "manobra": "S",
@@ -35,23 +35,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-20T19:00:00"
+      "timestamp": "2026-08-20T22:00:00"
     },
     {
-      "data": "20/08",
-      "dia_semana": "quinta",
-      "hora": "21:00",
+      "data": "21/08",
+      "dia_semana": "sexta",
+      "hora": "00:00",
       "navio": "MSC MAXINE",
       "calado": "12,20",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-20T21:00:00"
+      "timestamp": "2026-08-21T00:00:00"
     },
     {
       "data": "21/08",
@@ -366,16 +366,16 @@
       "manobra_rio_fim": "21/08 06:30",
       "navio_multi": "RDO ENDEAVOUR",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/08 19:00"
+      "manobra_multi_data_hora": "20/08 22:00"
     },
     {
       "navio_rio": "CMA CGM THORIUM",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "20/08 16:00",
       "manobra_rio_fim": "21/08 06:30",
       "navio_multi": "MSC MAXINE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/08 21:00"
+      "manobra_multi_data_hora": "21/08 00:00"
     },
     {
       "navio_rio": "CMA CGM THORIUM",
