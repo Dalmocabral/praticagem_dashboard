@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "19/08/2026 22:26",
+  "ultima_atualizacao": "19/08/2026 23:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
   },
   "navios": [
-    {
-      "data": "19/08",
-      "dia_semana": "quarta",
-      "hora": "21:30",
-      "navio": "MSC SHANELLE V",
-      "calado": "10,80",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "passado",
-      "imo": "9292175",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-19T21:30:00"
-    },
     {
       "data": "20/08",
       "dia_semana": "quinta",
