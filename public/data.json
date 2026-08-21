@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "21/08/2026 14:04",
+  "ultima_atualizacao": "21/08/2026 14:41",
   "barra_info": {
-    "restrita": false,
-    "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
+    "restrita": true,
+    "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "21/08",
-      "dia_semana": "sexta",
-      "hora": "16:00",
-      "navio": "MSC ADELE",
-      "calado": "12,90",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-21T16:00:00"
-    },
     {
       "data": "22/08",
       "dia_semana": "sábado",
