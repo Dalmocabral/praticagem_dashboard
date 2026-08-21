@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/08/2026 07:39",
+  "ultima_atualizacao": "21/08/2026 08:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -24,7 +24,7 @@
     {
       "data": "21/08",
       "dia_semana": "sexta",
-      "hora": "10:00",
+      "hora": "10:30",
       "navio": "GRANDE GUINEA",
       "calado": "9,70",
       "manobra": "S",
@@ -35,7 +35,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-08-21T10:00:00"
+      "timestamp": "2026-08-21T10:30:00"
     },
     {
       "data": "21/08",
