@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "21/08/2026 04:03",
+  "ultima_atualizacao": "21/08/2026 04:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
   },
   "navios": [
-    {
-      "data": "21/08",
-      "dia_semana": "sexta",
-      "hora": "06:30",
-      "navio": "CMA CGM THORIUM",
-      "calado": "10,90",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996745",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-21T06:30:00"
-    },
     {
       "data": "21/08",
       "dia_semana": "sexta",
@@ -33,9 +17,25 @@
       "imo": "9437919",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-08-21T07:30:00"
+    },
+    {
+      "data": "21/08",
+      "dia_semana": "sexta",
+      "hora": "08:30",
+      "navio": "CMA CGM THORIUM",
+      "calado": "10,90",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9996745",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
+      "terminal": "rio",
+      "timestamp": "2026-08-21T08:30:00"
     },
     {
       "data": "21/08",
