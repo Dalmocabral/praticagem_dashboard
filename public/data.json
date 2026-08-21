@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/08/2026 08:03",
+  "ultima_atualizacao": "21/08/2026 08:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 18/08/2026 09:04"
@@ -40,22 +40,6 @@
     {
       "data": "21/08",
       "dia_semana": "sexta",
-      "hora": "15:30",
-      "navio": "MSC ADELE",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-21T15:30:00"
-    },
-    {
-      "data": "21/08",
-      "dia_semana": "sexta",
       "hora": "17:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "10,00",
@@ -73,12 +57,12 @@
       "data": "21/08",
       "dia_semana": "sexta",
       "hora": "20:00",
-      "navio": "MSC MAXINE",
+      "navio": "MSC ADELE",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9720287",
+      "imo": "1016692",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -116,6 +100,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-22T07:00:00"
+    },
+    {
+      "data": "22/08",
+      "dia_semana": "sábado",
+      "hora": "09:00",
+      "navio": "MSC MAXINE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9720287",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-22T09:00:00"
     },
     {
       "data": "22/08",
@@ -348,9 +348,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "21/08 17:30",
       "manobra_rio_fim": "22/08 05:00",
-      "navio_multi": "MSC MAXINE",
+      "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "21/08 20:00"
+    },
+    {
+      "navio_rio": "MAERSK EVERGLADES",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/08 07:00",
+      "manobra_rio_fim": "23/08 08:00",
+      "navio_multi": "MSC MAXINE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/08 09:00"
     },
     {
       "navio_rio": "MAERSK EVERGLADES",
