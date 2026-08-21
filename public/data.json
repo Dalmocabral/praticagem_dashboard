@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/08/2026 17:25",
+  "ultima_atualizacao": "21/08/2026 17:52",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -40,7 +40,7 @@
     {
       "data": "22/08",
       "dia_semana": "sábado",
-      "hora": "09:00",
+      "hora": "08:30",
       "navio": "MSC ADELE",
       "calado": "12,90",
       "manobra": "S",
@@ -51,12 +51,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-22T09:00:00"
+      "timestamp": "2026-08-22T08:30:00"
     },
     {
       "data": "22/08",
       "dia_semana": "sábado",
-      "hora": "10:00",
+      "hora": "09:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "10,00",
       "manobra": "S",
@@ -67,12 +67,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-22T10:00:00"
+      "timestamp": "2026-08-22T09:30:00"
     },
     {
       "data": "22/08",
       "dia_semana": "sábado",
-      "hora": "11:00",
+      "hora": "10:30",
       "navio": "MSC MAXINE",
       "calado": "10,80",
       "manobra": "S",
@@ -83,12 +83,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-22T11:00:00"
+      "timestamp": "2026-08-22T10:30:00"
     },
     {
       "data": "22/08",
       "dia_semana": "sábado",
-      "hora": "13:00",
+      "hora": "12:30",
       "navio": "MSC BIANCA",
       "calado": "15,10",
       "manobra": "E",
@@ -99,14 +99,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-22T13:00:00"
+      "timestamp": "2026-08-22T12:30:00"
     },
     {
       "data": "22/08",
       "dia_semana": "sábado",
       "hora": "14:30",
       "navio": "BREMERHAVEN EXPRESS",
-      "calado": "12,70",
+      "calado": "12,30",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
@@ -395,10 +395,10 @@
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "22/08 00:00",
-      "manobra_rio_fim": "22/08 10:00",
+      "manobra_rio_fim": "22/08 09:30",
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/08 09:00"
+      "manobra_multi_data_hora": "22/08 08:30"
     },
     {
       "navio_rio": "MAERSK EVERGLADES",
@@ -407,7 +407,7 @@
       "manobra_rio_fim": "22/08 16:30",
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/08 09:00"
+      "manobra_multi_data_hora": "22/08 08:30"
     },
     {
       "navio_rio": "MAERSK EVERGLADES",
@@ -416,7 +416,7 @@
       "manobra_rio_fim": "22/08 16:30",
       "navio_multi": "MSC MAXINE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/08 11:00"
+      "manobra_multi_data_hora": "22/08 10:30"
     },
     {
       "navio_rio": "MAERSK EVERGLADES",
@@ -425,7 +425,7 @@
       "manobra_rio_fim": "22/08 16:30",
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "22/08 13:00"
+      "manobra_multi_data_hora": "22/08 12:30"
     },
     {
       "navio_rio": "MAERSK EVERGLADES",
