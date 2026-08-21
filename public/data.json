@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/08/2026 16:53",
+  "ultima_atualizacao": "21/08/2026 17:25",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -24,7 +24,7 @@
     {
       "data": "22/08",
       "dia_semana": "sábado",
-      "hora": "07:00",
+      "hora": "06:30",
       "navio": "MAERSK EVERGLADES",
       "calado": "10,70",
       "manobra": "E",
@@ -35,7 +35,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-22T07:00:00"
+      "timestamp": "2026-08-22T06:30:00"
     },
     {
       "data": "22/08",
@@ -140,7 +140,7 @@
       "navio": "MERCOSUL FORTALEZA",
       "calado": "12,00",
       "manobra": "E",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9784661",
       "tipo_navio": "CONTAINER SHIP",
@@ -204,7 +204,7 @@
       "navio": "MERCOSUL FORTALEZA",
       "calado": "12,00",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9784661",
       "tipo_navio": "CONTAINER SHIP",
@@ -403,7 +403,7 @@
     {
       "navio_rio": "MAERSK EVERGLADES",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/08 07:00",
+      "manobra_rio_inicio": "22/08 06:30",
       "manobra_rio_fim": "22/08 16:30",
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "S",
@@ -412,7 +412,7 @@
     {
       "navio_rio": "MAERSK EVERGLADES",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/08 07:00",
+      "manobra_rio_inicio": "22/08 06:30",
       "manobra_rio_fim": "22/08 16:30",
       "navio_multi": "MSC MAXINE",
       "manobra_multi_tipo": "S",
@@ -421,7 +421,7 @@
     {
       "navio_rio": "MAERSK EVERGLADES",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/08 07:00",
+      "manobra_rio_inicio": "22/08 06:30",
       "manobra_rio_fim": "22/08 16:30",
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "E",
@@ -430,7 +430,7 @@
     {
       "navio_rio": "MAERSK EVERGLADES",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/08 07:00",
+      "manobra_rio_inicio": "22/08 06:30",
       "manobra_rio_fim": "22/08 16:30",
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "E",
