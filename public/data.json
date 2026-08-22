@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/08/2026 15:41",
+  "ultima_atualizacao": "22/08/2026 16:08",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -49,7 +49,7 @@
       "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-08-22T20:00:00"
     },
@@ -88,7 +88,7 @@
     {
       "data": "23/08",
       "dia_semana": "domingo",
-      "hora": "06:30",
+      "hora": "08:30",
       "navio": "APL NEW JERSEY",
       "calado": "14,30",
       "manobra": "E",
@@ -99,7 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-23T06:30:00"
+      "timestamp": "2026-08-23T08:30:00"
     },
     {
       "data": "23/08",
@@ -371,7 +371,7 @@
     {
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/08 06:30",
+      "manobra_rio_inicio": "23/08 08:30",
       "manobra_rio_fim": "24/08 07:30",
       "navio_multi": "LE HAVRE",
       "manobra_multi_tipo": "E",
@@ -380,7 +380,7 @@
     {
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/08 06:30",
+      "manobra_rio_inicio": "23/08 08:30",
       "manobra_rio_fim": "24/08 07:30",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
@@ -389,7 +389,7 @@
     {
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/08 06:30",
+      "manobra_rio_inicio": "23/08 08:30",
       "manobra_rio_fim": "24/08 07:30",
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
