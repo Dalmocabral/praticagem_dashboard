@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "22/08/2026 17:24",
+  "ultima_atualizacao": "22/08/2026 17:50",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "22/08",
-      "dia_semana": "sábado",
-      "hora": "16:30",
-      "navio": "MAERSK EVERGLADES",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9928205",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-22T16:30:00"
-    },
     {
       "data": "22/08",
       "dia_semana": "sábado",
