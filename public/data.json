@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/08/2026 05:50",
+  "ultima_atualizacao": "22/08/2026 06:19",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -40,7 +40,7 @@
     {
       "data": "22/08",
       "dia_semana": "sábado",
-      "hora": "09:30",
+      "hora": "11:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "10,00",
       "manobra": "S",
@@ -49,36 +49,20 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-22T09:30:00"
+      "timestamp": "2026-08-22T11:00:00"
     },
     {
       "data": "22/08",
       "dia_semana": "sábado",
-      "hora": "10:30",
+      "hora": "12:30",
       "navio": "MSC MAXINE",
       "calado": "10,80",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9720287",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-22T10:30:00"
-    },
-    {
-      "data": "22/08",
-      "dia_semana": "sábado",
-      "hora": "12:30",
-      "navio": "MSC BIANCA",
-      "calado": "15,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9770749",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -136,23 +120,7 @@
     {
       "data": "23/08",
       "dia_semana": "domingo",
-      "hora": "08:00",
-      "navio": "BREMERHAVEN EXPRESS",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9723253",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-23T08:00:00"
-    },
-    {
-      "data": "23/08",
-      "dia_semana": "domingo",
-      "hora": "10:00",
+      "hora": "06:30",
       "navio": "APL NEW JERSEY",
       "calado": "13,90",
       "manobra": "E",
@@ -163,15 +131,31 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-23T10:00:00"
+      "timestamp": "2026-08-23T06:30:00"
     },
     {
       "data": "23/08",
       "dia_semana": "domingo",
-      "hora": "13:30",
-      "navio": "MSC BIANCA",
-      "calado": "15,10",
+      "hora": "08:30",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "12,00",
       "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-23T08:30:00"
+    },
+    {
+      "data": "23/08",
+      "dia_semana": "domingo",
+      "hora": "11:30",
+      "navio": "MSC BIANCA",
+      "calado": "15,20",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9770749",
@@ -179,7 +163,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-23T13:30:00"
+      "timestamp": "2026-08-23T11:30:00"
     },
     {
       "data": "23/08",
@@ -228,6 +212,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-23T22:00:00"
+    },
+    {
+      "data": "24/08",
+      "dia_semana": "segunda",
+      "hora": "10:30",
+      "navio": "MSC BIANCA",
+      "calado": "15,10",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9770749",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-24T10:30:00"
     },
     {
       "data": "25/08",
@@ -386,20 +386,11 @@
     },
     {
       "navio_rio": "MAERSK EVERGLADES",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "22/08 06:30",
       "manobra_rio_fim": "22/08 16:30",
       "navio_multi": "MSC MAXINE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/08 10:30"
-    },
-    {
-      "navio_rio": "MAERSK EVERGLADES",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/08 06:30",
-      "manobra_rio_fim": "22/08 16:30",
-      "navio_multi": "MSC BIANCA",
-      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "22/08 12:30"
     },
     {
@@ -418,7 +409,7 @@
       "manobra_rio_fim": "23/08 16:00",
       "navio_multi": "BREMERHAVEN EXPRESS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/08 08:00"
+      "manobra_multi_data_hora": "23/08 08:30"
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
@@ -426,17 +417,35 @@
       "manobra_rio_inicio": "23/08 00:00",
       "manobra_rio_fim": "23/08 16:00",
       "navio_multi": "MSC BIANCA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/08 13:30"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/08 11:30"
     },
     {
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/08 10:00",
+      "manobra_rio_inicio": "23/08 06:30",
+      "manobra_rio_fim": "23/08 22:00",
+      "navio_multi": "BREMERHAVEN EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "23/08 08:30"
+    },
+    {
+      "navio_rio": "APL NEW JERSEY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/08 06:30",
       "manobra_rio_fim": "23/08 22:00",
       "navio_multi": "MSC BIANCA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/08 11:30"
+    },
+    {
+      "navio_rio": "MTM NEW YORK",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/08 18:00",
+      "manobra_rio_fim": "25/08 18:00",
+      "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/08 13:30"
+      "manobra_multi_data_hora": "24/08 10:30"
     }
   ]
 }
