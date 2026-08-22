@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/08/2026 11:41",
+  "ultima_atualizacao": "22/08/2026 12:00",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -122,7 +122,7 @@
       "dia_semana": "domingo",
       "hora": "08:30",
       "navio": "BREMERHAVEN EXPRESS",
-      "calado": "12,00",
+      "calado": "14,40",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
