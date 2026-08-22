@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "22/08/2026 12:00",
+  "ultima_atualizacao": "22/08/2026 12:31",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "22/08",
-      "dia_semana": "sábado",
-      "hora": "11:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,90",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-22T11:00:00"
-    },
     {
       "data": "22/08",
       "dia_semana": "sábado",
@@ -33,7 +17,7 @@
       "imo": "9928205",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-08-22T16:30:00"
     },
@@ -120,27 +104,11 @@
     {
       "data": "23/08",
       "dia_semana": "domingo",
-      "hora": "08:30",
-      "navio": "BREMERHAVEN EXPRESS",
-      "calado": "14,40",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9723253",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-23T08:30:00"
-    },
-    {
-      "data": "23/08",
-      "dia_semana": "domingo",
       "hora": "10:30",
       "navio": "MSC BIANCA",
       "calado": "15,20",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9770749",
       "tipo_navio": "CONTAINER SHIP",
@@ -216,11 +184,27 @@
     {
       "data": "24/08",
       "dia_semana": "segunda",
+      "hora": "06:00",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-24T06:00:00"
+    },
+    {
+      "data": "24/08",
+      "dia_semana": "segunda",
       "hora": "10:30",
       "navio": "MSC BIANCA",
       "calado": "15,10",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9770749",
       "tipo_navio": "CONTAINER SHIP",
@@ -380,27 +364,9 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "23/08 00:00",
       "manobra_rio_fim": "23/08 16:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/08 08:30"
-    },
-    {
-      "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/08 00:00",
-      "manobra_rio_fim": "23/08 16:00",
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/08 10:30"
-    },
-    {
-      "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/08 06:30",
-      "manobra_rio_fim": "23/08 22:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/08 08:30"
     },
     {
       "navio_rio": "APL NEW JERSEY",
@@ -428,6 +394,15 @@
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/08 20:00"
+    },
+    {
+      "navio_rio": "MTM NEW YORK",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/08 18:00",
+      "manobra_rio_fim": "25/08 18:00",
+      "navio_multi": "BREMERHAVEN EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/08 06:00"
     },
     {
       "navio_rio": "MTM NEW YORK",
