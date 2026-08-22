@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/08/2026 12:52",
+  "ultima_atualizacao": "22/08/2026 13:22",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -166,22 +166,6 @@
       "timestamp": "2026-08-23T20:00:00"
     },
     {
-      "data": "23/08",
-      "dia_semana": "domingo",
-      "hora": "22:00",
-      "navio": "APL NEW JERSEY",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9350020",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-23T22:00:00"
-    },
-    {
       "data": "24/08",
       "dia_semana": "segunda",
       "hora": "06:00",
@@ -196,6 +180,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-24T06:00:00"
+    },
+    {
+      "data": "24/08",
+      "dia_semana": "segunda",
+      "hora": "07:30",
+      "navio": "APL NEW JERSEY",
+      "calado": "14,30",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9350020",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-24T07:30:00"
     },
     {
       "data": "24/08",
@@ -372,7 +372,7 @@
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/08 06:30",
-      "manobra_rio_fim": "23/08 22:00",
+      "manobra_rio_fim": "24/08 07:30",
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "23/08 10:30"
@@ -381,10 +381,19 @@
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "23/08 06:30",
-      "manobra_rio_fim": "23/08 22:00",
+      "manobra_rio_fim": "24/08 07:30",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "23/08 20:00"
+    },
+    {
+      "navio_rio": "APL NEW JERSEY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "23/08 06:30",
+      "manobra_rio_fim": "24/08 07:30",
+      "navio_multi": "BREMERHAVEN EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/08 06:00"
     },
     {
       "navio_rio": "MTM NEW YORK",
