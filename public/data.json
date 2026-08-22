@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "22/08/2026 01:49",
+  "ultima_atualizacao": "22/08/2026 02:18",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "22/08",
-      "dia_semana": "sábado",
-      "hora": "00:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-22T00:00:00"
-    },
     {
       "data": "22/08",
       "dia_semana": "sábado",
@@ -391,15 +375,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/08 00:00",
-      "manobra_rio_fim": "22/08 09:30",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/08 08:30"
-    },
     {
       "navio_rio": "MAERSK EVERGLADES",
       "manobra_rio_afetada": "E",
