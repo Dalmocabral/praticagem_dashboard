@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/08/2026 09:39",
+  "ultima_atualizacao": "22/08/2026 10:19",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -8,25 +8,9 @@
     {
       "data": "22/08",
       "dia_semana": "sábado",
-      "hora": "08:30",
-      "navio": "MSC ADELE",
-      "calado": "12,90",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-22T08:30:00"
-    },
-    {
-      "data": "22/08",
-      "dia_semana": "sábado",
       "hora": "11:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "10,00",
+      "calado": "8,90",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -40,7 +24,7 @@
     {
       "data": "22/08",
       "dia_semana": "sábado",
-      "hora": "12:30",
+      "hora": "15:30",
       "navio": "MSC MAXINE",
       "calado": "10,80",
       "manobra": "S",
@@ -49,25 +33,9 @@
       "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-22T12:30:00"
-    },
-    {
-      "data": "22/08",
-      "dia_semana": "sábado",
-      "hora": "14:30",
-      "navio": "BREMERHAVEN EXPRESS",
-      "calado": "12,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9723253",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-22T14:30:00"
+      "timestamp": "2026-08-22T15:30:00"
     },
     {
       "data": "22/08",
@@ -89,6 +57,22 @@
       "data": "22/08",
       "dia_semana": "sábado",
       "hora": "18:30",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "12,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-22T18:30:00"
+    },
+    {
+      "data": "22/08",
+      "dia_semana": "sábado",
+      "hora": "20:00",
       "navio": "SINAR SUMATERA",
       "calado": "7,30",
       "manobra": "E",
@@ -99,7 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-22T18:30:00"
+      "timestamp": "2026-08-22T20:00:00"
     },
     {
       "data": "23/08",
@@ -140,7 +124,7 @@
       "navio": "BREMERHAVEN EXPRESS",
       "calado": "12,00",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
