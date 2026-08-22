@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/08/2026 16:53",
+  "ultima_atualizacao": "22/08/2026 17:24",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -49,7 +49,7 @@
       "imo": "9720287",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-08-22T20:00:00"
     },
@@ -88,6 +88,22 @@
     {
       "data": "23/08",
       "dia_semana": "domingo",
+      "hora": "06:30",
+      "navio": "LE HAVRE",
+      "calado": "10,50",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9307243",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-23T06:30:00"
+    },
+    {
+      "data": "23/08",
+      "dia_semana": "domingo",
       "hora": "08:30",
       "navio": "APL NEW JERSEY",
       "calado": "14,30",
@@ -100,22 +116,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-23T08:30:00"
-    },
-    {
-      "data": "23/08",
-      "dia_semana": "domingo",
-      "hora": "10:30",
-      "navio": "LE HAVRE",
-      "calado": "10,50",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9307243",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-23T10:30:00"
     },
     {
       "data": "23/08",
@@ -361,21 +361,12 @@
   "conflitos": [
     {
       "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/08 00:00",
       "manobra_rio_fim": "23/08 16:00",
       "navio_multi": "LE HAVRE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/08 10:30"
-    },
-    {
-      "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/08 08:30",
-      "manobra_rio_fim": "24/08 07:30",
-      "navio_multi": "LE HAVRE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/08 10:30"
+      "manobra_multi_data_hora": "23/08 06:30"
     },
     {
       "navio_rio": "APL NEW JERSEY",
