@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/08/2026 08:51",
+  "ultima_atualizacao": "23/08/2026 09:28",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -73,22 +73,6 @@
       "data": "24/08",
       "dia_semana": "segunda",
       "hora": "06:00",
-      "navio": "BREMERHAVEN EXPRESS",
-      "calado": "14,40",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9723253",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-24T06:00:00"
-    },
-    {
-      "data": "24/08",
-      "dia_semana": "segunda",
-      "hora": "07:30",
       "navio": "APL NEW JERSEY",
       "calado": "14,30",
       "manobra": "S",
@@ -99,12 +83,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-24T07:30:00"
+      "timestamp": "2026-08-24T06:00:00"
     },
     {
       "data": "24/08",
       "dia_semana": "segunda",
-      "hora": "10:30",
+      "hora": "14:30",
       "navio": "LE HAVRE",
       "calado": "9,40",
       "manobra": "S",
@@ -115,7 +99,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-24T10:30:00"
+      "timestamp": "2026-08-24T14:30:00"
+    },
+    {
+      "data": "24/08",
+      "dia_semana": "segunda",
+      "hora": "15:30",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-24T15:30:00"
     },
     {
       "data": "25/08",
@@ -267,25 +267,7 @@
       "navio_rio": "APL NEW JERSEY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "23/08 08:30",
-      "manobra_rio_fim": "24/08 07:30",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/08 03:00"
-    },
-    {
-      "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/08 08:30",
-      "manobra_rio_fim": "24/08 07:30",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/08 06:00"
-    },
-    {
-      "navio_rio": "MTM NEW YORK",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/08 18:00",
-      "manobra_rio_fim": "25/08 18:00",
+      "manobra_rio_fim": "24/08 06:00",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/08 03:00"
@@ -295,9 +277,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/08 18:00",
       "manobra_rio_fim": "25/08 18:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
+      "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/08 06:00"
+      "manobra_multi_data_hora": "24/08 03:00"
     },
     {
       "navio_rio": "MTM NEW YORK",
@@ -306,7 +288,16 @@
       "manobra_rio_fim": "25/08 18:00",
       "navio_multi": "LE HAVRE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/08 10:30"
+      "manobra_multi_data_hora": "24/08 14:30"
+    },
+    {
+      "navio_rio": "MTM NEW YORK",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "23/08 18:00",
+      "manobra_rio_fim": "25/08 18:00",
+      "navio_multi": "BREMERHAVEN EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/08 15:30"
     }
   ]
 }
