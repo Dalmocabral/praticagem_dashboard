@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "23/08/2026 19:15",
+  "ultima_atualizacao": "23/08/2026 19:42",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "23/08",
-      "dia_semana": "domingo",
-      "hora": "18:00",
-      "navio": "MTM NEW YORK",
-      "calado": "6,70",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9749386",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-23T18:00:00"
-    },
     {
       "data": "24/08",
       "dia_semana": "segunda",
@@ -262,33 +246,5 @@
       "timestamp": "2026-09-03T16:00:00"
     }
   ],
-  "conflitos": [
-    {
-      "navio_rio": "MTM NEW YORK",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/08 18:00",
-      "manobra_rio_fim": "25/08 18:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/08 07:00"
-    },
-    {
-      "navio_rio": "MTM NEW YORK",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/08 18:00",
-      "manobra_rio_fim": "25/08 18:00",
-      "navio_multi": "LE HAVRE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/08 14:30"
-    },
-    {
-      "navio_rio": "MTM NEW YORK",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/08 18:00",
-      "manobra_rio_fim": "25/08 18:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/08 15:30"
-    }
-  ]
+  "conflitos": []
 }
