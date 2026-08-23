@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/08/2026 09:28",
+  "ultima_atualizacao": "23/08/2026 10:16",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -74,7 +74,7 @@
       "dia_semana": "segunda",
       "hora": "06:00",
       "navio": "APL NEW JERSEY",
-      "calado": "14,30",
+      "calado": "14,10",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
@@ -116,6 +116,38 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-24T15:30:00"
+    },
+    {
+      "data": "24/08",
+      "dia_semana": "segunda",
+      "hora": "20:00",
+      "navio": "MAERSK FRANKFURT",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9969065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-24T20:00:00"
+    },
+    {
+      "data": "25/08",
+      "dia_semana": "terça",
+      "hora": "07:00",
+      "navio": "MAERSK FRANKFURT",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9969065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-25T07:00:00"
     },
     {
       "data": "25/08",
