@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/08/2026 12:33",
+  "ultima_atualizacao": "23/08/2026 12:54",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -24,7 +24,7 @@
     {
       "data": "23/08",
       "dia_semana": "domingo",
-      "hora": "14:30",
+      "hora": "16:00",
       "navio": "MERCOSUL FORTALEZA",
       "calado": "12,00",
       "manobra": "S",
@@ -33,9 +33,9 @@
       "imo": "9784661",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
+      "alerta": "saida_futura",
       "terminal": "rio",
-      "timestamp": "2026-08-23T14:30:00"
+      "timestamp": "2026-08-23T16:00:00"
     },
     {
       "data": "23/08",
