@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/08/2026 07:34",
+  "ultima_atualizacao": "23/08/2026 07:57",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -70,20 +70,20 @@
       "timestamp": "2026-08-23T18:00:00"
     },
     {
-      "data": "23/08",
-      "dia_semana": "domingo",
-      "hora": "20:00",
+      "data": "24/08",
+      "dia_semana": "segunda",
+      "hora": "03:00",
       "navio": "SINAR SUMATERA",
       "calado": "8,20",
       "manobra": "S",
       "beco": "TECONT4",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-23T20:00:00"
+      "timestamp": "2026-08-24T03:00:00"
     },
     {
       "data": "24/08",
@@ -286,7 +286,7 @@
       "manobra_rio_fim": "24/08 07:30",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/08 20:00"
+      "manobra_multi_data_hora": "24/08 03:00"
     },
     {
       "navio_rio": "APL NEW JERSEY",
@@ -304,7 +304,7 @@
       "manobra_rio_fim": "25/08 18:00",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/08 20:00"
+      "manobra_multi_data_hora": "24/08 03:00"
     },
     {
       "navio_rio": "MTM NEW YORK",
