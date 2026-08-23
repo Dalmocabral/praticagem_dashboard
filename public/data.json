@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/08/2026 02:22",
+  "ultima_atualizacao": "23/08/2026 02:53",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 21/08/2026 14:16 Autorizado embarque e desembarque em águas abrigadas para navios e supplies."
@@ -17,7 +17,7 @@
       "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-08-23T06:30:00"
     },
