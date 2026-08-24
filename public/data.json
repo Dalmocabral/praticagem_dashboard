@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/08/2026 16:49",
+  "ultima_atualizacao": "24/08/2026 17:18",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 23/08/2026 20:25 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -17,7 +17,7 @@
       "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-08-24T21:00:00"
     },
@@ -216,6 +216,22 @@
     {
       "data": "26/08",
       "dia_semana": "quarta",
+      "hora": "13:00",
+      "navio": "NAVIOS VERMILION",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-26T13:00:00"
+    },
+    {
+      "data": "26/08",
+      "dia_semana": "quarta",
       "hora": "16:00",
       "navio": "CMA CGM YUKON",
       "calado": "13,00",
@@ -392,6 +408,42 @@
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "25/08 12:00"
+    },
+    {
+      "navio_rio": "NAVIOS VERMILION",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/08 16:00",
+      "manobra_rio_fim": "26/08 13:00",
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/08 07:00"
+    },
+    {
+      "navio_rio": "NAVIOS VERMILION",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/08 16:00",
+      "manobra_rio_fim": "26/08 13:00",
+      "navio_multi": "MSC BIANCA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/08 08:00"
+    },
+    {
+      "navio_rio": "NAVIOS VERMILION",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/08 16:00",
+      "manobra_rio_fim": "26/08 13:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/08 09:00"
+    },
+    {
+      "navio_rio": "NAVIOS VERMILION",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/08 16:00",
+      "manobra_rio_fim": "26/08 13:00",
+      "navio_multi": "MSC SABRINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/08 11:00"
     },
     {
       "navio_rio": "CMA CGM YUKON",
