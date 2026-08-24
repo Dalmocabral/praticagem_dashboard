@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/08/2026 17:54",
+  "ultima_atualizacao": "24/08/2026 18:33",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 23/08/2026 20:25 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -17,7 +17,7 @@
       "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-08-24T21:00:00"
     },
