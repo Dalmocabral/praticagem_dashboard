@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/08/2026 16:18",
+  "ultima_atualizacao": "24/08/2026 16:49",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 23/08/2026 20:25 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -22,6 +22,22 @@
       "timestamp": "2026-08-24T21:00:00"
     },
     {
+      "data": "24/08",
+      "dia_semana": "segunda",
+      "hora": "23:00",
+      "navio": "MSC MAGNUM VII",
+      "calado": "11,50",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9252541",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-24T23:00:00"
+    },
+    {
       "data": "25/08",
       "dia_semana": "terça",
       "hora": "04:00",
@@ -42,7 +58,7 @@
       "dia_semana": "terça",
       "hora": "08:00",
       "navio": "MAERSK FRANKFURT",
-      "calado": "13,10",
+      "calado": "12,95",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -89,22 +105,6 @@
       "data": "25/08",
       "dia_semana": "terça",
       "hora": "14:00",
-      "navio": "MSC SABRINA",
-      "calado": "14,25",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9979022",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-25T14:00:00"
-    },
-    {
-      "data": "25/08",
-      "dia_semana": "terça",
-      "hora": "16:00",
       "navio": "MTM NEW YORK",
       "calado": "6,80",
       "manobra": "M",
@@ -113,6 +113,22 @@
       "imo": "9749386",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-25T14:00:00"
+    },
+    {
+      "data": "25/08",
+      "dia_semana": "terça",
+      "hora": "16:00",
+      "navio": "NAVIOS VERMILION",
+      "calado": "12,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-25T16:00:00"
@@ -136,7 +152,23 @@
     {
       "data": "26/08",
       "dia_semana": "quarta",
-      "hora": "07:30",
+      "hora": "07:00",
+      "navio": "MSC MAGNUM VII",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9252541",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-26T07:00:00"
+    },
+    {
+      "data": "26/08",
+      "dia_semana": "quarta",
+      "hora": "08:00",
       "navio": "MSC BIANCA",
       "calado": "14,50",
       "manobra": "S",
@@ -147,28 +179,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-26T07:30:00"
+      "timestamp": "2026-08-26T08:00:00"
     },
     {
       "data": "26/08",
       "dia_semana": "quarta",
       "hora": "09:00",
-      "navio": "MSC SABRINA",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9979022",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-26T09:00:00"
-    },
-    {
-      "data": "26/08",
-      "dia_semana": "quarta",
-      "hora": "10:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "11,10",
       "manobra": "S",
@@ -179,7 +195,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-26T10:00:00"
+      "timestamp": "2026-08-26T09:00:00"
+    },
+    {
+      "data": "26/08",
+      "dia_semana": "quarta",
+      "hora": "11:00",
+      "navio": "MSC SABRINA",
+      "calado": "14,25",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9979022",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-26T11:00:00"
     },
     {
       "data": "26/08",
@@ -212,6 +244,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-27T01:00:00"
+    },
+    {
+      "data": "27/08",
+      "dia_semana": "quinta",
+      "hora": "07:00",
+      "navio": "MSC SABRINA",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9979022",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-27T07:00:00"
     },
     {
       "data": "27/08",
@@ -346,15 +394,6 @@
       "manobra_multi_data_hora": "25/08 12:00"
     },
     {
-      "navio_rio": "MAERSK FRANKFURT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/08 08:00",
-      "manobra_rio_fim": "26/08 06:00",
-      "navio_multi": "MSC SABRINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "25/08 14:00"
-    },
-    {
       "navio_rio": "CMA CGM YUKON",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "26/08 16:00",
@@ -362,6 +401,15 @@
       "navio_multi": "INDUSTRIAL SONG",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "27/08 01:00"
+    },
+    {
+      "navio_rio": "CMA CGM YUKON",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "26/08 16:00",
+      "manobra_rio_fim": "27/08 16:00",
+      "navio_multi": "MSC SABRINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "27/08 07:00"
     }
   ]
 }
