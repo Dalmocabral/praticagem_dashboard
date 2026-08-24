@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/08/2026 08:48",
+  "ultima_atualizacao": "24/08/2026 09:18",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 23/08/2026 20:25 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -36,22 +36,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-24T13:30:00"
-    },
-    {
-      "data": "24/08",
-      "dia_semana": "segunda",
-      "hora": "15:30",
-      "navio": "BREMERHAVEN EXPRESS",
-      "calado": "14,40",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9723253",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-24T15:30:00"
     },
     {
       "data": "24/08",
@@ -100,6 +84,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-24T22:00:00"
+    },
+    {
+      "data": "25/08",
+      "dia_semana": "terça",
+      "hora": "06:00",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-25T06:00:00"
     },
     {
       "data": "25/08",
@@ -303,6 +303,15 @@
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "24/08 22:00"
+    },
+    {
+      "navio_rio": "MAERSK FRANKFURT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "24/08 20:00",
+      "manobra_rio_fim": "25/08 07:00",
+      "navio_multi": "BREMERHAVEN EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "25/08 06:00"
     }
   ]
 }
