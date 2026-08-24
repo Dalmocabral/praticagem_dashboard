@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "24/08/2026 08:16",
+  "ultima_atualizacao": "24/08/2026 08:48",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 23/08/2026 20:25 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "24/08",
-      "dia_semana": "segunda",
-      "hora": "07:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "8,30",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-08-24T07:00:00"
-    },
     {
       "data": "24/08",
       "dia_semana": "segunda",
@@ -90,9 +74,9 @@
       "dia_semana": "segunda",
       "hora": "20:00",
       "navio": "MAERSK FRANKFURT",
-      "calado": "12,60",
+      "calado": "11,50",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "hoje",
       "imo": "9969065",
       "tipo_navio": "CONTAINER SHIP",
@@ -124,7 +108,7 @@
       "navio": "MAERSK FRANKFURT",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9969065",
       "tipo_navio": "CONTAINER SHIP",
