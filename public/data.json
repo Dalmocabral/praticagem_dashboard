@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/08/2026 12:55",
+  "ultima_atualizacao": "24/08/2026 13:46",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 23/08/2026 20:25 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -36,6 +36,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-24T21:00:00"
+    },
+    {
+      "data": "25/08",
+      "dia_semana": "terça",
+      "hora": "04:00",
+      "navio": "INDUSTRIAL SONG",
+      "calado": "6,50",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9750464",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-25T04:00:00"
     },
     {
       "data": "25/08",
@@ -200,6 +216,22 @@
     {
       "data": "27/08",
       "dia_semana": "quinta",
+      "hora": "01:00",
+      "navio": "INDUSTRIAL SONG",
+      "calado": "6,80",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9750464",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-27T01:00:00"
+    },
+    {
+      "data": "27/08",
+      "dia_semana": "quinta",
       "hora": "16:00",
       "navio": "CMA CGM YUKON",
       "calado": "13,00",
@@ -337,6 +369,15 @@
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "25/08 15:00"
+    },
+    {
+      "navio_rio": "CMA CGM YUKON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/08 16:00",
+      "manobra_rio_fim": "27/08 16:00",
+      "navio_multi": "INDUSTRIAL SONG",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "27/08 01:00"
     }
   ]
 }
