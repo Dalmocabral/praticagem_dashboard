@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/08/2026 11:58",
+  "ultima_atualizacao": "25/08/2026 12:52",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/08/2026 09:57 Canal varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 10,50m.\n25/08/2026 09:57"
@@ -24,25 +24,9 @@
     {
       "data": "25/08",
       "dia_semana": "terça",
-      "hora": "15:30",
-      "navio": "NAVIOS VERMILION",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9324837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-25T15:30:00"
-    },
-    {
-      "data": "25/08",
-      "dia_semana": "terça",
       "hora": "17:30",
       "navio": "BBC AMETHYST",
-      "calado": "9,10",
+      "calado": "8,90",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -84,6 +68,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-26T05:00:00"
+    },
+    {
+      "data": "26/08",
+      "dia_semana": "quarta",
+      "hora": "06:00",
+      "navio": "NAVIOS VERMILION",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-26T06:00:00"
     },
     {
       "data": "26/08",
