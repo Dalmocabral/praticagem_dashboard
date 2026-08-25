@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/08/2026 19:11",
+  "ultima_atualizacao": "25/08/2026 19:47",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/08/2026 09:57 Canal varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 10,50m.\n25/08/2026 09:57"
@@ -104,22 +104,6 @@
     {
       "data": "26/08",
       "dia_semana": "quarta",
-      "hora": "16:00",
-      "navio": "CMA CGM YUKON",
-      "calado": "13,90",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9732606",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-26T16:00:00"
-    },
-    {
-      "data": "26/08",
-      "dia_semana": "quarta",
       "hora": "18:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,30",
@@ -200,7 +184,23 @@
     {
       "data": "27/08",
       "dia_semana": "quinta",
-      "hora": "11:00",
+      "hora": "10:00",
+      "navio": "CMA CGM YUKON",
+      "calado": "13,90",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9732606",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-27T10:00:00"
+    },
+    {
+      "data": "27/08",
+      "dia_semana": "quinta",
+      "hora": "12:00",
       "navio": "NAVIOS AMARILLO",
       "calado": "11,00",
       "manobra": "E",
@@ -211,12 +211,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-27T11:00:00"
+      "timestamp": "2026-08-27T12:00:00"
     },
     {
-      "data": "27/08",
-      "dia_semana": "quinta",
-      "hora": "16:00",
+      "data": "28/08",
+      "dia_semana": "sexta",
+      "hora": "06:00",
       "navio": "CMA CGM YUKON",
       "calado": "13,00",
       "manobra": "S",
@@ -227,12 +227,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-27T16:00:00"
+      "timestamp": "2026-08-28T06:00:00"
     },
     {
       "data": "28/08",
       "dia_semana": "sexta",
-      "hora": "06:00",
+      "hora": "08:00",
       "navio": "CMA CGM SILVER",
       "calado": "14,30",
       "manobra": "E",
@@ -243,12 +243,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-28T06:00:00"
+      "timestamp": "2026-08-28T08:00:00"
     },
     {
       "data": "28/08",
       "dia_semana": "sexta",
-      "hora": "08:00",
+      "hora": "10:00",
       "navio": "NAVIOS AMARILLO",
       "calado": "11,00",
       "manobra": "S",
@@ -259,7 +259,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-28T08:00:00"
+      "timestamp": "2026-08-28T10:00:00"
     },
     {
       "data": "29/08",
@@ -378,42 +378,6 @@
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "26/08 18:00"
-    },
-    {
-      "navio_rio": "CMA CGM YUKON",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/08 16:00",
-      "manobra_rio_fim": "27/08 16:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/08 18:00"
-    },
-    {
-      "navio_rio": "CMA CGM YUKON",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/08 16:00",
-      "manobra_rio_fim": "27/08 16:00",
-      "navio_multi": "INDUSTRIAL SONG",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/08 01:00"
-    },
-    {
-      "navio_rio": "CMA CGM YUKON",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/08 16:00",
-      "manobra_rio_fim": "27/08 16:00",
-      "navio_multi": "MSC SABRINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/08 07:00"
-    },
-    {
-      "navio_rio": "CMA CGM YUKON",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/08 16:00",
-      "manobra_rio_fim": "27/08 16:00",
-      "navio_multi": "MSC BIANCA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/08 08:00"
     }
   ]
 }
