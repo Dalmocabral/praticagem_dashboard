@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/08/2026 01:18",
+  "ultima_atualizacao": "25/08/2026 01:59",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 23/08/2026 20:25 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
@@ -10,14 +10,14 @@
       "dia_semana": "terça",
       "hora": "04:30",
       "navio": "INDUSTRIAL SONG",
-      "calado": "6,50",
+      "calado": "6,10",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9750464",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-25T04:30:00"
     },
