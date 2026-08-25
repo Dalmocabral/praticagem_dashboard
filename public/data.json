@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "25/08/2026 14:49",
+  "ultima_atualizacao": "25/08/2026 15:22",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/08/2026 09:57 Canal varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 10,50m.\n25/08/2026 09:57"
   },
   "navios": [
-    {
-      "data": "25/08",
-      "dia_semana": "terça",
-      "hora": "14:00",
-      "navio": "MTM NEW YORK",
-      "calado": "6,50",
-      "manobra": "M",
-      "beco": "TECONTPROLONG -> WPT 62",
-      "status": "hoje",
-      "imo": "9749386",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-25T14:00:00"
-    },
     {
       "data": "25/08",
       "dia_semana": "terça",
