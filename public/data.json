@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "25/08/2026 00:28",
+  "ultima_atualizacao": "25/08/2026 01:18",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 23/08/2026 20:25 Canal varrido fechado para manobras de saída. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 11,50m."
   },
   "navios": [
-    {
-      "data": "24/08",
-      "dia_semana": "segunda",
-      "hora": "23:00",
-      "navio": "MSC MAGNUM VII",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9252541",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-24T23:00:00"
-    },
     {
       "data": "25/08",
       "dia_semana": "terça",
@@ -33,7 +17,7 @@
       "imo": "9750464",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-08-25T04:30:00"
     },
@@ -154,7 +138,7 @@
       "dia_semana": "quarta",
       "hora": "07:00",
       "navio": "MSC MAGNUM VII",
-      "calado": "12,00",
+      "calado": "12,18",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
