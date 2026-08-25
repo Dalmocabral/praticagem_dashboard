@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "25/08/2026 16:45",
+  "ultima_atualizacao": "25/08/2026 17:11",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/08/2026 09:57 Canal varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 10,50m.\n25/08/2026 09:57"
   },
   "navios": [
-    {
-      "data": "25/08",
-      "dia_semana": "terça",
-      "hora": "15:30",
-      "navio": "MSC RUTH F",
-      "calado": "7,05",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9212034",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-25T15:30:00"
-    },
-    {
-      "data": "26/08",
-      "dia_semana": "quarta",
-      "hora": "05:00",
-      "navio": "BBC AMETHYST",
-      "calado": "9,10",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9504724",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-26T05:00:00"
-    },
     {
       "data": "26/08",
       "dia_semana": "quarta",
