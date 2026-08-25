@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/08/2026 16:07",
+  "ultima_atualizacao": "25/08/2026 16:45",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/08/2026 09:57 Canal varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 10,50m.\n25/08/2026 09:57"
@@ -20,22 +20,6 @@
       "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-25T15:30:00"
-    },
-    {
-      "data": "25/08",
-      "dia_semana": "terça",
-      "hora": "17:30",
-      "navio": "BBC AMETHYST",
-      "calado": "8,90",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9504724",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-25T17:30:00"
     },
     {
       "data": "26/08",
