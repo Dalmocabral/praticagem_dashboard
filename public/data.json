@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/08/2026 12:52",
+  "ultima_atualizacao": "25/08/2026 13:35",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/08/2026 09:57 Canal varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 10,50m.\n25/08/2026 09:57"
@@ -24,6 +24,22 @@
     {
       "data": "25/08",
       "dia_semana": "terça",
+      "hora": "15:30",
+      "navio": "MSC RUTH F",
+      "calado": "7,05",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9212034",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_futura",
+      "terminal": "multi",
+      "timestamp": "2026-08-25T15:30:00"
+    },
+    {
+      "data": "25/08",
+      "dia_semana": "terça",
       "hora": "17:30",
       "navio": "BBC AMETHYST",
       "calado": "8,90",
@@ -33,25 +49,9 @@
       "imo": "9504724",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-08-25T17:30:00"
-    },
-    {
-      "data": "25/08",
-      "dia_semana": "terça",
-      "hora": "19:00",
-      "navio": "MSC RUTH F",
-      "calado": "7,10",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9212034",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-25T19:00:00"
     },
     {
       "data": "26/08",
@@ -104,45 +104,13 @@
     {
       "data": "26/08",
       "dia_semana": "quarta",
-      "hora": "08:00",
+      "hora": "11:00",
       "navio": "MSC RUTH F",
       "calado": "7,10",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "9212034",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-26T08:00:00"
-    },
-    {
-      "data": "26/08",
-      "dia_semana": "quarta",
-      "hora": "09:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,30",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "futuro",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-26T09:00:00"
-    },
-    {
-      "data": "26/08",
-      "dia_semana": "quarta",
-      "hora": "11:00",
-      "navio": "MSC SABRINA",
-      "calado": "14,25",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9979022",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -168,6 +136,22 @@
     {
       "data": "26/08",
       "dia_semana": "quarta",
+      "hora": "14:30",
+      "navio": "MSC SABRINA",
+      "calado": "14,25",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9979022",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-26T14:30:00"
+    },
+    {
+      "data": "26/08",
+      "dia_semana": "quarta",
       "hora": "16:00",
       "navio": "CMA CGM YUKON",
       "calado": "13,90",
@@ -180,6 +164,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-26T16:00:00"
+    },
+    {
+      "data": "26/08",
+      "dia_semana": "quarta",
+      "hora": "18:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,30",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-26T18:00:00"
     },
     {
       "data": "26/08",
@@ -344,13 +344,31 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "BBC AMETHYST",
+      "navio_rio": "NC BREDA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/08 17:30",
-      "manobra_rio_fim": "26/08 05:00",
-      "navio_multi": "MSC RUTH F",
+      "manobra_rio_inicio": "26/08 13:00",
+      "manobra_rio_fim": "26/08 23:00",
+      "navio_multi": "MSC SABRINA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "25/08 19:00"
+      "manobra_multi_data_hora": "26/08 14:30"
+    },
+    {
+      "navio_rio": "NC BREDA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "26/08 13:00",
+      "manobra_rio_fim": "26/08 23:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/08 18:00"
+    },
+    {
+      "navio_rio": "CMA CGM YUKON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/08 16:00",
+      "manobra_rio_fim": "27/08 16:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/08 18:00"
     },
     {
       "navio_rio": "CMA CGM YUKON",
