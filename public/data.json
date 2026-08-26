@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/08/2026 11:06",
+  "ultima_atualizacao": "26/08/2026 12:52",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/08/2026 09:57 Canal varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 10,50m.\n25/08/2026 09:57"
@@ -17,7 +17,7 @@
       "imo": "9979022",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-08-26T14:30:00"
     },
@@ -154,7 +154,7 @@
       "dia_semana": "quinta",
       "hora": "12:00",
       "navio": "NAVIOS AMARILLO",
-      "calado": "11,00",
+      "calado": "12,80",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -246,6 +246,54 @@
       "timestamp": "2026-08-28T14:00:00"
     },
     {
+      "data": "28/08",
+      "dia_semana": "sexta",
+      "hora": "16:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-28T16:00:00"
+    },
+    {
+      "data": "28/08",
+      "dia_semana": "sexta",
+      "hora": "23:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "M",
+      "beco": "TECONT1 -> TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-28T23:30:00"
+    },
+    {
+      "data": "29/08",
+      "dia_semana": "sábado",
+      "hora": "01:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "10,95",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9407160",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-29T01:00:00"
+    },
+    {
       "data": "29/08",
       "dia_semana": "sábado",
       "hora": "06:00",
@@ -292,6 +340,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-08-29T11:00:00"
+    },
+    {
+      "data": "29/08",
+      "dia_semana": "sábado",
+      "hora": "13:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "10,95",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9407160",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-29T13:00:00"
+    },
+    {
+      "data": "29/08",
+      "dia_semana": "sábado",
+      "hora": "14:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,20",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-29T14:30:00"
     },
     {
       "data": "30/08",
@@ -360,6 +440,24 @@
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "28/08 14:00"
+    },
+    {
+      "navio_rio": "SEASPAN EMPIRE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "29/08 01:00",
+      "manobra_rio_fim": "29/08 13:00",
+      "navio_multi": "MSC BIANCA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "29/08 09:00"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "29/08 11:00",
+      "manobra_rio_fim": "30/08 07:30",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "29/08 14:30"
     }
   ]
 }
