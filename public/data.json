@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/08/2026 13:44",
+  "ultima_atualizacao": "26/08/2026 15:27",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/08/2026 09:57 Canal varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 10,50m.\n25/08/2026 09:57"
@@ -24,7 +24,23 @@
     {
       "data": "26/08",
       "dia_semana": "quarta",
-      "hora": "18:00",
+      "hora": "19:00",
+      "navio": "NC BREDA",
+      "calado": "8,40",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9612765",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
+      "terminal": "rio",
+      "timestamp": "2026-08-26T19:00:00"
+    },
+    {
+      "data": "26/08",
+      "dia_semana": "quarta",
+      "hora": "21:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,30",
       "manobra": "S",
@@ -35,23 +51,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-26T18:00:00"
-    },
-    {
-      "data": "26/08",
-      "dia_semana": "quarta",
-      "hora": "19:00",
-      "navio": "NC BREDA",
-      "calado": "8,40",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9612765",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-26T19:00:00"
+      "timestamp": "2026-08-26T21:00:00"
     },
     {
       "data": "26/08",
@@ -100,6 +100,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-27T03:00:00"
+    },
+    {
+      "data": "27/08",
+      "dia_semana": "quinta",
+      "hora": "05:00",
+      "navio": "BBC AMETHYST",
+      "calado": "9,10",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9504724",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-27T05:00:00"
     },
     {
       "data": "27/08",
