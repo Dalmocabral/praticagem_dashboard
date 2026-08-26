@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/08/2026 07:58",
+  "ultima_atualizacao": "26/08/2026 08:38",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 25/08/2026 09:57 Canal varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies. Barra Grande restrita a calados de até 10,50m.\n25/08/2026 09:57"
@@ -132,6 +132,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-27T07:00:00"
+    },
+    {
+      "data": "27/08",
+      "dia_semana": "quinta",
+      "hora": "08:00",
+      "navio": "NAVIOS VERMILION",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-27T08:00:00"
     },
     {
       "data": "27/08",
