@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "29/08/2026 10:31",
+  "ultima_atualizacao": "29/08/2026 14:21",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
   },
   "navios": [
-    {
-      "data": "29/08",
-      "dia_semana": "sábado",
-      "hora": "10:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
-      "manobra": "M",
-      "beco": "TECONT4 -> TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-29T10:00:00"
-    },
     {
       "data": "29/08",
       "dia_semana": "sábado",
@@ -33,7 +17,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-08-29T18:00:00"
     },
