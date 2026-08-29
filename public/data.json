@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/08/2026 16:53",
+  "ultima_atualizacao": "29/08/2026 19:24",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
@@ -10,7 +10,7 @@
       "dia_semana": "sábado",
       "hora": "19:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,20",
+      "calado": "8,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -26,14 +26,14 @@
       "dia_semana": "sábado",
       "hora": "21:00",
       "navio": "SEASPAN EMPIRE",
-      "calado": "10,95",
+      "calado": "10,35",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9407160",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-08-29T21:00:00"
     },
@@ -49,7 +49,7 @@
       "imo": "9246592",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-08-29T23:00:00"
     },
@@ -72,7 +72,7 @@
     {
       "data": "30/08",
       "dia_semana": "domingo",
-      "hora": "04:00",
+      "hora": "05:00",
       "navio": "MSC ATHENS",
       "calado": "10,10",
       "manobra": "S",
@@ -83,7 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-30T04:00:00"
+      "timestamp": "2026-08-30T05:00:00"
     },
     {
       "data": "30/08",
@@ -120,23 +120,7 @@
     {
       "data": "30/08",
       "dia_semana": "domingo",
-      "hora": "10:00",
-      "navio": "NAVIOS AMARILLO",
-      "calado": "12,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9324849",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-30T10:00:00"
-    },
-    {
-      "data": "30/08",
-      "dia_semana": "domingo",
-      "hora": "11:30",
+      "hora": "09:00",
       "navio": "ONE CONTINUITY",
       "calado": "14,10",
       "manobra": "E",
@@ -147,7 +131,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-30T11:30:00"
+      "timestamp": "2026-08-30T09:00:00"
+    },
+    {
+      "data": "30/08",
+      "dia_semana": "domingo",
+      "hora": "11:00",
+      "navio": "NAVIOS AMARILLO",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9324849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-30T11:00:00"
     },
     {
       "data": "30/08",
@@ -384,7 +384,7 @@
       "manobra_rio_fim": "30/08 07:00",
       "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/08 04:00"
+      "manobra_multi_data_hora": "30/08 05:00"
     },
     {
       "navio_rio": "SEASPAN EMPIRE",
@@ -398,16 +398,7 @@
     {
       "navio_rio": "NAVIOS AMARILLO",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "30/08 10:00",
-      "manobra_rio_fim": "30/08 19:00",
-      "navio_multi": "ONE CONTINUITY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/08 11:30"
-    },
-    {
-      "navio_rio": "NAVIOS AMARILLO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "30/08 10:00",
+      "manobra_rio_inicio": "30/08 11:00",
       "manobra_rio_fim": "30/08 19:00",
       "navio_multi": "MSC RAYSHMI",
       "manobra_multi_tipo": "E",
