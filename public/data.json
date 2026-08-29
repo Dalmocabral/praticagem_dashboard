@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/08/2026 14:21",
+  "ultima_atualizacao": "29/08/2026 16:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
@@ -8,7 +8,7 @@
     {
       "data": "29/08",
       "dia_semana": "sábado",
-      "hora": "18:00",
+      "hora": "19:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,20",
       "manobra": "S",
@@ -17,14 +17,14 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-08-29T18:00:00"
+      "timestamp": "2026-08-29T19:00:00"
     },
     {
       "data": "29/08",
       "dia_semana": "sábado",
-      "hora": "20:00",
+      "hora": "21:00",
       "navio": "SEASPAN EMPIRE",
       "calado": "10,95",
       "manobra": "E",
@@ -35,12 +35,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-29T20:00:00"
+      "timestamp": "2026-08-29T21:00:00"
     },
     {
       "data": "29/08",
       "dia_semana": "sábado",
-      "hora": "22:00",
+      "hora": "23:00",
       "navio": "GRANDE FRANCIA",
       "calado": "9,50",
       "manobra": "S",
@@ -51,7 +51,23 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-29T22:00:00"
+      "timestamp": "2026-08-29T23:00:00"
+    },
+    {
+      "data": "30/08",
+      "dia_semana": "domingo",
+      "hora": "02:00",
+      "navio": "ITHACA",
+      "calado": "7,20",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9968449",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-30T02:00:00"
     },
     {
       "data": "30/08",
@@ -88,7 +104,7 @@
     {
       "data": "30/08",
       "dia_semana": "domingo",
-      "hora": "08:00",
+      "hora": "07:00",
       "navio": "SEASPAN EMPIRE",
       "calado": "10,95",
       "manobra": "S",
@@ -99,7 +115,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-08-30T08:00:00"
+      "timestamp": "2026-08-30T07:00:00"
     },
     {
       "data": "30/08",
@@ -212,6 +228,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-31T16:00:00"
+    },
+    {
+      "data": "31/08",
+      "dia_semana": "segunda",
+      "hora": "22:00",
+      "navio": "ITHACA",
+      "calado": "7,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9968449",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-31T22:00:00"
     },
     {
       "data": "01/09",
@@ -330,17 +362,26 @@
     {
       "navio_rio": "SEASPAN EMPIRE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "29/08 20:00",
-      "manobra_rio_fim": "30/08 08:00",
+      "manobra_rio_inicio": "29/08 21:00",
+      "manobra_rio_fim": "30/08 07:00",
       "navio_multi": "GRANDE FRANCIA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/08 22:00"
+      "manobra_multi_data_hora": "29/08 23:00"
+    },
+    {
+      "navio_rio": "SEASPAN EMPIRE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "29/08 21:00",
+      "manobra_rio_fim": "30/08 07:00",
+      "navio_multi": "ITHACA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "30/08 02:00"
     },
     {
       "navio_rio": "SEASPAN EMPIRE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/08 20:00",
-      "manobra_rio_fim": "30/08 08:00",
+      "manobra_rio_inicio": "29/08 21:00",
+      "manobra_rio_fim": "30/08 07:00",
       "navio_multi": "MSC ATHENS",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "30/08 04:00"
@@ -348,8 +389,8 @@
     {
       "navio_rio": "SEASPAN EMPIRE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/08 20:00",
-      "manobra_rio_fim": "30/08 08:00",
+      "manobra_rio_inicio": "29/08 21:00",
+      "manobra_rio_fim": "30/08 07:00",
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "30/08 06:00"
@@ -389,6 +430,15 @@
       "navio_multi": "ONE CONTINUITY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "31/08 16:00"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/08 06:30",
+      "manobra_rio_fim": "01/09 08:00",
+      "navio_multi": "ITHACA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "31/08 22:00"
     }
   ]
 }
