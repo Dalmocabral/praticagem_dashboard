@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "30/08/2026 18:35",
+  "ultima_atualizacao": "30/08/2026 20:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
   },
   "navios": [
-    {
-      "data": "30/08",
-      "dia_semana": "domingo",
-      "hora": "18:30",
-      "navio": "NAVIOS AMARILLO",
-      "calado": "12,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9324849",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-30T18:30:00"
-    },
     {
       "data": "31/08",
       "dia_semana": "segunda",
@@ -36,22 +20,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-31T01:00:00"
-    },
-    {
-      "data": "31/08",
-      "dia_semana": "segunda",
-      "hora": "04:30",
-      "navio": "NAVIOS AMARILLO",
-      "calado": "12,30",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9324849",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-08-31T04:30:00"
     },
     {
       "data": "31/08",
@@ -311,15 +279,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "NAVIOS AMARILLO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/08 18:30",
-      "manobra_rio_fim": "31/08 04:30",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/08 01:00"
-    },
     {
       "navio_rio": "WIELAND",
       "manobra_rio_afetada": "E",
