@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "30/08/2026 15:38",
+  "ultima_atualizacao": "30/08/2026 18:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
   },
   "navios": [
-    {
-      "data": "30/08",
-      "dia_semana": "domingo",
-      "hora": "14:30",
-      "navio": "ONE CONTINUITY",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9388352",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-30T14:30:00"
-    },
-    {
-      "data": "30/08",
-      "dia_semana": "domingo",
-      "hora": "16:30",
-      "navio": "SEASPAN EMPIRE",
-      "calado": "10,95",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9407160",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-08-30T16:30:00"
-    },
     {
       "data": "30/08",
       "dia_semana": "domingo",
@@ -152,6 +120,22 @@
     {
       "data": "31/08",
       "dia_semana": "segunda",
+      "hora": "19:00",
+      "navio": "WIELAND",
+      "calado": "11,80",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9654464",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-31T19:00:00"
+    },
+    {
+      "data": "31/08",
+      "dia_semana": "segunda",
       "hora": "21:00",
       "navio": "GRANDE AMBURGO",
       "calado": "8,50",
@@ -180,6 +164,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-08-31T22:00:00"
+    },
+    {
+      "data": "01/09",
+      "dia_semana": "terça",
+      "hora": "06:30",
+      "navio": "WIELAND",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9654464",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-01T06:30:00"
     },
     {
       "data": "01/09",
@@ -319,6 +319,24 @@
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "31/08 01:00"
+    },
+    {
+      "navio_rio": "WIELAND",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "31/08 19:00",
+      "manobra_rio_fim": "01/09 06:30",
+      "navio_multi": "GRANDE AMBURGO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "31/08 21:00"
+    },
+    {
+      "navio_rio": "WIELAND",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "31/08 19:00",
+      "manobra_rio_fim": "01/09 06:30",
+      "navio_multi": "ITHACA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "31/08 22:00"
     }
   ]
 }
