@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "30/08/2026 12:07",
+  "ultima_atualizacao": "30/08/2026 15:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
@@ -8,25 +8,9 @@
     {
       "data": "30/08",
       "dia_semana": "domingo",
-      "hora": "13:00",
-      "navio": "MSC RAYSHMI",
-      "calado": "15,10",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9785457",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-30T13:00:00"
-    },
-    {
-      "data": "30/08",
-      "dia_semana": "domingo",
       "hora": "14:30",
       "navio": "ONE CONTINUITY",
-      "calado": "14,10",
+      "calado": "14,00",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
@@ -49,7 +33,7 @@
       "imo": "9407160",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-08-30T16:30:00"
     },
@@ -65,7 +49,7 @@
       "imo": "9324849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-08-30T18:30:00"
     },
@@ -105,12 +89,12 @@
       "data": "31/08",
       "dia_semana": "segunda",
       "hora": "06:30",
-      "navio": "EVER FEAT",
-      "calado": "14,80",
+      "navio": "CARDIFF",
+      "calado": "14,50",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9850898",
+      "imo": "9629457",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -120,7 +104,23 @@
     {
       "data": "31/08",
       "dia_semana": "segunda",
-      "hora": "14:30",
+      "hora": "15:00",
+      "navio": "CARDIFF",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9629457",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-08-31T15:00:00"
+    },
+    {
+      "data": "31/08",
+      "dia_semana": "segunda",
+      "hora": "16:00",
       "navio": "MSC RAYSHMI",
       "calado": "14,70",
       "manobra": "S",
@@ -131,12 +131,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-31T14:30:00"
+      "timestamp": "2026-08-31T16:00:00"
     },
     {
       "data": "31/08",
       "dia_semana": "segunda",
-      "hora": "16:00",
+      "hora": "17:00",
       "navio": "ONE CONTINUITY",
       "calado": "12,40",
       "manobra": "S",
@@ -147,7 +147,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-31T16:00:00"
+      "timestamp": "2026-08-31T17:00:00"
     },
     {
       "data": "31/08",
@@ -184,9 +184,25 @@
     {
       "data": "01/09",
       "dia_semana": "terça",
-      "hora": "08:00",
+      "hora": "08:30",
       "navio": "EVER FEAT",
       "calado": "14,80",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850898",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-01T08:30:00"
+    },
+    {
+      "data": "02/09",
+      "dia_semana": "quarta",
+      "hora": "06:30",
+      "navio": "EVER FEAT",
+      "calado": "14,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -195,7 +211,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-01T08:00:00"
+      "timestamp": "2026-09-02T06:30:00"
     },
     {
       "data": "08/09",
@@ -303,42 +319,6 @@
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "31/08 01:00"
-    },
-    {
-      "navio_rio": "EVER FEAT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/08 06:30",
-      "manobra_rio_fim": "01/09 08:00",
-      "navio_multi": "MSC RAYSHMI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/08 14:30"
-    },
-    {
-      "navio_rio": "EVER FEAT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/08 06:30",
-      "manobra_rio_fim": "01/09 08:00",
-      "navio_multi": "ONE CONTINUITY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/08 16:00"
-    },
-    {
-      "navio_rio": "EVER FEAT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "31/08 06:30",
-      "manobra_rio_fim": "01/09 08:00",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/08 21:00"
-    },
-    {
-      "navio_rio": "EVER FEAT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "31/08 06:30",
-      "manobra_rio_fim": "01/09 08:00",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/08 22:00"
     }
   ]
 }
