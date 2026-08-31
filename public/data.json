@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "31/08/2026 06:38",
+  "ultima_atualizacao": "31/08/2026 14:14",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
   },
   "navios": [
-    {
-      "data": "31/08",
-      "dia_semana": "segunda",
-      "hora": "06:30",
-      "navio": "CARDIFF",
-      "calado": "14,45",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9629457",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-08-31T06:30:00"
-    },
     {
       "data": "31/08",
       "dia_semana": "segunda",
@@ -33,7 +17,7 @@
       "imo": "9629457",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-08-31T15:00:00"
     },
@@ -49,25 +33,9 @@
       "imo": "9785457",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-08-31T16:00:00"
-    },
-    {
-      "data": "31/08",
-      "dia_semana": "segunda",
-      "hora": "17:00",
-      "navio": "ONE CONTINUITY",
-      "calado": "12,40",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9388352",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-08-31T17:00:00"
     },
     {
       "data": "31/08",
@@ -88,34 +56,50 @@
     {
       "data": "31/08",
       "dia_semana": "segunda",
-      "hora": "21:00",
+      "hora": "20:30",
+      "navio": "MSC RUTH F",
+      "calado": "7,50",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9212034",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-08-31T20:30:00"
+    },
+    {
+      "data": "01/09",
+      "dia_semana": "terça",
+      "hora": "03:00",
       "navio": "GRANDE AMBURGO",
       "calado": "8,50",
       "manobra": "S",
       "beco": "TECONT5",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-31T21:00:00"
+      "timestamp": "2026-09-01T03:00:00"
     },
     {
-      "data": "31/08",
-      "dia_semana": "segunda",
-      "hora": "22:00",
-      "navio": "ITHACA",
-      "calado": "9,00",
+      "data": "01/09",
+      "dia_semana": "terça",
+      "hora": "05:30",
+      "navio": "ONE CONTINUITY",
+      "calado": "12,40",
       "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9968449",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9388352",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-08-31T22:00:00"
+      "timestamp": "2026-09-01T05:30:00"
     },
     {
       "data": "01/09",
@@ -150,6 +134,70 @@
       "timestamp": "2026-09-01T08:30:00"
     },
     {
+      "data": "01/09",
+      "dia_semana": "terça",
+      "hora": "13:00",
+      "navio": "ITHACA",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9968449",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-01T13:00:00"
+    },
+    {
+      "data": "01/09",
+      "dia_semana": "terça",
+      "hora": "14:00",
+      "navio": "MSC RUTH F",
+      "calado": "7,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9212034",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-01T14:00:00"
+    },
+    {
+      "data": "01/09",
+      "dia_semana": "terça",
+      "hora": "16:00",
+      "navio": "MAERSK PANGANI",
+      "calado": "11,90",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9786097",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-01T16:00:00"
+    },
+    {
+      "data": "02/09",
+      "dia_semana": "quarta",
+      "hora": "01:00",
+      "navio": "MAERSK PANGANI",
+      "calado": "12,20",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9786097",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-02T01:00:00"
+    },
+    {
       "data": "02/09",
       "dia_semana": "quarta",
       "hora": "06:30",
@@ -166,9 +214,41 @@
       "timestamp": "2026-09-02T06:30:00"
     },
     {
+      "data": "02/09",
+      "dia_semana": "quarta",
+      "hora": "08:30",
+      "navio": "NAVIOS AMARILLO",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9324849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-02T08:30:00"
+    },
+    {
+      "data": "02/09",
+      "dia_semana": "quarta",
+      "hora": "16:00",
+      "navio": "NAVIOS AMARILLO",
+      "calado": "12,40",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9324849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-02T16:00:00"
+    },
+    {
       "data": "08/09",
       "dia_semana": "terça",
-      "hora": "16:00",
+      "hora": "15:30",
       "navio": "KOTA EMBUN",
       "calado": "15,10",
       "manobra": "E",
@@ -179,7 +259,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-08T16:00:00"
+      "timestamp": "2026-09-08T15:30:00"
     },
     {
       "data": "09/09",
@@ -268,18 +348,63 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "31/08 19:00",
       "manobra_rio_fim": "01/09 06:30",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/08 21:00"
+      "navio_multi": "MSC RUTH F",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "31/08 20:30"
     },
     {
       "navio_rio": "WIELAND",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "31/08 19:00",
       "manobra_rio_fim": "01/09 06:30",
+      "navio_multi": "GRANDE AMBURGO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/09 03:00"
+    },
+    {
+      "navio_rio": "WIELAND",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/08 19:00",
+      "manobra_rio_fim": "01/09 06:30",
+      "navio_multi": "ONE CONTINUITY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/09 05:30"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/09 08:30",
+      "manobra_rio_fim": "02/09 06:30",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/08 22:00"
+      "manobra_multi_data_hora": "01/09 13:00"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/09 08:30",
+      "manobra_rio_fim": "02/09 06:30",
+      "navio_multi": "MSC RUTH F",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/09 14:00"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/09 08:30",
+      "manobra_rio_fim": "02/09 06:30",
+      "navio_multi": "MAERSK PANGANI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "01/09 16:00"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/09 08:30",
+      "manobra_rio_fim": "02/09 06:30",
+      "navio_multi": "MAERSK PANGANI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/09 01:00"
     }
   ]
 }
