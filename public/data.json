@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/08/2026 00:04",
+  "ultima_atualizacao": "31/08/2026 06:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
@@ -8,32 +8,16 @@
     {
       "data": "31/08",
       "dia_semana": "segunda",
-      "hora": "01:00",
-      "navio": "GRANDE AMBURGO",
-      "calado": "8,30",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9246607",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-31T01:00:00"
-    },
-    {
-      "data": "31/08",
-      "dia_semana": "segunda",
       "hora": "06:30",
       "navio": "CARDIFF",
-      "calado": "14,50",
+      "calado": "14,45",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9629457",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-08-31T06:30:00"
     },
