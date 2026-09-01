@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/09/2026 08:48",
+  "ultima_atualizacao": "01/09/2026 12:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
@@ -8,57 +8,9 @@
     {
       "data": "01/09",
       "dia_semana": "terça",
-      "hora": "07:30",
-      "navio": "GRANDE AMBURGO",
-      "calado": "8,40",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9246607",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-01T07:30:00"
-    },
-    {
-      "data": "01/09",
-      "dia_semana": "terça",
-      "hora": "09:30",
-      "navio": "ONE CONTINUITY",
-      "calado": "12,40",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9388352",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-01T09:30:00"
-    },
-    {
-      "data": "01/09",
-      "dia_semana": "terça",
-      "hora": "10:30",
-      "navio": "WIELAND",
-      "calado": "12,10",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9654464",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-09-01T10:30:00"
-    },
-    {
-      "data": "01/09",
-      "dia_semana": "terça",
       "hora": "11:30",
       "navio": "MAERSK PANGANI",
-      "calado": "11,85",
+      "calado": "11,75",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -81,7 +33,7 @@
       "imo": "9850898",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-09-01T13:30:00"
     },
@@ -89,6 +41,22 @@
       "data": "01/09",
       "dia_semana": "terça",
       "hora": "15:30",
+      "navio": "MSC SUSANNA",
+      "calado": "12,40",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9290543",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_futura",
+      "terminal": "multi",
+      "timestamp": "2026-09-01T15:30:00"
+    },
+    {
+      "data": "01/09",
+      "dia_semana": "terça",
+      "hora": "17:00",
       "navio": "MSC RUTH F",
       "calado": "7,50",
       "manobra": "E",
@@ -99,7 +67,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-01T15:30:00"
+      "timestamp": "2026-09-01T17:00:00"
     },
     {
       "data": "01/09",
@@ -120,23 +88,7 @@
     {
       "data": "01/09",
       "dia_semana": "terça",
-      "hora": "20:30",
-      "navio": "MSC SUSANNA",
-      "calado": "12,40",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9290543",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-01T20:30:00"
-    },
-    {
-      "data": "01/09",
-      "dia_semana": "terça",
-      "hora": "22:00",
+      "hora": "21:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "11,40",
       "manobra": "E",
@@ -147,47 +99,15 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-01T22:00:00"
-    },
-    {
-      "data": "01/09",
-      "dia_semana": "terça",
-      "hora": "23:30",
-      "navio": "GLOVIS SUMMIT",
-      "calado": "9,40",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9702417",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-01T23:30:00"
+      "timestamp": "2026-09-01T21:00:00"
     },
     {
       "data": "02/09",
       "dia_semana": "quarta",
       "hora": "01:00",
-      "navio": "MSC RUTH F",
-      "calado": "7,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9212034",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-02T01:00:00"
-    },
-    {
-      "data": "02/09",
-      "dia_semana": "quarta",
-      "hora": "06:00",
       "navio": "GLOVIS SUMMIT",
       "calado": "9,40",
-      "manobra": "S",
+      "manobra": "E",
       "beco": "TECONT5",
       "status": "futuro",
       "imo": "9702417",
@@ -195,7 +115,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-02T06:00:00"
+      "timestamp": "2026-09-02T01:00:00"
     },
     {
       "data": "02/09",
@@ -218,7 +138,7 @@
       "dia_semana": "quarta",
       "hora": "11:00",
       "navio": "NAVIOS AMARILLO",
-      "calado": "12,50",
+      "calado": "12,65",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -228,6 +148,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-02T11:00:00"
+    },
+    {
+      "data": "02/09",
+      "dia_semana": "quarta",
+      "hora": "13:00",
+      "navio": "MSC RUTH F",
+      "calado": "7,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9212034",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-02T13:00:00"
+    },
+    {
+      "data": "02/09",
+      "dia_semana": "quarta",
+      "hora": "14:00",
+      "navio": "GLOVIS SUMMIT",
+      "calado": "9,40",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9702417",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-02T14:00:00"
     },
     {
       "data": "02/09",
@@ -248,7 +200,39 @@
     {
       "data": "02/09",
       "dia_semana": "quarta",
-      "hora": "16:00",
+      "hora": "17:00",
+      "navio": "YM MODESTY",
+      "calado": "13,58",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9664885",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-02T17:00:00"
+    },
+    {
+      "data": "02/09",
+      "dia_semana": "quarta",
+      "hora": "19:00",
+      "navio": "MICHIGAN HIGHWAY",
+      "calado": "8,25",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9339832",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-02T19:00:00"
+    },
+    {
+      "data": "03/09",
+      "dia_semana": "quinta",
+      "hora": "06:00",
       "navio": "NAVIOS AMARILLO",
       "calado": "12,40",
       "manobra": "S",
@@ -259,12 +243,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-02T16:00:00"
+      "timestamp": "2026-09-03T06:00:00"
     },
     {
       "data": "03/09",
       "dia_semana": "quinta",
-      "hora": "06:30",
+      "hora": "08:30",
       "navio": "COSCO SHIPPING MEXICO",
       "calado": "13,80",
       "manobra": "E",
@@ -275,12 +259,28 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-03T06:30:00"
+      "timestamp": "2026-09-03T08:30:00"
     },
     {
       "data": "03/09",
       "dia_semana": "quinta",
-      "hora": "08:30",
+      "hora": "11:00",
+      "navio": "YM MODESTY",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9664885",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-03T11:00:00"
+    },
+    {
+      "data": "03/09",
+      "dia_semana": "quinta",
+      "hora": "16:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "11,50",
       "manobra": "S",
@@ -291,7 +291,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-03T08:30:00"
+      "timestamp": "2026-09-03T16:00:00"
     },
     {
       "data": "04/09",
@@ -412,9 +412,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "01/09 13:30",
       "manobra_rio_fim": "02/09 09:00",
-      "navio_multi": "MSC RUTH F",
+      "navio_multi": "MSC SUSANNA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/09 15:30"
+    },
+    {
+      "navio_rio": "EVER FEAT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/09 13:30",
+      "manobra_rio_fim": "02/09 09:00",
+      "navio_multi": "MSC RUTH F",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "01/09 17:00"
     },
     {
       "navio_rio": "EVER FEAT",
@@ -430,18 +439,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "01/09 13:30",
       "manobra_rio_fim": "02/09 09:00",
-      "navio_multi": "MSC SUSANNA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/09 20:30"
-    },
-    {
-      "navio_rio": "EVER FEAT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/09 13:30",
-      "manobra_rio_fim": "02/09 09:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/09 22:00"
+      "manobra_multi_data_hora": "01/09 21:00"
     },
     {
       "navio_rio": "EVER FEAT",
@@ -450,43 +450,70 @@
       "manobra_rio_fim": "02/09 09:00",
       "navio_multi": "GLOVIS SUMMIT",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/09 23:30"
-    },
-    {
-      "navio_rio": "EVER FEAT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/09 13:30",
-      "manobra_rio_fim": "02/09 09:00",
-      "navio_multi": "MSC RUTH F",
-      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/09 01:00"
     },
     {
-      "navio_rio": "EVER FEAT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/09 13:30",
-      "manobra_rio_fim": "02/09 09:00",
-      "navio_multi": "GLOVIS SUMMIT",
+      "navio_rio": "NAVIOS AMARILLO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/09 11:00",
+      "manobra_rio_fim": "03/09 06:00",
+      "navio_multi": "MSC RUTH F",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/09 06:00"
+      "manobra_multi_data_hora": "02/09 13:00"
     },
     {
       "navio_rio": "NAVIOS AMARILLO",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "02/09 11:00",
-      "manobra_rio_fim": "02/09 16:00",
+      "manobra_rio_fim": "03/09 06:00",
+      "navio_multi": "GLOVIS SUMMIT",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/09 14:00"
+    },
+    {
+      "navio_rio": "NAVIOS AMARILLO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/09 11:00",
+      "manobra_rio_fim": "03/09 06:00",
       "navio_multi": "MSC SUSANNA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/09 15:00"
     },
     {
+      "navio_rio": "NAVIOS AMARILLO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/09 11:00",
+      "manobra_rio_fim": "03/09 06:00",
+      "navio_multi": "YM MODESTY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "02/09 17:00"
+    },
+    {
+      "navio_rio": "NAVIOS AMARILLO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/09 11:00",
+      "manobra_rio_fim": "03/09 06:00",
+      "navio_multi": "MICHIGAN HIGHWAY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "02/09 19:00"
+    },
+    {
       "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "03/09 06:30",
+      "manobra_rio_inicio": "03/09 08:30",
+      "manobra_rio_fim": "04/09 07:00",
+      "navio_multi": "YM MODESTY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/09 11:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/09 08:30",
       "manobra_rio_fim": "04/09 07:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/09 08:30"
+      "manobra_multi_data_hora": "03/09 16:00"
     }
   ]
 }
