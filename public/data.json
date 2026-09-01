@@ -1,46 +1,14 @@
 {
-  "ultima_atualizacao": "31/08/2026 22:11",
+  "ultima_atualizacao": "01/09/2026 03:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
   },
   "navios": [
     {
-      "data": "31/08",
-      "dia_semana": "segunda",
-      "hora": "23:00",
-      "navio": "MAERSK PANGANI",
-      "calado": "11,85",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "passado",
-      "imo": "9786097",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-08-31T23:00:00"
-    },
-    {
       "data": "01/09",
       "dia_semana": "terça",
-      "hora": "03:00",
-      "navio": "GRANDE AMBURGO",
-      "calado": "8,50",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9246607",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-01T03:00:00"
-    },
-    {
-      "data": "01/09",
-      "dia_semana": "terça",
-      "hora": "05:30",
+      "hora": "06:30",
       "navio": "ONE CONTINUITY",
       "calado": "12,40",
       "manobra": "S",
@@ -49,46 +17,14 @@
       "imo": "9388352",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-09-01T05:30:00"
-    },
-    {
-      "data": "01/09",
-      "dia_semana": "terça",
-      "hora": "06:30",
-      "navio": "WIELAND",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9654464",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
       "timestamp": "2026-09-01T06:30:00"
     },
     {
       "data": "01/09",
       "dia_semana": "terça",
       "hora": "08:30",
-      "navio": "EVER FEAT",
-      "calado": "14,80",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9850898",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-09-01T08:30:00"
-    },
-    {
-      "data": "01/09",
-      "dia_semana": "terça",
-      "hora": "11:00",
       "navio": "MSC RUTH F",
       "calado": "7,50",
       "manobra": "E",
@@ -99,28 +35,28 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-01T11:00:00"
+      "timestamp": "2026-09-01T08:30:00"
     },
     {
       "data": "01/09",
       "dia_semana": "terça",
-      "hora": "13:00",
-      "navio": "ITHACA",
-      "calado": "9,00",
+      "hora": "10:30",
+      "navio": "WIELAND",
+      "calado": "12,10",
       "manobra": "S",
-      "beco": "TECONT4",
+      "beco": "TECONTPROLONG",
       "status": "hoje",
-      "imo": "9968449",
+      "imo": "9654464",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-01T13:00:00"
+      "terminal": "rio",
+      "timestamp": "2026-09-01T10:30:00"
     },
     {
       "data": "01/09",
       "dia_semana": "terça",
-      "hora": "14:00",
+      "hora": "11:30",
       "navio": "MAERSK PANGANI",
       "calado": "12,20",
       "manobra": "S",
@@ -131,12 +67,60 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-01T14:00:00"
+      "timestamp": "2026-09-01T11:30:00"
     },
     {
       "data": "01/09",
       "dia_semana": "terça",
-      "hora": "16:00",
+      "hora": "12:30",
+      "navio": "GRANDE AMBURGO",
+      "calado": "8,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9246607",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-01T12:30:00"
+    },
+    {
+      "data": "01/09",
+      "dia_semana": "terça",
+      "hora": "14:30",
+      "navio": "EVER FEAT",
+      "calado": "14,80",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9850898",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-01T14:30:00"
+    },
+    {
+      "data": "01/09",
+      "dia_semana": "terça",
+      "hora": "16:30",
+      "navio": "ITHACA",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "hoje",
+      "imo": "9968449",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-01T16:30:00"
+    },
+    {
+      "data": "01/09",
+      "dia_semana": "terça",
+      "hora": "18:30",
       "navio": "GLOVIS SUMMIT",
       "calado": "9,40",
       "manobra": "E",
@@ -147,7 +131,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-01T16:00:00"
+      "timestamp": "2026-09-01T18:30:00"
     },
     {
       "data": "02/09",
@@ -184,7 +168,7 @@
     {
       "data": "02/09",
       "dia_semana": "quarta",
-      "hora": "06:30",
+      "hora": "09:00",
       "navio": "EVER FEAT",
       "calado": "14,00",
       "manobra": "S",
@@ -195,12 +179,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-02T06:30:00"
+      "timestamp": "2026-09-02T09:00:00"
     },
     {
       "data": "02/09",
       "dia_semana": "quarta",
-      "hora": "08:30",
+      "hora": "11:00",
       "navio": "NAVIOS AMARILLO",
       "calado": "12,50",
       "manobra": "E",
@@ -211,7 +195,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-02T08:30:00"
+      "timestamp": "2026-09-02T11:00:00"
     },
     {
       "data": "02/09",
@@ -362,44 +346,26 @@
     {
       "navio_rio": "EVER FEAT",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/09 08:30",
-      "manobra_rio_fim": "02/09 06:30",
-      "navio_multi": "MSC RUTH F",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/09 11:00"
-    },
-    {
-      "navio_rio": "EVER FEAT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/09 08:30",
-      "manobra_rio_fim": "02/09 06:30",
+      "manobra_rio_inicio": "01/09 14:30",
+      "manobra_rio_fim": "02/09 09:00",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/09 13:00"
+      "manobra_multi_data_hora": "01/09 16:30"
     },
     {
       "navio_rio": "EVER FEAT",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/09 08:30",
-      "manobra_rio_fim": "02/09 06:30",
-      "navio_multi": "MAERSK PANGANI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/09 14:00"
-    },
-    {
-      "navio_rio": "EVER FEAT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "01/09 08:30",
-      "manobra_rio_fim": "02/09 06:30",
+      "manobra_rio_inicio": "01/09 14:30",
+      "manobra_rio_fim": "02/09 09:00",
       "navio_multi": "GLOVIS SUMMIT",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/09 16:00"
+      "manobra_multi_data_hora": "01/09 18:30"
     },
     {
       "navio_rio": "EVER FEAT",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/09 08:30",
-      "manobra_rio_fim": "02/09 06:30",
+      "manobra_rio_inicio": "01/09 14:30",
+      "manobra_rio_fim": "02/09 09:00",
       "navio_multi": "MSC RUTH F",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/09 01:00"
@@ -407,8 +373,8 @@
     {
       "navio_rio": "EVER FEAT",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "01/09 08:30",
-      "manobra_rio_fim": "02/09 06:30",
+      "manobra_rio_inicio": "01/09 14:30",
+      "manobra_rio_fim": "02/09 09:00",
       "navio_multi": "GLOVIS SUMMIT",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "02/09 03:00"
