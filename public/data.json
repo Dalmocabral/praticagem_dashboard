@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "01/09/2026 12:37",
+  "ultima_atualizacao": "01/09/2026 15:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
   },
   "navios": [
-    {
-      "data": "01/09",
-      "dia_semana": "terça",
-      "hora": "11:30",
-      "navio": "MAERSK PANGANI",
-      "calado": "11,75",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9786097",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-01T11:30:00"
-    },
     {
       "data": "01/09",
       "dia_semana": "terça",
@@ -58,14 +42,14 @@
       "dia_semana": "terça",
       "hora": "17:00",
       "navio": "MSC RUTH F",
-      "calado": "7,50",
+      "calado": "7,44",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9212034",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-01T17:00:00"
     },
@@ -81,7 +65,7 @@
       "imo": "9968449",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-09-01T19:00:00"
     },
@@ -292,6 +276,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-03T16:00:00"
+    },
+    {
+      "data": "03/09",
+      "dia_semana": "quinta",
+      "hora": "19:00",
+      "navio": "MICHIGAN HIGHWAY",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9339832",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-03T19:00:00"
     },
     {
       "data": "04/09",
@@ -514,6 +514,15 @@
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "03/09 16:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/09 08:30",
+      "manobra_rio_fim": "04/09 07:00",
+      "navio_multi": "MICHIGAN HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/09 19:00"
     }
   ]
 }
