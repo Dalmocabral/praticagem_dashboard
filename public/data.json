@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/09/2026 08:22",
+  "ultima_atualizacao": "02/09/2026 12:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
@@ -33,7 +33,7 @@
       "imo": "9324849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-09-02T12:00:00"
     },
@@ -42,14 +42,14 @@
       "dia_semana": "quarta",
       "hora": "14:00",
       "navio": "GLOVIS SUMMIT",
-      "calado": "9,40",
+      "calado": "8,60",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9702417",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-02T14:00:00"
     },
@@ -65,7 +65,7 @@
       "imo": "9290543",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-02T15:00:00"
     },
@@ -73,12 +73,12 @@
       "data": "02/09",
       "dia_semana": "quarta",
       "hora": "17:00",
-      "navio": "YM MODESTY",
-      "calado": "13,58",
+      "navio": "MSC AMALFI",
+      "calado": "13,80",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9664885",
+      "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -152,34 +152,50 @@
     {
       "data": "03/09",
       "dia_semana": "quinta",
-      "hora": "11:00",
+      "hora": "13:00",
       "navio": "YM MODESTY",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
+      "calado": "13,58",
+      "manobra": "E",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9664885",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-03T11:00:00"
+      "timestamp": "2026-09-03T13:00:00"
     },
     {
       "data": "03/09",
       "dia_semana": "quinta",
-      "hora": "16:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "11,50",
+      "hora": "15:00",
+      "navio": "MSC AMALFI",
+      "calado": "15,00",
       "manobra": "S",
-      "beco": "TECONT4",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9506394",
+      "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-03T16:00:00"
+      "timestamp": "2026-09-03T15:00:00"
+    },
+    {
+      "data": "03/09",
+      "dia_semana": "quinta",
+      "hora": "17:00",
+      "navio": "MSC CAROLE",
+      "calado": "15,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9785445",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-03T17:00:00"
     },
     {
       "data": "03/09",
@@ -198,6 +214,22 @@
       "timestamp": "2026-09-03T19:00:00"
     },
     {
+      "data": "03/09",
+      "dia_semana": "quinta",
+      "hora": "20:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-03T20:00:00"
+    },
+    {
       "data": "04/09",
       "dia_semana": "sexta",
       "hora": "07:00",
@@ -212,6 +244,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-04T07:00:00"
+    },
+    {
+      "data": "04/09",
+      "dia_semana": "sexta",
+      "hora": "08:00",
+      "navio": "MSC CAROLE",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9785445",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-04T08:00:00"
+    },
+    {
+      "data": "04/09",
+      "dia_semana": "sexta",
+      "hora": "09:00",
+      "navio": "YM MODESTY",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9664885",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-04T09:00:00"
     },
     {
       "data": "08/09",
@@ -334,7 +398,7 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "02/09 12:00",
       "manobra_rio_fim": "03/09 06:00",
-      "navio_multi": "YM MODESTY",
+      "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "02/09 17:00"
     },
@@ -362,17 +426,26 @@
       "manobra_rio_inicio": "03/09 08:30",
       "manobra_rio_fim": "04/09 07:00",
       "navio_multi": "YM MODESTY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/09 11:00"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/09 13:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "03/09 08:30",
       "manobra_rio_fim": "04/09 07:00",
-      "navio_multi": "LOG-IN DISCOVERY",
+      "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/09 16:00"
+      "manobra_multi_data_hora": "03/09 15:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/09 08:30",
+      "manobra_rio_fim": "04/09 07:00",
+      "navio_multi": "MSC CAROLE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/09 17:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
@@ -382,6 +455,15 @@
       "navio_multi": "MICHIGAN HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "03/09 19:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "03/09 08:30",
+      "manobra_rio_fim": "04/09 07:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/09 20:00"
     }
   ]
 }
