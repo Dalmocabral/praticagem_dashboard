@@ -1,55 +1,23 @@
 {
-  "ultima_atualizacao": "02/09/2026 22:24",
+  "ultima_atualizacao": "03/09/2026 03:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
   },
   "navios": [
     {
-      "data": "02/09",
-      "dia_semana": "quarta",
-      "hora": "19:00",
-      "navio": "MICHIGAN HIGHWAY",
-      "calado": "8,25",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "passado",
-      "imo": "9339832",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-02T19:00:00"
-    },
-    {
-      "data": "03/09",
-      "dia_semana": "quinta",
-      "hora": "05:00",
-      "navio": "MSC RUTH F",
-      "calado": "9,30",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9212034",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-03T05:00:00"
-    },
-    {
       "data": "03/09",
       "dia_semana": "quinta",
       "hora": "06:00",
       "navio": "NAVIOS AMARILLO",
-      "calado": "12,40",
+      "calado": "12,65",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9324849",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-09-03T06:00:00"
     },
@@ -72,7 +40,23 @@
     {
       "data": "03/09",
       "dia_semana": "quinta",
-      "hora": "09:30",
+      "hora": "10:00",
+      "navio": "MSC RUTH F",
+      "calado": "9,30",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9212034",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-03T10:00:00"
+    },
+    {
+      "data": "03/09",
+      "dia_semana": "quinta",
+      "hora": "12:00",
       "navio": "YM MODESTY",
       "calado": "13,58",
       "manobra": "E",
@@ -83,12 +67,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-03T09:30:00"
+      "timestamp": "2026-09-03T12:00:00"
     },
     {
       "data": "03/09",
       "dia_semana": "quinta",
-      "hora": "11:00",
+      "hora": "13:30",
       "navio": "MSC AMALFI",
       "calado": "13,80",
       "manobra": "E",
@@ -99,7 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-03T11:00:00"
+      "timestamp": "2026-09-03T13:30:00"
     },
     {
       "data": "03/09",
@@ -380,9 +364,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "03/09 08:00",
       "manobra_rio_fim": "04/09 07:00",
+      "navio_multi": "MSC RUTH F",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/09 10:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "03/09 08:00",
+      "manobra_rio_fim": "04/09 07:00",
       "navio_multi": "YM MODESTY",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/09 09:30"
+      "manobra_multi_data_hora": "03/09 12:00"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
@@ -391,7 +384,7 @@
       "manobra_rio_fim": "04/09 07:00",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "03/09 11:00"
+      "manobra_multi_data_hora": "03/09 13:30"
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
