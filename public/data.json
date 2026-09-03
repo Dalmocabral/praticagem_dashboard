@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/09/2026 18:22",
+  "ultima_atualizacao": "03/09/2026 20:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
@@ -212,6 +212,38 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-06T06:30:00"
+    },
+    {
+      "data": "06/09",
+      "dia_semana": "domingo",
+      "hora": "08:30",
+      "navio": "SWANSEA",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9629469",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-06T08:30:00"
+    },
+    {
+      "data": "06/09",
+      "dia_semana": "domingo",
+      "hora": "16:30",
+      "navio": "SWANSEA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9629469",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-06T16:30:00"
     },
     {
       "data": "07/09",
