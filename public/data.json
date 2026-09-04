@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/09/2026 15:17",
+  "ultima_atualizacao": "04/09/2026 17:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
@@ -26,7 +26,7 @@
       "dia_semana": "sexta",
       "hora": "18:00",
       "navio": "DUSSELDORF EXPRESS",
-      "calado": "10,70",
+      "calado": "10,40",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -42,14 +42,14 @@
       "dia_semana": "sexta",
       "hora": "20:00",
       "navio": "YM MODESTY",
-      "calado": "12,60",
+      "calado": "12,00",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9664885",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-04T20:00:00"
     },
@@ -202,7 +202,7 @@
       "dia_semana": "domingo",
       "hora": "08:30",
       "navio": "SWANSEA",
-      "calado": "12,60",
+      "calado": "14,20",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -276,22 +276,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-07T09:00:00"
-    },
-    {
-      "data": "07/09",
-      "dia_semana": "segunda",
-      "hora": "11:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "6,90",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "futuro",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-07T11:00:00"
     },
     {
       "data": "07/09",
@@ -510,15 +494,6 @@
       "navio_multi": "MSC CAROLE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/09 09:00"
-    },
-    {
-      "navio_rio": "NC BRISA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/09 06:00",
-      "manobra_rio_fim": "07/09 23:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/09 11:00"
     }
   ]
 }
