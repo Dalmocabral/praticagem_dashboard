@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/09/2026 17:52",
+  "ultima_atualizacao": "04/09/2026 19:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
@@ -20,22 +20,6 @@
       "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-04T16:00:00"
-    },
-    {
-      "data": "04/09",
-      "dia_semana": "sexta",
-      "hora": "18:00",
-      "navio": "DUSSELDORF EXPRESS",
-      "calado": "10,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9143556",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-04T18:00:00"
     },
     {
       "data": "04/09",
@@ -65,7 +49,7 @@
       "imo": "9695028",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-04T22:00:00"
     },
@@ -81,7 +65,7 @@
       "imo": "9720512",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-09-04T23:30:00"
     },
@@ -280,6 +264,22 @@
     {
       "data": "07/09",
       "dia_semana": "segunda",
+      "hora": "11:00",
+      "navio": "SINAR SUMATERA",
+      "calado": "6,90",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "1015375",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-07T11:00:00"
+    },
+    {
+      "data": "07/09",
+      "dia_semana": "segunda",
       "hora": "23:00",
       "navio": "NC BRISA",
       "calado": "8,70",
@@ -424,42 +424,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "04/09 18:00",
-      "manobra_rio_fim": "05/09 03:00",
-      "navio_multi": "YM MODESTY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "04/09 20:00"
-    },
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "04/09 18:00",
-      "manobra_rio_fim": "05/09 03:00",
-      "navio_multi": "MSC SOFIA PAZ",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "04/09 22:00"
-    },
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/09 18:00",
-      "manobra_rio_fim": "05/09 03:00",
-      "navio_multi": "MSC MICHELA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "04/09 23:30"
-    },
-    {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/09 18:00",
-      "manobra_rio_fim": "05/09 03:00",
-      "navio_multi": "MICHIGAN HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/09 01:30"
-    },
-    {
       "navio_rio": "CMA CGM SANTOS",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/09 05:00",
@@ -494,6 +458,15 @@
       "navio_multi": "MSC CAROLE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/09 09:00"
+    },
+    {
+      "navio_rio": "NC BRISA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/09 06:00",
+      "manobra_rio_fim": "07/09 23:00",
+      "navio_multi": "SINAR SUMATERA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/09 11:00"
     }
   ]
 }
