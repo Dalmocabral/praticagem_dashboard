@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "04/09/2026 02:59",
+  "ultima_atualizacao": "04/09/2026 08:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
   },
   "navios": [
-    {
-      "data": "04/09",
-      "dia_semana": "sexta",
-      "hora": "06:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,70",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-04T06:00:00"
-    },
     {
       "data": "04/09",
       "dia_semana": "sexta",
@@ -33,25 +17,9 @@
       "imo": "9945863",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-09-04T07:00:00"
-    },
-    {
-      "data": "04/09",
-      "dia_semana": "sexta",
-      "hora": "10:00",
-      "navio": "MICHIGAN HIGHWAY",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9339832",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-04T10:00:00"
     },
     {
       "data": "04/09",
@@ -65,7 +33,7 @@
       "imo": "9664885",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-04T11:00:00"
     },
@@ -132,6 +100,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-04T19:00:00"
+    },
+    {
+      "data": "04/09",
+      "dia_semana": "sexta",
+      "hora": "21:00",
+      "navio": "MICHIGAN HIGHWAY",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9339832",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-04T21:00:00"
     },
     {
       "data": "05/09",
@@ -424,6 +408,15 @@
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "04/09 19:00"
+    },
+    {
+      "navio_rio": "DUSSELDORF EXPRESS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "04/09 16:00",
+      "manobra_rio_fim": "05/09 07:30",
+      "navio_multi": "MICHIGAN HIGHWAY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "04/09 21:00"
     },
     {
       "navio_rio": "DUSSELDORF EXPRESS",
