@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/09/2026 22:12",
+  "ultima_atualizacao": "04/09/2026 02:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
@@ -8,23 +8,7 @@
     {
       "data": "04/09",
       "dia_semana": "sexta",
-      "hora": "03:00",
-      "navio": "MICHIGAN HIGHWAY",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9339832",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-04T03:00:00"
-    },
-    {
-      "data": "04/09",
-      "dia_semana": "sexta",
-      "hora": "04:00",
+      "hora": "06:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,70",
       "manobra": "S",
@@ -33,9 +17,9 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-09-04T04:00:00"
+      "timestamp": "2026-09-04T06:00:00"
     },
     {
       "data": "04/09",
@@ -56,18 +40,18 @@
     {
       "data": "04/09",
       "dia_semana": "sexta",
-      "hora": "08:00",
-      "navio": "MSC AMALFI",
-      "calado": "15,00",
+      "hora": "10:00",
+      "navio": "MICHIGAN HIGHWAY",
+      "calado": "10,00",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT5",
       "status": "hoje",
-      "imo": "9605279",
-      "tipo_navio": "CONTAINER SHIP",
+      "imo": "9339832",
+      "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-04T08:00:00"
+      "timestamp": "2026-09-04T10:00:00"
     },
     {
       "data": "04/09",
@@ -88,34 +72,18 @@
     {
       "data": "04/09",
       "dia_semana": "sexta",
-      "hora": "13:00",
-      "navio": "MSC SOFIA PAZ",
-      "calado": "11,60",
-      "manobra": "E",
+      "hora": "14:00",
+      "navio": "MSC AMALFI",
+      "calado": "15,00",
+      "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9695028",
+      "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-04T13:00:00"
-    },
-    {
-      "data": "04/09",
-      "dia_semana": "sexta",
-      "hora": "14:30",
-      "navio": "MSC MICHELA",
-      "calado": "11,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9720512",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-04T14:30:00"
+      "timestamp": "2026-09-04T14:00:00"
     },
     {
       "data": "04/09",
@@ -132,6 +100,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-04T16:00:00"
+    },
+    {
+      "data": "04/09",
+      "dia_semana": "sexta",
+      "hora": "17:30",
+      "navio": "MSC SOFIA PAZ",
+      "calado": "11,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9695028",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-04T17:30:00"
+    },
+    {
+      "data": "04/09",
+      "dia_semana": "sexta",
+      "hora": "19:00",
+      "navio": "MSC MICHELA",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9720512",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-04T19:00:00"
     },
     {
       "data": "05/09",
@@ -407,6 +407,24 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "DUSSELDORF EXPRESS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "04/09 16:00",
+      "manobra_rio_fim": "05/09 07:30",
+      "navio_multi": "MSC SOFIA PAZ",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "04/09 17:30"
+    },
+    {
+      "navio_rio": "DUSSELDORF EXPRESS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "04/09 16:00",
+      "manobra_rio_fim": "05/09 07:30",
+      "navio_multi": "MSC MICHELA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "04/09 19:00"
+    },
     {
       "navio_rio": "DUSSELDORF EXPRESS",
       "manobra_rio_afetada": "S",
