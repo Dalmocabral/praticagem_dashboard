@@ -1,74 +1,10 @@
 {
-  "ultima_atualizacao": "04/09/2026 21:25",
+  "ultima_atualizacao": "05/09/2026 01:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
   },
   "navios": [
-    {
-      "data": "04/09",
-      "dia_semana": "sexta",
-      "hora": "16:00",
-      "navio": "MSC AMALFI",
-      "calado": "15,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "passado",
-      "imo": "9605279",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-04T16:00:00"
-    },
-    {
-      "data": "04/09",
-      "dia_semana": "sexta",
-      "hora": "20:00",
-      "navio": "YM MODESTY",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9664885",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-04T20:00:00"
-    },
-    {
-      "data": "04/09",
-      "dia_semana": "sexta",
-      "hora": "22:00",
-      "navio": "MSC SOFIA PAZ",
-      "calado": "11,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "passado",
-      "imo": "9695028",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-04T22:00:00"
-    },
-    {
-      "data": "04/09",
-      "dia_semana": "sexta",
-      "hora": "23:30",
-      "navio": "MSC MICHELA",
-      "calado": "11,95",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9720512",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-04T23:30:00"
-    },
     {
       "data": "05/09",
       "dia_semana": "sábado",
@@ -81,16 +17,16 @@
       "imo": "9339832",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-05T01:30:00"
     },
     {
       "data": "05/09",
       "dia_semana": "sábado",
-      "hora": "03:00",
+      "hora": "06:00",
       "navio": "DUSSELDORF EXPRESS",
-      "calado": "10,70",
+      "calado": "9,20",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -99,12 +35,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-05T03:00:00"
+      "timestamp": "2026-09-05T06:00:00"
     },
     {
       "data": "05/09",
       "dia_semana": "sábado",
-      "hora": "05:00",
+      "hora": "08:00",
       "navio": "CMA CGM SANTOS",
       "calado": "10,70",
       "manobra": "E",
@@ -115,14 +51,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-05T05:00:00"
+      "timestamp": "2026-09-05T08:00:00"
     },
     {
       "data": "05/09",
       "dia_semana": "sábado",
       "hora": "16:00",
       "navio": "MSC SOFIA PAZ",
-      "calado": "11,60",
+      "calado": "11,28",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -232,9 +168,9 @@
     {
       "data": "07/09",
       "dia_semana": "segunda",
-      "hora": "06:00",
+      "hora": "07:00",
       "navio": "NC BRISA",
-      "calado": "8,70",
+      "calado": "8,50",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -243,7 +179,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-07T06:00:00"
+      "timestamp": "2026-09-07T07:00:00"
     },
     {
       "data": "07/09",
@@ -280,7 +216,7 @@
     {
       "data": "07/09",
       "dia_semana": "segunda",
-      "hora": "23:00",
+      "hora": "16:00",
       "navio": "NC BRISA",
       "calado": "8,70",
       "manobra": "S",
@@ -291,7 +227,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-07T23:00:00"
+      "timestamp": "2026-09-07T16:00:00"
     },
     {
       "data": "08/09",
@@ -426,7 +362,7 @@
     {
       "navio_rio": "CMA CGM SANTOS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/09 05:00",
+      "manobra_rio_inicio": "05/09 08:00",
       "manobra_rio_fim": "06/09 05:30",
       "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "S",
@@ -434,8 +370,8 @@
     },
     {
       "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/09 05:00",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/09 08:00",
       "manobra_rio_fim": "06/09 05:30",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "E",
@@ -453,8 +389,8 @@
     {
       "navio_rio": "NC BRISA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/09 06:00",
-      "manobra_rio_fim": "07/09 23:00",
+      "manobra_rio_inicio": "07/09 07:00",
+      "manobra_rio_fim": "07/09 16:00",
       "navio_multi": "MSC CAROLE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/09 09:00"
@@ -462,8 +398,8 @@
     {
       "navio_rio": "NC BRISA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/09 06:00",
-      "manobra_rio_fim": "07/09 23:00",
+      "manobra_rio_inicio": "07/09 07:00",
+      "manobra_rio_fim": "07/09 16:00",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/09 11:00"
