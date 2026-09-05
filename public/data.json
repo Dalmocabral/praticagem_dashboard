@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/09/2026 16:18",
+  "ultima_atualizacao": "05/09/2026 18:23",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
@@ -56,7 +56,7 @@
     {
       "data": "06/09",
       "dia_semana": "domingo",
-      "hora": "10:30",
+      "hora": "10:00",
       "navio": "MSC MICHELA",
       "calado": "11,00",
       "manobra": "S",
@@ -67,12 +67,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-06T10:30:00"
+      "timestamp": "2026-09-06T10:00:00"
     },
     {
       "data": "06/09",
       "dia_semana": "domingo",
-      "hora": "11:30",
+      "hora": "11:00",
       "navio": "MSC SOFIA PAZ",
       "calado": "11,40",
       "manobra": "S",
@@ -83,12 +83,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-06T11:30:00"
+      "timestamp": "2026-09-06T11:00:00"
     },
     {
       "data": "06/09",
       "dia_semana": "domingo",
-      "hora": "13:30",
+      "hora": "13:00",
       "navio": "MSC CAROLE",
       "calado": "14,90",
       "manobra": "E",
@@ -99,7 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-06T13:30:00"
+      "timestamp": "2026-09-06T13:00:00"
     },
     {
       "data": "06/09",
