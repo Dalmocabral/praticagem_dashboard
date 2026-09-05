@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/09/2026 01:51",
+  "ultima_atualizacao": "05/09/2026 05:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
@@ -8,32 +8,16 @@
     {
       "data": "05/09",
       "dia_semana": "sábado",
-      "hora": "01:30",
-      "navio": "MICHIGAN HIGHWAY",
-      "calado": "8,20",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9339832",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-05T01:30:00"
-    },
-    {
-      "data": "05/09",
-      "dia_semana": "sábado",
       "hora": "06:00",
       "navio": "DUSSELDORF EXPRESS",
-      "calado": "9,20",
+      "calado": "9,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9143556",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-09-05T06:00:00"
     },
@@ -42,14 +26,14 @@
       "dia_semana": "sábado",
       "hora": "08:00",
       "navio": "CMA CGM SANTOS",
-      "calado": "10,70",
+      "calado": "10,60",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9649835",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-09-05T08:00:00"
     },
