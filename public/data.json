@@ -1,14 +1,14 @@
 {
-  "ultima_atualizacao": "06/09/2026 06:47",
+  "ultima_atualizacao": "06/09/2026 10:12",
   "barra_info": {
-    "restrita": false,
-    "mensagem": "BARRA ABERTA DESDE 28/08/2026 10:26"
+    "restrita": true,
+    "mensagem": "BARRA RESTRITA DESDE 06/09/2026 09:04 Autorizado o embarque e desembarque do prático em águas abrigadas para navios e supplies."
   },
   "navios": [
     {
       "data": "06/09",
       "dia_semana": "domingo",
-      "hora": "14:30",
+      "hora": "16:00",
       "navio": "SWANSEA",
       "calado": "14,20",
       "manobra": "E",
@@ -19,28 +19,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-06T14:30:00"
+      "timestamp": "2026-09-06T16:00:00"
     },
     {
       "data": "06/09",
       "dia_semana": "domingo",
-      "hora": "16:30",
-      "navio": "MSC SOFIA PAZ",
-      "calado": "11,40",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9695028",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-06T16:30:00"
-    },
-    {
-      "data": "06/09",
-      "dia_semana": "domingo",
-      "hora": "17:30",
+      "hora": "18:00",
       "navio": "MSC MICHELA",
       "calado": "10,50",
       "manobra": "S",
@@ -51,7 +35,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-06T17:30:00"
+      "timestamp": "2026-09-06T18:00:00"
+    },
+    {
+      "data": "06/09",
+      "dia_semana": "domingo",
+      "hora": "19:00",
+      "navio": "MSC SOFIA PAZ",
+      "calado": "11,40",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9695028",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-06T19:00:00"
     },
     {
       "data": "07/09",
@@ -330,25 +330,25 @@
     {
       "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/09 14:30",
+      "manobra_rio_inicio": "06/09 16:00",
       "manobra_rio_fim": "07/09 05:00",
-      "navio_multi": "MSC SOFIA PAZ",
+      "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/09 16:30"
+      "manobra_multi_data_hora": "06/09 18:00"
     },
     {
       "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/09 14:30",
+      "manobra_rio_inicio": "06/09 16:00",
       "manobra_rio_fim": "07/09 05:00",
-      "navio_multi": "MSC MICHELA",
+      "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/09 17:30"
+      "manobra_multi_data_hora": "06/09 19:00"
     },
     {
       "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "06/09 14:30",
+      "manobra_rio_inicio": "06/09 16:00",
       "manobra_rio_fim": "07/09 05:00",
       "navio_multi": "BRASILIA HIGHWAY",
       "manobra_multi_tipo": "S",
