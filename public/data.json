@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/09/2026 17:44",
+  "ultima_atualizacao": "06/09/2026 19:26",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 06/09/2026 17:19 Canal varrido fechado. Barra grande restrita para calados acima de 11,50m. Autorizado o embarque e desembarque em águas abrigadas para navios e supplies."
@@ -74,7 +74,7 @@
       "dia_semana": "segunda",
       "hora": "06:30",
       "navio": "SWANSEA",
-      "calado": "12,60",
+      "calado": "14,25",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -202,7 +202,7 @@
       "dia_semana": "terça",
       "hora": "16:00",
       "navio": "MAERSK FREEPORT",
-      "calado": "13,00",
+      "calado": "13,90",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
