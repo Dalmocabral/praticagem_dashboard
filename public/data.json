@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/09/2026 01:56",
+  "ultima_atualizacao": "07/09/2026 07:07",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 06/09/2026 17:19 Canal varrido fechado. Barra grande restrita para calados acima de 11,50m. Autorizado o embarque e desembarque em águas abrigadas para navios e supplies."
@@ -8,34 +8,18 @@
     {
       "data": "07/09",
       "dia_semana": "segunda",
-      "hora": "05:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "6,90",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-07T05:00:00"
-    },
-    {
-      "data": "07/09",
-      "dia_semana": "segunda",
-      "hora": "07:30",
+      "hora": "06:00",
       "navio": "BRASILIA HIGHWAY",
-      "calado": "8,42",
+      "calado": "8,24",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9519119",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-09-07T07:30:00"
+      "timestamp": "2026-09-07T06:00:00"
     },
     {
       "data": "07/09",
