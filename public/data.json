@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/09/2026 12:50",
+  "ultima_atualizacao": "07/09/2026 13:39",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 06/09/2026 17:19 Canal varrido fechado. Barra grande restrita para calados acima de 11,50m. Autorizado o embarque e desembarque em águas abrigadas para navios e supplies."
@@ -25,22 +25,6 @@
       "data": "07/09",
       "dia_semana": "segunda",
       "hora": "16:00",
-      "navio": "MSC CAROLE",
-      "calado": "14,90",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9785445",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
-      "terminal": "multi",
-      "timestamp": "2026-09-07T16:00:00"
-    },
-    {
-      "data": "07/09",
-      "dia_semana": "segunda",
-      "hora": "18:00",
       "navio": "NC BRISA",
       "calado": "8,50",
       "manobra": "E",
@@ -49,9 +33,25 @@
       "imo": "9612789",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
-      "timestamp": "2026-09-07T18:00:00"
+      "timestamp": "2026-09-07T16:00:00"
+    },
+    {
+      "data": "08/09",
+      "dia_semana": "terça",
+      "hora": "09:00",
+      "navio": "MSC CAROLE",
+      "calado": "14,90",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9785445",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-08T09:00:00"
     },
     {
       "data": "08/09",
@@ -75,8 +75,8 @@
       "hora": "14:00",
       "navio": "NC BRISA",
       "calado": "8,70",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "manobra": "M",
+      "beco": "TECONTPROLONG -> TECONT4",
       "status": "futuro",
       "imo": "9612789",
       "tipo_navio": "CONTAINER SHIP",
@@ -116,6 +116,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-08T18:00:00"
+    },
+    {
+      "data": "09/09",
+      "dia_semana": "quarta",
+      "hora": "02:00",
+      "navio": "NC BRISA",
+      "calado": "8,50",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9612789",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-09T02:00:00"
     },
     {
       "data": "09/09",
@@ -297,8 +313,17 @@
   "conflitos": [
     {
       "navio_rio": "NC BRISA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/09 18:00",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/09 16:00",
+      "manobra_rio_fim": "08/09 14:00",
+      "navio_multi": "MSC CAROLE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "08/09 09:00"
+    },
+    {
+      "navio_rio": "NC BRISA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/09 16:00",
       "manobra_rio_fim": "08/09 14:00",
       "navio_multi": "MSC CAROLE",
       "manobra_multi_tipo": "S",
@@ -312,6 +337,15 @@
       "navio_multi": "MSC BREMEN",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "08/09 18:00"
+    },
+    {
+      "navio_rio": "KOTA EMBUN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "08/09 16:00",
+      "manobra_rio_fim": "09/09 09:00",
+      "navio_multi": "NC BRISA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "09/09 02:00"
     }
   ]
 }
