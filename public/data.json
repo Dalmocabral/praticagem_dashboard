@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "08/09/2026 14:50",
+  "ultima_atualizacao": "08/09/2026 17:31",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 06/09/2026 17:19 Canal varrido fechado. Barra grande restrita para calados acima de 11,50m. Autorizado o embarque e desembarque em águas abrigadas para navios e supplies."
@@ -24,23 +24,7 @@
     {
       "data": "08/09",
       "dia_semana": "terça",
-      "hora": "18:00",
-      "navio": "MSC ODESSA V",
-      "calado": "9,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
-      "terminal": "multi",
-      "timestamp": "2026-09-08T18:00:00"
-    },
-    {
-      "data": "08/09",
-      "dia_semana": "terça",
-      "hora": "21:00",
+      "hora": "19:30",
       "navio": "NC BRISA",
       "calado": "8,50",
       "manobra": "S",
@@ -49,25 +33,41 @@
       "imo": "9612789",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-09-08T21:00:00"
+      "timestamp": "2026-09-08T19:30:00"
     },
     {
-      "data": "09/09",
-      "dia_semana": "quarta",
-      "hora": "06:00",
+      "data": "08/09",
+      "dia_semana": "terça",
+      "hora": "22:00",
       "navio": "MSC ODESSA V",
       "calado": "9,30",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "hoje",
       "imo": "9456965",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-09T06:00:00"
+      "timestamp": "2026-09-08T22:00:00"
+    },
+    {
+      "data": "09/09",
+      "dia_semana": "quarta",
+      "hora": "04:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,90",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-09T04:00:00"
     },
     {
       "data": "09/09",
@@ -136,6 +136,22 @@
     {
       "data": "09/09",
       "dia_semana": "quarta",
+      "hora": "18:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,90",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-09T18:00:00"
+    },
+    {
+      "data": "09/09",
+      "dia_semana": "quarta",
       "hora": "21:00",
       "navio": "MELINA",
       "calado": "12,30",
@@ -164,6 +180,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-10T06:00:00"
+    },
+    {
+      "data": "10/09",
+      "dia_semana": "quinta",
+      "hora": "07:00",
+      "navio": "MSC ODESSA V",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9456965",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-10T07:00:00"
     },
     {
       "data": "10/09",
@@ -364,27 +396,27 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "08/09 16:00",
       "manobra_rio_fim": "09/09 09:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "08/09 18:00"
+      "navio_multi": "NC BRISA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "08/09 19:30"
     },
     {
       "navio_rio": "KOTA EMBUN",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "08/09 16:00",
       "manobra_rio_fim": "09/09 09:00",
-      "navio_multi": "NC BRISA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/09 21:00"
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "08/09 22:00"
     },
     {
       "navio_rio": "KOTA EMBUN",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "08/09 16:00",
       "manobra_rio_fim": "09/09 09:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/09 06:00"
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "09/09 04:00"
     },
     {
       "navio_rio": "UAL FORTITUDE",
@@ -406,12 +438,30 @@
     },
     {
       "navio_rio": "UAL FORTITUDE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "09/09 11:30",
+      "manobra_rio_fim": "10/09 14:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "09/09 18:00"
+    },
+    {
+      "navio_rio": "UAL FORTITUDE",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "09/09 11:30",
       "manobra_rio_fim": "10/09 14:00",
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/09 06:00"
+    },
+    {
+      "navio_rio": "UAL FORTITUDE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/09 11:30",
+      "manobra_rio_fim": "10/09 14:00",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/09 07:00"
     },
     {
       "navio_rio": "MELINA",
@@ -421,6 +471,15 @@
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/09 06:00"
+    },
+    {
+      "navio_rio": "MELINA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/09 21:00",
+      "manobra_rio_fim": "10/09 13:00",
+      "navio_multi": "MSC ODESSA V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/09 07:00"
     }
   ]
 }
