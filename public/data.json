@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "08/09/2026 22:11",
+  "ultima_atualizacao": "09/09/2026 03:02",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 06/09/2026 17:19 Canal varrido fechado. Barra grande restrita para calados acima de 11,50m. Autorizado o embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "08/09",
-      "dia_semana": "terça",
-      "hora": "22:00",
-      "navio": "MSC ODESSA V",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "passado",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-08T22:00:00"
-    },
     {
       "data": "09/09",
       "dia_semana": "quarta",
