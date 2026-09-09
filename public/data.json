@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/09/2026 15:39",
+  "ultima_atualizacao": "09/09/2026 18:13",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/09/2026 10:57 Barra grande restrita para calados acima de 11,50m. Autorizado o embarque e desembarque em águas abrigadas para navios e supplies."
@@ -54,27 +54,11 @@
       "timestamp": "2026-09-09T14:00:00"
     },
     {
-      "data": "09/09",
-      "dia_semana": "quarta",
-      "hora": "16:00",
-      "navio": "MSC CAROLE",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9785445",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-09T16:00:00"
-    },
-    {
       "data": "10/09",
       "dia_semana": "quinta",
       "hora": "01:00",
       "navio": "MELINA",
-      "calado": "12,30",
+      "calado": "11,40",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -170,7 +154,7 @@
       "dia_semana": "quinta",
       "hora": "13:00",
       "navio": "MELINA",
-      "calado": "12,50",
+      "calado": "11,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -326,8 +310,8 @@
       "timestamp": "2026-09-12T12:00:00"
     },
     {
-      "data": "13/09",
-      "dia_semana": "domingo",
+      "data": "14/09",
+      "dia_semana": "segunda",
       "hora": "00:00",
       "navio": "HORIZON THEONI",
       "calado": "8,00",
@@ -339,39 +323,7 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-13T00:00:00"
-    },
-    {
-      "data": "13/09",
-      "dia_semana": "domingo",
-      "hora": "14:30",
-      "navio": "COSCO SHIPPING DANUBE",
-      "calado": "13,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9731913",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-09-13T14:30:00"
-    },
-    {
-      "data": "14/09",
-      "dia_semana": "segunda",
-      "hora": "08:00",
-      "navio": "COSCO SHIPPING DANUBE",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9731913",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-09-14T08:00:00"
+      "timestamp": "2026-09-14T00:00:00"
     },
     {
       "data": "19/09",
@@ -447,15 +399,6 @@
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "09/09 14:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/09 11:30",
-      "manobra_rio_fim": "10/09 14:00",
-      "navio_multi": "MSC CAROLE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/09 16:00"
     },
     {
       "navio_rio": "UAL FORTITUDE",
