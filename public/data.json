@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/09/2026 18:13",
+  "ultima_atualizacao": "09/09/2026 20:19",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/09/2026 10:57 Barra grande restrita para calados acima de 11,50m. Autorizado o embarque e desembarque em águas abrigadas para navios e supplies."
@@ -20,38 +20,6 @@
       "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-09-09T09:00:00"
-    },
-    {
-      "data": "09/09",
-      "dia_semana": "quarta",
-      "hora": "11:30",
-      "navio": "UAL FORTITUDE",
-      "calado": "6,36",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9402079",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-09T11:30:00"
-    },
-    {
-      "data": "09/09",
-      "dia_semana": "quarta",
-      "hora": "14:00",
-      "navio": "COPIAPO",
-      "calado": "14,10",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9687526",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-09T14:00:00"
     },
     {
       "data": "10/09",
@@ -152,7 +120,7 @@
     {
       "data": "10/09",
       "dia_semana": "quinta",
-      "hora": "13:00",
+      "hora": "14:00",
       "navio": "MELINA",
       "calado": "11,50",
       "manobra": "S",
@@ -163,12 +131,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-10T13:00:00"
+      "timestamp": "2026-09-10T14:00:00"
     },
     {
       "data": "10/09",
       "dia_semana": "quinta",
-      "hora": "14:00",
+      "hora": "15:00",
       "navio": "UAL FORTITUDE",
       "calado": "6,90",
       "manobra": "S",
@@ -179,12 +147,12 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-10T14:00:00"
+      "timestamp": "2026-09-10T15:00:00"
     },
     {
       "data": "10/09",
       "dia_semana": "quinta",
-      "hora": "16:00",
+      "hora": "17:00",
       "navio": "CMA CGM SILVER",
       "calado": "13,40",
       "manobra": "E",
@@ -195,7 +163,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-10T16:00:00"
+      "timestamp": "2026-09-10T17:00:00"
     },
     {
       "data": "11/09",
@@ -392,64 +360,10 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/09 11:30",
-      "manobra_rio_fim": "10/09 14:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "09/09 14:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/09 11:30",
-      "manobra_rio_fim": "10/09 14:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/09 04:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/09 11:30",
-      "manobra_rio_fim": "10/09 14:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/09 06:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/09 11:30",
-      "manobra_rio_fim": "10/09 14:00",
-      "navio_multi": "ONE CONTINUITY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/09 08:00"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/09 11:30",
-      "manobra_rio_fim": "10/09 14:00",
-      "navio_multi": "MSC MARIA LAURA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/09 09:30"
-    },
-    {
-      "navio_rio": "UAL FORTITUDE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/09 11:30",
-      "manobra_rio_fim": "10/09 14:00",
-      "navio_multi": "MAERSK RUBICON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/09 11:00"
-    },
-    {
       "navio_rio": "MELINA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "10/09 01:00",
-      "manobra_rio_fim": "10/09 13:00",
+      "manobra_rio_fim": "10/09 14:00",
       "navio_multi": "MSC ODESSA V",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/09 04:00"
@@ -458,7 +372,7 @@
       "navio_rio": "MELINA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "10/09 01:00",
-      "manobra_rio_fim": "10/09 13:00",
+      "manobra_rio_fim": "10/09 14:00",
       "navio_multi": "COPIAPO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/09 06:00"
@@ -467,7 +381,7 @@
       "navio_rio": "MELINA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "10/09 01:00",
-      "manobra_rio_fim": "10/09 13:00",
+      "manobra_rio_fim": "10/09 14:00",
       "navio_multi": "ONE CONTINUITY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "10/09 08:00"
@@ -476,7 +390,7 @@
       "navio_rio": "MELINA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "10/09 01:00",
-      "manobra_rio_fim": "10/09 13:00",
+      "manobra_rio_fim": "10/09 14:00",
       "navio_multi": "MSC MARIA LAURA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "10/09 09:30"
@@ -485,7 +399,7 @@
       "navio_rio": "MELINA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "10/09 01:00",
-      "manobra_rio_fim": "10/09 13:00",
+      "manobra_rio_fim": "10/09 14:00",
       "navio_multi": "MAERSK RUBICON",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "10/09 11:00"
@@ -493,7 +407,7 @@
     {
       "navio_rio": "CMA CGM SILVER",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/09 16:00",
+      "manobra_rio_inicio": "10/09 17:00",
       "manobra_rio_fim": "11/09 07:00",
       "navio_multi": "ONE CONTINUITY",
       "manobra_multi_tipo": "S",
