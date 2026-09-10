@@ -1,58 +1,10 @@
 {
-  "ultima_atualizacao": "10/09/2026 12:02",
+  "ultima_atualizacao": "10/09/2026 15:22",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
   },
   "navios": [
-    {
-      "data": "10/09",
-      "dia_semana": "quinta",
-      "hora": "08:00",
-      "navio": "ONE CONTINUITY",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9388352",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-10T08:00:00"
-    },
-    {
-      "data": "10/09",
-      "dia_semana": "quinta",
-      "hora": "09:30",
-      "navio": "MSC MARIA LAURA",
-      "calado": "13,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1031159",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-10T09:30:00"
-    },
-    {
-      "data": "10/09",
-      "dia_semana": "quinta",
-      "hora": "11:00",
-      "navio": "MAERSK RUBICON",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9632480",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-10T11:00:00"
-    },
     {
       "data": "10/09",
       "dia_semana": "quinta",
@@ -88,23 +40,7 @@
     {
       "data": "10/09",
       "dia_semana": "quinta",
-      "hora": "15:00",
-      "navio": "UAL FORTITUDE",
-      "calado": "6,90",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9402079",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-09-10T15:00:00"
-    },
-    {
-      "data": "10/09",
-      "dia_semana": "quinta",
-      "hora": "17:00",
+      "hora": "16:00",
       "navio": "CMA CGM SILVER",
       "calado": "13,40",
       "manobra": "E",
@@ -113,9 +49,25 @@
       "imo": "9996769",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_futura",
+      "terminal": "rio",
+      "timestamp": "2026-09-10T16:00:00"
+    },
+    {
+      "data": "10/09",
+      "dia_semana": "quinta",
+      "hora": "20:00",
+      "navio": "UAL FORTITUDE",
+      "calado": "6,90",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9402079",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-10T17:00:00"
+      "timestamp": "2026-09-10T20:00:00"
     },
     {
       "data": "11/09",
