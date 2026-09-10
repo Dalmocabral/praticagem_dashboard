@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/09/2026 18:03",
+  "ultima_atualizacao": "10/09/2026 20:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -8,23 +8,7 @@
     {
       "data": "10/09",
       "dia_semana": "quinta",
-      "hora": "16:00",
-      "navio": "CMA CGM SILVER",
-      "calado": "13,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996769",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-10T16:00:00"
-    },
-    {
-      "data": "10/09",
-      "dia_semana": "quinta",
-      "hora": "22:00",
+      "hora": "23:00",
       "navio": "UAL FORTITUDE",
       "calado": "6,90",
       "manobra": "S",
@@ -33,9 +17,9 @@
       "imo": "9402079",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-09-10T22:00:00"
+      "timestamp": "2026-09-10T23:00:00"
     },
     {
       "data": "11/09",
@@ -248,9 +232,9 @@
     {
       "data": "13/09",
       "dia_semana": "domingo",
-      "hora": "00:00",
+      "hora": "06:00",
       "navio": "CMA CGM XIAMEN",
-      "calado": "11,50",
+      "calado": "14,00",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -259,14 +243,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-13T00:00:00"
+      "timestamp": "2026-09-13T06:00:00"
     },
     {
       "data": "13/09",
       "dia_semana": "domingo",
-      "hora": "08:00",
+      "hora": "16:00",
       "navio": "CMA CGM XIAMEN",
-      "calado": "11,50",
+      "calado": "14,00",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
@@ -275,7 +259,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-13T08:00:00"
+      "timestamp": "2026-09-13T16:00:00"
     },
     {
       "data": "14/09",
