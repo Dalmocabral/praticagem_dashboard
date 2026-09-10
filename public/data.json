@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "10/09/2026 03:04",
+  "ultima_atualizacao": "10/09/2026 08:13",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/09/2026 10:57 Barra grande restrita para calados acima de 11,50m. Autorizado o embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "10/09",
-      "dia_semana": "quinta",
-      "hora": "03:00",
-      "navio": "MSC ODESSA V",
-      "calado": "8,70",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-10T03:00:00"
-    },
     {
       "data": "10/09",
       "dia_semana": "quinta",
@@ -49,7 +33,7 @@
       "imo": "9388352",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-10T08:00:00"
     },
@@ -58,14 +42,14 @@
       "dia_semana": "quinta",
       "hora": "09:30",
       "navio": "MSC MARIA LAURA",
-      "calado": "13,10",
+      "calado": "13,20",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "1031159",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-10T09:30:00"
     },
@@ -81,7 +65,7 @@
       "imo": "9632480",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-10T11:00:00"
     },
