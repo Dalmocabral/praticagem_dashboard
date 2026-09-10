@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "10/09/2026 08:13",
+  "ultima_atualizacao": "10/09/2026 12:02",
   "barra_info": {
-    "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 09/09/2026 10:57 Barra grande restrita para calados acima de 11,50m. Autorizado o embarque e desembarque em águas abrigadas para navios e supplies."
+    "restrita": false,
+    "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
   },
   "navios": [
-    {
-      "data": "10/09",
-      "dia_semana": "quinta",
-      "hora": "06:00",
-      "navio": "COPIAPO",
-      "calado": "14,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9687526",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-10T06:00:00"
-    },
     {
       "data": "10/09",
       "dia_semana": "quinta",
@@ -81,7 +65,7 @@
       "imo": "9324837",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-09-10T13:00:00"
     },
@@ -90,14 +74,14 @@
       "dia_semana": "quinta",
       "hora": "14:00",
       "navio": "MELINA",
-      "calado": "11,50",
+      "calado": "11,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9401075",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-09-10T14:00:00"
     },
@@ -113,7 +97,7 @@
       "imo": "9402079",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-09-10T15:00:00"
     },
@@ -132,22 +116,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-10T17:00:00"
-    },
-    {
-      "data": "11/09",
-      "dia_semana": "sexta",
-      "hora": "06:00",
-      "navio": "ONE CONTINUITY",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "futuro",
-      "imo": "9388352",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-11T06:00:00"
     },
     {
       "data": "11/09",
@@ -184,7 +152,7 @@
     {
       "data": "11/09",
       "dia_semana": "sexta",
-      "hora": "11:00",
+      "hora": "14:00",
       "navio": "MAERSK RUBICON",
       "calado": "13,50",
       "manobra": "S",
@@ -195,14 +163,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-11T11:00:00"
+      "timestamp": "2026-09-11T14:00:00"
     },
     {
       "data": "11/09",
       "dia_semana": "sexta",
-      "hora": "12:00",
+      "hora": "15:00",
       "navio": "MSC MARIA LAURA",
-      "calado": "15,00",
+      "calado": "15,30",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -211,12 +179,60 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-11T12:00:00"
+      "timestamp": "2026-09-11T15:00:00"
+    },
+    {
+      "data": "11/09",
+      "dia_semana": "sexta",
+      "hora": "16:00",
+      "navio": "ONE CONTINUITY",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9388352",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-11T16:00:00"
+    },
+    {
+      "data": "11/09",
+      "dia_semana": "sexta",
+      "hora": "18:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "11,50",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-11T18:00:00"
     },
     {
       "data": "12/09",
       "dia_semana": "sábado",
-      "hora": "07:00",
+      "hora": "12:00",
+      "navio": "LORI",
+      "calado": "9,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9631125",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-12T12:00:00"
+    },
+    {
+      "data": "12/09",
+      "dia_semana": "sábado",
+      "hora": "16:00",
       "navio": "COSCO SHIPPING PERU",
       "calado": "12,50",
       "manobra": "S",
@@ -227,12 +243,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-12T07:00:00"
+      "timestamp": "2026-09-12T16:00:00"
     },
     {
       "data": "12/09",
       "dia_semana": "sábado",
-      "hora": "12:00",
+      "hora": "18:00",
       "navio": "HORIZON THEONI",
       "calado": "7,70",
       "manobra": "E",
@@ -243,7 +259,71 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-12T12:00:00"
+      "timestamp": "2026-09-12T18:00:00"
+    },
+    {
+      "data": "12/09",
+      "dia_semana": "sábado",
+      "hora": "20:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-12T20:00:00"
+    },
+    {
+      "data": "12/09",
+      "dia_semana": "sábado",
+      "hora": "22:00",
+      "navio": "LORI",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9631125",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-12T22:00:00"
+    },
+    {
+      "data": "13/09",
+      "dia_semana": "domingo",
+      "hora": "00:00",
+      "navio": "CMA CGM XIAMEN",
+      "calado": "11,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9400069",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-13T00:00:00"
+    },
+    {
+      "data": "13/09",
+      "dia_semana": "domingo",
+      "hora": "08:00",
+      "navio": "CMA CGM XIAMEN",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9400069",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-13T08:00:00"
     },
     {
       "data": "14/09",
@@ -328,31 +408,58 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CMA CGM SILVER",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/09 17:00",
-      "manobra_rio_fim": "11/09 07:00",
-      "navio_multi": "ONE CONTINUITY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/09 06:00"
-    },
-    {
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "11/09 09:00",
-      "manobra_rio_fim": "12/09 07:00",
+      "manobra_rio_fim": "12/09 16:00",
       "navio_multi": "MAERSK RUBICON",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/09 11:00"
+      "manobra_multi_data_hora": "11/09 14:00"
     },
     {
       "navio_rio": "COSCO SHIPPING PERU",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "11/09 09:00",
-      "manobra_rio_fim": "12/09 07:00",
+      "manobra_rio_fim": "12/09 16:00",
       "navio_multi": "MSC MARIA LAURA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/09 12:00"
+      "manobra_multi_data_hora": "11/09 15:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/09 09:00",
+      "manobra_rio_fim": "12/09 16:00",
+      "navio_multi": "ONE CONTINUITY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "11/09 16:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING PERU",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/09 09:00",
+      "manobra_rio_fim": "12/09 16:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "11/09 18:00"
+    },
+    {
+      "navio_rio": "LORI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "12/09 12:00",
+      "manobra_rio_fim": "12/09 22:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "12/09 20:00"
+    },
+    {
+      "navio_rio": "HORIZON THEONI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "12/09 18:00",
+      "manobra_rio_fim": "14/09 00:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "12/09 20:00"
     }
   ]
 }
