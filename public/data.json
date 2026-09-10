@@ -1,46 +1,14 @@
 {
-  "ultima_atualizacao": "09/09/2026 22:14",
+  "ultima_atualizacao": "10/09/2026 03:04",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 09/09/2026 10:57 Barra grande restrita para calados acima de 11,50m. Autorizado o embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
     {
-      "data": "09/09",
-      "dia_semana": "quarta",
-      "hora": "09:00",
-      "navio": "KOTA EMBUN",
-      "calado": "13,80",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9968865",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-09-09T09:00:00"
-    },
-    {
       "data": "10/09",
       "dia_semana": "quinta",
-      "hora": "01:00",
-      "navio": "MELINA",
-      "calado": "11,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9401075",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-10T01:00:00"
-    },
-    {
-      "data": "10/09",
-      "dia_semana": "quinta",
-      "hora": "04:00",
+      "hora": "03:00",
       "navio": "MSC ODESSA V",
       "calado": "8,70",
       "manobra": "S",
@@ -49,9 +17,9 @@
       "imo": "9456965",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-09-10T04:00:00"
+      "timestamp": "2026-09-10T03:00:00"
     },
     {
       "data": "10/09",
@@ -65,7 +33,7 @@
       "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-10T06:00:00"
     },
@@ -74,7 +42,7 @@
       "dia_semana": "quinta",
       "hora": "08:00",
       "navio": "ONE CONTINUITY",
-      "calado": "11,50",
+      "calado": "11,30",
       "manobra": "E",
       "beco": "TECONT4",
       "status": "hoje",
@@ -375,51 +343,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MELINA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/09 01:00",
-      "manobra_rio_fim": "10/09 14:00",
-      "navio_multi": "MSC ODESSA V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/09 04:00"
-    },
-    {
-      "navio_rio": "MELINA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/09 01:00",
-      "manobra_rio_fim": "10/09 14:00",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/09 06:00"
-    },
-    {
-      "navio_rio": "MELINA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/09 01:00",
-      "manobra_rio_fim": "10/09 14:00",
-      "navio_multi": "ONE CONTINUITY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/09 08:00"
-    },
-    {
-      "navio_rio": "MELINA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/09 01:00",
-      "manobra_rio_fim": "10/09 14:00",
-      "navio_multi": "MSC MARIA LAURA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/09 09:30"
-    },
-    {
-      "navio_rio": "MELINA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/09 01:00",
-      "manobra_rio_fim": "10/09 14:00",
-      "navio_multi": "MAERSK RUBICON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "10/09 11:00"
-    },
     {
       "navio_rio": "CMA CGM SILVER",
       "manobra_rio_afetada": "S",
