@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "12/09/2026 07:32",
+  "ultima_atualizacao": "12/09/2026 10:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -24,38 +24,6 @@
     {
       "data": "12/09",
       "dia_semana": "sábado",
-      "hora": "06:30",
-      "navio": "MSC MARIA LAURA",
-      "calado": "14,70",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1031159",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-12T06:30:00"
-    },
-    {
-      "data": "12/09",
-      "dia_semana": "sábado",
-      "hora": "07:30",
-      "navio": "MAERSK KARUN",
-      "calado": "10,10",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9624299",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-12T07:30:00"
-    },
-    {
-      "data": "12/09",
-      "dia_semana": "sábado",
       "hora": "10:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,30",
@@ -73,33 +41,33 @@
       "data": "12/09",
       "dia_semana": "sábado",
       "hora": "11:30",
-      "navio": "MSC AJACCIO",
-      "calado": "10,60",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "11,50",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9605267",
+      "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-12T11:30:00"
     },
     {
       "data": "12/09",
       "dia_semana": "sábado",
-      "hora": "14:00",
-      "navio": "CONTI COURAGE",
-      "calado": "13,50",
-      "manobra": "E",
-      "beco": "TECONT2",
+      "hora": "15:00",
+      "navio": "ONE CONTINUITY",
+      "calado": "12,05",
+      "manobra": "S",
+      "beco": "TECONT4",
       "status": "hoje",
-      "imo": "9293789",
+      "imo": "9388352",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-12T14:00:00"
+      "timestamp": "2026-09-12T15:00:00"
     },
     {
       "data": "12/09",
@@ -132,6 +100,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-12T18:00:00"
+    },
+    {
+      "data": "12/09",
+      "dia_semana": "sábado",
+      "hora": "19:30",
+      "navio": "MSC AJACCIO",
+      "calado": "10,60",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "hoje",
+      "imo": "9605267",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-12T19:30:00"
     },
     {
       "data": "13/09",
@@ -168,26 +152,10 @@
     {
       "data": "13/09",
       "dia_semana": "domingo",
-      "hora": "10:00",
-      "navio": "MSC AJACCIO",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9605267",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-13T10:00:00"
-    },
-    {
-      "data": "13/09",
-      "dia_semana": "domingo",
-      "hora": "11:00",
+      "hora": "08:00",
       "navio": "CONTI COURAGE",
-      "calado": "12,50",
-      "manobra": "S",
+      "calado": "13,50",
+      "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
       "imo": "9293789",
@@ -195,7 +163,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-13T11:00:00"
+      "timestamp": "2026-09-13T08:00:00"
+    },
+    {
+      "data": "13/09",
+      "dia_semana": "domingo",
+      "hora": "10:00",
+      "navio": "MSC AJACCIO",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9605267",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-13T10:00:00"
     },
     {
       "data": "13/09",
@@ -248,11 +232,27 @@
     {
       "data": "14/09",
       "dia_semana": "segunda",
+      "hora": "08:00",
+      "navio": "CONTI COURAGE",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9293789",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-14T08:00:00"
+    },
+    {
+      "data": "14/09",
+      "dia_semana": "segunda",
       "hora": "14:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "10,00",
       "manobra": "S",
-      "beco": "TECONT4",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
@@ -332,7 +332,7 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "12/09 10:00",
       "manobra_rio_fim": "13/09 02:00",
-      "navio_multi": "MSC AJACCIO",
+      "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "12/09 11:30"
     },
@@ -341,9 +341,27 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "12/09 10:00",
       "manobra_rio_fim": "13/09 02:00",
+      "navio_multi": "ONE CONTINUITY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "12/09 15:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "12/09 10:00",
+      "manobra_rio_fim": "13/09 02:00",
+      "navio_multi": "MSC AJACCIO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "12/09 19:30"
+    },
+    {
+      "navio_rio": "CMA CGM XIAMEN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "13/09 06:00",
+      "manobra_rio_fim": "13/09 14:00",
       "navio_multi": "CONTI COURAGE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/09 14:00"
+      "manobra_multi_data_hora": "13/09 08:00"
     },
     {
       "navio_rio": "CMA CGM XIAMEN",
@@ -353,15 +371,6 @@
       "navio_multi": "MSC AJACCIO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "13/09 10:00"
-    },
-    {
-      "navio_rio": "CMA CGM XIAMEN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/09 06:00",
-      "manobra_rio_fim": "13/09 14:00",
-      "navio_multi": "CONTI COURAGE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/09 11:00"
     }
   ]
 }
