@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "12/09/2026 18:01",
+  "ultima_atualizacao": "12/09/2026 19:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
   },
   "navios": [
-    {
-      "data": "12/09",
-      "dia_semana": "sábado",
-      "hora": "18:00",
-      "navio": "HORIZON THEONI",
-      "calado": "7,70",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9407407",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-12T18:00:00"
-    },
     {
       "data": "12/09",
       "dia_semana": "sábado",
@@ -327,24 +311,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "HORIZON THEONI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/09 18:00",
-      "manobra_rio_fim": "14/09 00:00",
-      "navio_multi": "MSC AJACCIO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/09 19:30"
-    },
-    {
-      "navio_rio": "HORIZON THEONI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/09 18:00",
-      "manobra_rio_fim": "14/09 00:00",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/09 20:00"
-    },
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
