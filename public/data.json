@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/09/2026 02:43",
+  "ultima_atualizacao": "13/09/2026 07:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -8,23 +8,23 @@
     {
       "data": "13/09",
       "dia_semana": "domingo",
-      "hora": "06:00",
+      "hora": "07:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
+      "calado": "7,50",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-09-13T06:00:00"
+      "timestamp": "2026-09-13T07:00:00"
     },
     {
       "data": "13/09",
       "dia_semana": "domingo",
-      "hora": "08:00",
+      "hora": "09:00",
       "navio": "CMA CGM XIAMEN",
       "calado": "14,10",
       "manobra": "E",
@@ -33,9 +33,9 @@
       "imo": "9400069",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
-      "timestamp": "2026-09-13T08:00:00"
+      "timestamp": "2026-09-13T09:00:00"
     },
     {
       "data": "13/09",
