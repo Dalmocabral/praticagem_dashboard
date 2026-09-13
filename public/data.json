@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/09/2026 07:38",
+  "ultima_atualizacao": "13/09/2026 11:42",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -8,39 +8,7 @@
     {
       "data": "13/09",
       "dia_semana": "domingo",
-      "hora": "07:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "7,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-09-13T07:00:00"
-    },
-    {
-      "data": "13/09",
-      "dia_semana": "domingo",
-      "hora": "09:00",
-      "navio": "CMA CGM XIAMEN",
-      "calado": "14,10",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9400069",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-13T09:00:00"
-    },
-    {
-      "data": "13/09",
-      "dia_semana": "domingo",
-      "hora": "14:00",
+      "hora": "15:00",
       "navio": "CMA CGM XIAMEN",
       "calado": "14,00",
       "manobra": "S",
@@ -49,14 +17,14 @@
       "imo": "9400069",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
-      "timestamp": "2026-09-13T14:00:00"
+      "timestamp": "2026-09-13T15:00:00"
     },
     {
       "data": "13/09",
       "dia_semana": "domingo",
-      "hora": "16:00",
+      "hora": "17:00",
       "navio": "XIN CHANG SHA",
       "calado": "11,90",
       "manobra": "E",
@@ -67,7 +35,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-13T16:00:00"
+      "timestamp": "2026-09-13T17:00:00"
     },
     {
       "data": "13/09",
@@ -84,22 +52,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-13T20:00:00"
-    },
-    {
-      "data": "14/09",
-      "dia_semana": "segunda",
-      "hora": "00:00",
-      "navio": "HORIZON THEONI",
-      "calado": "8,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9407407",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-09-14T00:00:00"
     },
     {
       "data": "14/09",
@@ -138,7 +90,7 @@
       "dia_semana": "segunda",
       "hora": "06:00",
       "navio": "MSC AJACCIO",
-      "calado": "12,00",
+      "calado": "9,50",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -200,6 +152,22 @@
     {
       "data": "14/09",
       "dia_semana": "segunda",
+      "hora": "17:00",
+      "navio": "MSC MELINE",
+      "calado": "11,90",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-14T17:00:00"
+    },
+    {
+      "data": "14/09",
+      "dia_semana": "segunda",
       "hora": "20:00",
       "navio": "CMA CGM VERACRUZ",
       "calado": "11,00",
@@ -228,6 +196,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-15T06:00:00"
+    },
+    {
+      "data": "15/09",
+      "dia_semana": "terça",
+      "hora": "10:00",
+      "navio": "MSC MELINE",
+      "calado": "11,90",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9702077",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-15T10:00:00"
     },
     {
       "data": "19/09",
@@ -298,7 +282,7 @@
     {
       "navio_rio": "XIN CHANG SHA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/09 16:00",
+      "manobra_rio_inicio": "13/09 17:00",
       "manobra_rio_fim": "14/09 04:00",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "E",
@@ -339,6 +323,15 @@
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "14/09 15:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/09 02:00",
+      "manobra_rio_fim": "14/09 20:00",
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/09 17:00"
     }
   ]
 }
