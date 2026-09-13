@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/09/2026 11:42",
+  "ultima_atualizacao": "13/09/2026 14:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -17,7 +17,7 @@
       "imo": "9400069",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-09-13T15:00:00"
     },
@@ -33,7 +33,7 @@
       "imo": "9312559",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-09-13T17:00:00"
     },
@@ -52,6 +52,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-13T20:00:00"
+    },
+    {
+      "data": "14/09",
+      "dia_semana": "segunda",
+      "hora": "00:00",
+      "navio": "HORIZON THEONI",
+      "calado": "8,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9407407",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-14T00:00:00"
     },
     {
       "data": "14/09",
@@ -104,11 +120,27 @@
     {
       "data": "14/09",
       "dia_semana": "segunda",
+      "hora": "07:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-14T07:00:00"
+    },
+    {
+      "data": "14/09",
+      "dia_semana": "segunda",
       "hora": "09:00",
       "navio": "LAEM CHABANG EXPRESS",
       "calado": "13,90",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9768007",
       "tipo_navio": "CONTAINER SHIP",
@@ -120,23 +152,23 @@
     {
       "data": "14/09",
       "dia_semana": "segunda",
-      "hora": "14:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT3",
+      "hora": "12:00",
+      "navio": "MSC MELINE",
+      "calado": "11,90",
+      "manobra": "E",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9506394",
+      "imo": "9702077",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-14T14:00:00"
+      "timestamp": "2026-09-14T12:00:00"
     },
     {
       "data": "14/09",
       "dia_semana": "segunda",
-      "hora": "15:00",
+      "hora": "16:30",
       "navio": "ITHACA",
       "calado": "7,00",
       "manobra": "S",
@@ -147,23 +179,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-14T15:00:00"
-    },
-    {
-      "data": "14/09",
-      "dia_semana": "segunda",
-      "hora": "17:00",
-      "navio": "MSC MELINE",
-      "calado": "11,90",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-14T17:00:00"
+      "timestamp": "2026-09-14T16:30:00"
     },
     {
       "data": "14/09",
@@ -188,7 +204,7 @@
       "navio": "LAEM CHABANG EXPRESS",
       "calado": "14,00",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9768007",
       "tipo_navio": "CONTAINER SHIP",
@@ -204,7 +220,7 @@
       "navio": "MSC MELINE",
       "calado": "11,90",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9702077",
       "tipo_navio": "CONTAINER SHIP",
@@ -302,6 +318,15 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "14/09 02:00",
       "manobra_rio_fim": "14/09 20:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/09 07:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/09 02:00",
+      "manobra_rio_fim": "14/09 20:00",
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "14/09 09:00"
@@ -311,9 +336,9 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "14/09 02:00",
       "manobra_rio_fim": "14/09 20:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/09 14:00"
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/09 12:00"
     },
     {
       "navio_rio": "CMA CGM VERACRUZ",
@@ -322,16 +347,7 @@
       "manobra_rio_fim": "14/09 20:00",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/09 15:00"
-    },
-    {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/09 02:00",
-      "manobra_rio_fim": "14/09 20:00",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/09 17:00"
+      "manobra_multi_data_hora": "14/09 16:30"
     }
   ]
 }
