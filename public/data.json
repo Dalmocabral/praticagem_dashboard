@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "14/09/2026 13:33",
+  "ultima_atualizacao": "14/09/2026 17:32",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
   },
   "navios": [
-    {
-      "data": "14/09",
-      "dia_semana": "segunda",
-      "hora": "12:00",
-      "navio": "MSC MELINE",
-      "calado": "11,90",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-14T12:00:00"
-    },
-    {
-      "data": "14/09",
-      "dia_semana": "segunda",
-      "hora": "15:30",
-      "navio": "ITHACA",
-      "calado": "7,00",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9968449",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-14T15:30:00"
-    },
     {
       "data": "15/09",
       "dia_semana": "terça",
@@ -52,22 +20,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-15T00:00:00"
-    },
-    {
-      "data": "15/09",
-      "dia_semana": "terça",
-      "hora": "06:00",
-      "navio": "LAEM CHABANG EXPRESS",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9768007",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-15T06:00:00"
     },
     {
       "data": "15/09",
@@ -120,7 +72,23 @@
     {
       "data": "15/09",
       "dia_semana": "terça",
-      "hora": "16:00",
+      "hora": "18:00",
+      "navio": "LAEM CHABANG EXPRESS",
+      "calado": "12,30",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9768007",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-15T18:00:00"
+    },
+    {
+      "data": "16/09",
+      "dia_semana": "quarta",
+      "hora": "06:00",
       "navio": "MAERSK MONTE AZUL",
       "calado": "13,00",
       "manobra": "E",
@@ -131,23 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-15T16:00:00"
-    },
-    {
-      "data": "16/09",
-      "dia_semana": "quarta",
-      "hora": "07:00",
-      "navio": "MAERSK MONTE AZUL",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9348053",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-09-16T07:00:00"
+      "timestamp": "2026-09-16T06:00:00"
     },
     {
       "data": "16/09",
@@ -180,6 +132,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-16T16:00:00"
+    },
+    {
+      "data": "16/09",
+      "dia_semana": "quarta",
+      "hora": "17:00",
+      "navio": "MAERSK MONTE AZUL",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9348053",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-16T17:00:00"
     },
     {
       "data": "19/09",
@@ -244,7 +212,58 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-25T12:00:00"
+    },
+    {
+      "data": "29/09",
+      "dia_semana": "terça",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING CHILE",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945887",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-29T08:00:00"
+    },
+    {
+      "data": "30/09",
+      "dia_semana": "quarta",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING CHILE",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945887",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-30T08:00:00"
     }
   ],
-  "conflitos": []
+  "conflitos": [
+    {
+      "navio_rio": "MAERSK MONTE AZUL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/09 06:00",
+      "manobra_rio_fim": "16/09 17:00",
+      "navio_multi": "MSC CATERINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/09 15:00"
+    },
+    {
+      "navio_rio": "MAERSK MONTE AZUL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/09 06:00",
+      "manobra_rio_fim": "16/09 17:00",
+      "navio_multi": "GRANDE MIRAFIORI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/09 16:00"
+    }
+  ]
 }
