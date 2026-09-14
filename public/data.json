@@ -1,58 +1,10 @@
 {
-  "ultima_atualizacao": "14/09/2026 07:35",
+  "ultima_atualizacao": "14/09/2026 13:33",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
   },
   "navios": [
-    {
-      "data": "14/09",
-      "dia_semana": "segunda",
-      "hora": "06:00",
-      "navio": "CMA CGM VERACRUZ",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9418377",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-14T06:00:00"
-    },
-    {
-      "data": "14/09",
-      "dia_semana": "segunda",
-      "hora": "08:00",
-      "navio": "MSC AJACCIO",
-      "calado": "9,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9605267",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-14T08:00:00"
-    },
-    {
-      "data": "14/09",
-      "dia_semana": "segunda",
-      "hora": "10:00",
-      "navio": "LAEM CHABANG EXPRESS",
-      "calado": "13,90",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9768007",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-14T10:00:00"
-    },
     {
       "data": "14/09",
       "dia_semana": "segunda",
@@ -65,14 +17,14 @@
       "imo": "9702077",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-14T12:00:00"
     },
     {
       "data": "14/09",
       "dia_semana": "segunda",
-      "hora": "16:30",
+      "hora": "15:30",
       "navio": "ITHACA",
       "calado": "7,00",
       "manobra": "S",
@@ -81,25 +33,25 @@
       "imo": "9968449",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-09-14T16:30:00"
+      "timestamp": "2026-09-14T15:30:00"
     },
     {
-      "data": "14/09",
-      "dia_semana": "segunda",
-      "hora": "20:00",
+      "data": "15/09",
+      "dia_semana": "terça",
+      "hora": "00:00",
       "navio": "CMA CGM VERACRUZ",
-      "calado": "11,00",
+      "calado": "11,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-14T20:00:00"
+      "timestamp": "2026-09-15T00:00:00"
     },
     {
       "data": "15/09",
@@ -120,7 +72,7 @@
     {
       "data": "15/09",
       "dia_semana": "terça",
-      "hora": "10:00",
+      "hora": "09:30",
       "navio": "MSC MELINE",
       "calado": "11,90",
       "manobra": "S",
@@ -131,7 +83,39 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-15T10:00:00"
+      "timestamp": "2026-09-15T09:30:00"
+    },
+    {
+      "data": "15/09",
+      "dia_semana": "terça",
+      "hora": "11:30",
+      "navio": "GRANDE MIRAFIORI",
+      "calado": "9,70",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9782687",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-15T11:30:00"
+    },
+    {
+      "data": "15/09",
+      "dia_semana": "terça",
+      "hora": "13:30",
+      "navio": "MSC CATERINA",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-15T13:30:00"
     },
     {
       "data": "15/09",
@@ -150,11 +134,11 @@
       "timestamp": "2026-09-15T16:00:00"
     },
     {
-      "data": "15/09",
-      "dia_semana": "terça",
-      "hora": "23:30",
+      "data": "16/09",
+      "dia_semana": "quarta",
+      "hora": "07:00",
       "navio": "MAERSK MONTE AZUL",
-      "calado": "12,00",
+      "calado": "13,00",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "futuro",
@@ -163,7 +147,39 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-15T23:30:00"
+      "timestamp": "2026-09-16T07:00:00"
+    },
+    {
+      "data": "16/09",
+      "dia_semana": "quarta",
+      "hora": "15:00",
+      "navio": "MSC CATERINA",
+      "calado": "14,20",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-16T15:00:00"
+    },
+    {
+      "data": "16/09",
+      "dia_semana": "quarta",
+      "hora": "16:00",
+      "navio": "GRANDE MIRAFIORI",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9782687",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-16T16:00:00"
     },
     {
       "data": "19/09",
@@ -230,42 +246,5 @@
       "timestamp": "2026-09-25T12:00:00"
     }
   ],
-  "conflitos": [
-    {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/09 06:00",
-      "manobra_rio_fim": "14/09 20:00",
-      "navio_multi": "MSC AJACCIO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/09 08:00"
-    },
-    {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/09 06:00",
-      "manobra_rio_fim": "14/09 20:00",
-      "navio_multi": "LAEM CHABANG EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/09 10:00"
-    },
-    {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/09 06:00",
-      "manobra_rio_fim": "14/09 20:00",
-      "navio_multi": "MSC MELINE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/09 12:00"
-    },
-    {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/09 06:00",
-      "manobra_rio_fim": "14/09 20:00",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/09 16:30"
-    }
-  ]
+  "conflitos": []
 }
