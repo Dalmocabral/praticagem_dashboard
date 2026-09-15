@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/09/2026 17:16",
+  "ultima_atualizacao": "15/09/2026 19:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -8,23 +8,7 @@
     {
       "data": "15/09",
       "dia_semana": "terça",
-      "hora": "16:00",
-      "navio": "MSC CATERINA",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-15T16:00:00"
-    },
-    {
-      "data": "15/09",
-      "dia_semana": "terça",
-      "hora": "20:00",
+      "hora": "22:30",
       "navio": "LAEM CHABANG EXPRESS",
       "calado": "12,35",
       "manobra": "S",
@@ -35,12 +19,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-09-15T20:00:00"
+      "timestamp": "2026-09-15T22:30:00"
     },
     {
       "data": "16/09",
       "dia_semana": "quarta",
-      "hora": "07:30",
+      "hora": "06:00",
       "navio": "MSC YAMUNA VI",
       "calado": "13,20",
       "manobra": "E",
@@ -51,7 +35,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-16T07:30:00"
+      "timestamp": "2026-09-16T06:00:00"
     },
     {
       "data": "16/09",
