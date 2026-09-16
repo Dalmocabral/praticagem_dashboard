@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "16/09/2026 12:43",
+  "ultima_atualizacao": "16/09/2026 16:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
   },
   "navios": [
-    {
-      "data": "16/09",
-      "dia_semana": "quarta",
-      "hora": "16:00",
-      "navio": "MSC CATERINA",
-      "calado": "14,30",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-16T16:00:00"
-    },
-    {
-      "data": "16/09",
-      "dia_semana": "quarta",
-      "hora": "17:00",
-      "navio": "GRANDE MIRAFIORI",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9782687",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-16T17:00:00"
-    },
     {
       "data": "16/09",
       "dia_semana": "quarta",
@@ -49,16 +17,32 @@
       "imo": "9395953",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-09-16T19:00:00"
     },
     {
+      "data": "16/09",
+      "dia_semana": "quarta",
+      "hora": "21:00",
+      "navio": "GRANDE MIRAFIORI",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9782687",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-16T21:00:00"
+    },
+    {
       "data": "17/09",
       "dia_semana": "quinta",
-      "hora": "06:00",
+      "hora": "05:30",
       "navio": "MSC YAMUNA VI",
-      "calado": "13,20",
+      "calado": "13,95",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -67,14 +51,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-17T06:00:00"
+      "timestamp": "2026-09-17T05:30:00"
     },
     {
       "data": "17/09",
       "dia_semana": "quinta",
       "hora": "07:00",
       "navio": "ZIM BALTIMORE",
-      "calado": "11,60",
+      "calado": "12,30",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -88,7 +72,23 @@
     {
       "data": "17/09",
       "dia_semana": "quinta",
-      "hora": "09:00",
+      "hora": "08:00",
+      "navio": "MSC CATERINA",
+      "calado": "14,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-17T08:00:00"
+    },
+    {
+      "data": "17/09",
+      "dia_semana": "quinta",
+      "hora": "10:00",
       "navio": "CONTI COURAGE",
       "calado": "13,50",
       "manobra": "E",
@@ -99,23 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-17T09:00:00"
-    },
-    {
-      "data": "17/09",
-      "dia_semana": "quinta",
-      "hora": "10:30",
-      "navio": "YM MATURITY",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9438535",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-17T10:30:00"
+      "timestamp": "2026-09-17T10:00:00"
     },
     {
       "data": "17/09",
@@ -136,6 +120,22 @@
     {
       "data": "17/09",
       "dia_semana": "quinta",
+      "hora": "14:00",
+      "navio": "YM MATURITY",
+      "calado": "13,70",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9438535",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-17T14:00:00"
+    },
+    {
+      "data": "17/09",
+      "dia_semana": "quinta",
       "hora": "20:00",
       "navio": "IRENES RULE",
       "calado": "8,00",
@@ -148,22 +148,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-17T20:00:00"
-    },
-    {
-      "data": "18/09",
-      "dia_semana": "sexta",
-      "hora": "06:00",
-      "navio": "CONTI COURAGE",
-      "calado": "13,05",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9293789",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-18T06:00:00"
     },
     {
       "data": "18/09",
@@ -196,6 +180,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-18T09:00:00"
+    },
+    {
+      "data": "18/09",
+      "dia_semana": "sexta",
+      "hora": "17:00",
+      "navio": "CONTI COURAGE",
+      "calado": "13,90",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9293789",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-18T17:00:00"
     },
     {
       "data": "19/09",
@@ -377,12 +377,39 @@
   "conflitos": [
     {
       "navio_rio": "ZIM BALTIMORE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/09 19:00",
+      "manobra_rio_fim": "17/09 07:00",
+      "navio_multi": "GRANDE MIRAFIORI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/09 21:00"
+    },
+    {
+      "navio_rio": "ZIM BALTIMORE",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "16/09 19:00",
       "manobra_rio_fim": "17/09 07:00",
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/09 06:00"
+      "manobra_multi_data_hora": "17/09 05:30"
+    },
+    {
+      "navio_rio": "IRENES RULE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "17/09 12:30",
+      "manobra_rio_fim": "17/09 20:00",
+      "navio_multi": "YM MATURITY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "17/09 14:00"
+    },
+    {
+      "navio_rio": "SAO PAULO EXPRESS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/09 09:00",
+      "manobra_rio_fim": "19/09 05:30",
+      "navio_multi": "CONTI COURAGE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/09 17:00"
     }
   ]
 }
