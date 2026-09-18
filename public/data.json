@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "18/09/2026 16:45",
+  "ultima_atualizacao": "18/09/2026 18:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
   },
   "navios": [
-    {
-      "data": "18/09",
-      "dia_semana": "sexta",
-      "hora": "16:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,60",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-18T16:00:00"
-    },
     {
       "data": "18/09",
       "dia_semana": "sexta",
@@ -232,6 +216,22 @@
     {
       "data": "20/09",
       "dia_semana": "domingo",
+      "hora": "06:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,10",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-20T06:00:00"
+    },
+    {
+      "data": "20/09",
+      "dia_semana": "domingo",
       "hora": "15:30",
       "navio": "CAPE SOUNIO",
       "calado": "13,60",
@@ -276,6 +276,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-20T18:00:00"
+    },
+    {
+      "data": "21/09",
+      "dia_semana": "segunda",
+      "hora": "06:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,10",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-21T06:00:00"
     },
     {
       "data": "21/09",
@@ -596,6 +612,33 @@
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "21/09 07:00"
+    },
+    {
+      "navio_rio": "MERCOSUL FORTALEZA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/09 06:00",
+      "manobra_rio_fim": "21/09 06:00",
+      "navio_multi": "CAPE SOUNIO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/09 15:30"
+    },
+    {
+      "navio_rio": "MERCOSUL FORTALEZA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "20/09 06:00",
+      "manobra_rio_fim": "21/09 06:00",
+      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/09 16:30"
+    },
+    {
+      "navio_rio": "MERCOSUL FORTALEZA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "20/09 06:00",
+      "manobra_rio_fim": "21/09 06:00",
+      "navio_multi": "ITHACA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/09 18:00"
     }
   ]
 }
