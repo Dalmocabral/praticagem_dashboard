@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/09/2026 21:14",
+  "ultima_atualizacao": "18/09/2026 01:53",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -17,14 +17,14 @@
       "imo": "9786736",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-09-18T05:30:00"
     },
     {
       "data": "18/09",
       "dia_semana": "sexta",
-      "hora": "06:30",
+      "hora": "07:30",
       "navio": "CONTI COURAGE",
       "calado": "11,80",
       "manobra": "S",
@@ -35,12 +35,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-18T06:30:00"
+      "timestamp": "2026-09-18T07:30:00"
     },
     {
       "data": "18/09",
       "dia_semana": "sexta",
-      "hora": "08:30",
+      "hora": "09:30",
       "navio": "MSC ATHENS",
       "calado": "12,75",
       "manobra": "E",
@@ -51,7 +51,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-18T08:30:00"
+      "timestamp": "2026-09-18T09:30:00"
     },
     {
       "data": "18/09",
@@ -74,7 +74,7 @@
       "dia_semana": "sexta",
       "hora": "14:30",
       "navio": "YM MATURITY",
-      "calado": "12,60",
+      "calado": "12,80",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
