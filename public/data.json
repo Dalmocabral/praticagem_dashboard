@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/09/2026 06:25",
+  "ultima_atualizacao": "18/09/2026 10:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -8,48 +8,16 @@
     {
       "data": "18/09",
       "dia_semana": "sexta",
-      "hora": "06:30",
-      "navio": "SAO PAULO EXPRESS",
-      "calado": "14,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9786736",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-09-18T06:30:00"
-    },
-    {
-      "data": "18/09",
-      "dia_semana": "sexta",
-      "hora": "09:00",
-      "navio": "CONTI COURAGE",
-      "calado": "11,80",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9293789",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-18T09:00:00"
-    },
-    {
-      "data": "18/09",
-      "dia_semana": "sexta",
       "hora": "11:00",
       "navio": "CMA CGM RABELAIS",
-      "calado": "14,40",
+      "calado": "14,30",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9406635",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-09-18T11:00:00"
     },
@@ -58,53 +26,21 @@
       "dia_semana": "sexta",
       "hora": "12:30",
       "navio": "MSC ATHENS",
-      "calado": "12,75",
+      "calado": "12,85",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9618305",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-18T12:30:00"
     },
     {
       "data": "18/09",
       "dia_semana": "sexta",
-      "hora": "14:30",
-      "navio": "YM MATURITY",
-      "calado": "12,80",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9438535",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-18T14:30:00"
-    },
-    {
-      "data": "18/09",
-      "dia_semana": "sexta",
-      "hora": "16:30",
-      "navio": "CAPE SOUNIO",
-      "calado": "13,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9727625",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-18T16:30:00"
-    },
-    {
-      "data": "18/09",
-      "dia_semana": "sexta",
-      "hora": "19:30",
+      "hora": "16:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "10,00",
       "manobra": "E",
@@ -115,7 +51,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-18T19:30:00"
+      "timestamp": "2026-09-18T16:00:00"
+    },
+    {
+      "data": "18/09",
+      "dia_semana": "sexta",
+      "hora": "17:30",
+      "navio": "GRANDE AMBURGO",
+      "calado": "8,80",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9246607",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-18T17:30:00"
     },
     {
       "data": "18/09",
@@ -132,22 +84,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-18T21:00:00"
-    },
-    {
-      "data": "18/09",
-      "dia_semana": "sexta",
-      "hora": "22:30",
-      "navio": "GRANDE AMBURGO",
-      "calado": "8,80",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9246607",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-18T22:30:00"
     },
     {
       "data": "19/09",
@@ -185,33 +121,17 @@
       "data": "19/09",
       "dia_semana": "sábado",
       "hora": "07:00",
-      "navio": "MSC ATHENS",
-      "calado": "12,50",
+      "navio": "YM MATURITY",
+      "calado": "12,80",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9618305",
+      "imo": "9438535",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-19T07:00:00"
-    },
-    {
-      "data": "19/09",
-      "dia_semana": "sábado",
-      "hora": "08:00",
-      "navio": "CAPE SOUNIO",
-      "calado": "13,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9727625",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-19T08:00:00"
     },
     {
       "data": "19/09",
@@ -228,6 +148,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-19T10:00:00"
+    },
+    {
+      "data": "19/09",
+      "dia_semana": "sábado",
+      "hora": "12:00",
+      "navio": "CAPE SOUNIO",
+      "calado": "13,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9727625",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-19T12:00:00"
     },
     {
       "data": "19/09",
@@ -264,6 +200,22 @@
     {
       "data": "19/09",
       "dia_semana": "sábado",
+      "hora": "18:00",
+      "navio": "MSC ATHENS",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9618305",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-19T18:00:00"
+    },
+    {
+      "data": "19/09",
+      "dia_semana": "sábado",
       "hora": "23:00",
       "navio": "MAERSK REDWOOD",
       "calado": "9,00",
@@ -276,6 +228,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-19T23:00:00"
+    },
+    {
+      "data": "20/09",
+      "dia_semana": "domingo",
+      "hora": "12:00",
+      "navio": "CAPE SOUNIO",
+      "calado": "13,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9727625",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-20T12:00:00"
     },
     {
       "data": "21/09",
@@ -485,45 +453,27 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "18/09 11:00",
       "manobra_rio_fim": "19/09 06:00",
-      "navio_multi": "YM MATURITY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/09 14:30"
-    },
-    {
-      "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/09 11:00",
-      "manobra_rio_fim": "19/09 06:00",
-      "navio_multi": "CAPE SOUNIO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/09 16:30"
-    },
-    {
-      "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/09 11:00",
-      "manobra_rio_fim": "19/09 06:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/09 19:30"
+      "manobra_multi_data_hora": "18/09 16:00"
     },
     {
       "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "18/09 11:00",
       "manobra_rio_fim": "19/09 06:00",
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/09 22:30"
+      "manobra_multi_data_hora": "18/09 17:30"
     },
     {
-      "navio_rio": "LOG-IN PANTANAL",
+      "navio_rio": "MAERSK REDWOOD",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/09 21:00",
-      "manobra_rio_fim": "19/09 05:00",
-      "navio_multi": "GRANDE AMBURGO",
+      "manobra_rio_inicio": "19/09 10:00",
+      "manobra_rio_fim": "19/09 23:00",
+      "navio_multi": "CAPE SOUNIO",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/09 22:30"
+      "manobra_multi_data_hora": "19/09 12:00"
     },
     {
       "navio_rio": "MAERSK REDWOOD",
@@ -533,6 +483,33 @@
       "navio_multi": "GRANDE AMBURGO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "19/09 14:00"
+    },
+    {
+      "navio_rio": "MAERSK REDWOOD",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "19/09 10:00",
+      "manobra_rio_fim": "19/09 23:00",
+      "navio_multi": "MSC ATHENS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/09 18:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING URUGUAY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/09 16:00",
+      "manobra_rio_fim": "21/09 08:00",
+      "navio_multi": "MSC ATHENS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/09 18:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING URUGUAY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "19/09 16:00",
+      "manobra_rio_fim": "21/09 08:00",
+      "navio_multi": "CAPE SOUNIO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/09 12:00"
     },
     {
       "navio_rio": "COSCO SHIPPING URUGUAY",
