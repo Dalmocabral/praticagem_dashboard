@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "18/09/2026 14:17",
+  "ultima_atualizacao": "18/09/2026 16:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
   },
   "navios": [
-    {
-      "data": "18/09",
-      "dia_semana": "sexta",
-      "hora": "11:00",
-      "navio": "CMA CGM RABELAIS",
-      "calado": "14,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9406635",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-18T11:00:00"
-    },
-    {
-      "data": "18/09",
-      "dia_semana": "sexta",
-      "hora": "12:30",
-      "navio": "MSC ATHENS",
-      "calado": "12,85",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9618305",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-18T12:30:00"
-    },
     {
       "data": "18/09",
       "dia_semana": "sexta",
@@ -58,14 +26,14 @@
       "dia_semana": "sexta",
       "hora": "17:30",
       "navio": "GRANDE AMBURGO",
-      "calado": "8,80",
+      "calado": "9,10",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-18T17:30:00"
     },
@@ -503,33 +471,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/09 11:00",
-      "manobra_rio_fim": "19/09 06:00",
-      "navio_multi": "MSC ATHENS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/09 12:30"
-    },
-    {
-      "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/09 11:00",
-      "manobra_rio_fim": "19/09 06:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/09 16:00"
-    },
-    {
-      "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/09 11:00",
-      "manobra_rio_fim": "19/09 06:00",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/09 17:30"
-    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "S",
