@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/09/2026 15:47",
+  "ultima_atualizacao": "19/09/2026 18:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -24,25 +24,9 @@
     {
       "data": "19/09",
       "dia_semana": "sábado",
-      "hora": "14:00",
-      "navio": "COSCO SHIPPING URUGUAY",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945851",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-19T14:00:00"
-    },
-    {
-      "data": "19/09",
-      "dia_semana": "sábado",
       "hora": "17:00",
       "navio": "MAERSK REDWOOD",
-      "calado": "9,00",
+      "calado": "8,60",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
@@ -54,36 +38,36 @@
       "timestamp": "2026-09-19T17:00:00"
     },
     {
-      "data": "19/09",
-      "dia_semana": "sábado",
-      "hora": "21:30",
+      "data": "20/09",
+      "dia_semana": "domingo",
+      "hora": "01:30",
       "navio": "GRANDE AMBURGO",
       "calado": "9,00",
       "manobra": "S",
       "beco": "TECONT5",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-19T21:30:00"
+      "timestamp": "2026-09-20T01:30:00"
     },
     {
-      "data": "19/09",
-      "dia_semana": "sábado",
-      "hora": "23:30",
+      "data": "20/09",
+      "dia_semana": "domingo",
+      "hora": "03:30",
       "navio": "GRANDE SAN PAOLO",
       "calado": "9,20",
       "manobra": "E",
       "beco": "TECONT5",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9253208",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-19T23:30:00"
+      "timestamp": "2026-09-20T03:30:00"
     },
     {
       "data": "20/09",
@@ -391,78 +375,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/09 14:00",
-      "manobra_rio_fim": "21/09 08:00",
-      "navio_multi": "GRANDE AMBURGO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/09 21:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/09 14:00",
-      "manobra_rio_fim": "21/09 08:00",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/09 23:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/09 14:00",
-      "manobra_rio_fim": "21/09 08:00",
-      "navio_multi": "MSC ATHENS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/09 08:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/09 14:00",
-      "manobra_rio_fim": "21/09 08:00",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "20/09 10:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/09 14:00",
-      "manobra_rio_fim": "21/09 08:00",
-      "navio_multi": "CAPE SOUNIO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/09 15:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/09 14:00",
-      "manobra_rio_fim": "21/09 08:00",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "20/09 16:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/09 14:00",
-      "manobra_rio_fim": "21/09 08:00",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/09 04:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING URUGUAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "19/09 14:00",
-      "manobra_rio_fim": "21/09 08:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/09 07:00"
-    },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
       "manobra_rio_afetada": "E",
