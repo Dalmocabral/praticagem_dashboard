@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/09/2026 14:48",
+  "ultima_atualizacao": "20/09/2026 16:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -8,32 +8,16 @@
     {
       "data": "20/09",
       "dia_semana": "domingo",
-      "hora": "14:30",
-      "navio": "GRANDE AMBURGO",
-      "calado": "9,30",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9246607",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-20T14:30:00"
-    },
-    {
-      "data": "20/09",
-      "dia_semana": "domingo",
       "hora": "18:00",
       "navio": "GRANDE SAN PAOLO",
-      "calado": "9,20",
+      "calado": "8,40",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9253208",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-20T18:00:00"
     },
@@ -138,7 +122,7 @@
       "dia_semana": "segunda",
       "hora": "10:00",
       "navio": "COSCO SHIPPING RHINE",
-      "calado": "13,50",
+      "calado": "10,90",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
