@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/09/2026 02:08",
+  "ultima_atualizacao": "21/09/2026 07:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -8,25 +8,9 @@
     {
       "data": "21/09",
       "dia_semana": "segunda",
-      "hora": "01:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "7,00",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-21T01:00:00"
-    },
-    {
-      "data": "21/09",
-      "dia_semana": "segunda",
-      "hora": "05:00",
+      "hora": "06:30",
       "navio": "ITHACA",
-      "calado": "7,00",
+      "calado": "7,85",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -35,28 +19,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-09-21T05:00:00"
+      "timestamp": "2026-09-21T06:30:00"
     },
     {
       "data": "21/09",
       "dia_semana": "segunda",
-      "hora": "06:00",
-      "navio": "COSCO SHIPPING URUGUAY",
-      "calado": "13,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945851",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-21T06:00:00"
-    },
-    {
-      "data": "21/09",
-      "dia_semana": "segunda",
-      "hora": "07:00",
+      "hora": "07:30",
       "navio": "CAPE SOUNIO",
       "calado": "14,65",
       "manobra": "S",
@@ -65,9 +33,9 @@
       "imo": "9727625",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-09-21T07:00:00"
+      "timestamp": "2026-09-21T07:30:00"
     },
     {
       "data": "21/09",
@@ -81,7 +49,7 @@
       "imo": "9784661",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-09-21T08:30:00"
     },
@@ -97,7 +65,7 @@
       "imo": "9731951",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-09-21T10:30:00"
     },
