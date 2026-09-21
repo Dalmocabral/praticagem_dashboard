@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/09/2026 17:37",
+  "ultima_atualizacao": "21/09/2026 20:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -8,41 +8,9 @@
     {
       "data": "21/09",
       "dia_semana": "segunda",
-      "hora": "17:30",
-      "navio": "GRANDE SAN PAOLO",
-      "calado": "8,30",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9253208",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-21T17:30:00"
-    },
-    {
-      "data": "21/09",
-      "dia_semana": "segunda",
-      "hora": "18:30",
-      "navio": "SINAR SUMATERA",
-      "calado": "5,50",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-21T18:30:00"
-    },
-    {
-      "data": "21/09",
-      "dia_semana": "segunda",
       "hora": "20:30",
       "navio": "POLARIS LEADER",
-      "calado": "8,30",
+      "calado": "8,40",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
@@ -65,14 +33,14 @@
       "imo": "9232890",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-21T22:00:00"
     },
     {
       "data": "22/09",
       "dia_semana": "terça",
-      "hora": "06:00",
+      "hora": "04:00",
       "navio": "NAVIOS DOMINO",
       "calado": "11,80",
       "manobra": "E",
@@ -83,7 +51,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-22T06:00:00"
+      "timestamp": "2026-09-22T04:00:00"
+    },
+    {
+      "data": "22/09",
+      "dia_semana": "terça",
+      "hora": "08:30",
+      "navio": "MSC ALBANY",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9619438",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-22T08:30:00"
     },
     {
       "data": "22/09",
@@ -104,25 +88,9 @@
     {
       "data": "22/09",
       "dia_semana": "terça",
-      "hora": "12:30",
-      "navio": "MSC ALBANY",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9619438",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-22T12:30:00"
-    },
-    {
-      "data": "22/09",
-      "dia_semana": "terça",
       "hora": "13:30",
       "navio": "COSCO SHIPPING RHINE",
-      "calado": "13,00",
+      "calado": "9,90",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -394,7 +362,16 @@
     {
       "navio_rio": "NAVIOS DOMINO",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/09 06:00",
+      "manobra_rio_inicio": "22/09 04:00",
+      "manobra_rio_fim": "22/09 21:00",
+      "navio_multi": "MSC ALBANY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/09 08:30"
+    },
+    {
+      "navio_rio": "NAVIOS DOMINO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/09 04:00",
       "manobra_rio_fim": "22/09 21:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "E",
@@ -402,17 +379,8 @@
     },
     {
       "navio_rio": "NAVIOS DOMINO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/09 06:00",
-      "manobra_rio_fim": "22/09 21:00",
-      "navio_multi": "MSC ALBANY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/09 12:30"
-    },
-    {
-      "navio_rio": "NAVIOS DOMINO",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/09 06:00",
+      "manobra_rio_inicio": "22/09 04:00",
       "manobra_rio_fim": "22/09 21:00",
       "navio_multi": "POLARIS LEADER",
       "manobra_multi_tipo": "S",
