@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "22/09/2026 17:20",
+  "ultima_atualizacao": "22/09/2026 20:06",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
   },
   "navios": [
-    {
-      "data": "22/09",
-      "dia_semana": "terça",
-      "hora": "16:00",
-      "navio": "MAERSK MONTE ALEGRE",
-      "calado": "12,55",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9348065",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-22T16:00:00"
-    },
     {
       "data": "22/09",
       "dia_semana": "terça",
@@ -65,7 +49,7 @@
       "imo": "1060502",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-22T21:00:00"
     },
@@ -81,7 +65,7 @@
       "imo": "9313931",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-09-23T00:00:00"
     },
@@ -343,33 +327,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK MONTE ALEGRE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/09 16:00",
-      "manobra_rio_fim": "23/09 07:00",
-      "navio_multi": "POLARIS LEADER",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/09 18:00"
-    },
-    {
-      "navio_rio": "MAERSK MONTE ALEGRE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/09 16:00",
-      "manobra_rio_fim": "23/09 07:00",
-      "navio_multi": "MSC INIYA V",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/09 00:00"
-    },
-    {
-      "navio_rio": "MAERSK MONTE ALEGRE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/09 16:00",
-      "manobra_rio_fim": "23/09 07:00",
-      "navio_multi": "MAERSK KARUN",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/09 06:00"
-    },
     {
       "navio_rio": "KOTA ELAN",
       "manobra_rio_afetada": "E",
