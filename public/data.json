@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/09/2026 22:53",
+  "ultima_atualizacao": "22/09/2026 04:27",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -17,7 +17,7 @@
       "imo": "9478494",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-09-22T04:00:00"
     },
@@ -170,7 +170,7 @@
       "dia_semana": "quarta",
       "hora": "12:00",
       "navio": "MSC ENGLAND",
-      "calado": "8,80",
+      "calado": "10,60",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "futuro",
