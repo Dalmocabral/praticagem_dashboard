@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/09/2026 04:27",
+  "ultima_atualizacao": "22/09/2026 09:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -8,32 +8,16 @@
     {
       "data": "22/09",
       "dia_semana": "terça",
-      "hora": "04:00",
-      "navio": "NAVIOS DOMINO",
-      "calado": "11,80",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9478494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-22T04:00:00"
-    },
-    {
-      "data": "22/09",
-      "dia_semana": "terça",
       "hora": "08:30",
       "navio": "MSC ALBANY",
-      "calado": "11,00",
+      "calado": "10,40",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-22T08:30:00"
     },
@@ -42,21 +26,21 @@
       "dia_semana": "terça",
       "hora": "10:30",
       "navio": "MAERSK KARUN",
-      "calado": "13,50",
+      "calado": "13,40",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9624299",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-22T10:30:00"
     },
     {
       "data": "22/09",
       "dia_semana": "terça",
-      "hora": "13:30",
+      "hora": "12:30",
       "navio": "COSCO SHIPPING RHINE",
       "calado": "9,90",
       "manobra": "S",
@@ -65,16 +49,16 @@
       "imo": "9731951",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-09-22T13:30:00"
+      "timestamp": "2026-09-22T12:30:00"
     },
     {
       "data": "22/09",
       "dia_semana": "terça",
-      "hora": "15:30",
+      "hora": "16:00",
       "navio": "MAERSK MONTE ALEGRE",
-      "calado": "12,60",
+      "calado": "12,55",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
@@ -83,7 +67,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-22T15:30:00"
+      "timestamp": "2026-09-22T16:00:00"
     },
     {
       "data": "22/09",
@@ -120,6 +104,22 @@
     {
       "data": "23/09",
       "dia_semana": "quarta",
+      "hora": "00:00",
+      "navio": "MSC INIYA V",
+      "calado": "10,80",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9313931",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-23T00:00:00"
+    },
+    {
+      "data": "23/09",
+      "dia_semana": "quarta",
       "hora": "06:00",
       "navio": "MAERSK KARUN",
       "calado": "13,30",
@@ -148,22 +148,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-09-23T07:00:00"
-    },
-    {
-      "data": "23/09",
-      "dia_semana": "quarta",
-      "hora": "09:00",
-      "navio": "MSC INIYA V",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9313931",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-23T09:00:00"
     },
     {
       "data": "23/09",
@@ -298,7 +282,7 @@
       "dia_semana": "sábado",
       "hora": "16:00",
       "navio": "EVER FAR",
-      "calado": "14,00",
+      "calado": "14,90",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -328,36 +312,9 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "NAVIOS DOMINO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/09 04:00",
-      "manobra_rio_fim": "22/09 21:00",
-      "navio_multi": "MSC ALBANY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/09 08:30"
-    },
-    {
-      "navio_rio": "NAVIOS DOMINO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/09 04:00",
-      "manobra_rio_fim": "22/09 21:00",
-      "navio_multi": "MAERSK KARUN",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "22/09 10:30"
-    },
-    {
-      "navio_rio": "NAVIOS DOMINO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/09 04:00",
-      "manobra_rio_fim": "22/09 21:00",
-      "navio_multi": "POLARIS LEADER",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/09 18:00"
-    },
-    {
       "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/09 15:30",
+      "manobra_rio_inicio": "22/09 16:00",
       "manobra_rio_fim": "23/09 07:00",
       "navio_multi": "POLARIS LEADER",
       "manobra_multi_tipo": "S",
@@ -366,7 +323,16 @@
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/09 15:30",
+      "manobra_rio_inicio": "22/09 16:00",
+      "manobra_rio_fim": "23/09 07:00",
+      "navio_multi": "MSC INIYA V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/09 00:00"
+    },
+    {
+      "navio_rio": "MAERSK MONTE ALEGRE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/09 16:00",
       "manobra_rio_fim": "23/09 07:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "S",
