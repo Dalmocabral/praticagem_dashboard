@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/09/2026 09:11",
+  "ultima_atualizacao": "23/09/2026 14:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
@@ -8,25 +8,9 @@
     {
       "data": "23/09",
       "dia_semana": "quarta",
-      "hora": "08:30",
-      "navio": "MAERSK MONTE ALEGRE",
-      "calado": "12,70",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9348065",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-09-23T08:30:00"
-    },
-    {
-      "data": "23/09",
-      "dia_semana": "quarta",
       "hora": "12:00",
       "navio": "YM MILESTONE",
-      "calado": "13,43",
+      "calado": "13,50",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
@@ -36,6 +20,22 @@
       "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-23T12:00:00"
+    },
+    {
+      "data": "23/09",
+      "dia_semana": "quarta",
+      "hora": "18:30",
+      "navio": "SOPHIE",
+      "calado": "6,75",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "1060502",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-23T18:30:00"
     },
     {
       "data": "24/09",
@@ -106,7 +106,7 @@
       "dia_semana": "sexta",
       "hora": "06:00",
       "navio": "YM MILESTONE",
-      "calado": "13,50",
+      "calado": "12,30",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -182,6 +182,70 @@
       "timestamp": "2026-09-26T06:00:00"
     },
     {
+      "data": "26/09",
+      "dia_semana": "sábado",
+      "hora": "13:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,65",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-26T13:00:00"
+    },
+    {
+      "data": "26/09",
+      "dia_semana": "sábado",
+      "hora": "14:30",
+      "navio": "MSC AJACCIO",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9605267",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-26T14:30:00"
+    },
+    {
+      "data": "27/09",
+      "dia_semana": "domingo",
+      "hora": "15:00",
+      "navio": "MSC AJACCIO",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9605267",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-27T15:00:00"
+    },
+    {
+      "data": "27/09",
+      "dia_semana": "domingo",
+      "hora": "16:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-27T16:00:00"
+    },
+    {
       "data": "29/09",
       "dia_semana": "terça",
       "hora": "08:00",
@@ -214,9 +278,9 @@
       "timestamp": "2026-09-30T08:00:00"
     },
     {
-      "data": "03/10",
-      "dia_semana": "sábado",
-      "hora": "16:00",
+      "data": "04/10",
+      "dia_semana": "domingo",
+      "hora": "12:00",
       "navio": "EVER FAR",
       "calado": "14,90",
       "manobra": "E",
@@ -227,12 +291,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-03T16:00:00"
+      "timestamp": "2026-10-04T12:00:00"
     },
     {
-      "data": "04/10",
-      "dia_semana": "domingo",
-      "hora": "15:00",
+      "data": "05/10",
+      "dia_semana": "segunda",
+      "hora": "07:00",
       "navio": "EVER FAR",
       "calado": "14,00",
       "manobra": "S",
@@ -243,7 +307,39 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-04T15:00:00"
+      "timestamp": "2026-10-05T07:00:00"
+    },
+    {
+      "data": "08/10",
+      "dia_semana": "quinta",
+      "hora": "12:30",
+      "navio": "KOTA PAHLAWAN",
+      "calado": "15,30",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9786712",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-08T12:30:00"
+    },
+    {
+      "data": "09/10",
+      "dia_semana": "sexta",
+      "hora": "11:30",
+      "navio": "KOTA PAHLAWAN",
+      "calado": "14,70",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9786712",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-09T11:30:00"
     }
   ],
   "conflitos": [
