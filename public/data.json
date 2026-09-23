@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "23/09/2026 03:36",
+  "ultima_atualizacao": "23/09/2026 09:11",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
   },
   "navios": [
-    {
-      "data": "23/09",
-      "dia_semana": "quarta",
-      "hora": "06:00",
-      "navio": "MAERSK KARUN",
-      "calado": "13,30",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9624299",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-23T06:00:00"
-    },
     {
       "data": "23/09",
       "dia_semana": "quarta",
@@ -33,7 +17,7 @@
       "imo": "9348065",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-09-23T08:30:00"
     },
@@ -49,7 +33,7 @@
       "imo": "9484998",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-23T12:00:00"
     },
@@ -74,7 +58,7 @@
       "dia_semana": "quinta",
       "hora": "08:00",
       "navio": "MSC INIYA V",
-      "calado": "12,00",
+      "calado": "12,10",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
