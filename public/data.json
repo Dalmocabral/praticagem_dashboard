@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "22/09/2026 22:29",
+  "ultima_atualizacao": "23/09/2026 03:36",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
   },
   "navios": [
-    {
-      "data": "22/09",
-      "dia_semana": "terça",
-      "hora": "21:00",
-      "navio": "SOPHIE",
-      "calado": "6,95",
-      "manobra": "M",
-      "beco": "WPT 62 -> TECONT5",
-      "status": "passado",
-      "imo": "1060502",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-22T21:00:00"
-    },
-    {
-      "data": "23/09",
-      "dia_semana": "quarta",
-      "hora": "00:00",
-      "navio": "MSC INIYA V",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9313931",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-23T00:00:00"
-    },
     {
       "data": "23/09",
       "dia_semana": "quarta",
@@ -49,14 +17,14 @@
       "imo": "9624299",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-23T06:00:00"
     },
     {
       "data": "23/09",
       "dia_semana": "quarta",
-      "hora": "07:00",
+      "hora": "08:30",
       "navio": "MAERSK MONTE ALEGRE",
       "calado": "12,70",
       "manobra": "S",
@@ -67,7 +35,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-23T07:00:00"
+      "timestamp": "2026-09-23T08:30:00"
     },
     {
       "data": "23/09",
