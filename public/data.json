@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "23/09/2026 14:07",
+  "ultima_atualizacao": "23/09/2026 17:21",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 10/09/2026 11:47"
   },
   "navios": [
-    {
-      "data": "23/09",
-      "dia_semana": "quarta",
-      "hora": "12:00",
-      "navio": "YM MILESTONE",
-      "calado": "13,50",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9484998",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-23T12:00:00"
-    },
     {
       "data": "23/09",
       "dia_semana": "quarta",
@@ -33,36 +17,20 @@
       "imo": "1060502",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-23T18:30:00"
     },
     {
       "data": "24/09",
       "dia_semana": "quinta",
-      "hora": "07:00",
+      "hora": "08:00",
       "navio": "MSC ENGLAND",
       "calado": "11,10",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "futuro",
       "imo": "9232890",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-24T07:00:00"
-    },
-    {
-      "data": "24/09",
-      "dia_semana": "quinta",
-      "hora": "08:00",
-      "navio": "MSC INIYA V",
-      "calado": "12,10",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9313931",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -88,7 +56,23 @@
     {
       "data": "24/09",
       "dia_semana": "quinta",
-      "hora": "13:00",
+      "hora": "14:30",
+      "navio": "MSC INIYA V",
+      "calado": "12,10",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9313931",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-24T14:30:00"
+    },
+    {
+      "data": "24/09",
+      "dia_semana": "quinta",
+      "hora": "16:30",
       "navio": "MSC MADHU B",
       "calado": "14,80",
       "manobra": "E",
@@ -99,7 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-24T13:00:00"
+      "timestamp": "2026-09-24T16:30:00"
     },
     {
       "data": "25/09",
@@ -278,6 +262,38 @@
       "timestamp": "2026-09-30T08:00:00"
     },
     {
+      "data": "03/10",
+      "dia_semana": "sábado",
+      "hora": "09:00",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-03T09:00:00"
+    },
+    {
+      "data": "04/10",
+      "dia_semana": "domingo",
+      "hora": "10:00",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945849",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-04T10:00:00"
+    },
+    {
       "data": "04/10",
       "dia_semana": "domingo",
       "hora": "12:00",
@@ -348,9 +364,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "24/09 11:00",
       "manobra_rio_fim": "25/09 07:00",
+      "navio_multi": "MSC INIYA V",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/09 14:30"
+    },
+    {
+      "navio_rio": "KOTA ELAN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "24/09 11:00",
+      "manobra_rio_fim": "25/09 07:00",
       "navio_multi": "MSC MADHU B",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/09 13:00"
+      "manobra_multi_data_hora": "24/09 16:30"
     },
     {
       "navio_rio": "KOTA ELAN",
