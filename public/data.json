@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/09/2026 17:38",
+  "ultima_atualizacao": "25/09/2026 20:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -73,22 +73,6 @@
       "data": "26/09",
       "dia_semana": "sábado",
       "hora": "14:00",
-      "navio": "MSC DAKAR X",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9605231",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-26T14:00:00"
-    },
-    {
-      "data": "26/09",
-      "dia_semana": "sábado",
-      "hora": "15:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,50",
       "manobra": "S",
@@ -99,12 +83,28 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-26T15:00:00"
+      "timestamp": "2026-09-26T14:00:00"
     },
     {
       "data": "26/09",
       "dia_semana": "sábado",
-      "hora": "17:30",
+      "hora": "16:00",
+      "navio": "SINAR SUMATERA",
+      "calado": "5,90",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1015375",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-26T16:00:00"
+    },
+    {
+      "data": "26/09",
+      "dia_semana": "sábado",
+      "hora": "18:00",
       "navio": "MAERSK ACADIA",
       "calado": "11,80",
       "manobra": "S",
@@ -115,7 +115,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-26T17:30:00"
+      "timestamp": "2026-09-26T18:00:00"
     },
     {
       "data": "26/09",
@@ -137,12 +137,12 @@
       "data": "26/09",
       "dia_semana": "sábado",
       "hora": "23:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "5,90",
-      "manobra": "E",
-      "beco": "TECONT3",
+      "navio": "MSC DAKAR X",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "1015375",
+      "imo": "9605231",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -473,9 +473,9 @@
   "conflitos": [
     {
       "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "25/09 18:00",
-      "manobra_rio_fim": "26/09 15:00",
+      "manobra_rio_fim": "26/09 14:00",
       "navio_multi": "GRAND VEGA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "26/09 04:30"
@@ -484,25 +484,16 @@
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "25/09 18:00",
-      "manobra_rio_fim": "26/09 15:00",
+      "manobra_rio_fim": "26/09 14:00",
       "navio_multi": "MSC MADHU B",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "26/09 13:00"
     },
     {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/09 18:00",
-      "manobra_rio_fim": "26/09 15:00",
-      "navio_multi": "MSC DAKAR X",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/09 14:00"
-    },
-    {
       "navio_rio": "MAERSK ACADIA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "26/09 01:00",
-      "manobra_rio_fim": "26/09 17:30",
+      "manobra_rio_fim": "26/09 18:00",
       "navio_multi": "GRAND VEGA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "26/09 04:30"
@@ -511,7 +502,7 @@
       "navio_rio": "MAERSK ACADIA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "26/09 01:00",
-      "manobra_rio_fim": "26/09 17:30",
+      "manobra_rio_fim": "26/09 18:00",
       "navio_multi": "MSC MADHU B",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "26/09 13:00"
@@ -520,18 +511,18 @@
       "navio_rio": "MAERSK ACADIA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "26/09 01:00",
-      "manobra_rio_fim": "26/09 17:30",
-      "navio_multi": "MSC DAKAR X",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/09 14:00"
+      "manobra_rio_fim": "26/09 18:00",
+      "navio_multi": "SINAR SUMATERA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/09 16:00"
     },
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "26/09 21:00",
       "manobra_rio_fim": "27/09 14:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "E",
+      "navio_multi": "MSC DAKAR X",
+      "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "26/09 23:00"
     },
     {
