@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/09/2026 22:44",
+  "ultima_atualizacao": "25/09/2026 03:42",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 23/09/2026 18:41 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande limitada a 10,50m."
@@ -8,34 +8,18 @@
     {
       "data": "25/09",
       "dia_semana": "sexta",
-      "hora": "06:00",
+      "hora": "05:30",
       "navio": "MSC INIYA V",
-      "calado": "12,10",
+      "calado": "12,20",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9313931",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-09-25T06:00:00"
-    },
-    {
-      "data": "25/09",
-      "dia_semana": "sexta",
-      "hora": "07:00",
-      "navio": "KOTA ELAN",
-      "calado": "13,20",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "1081843",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-09-25T07:00:00"
+      "timestamp": "2026-09-25T05:30:00"
     },
     {
       "data": "25/09",
@@ -72,7 +56,23 @@
     {
       "data": "25/09",
       "dia_semana": "sexta",
-      "hora": "13:00",
+      "hora": "12:00",
+      "navio": "KOTA ELAN",
+      "calado": "13,90",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "1081843",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-25T12:00:00"
+    },
+    {
+      "data": "25/09",
+      "dia_semana": "sexta",
+      "hora": "14:00",
       "navio": "MSC DAKAR X",
       "calado": "14,30",
       "manobra": "E",
@@ -83,12 +83,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-25T13:00:00"
+      "timestamp": "2026-09-25T14:00:00"
     },
     {
       "data": "25/09",
       "dia_semana": "sexta",
-      "hora": "15:00",
+      "hora": "16:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "10,65",
       "manobra": "E",
@@ -99,12 +99,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-25T15:00:00"
+      "timestamp": "2026-09-25T16:00:00"
     },
     {
       "data": "25/09",
       "dia_semana": "sexta",
-      "hora": "17:30",
+      "hora": "18:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,70",
       "manobra": "E",
@@ -115,7 +115,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-09-25T17:30:00"
+      "timestamp": "2026-09-25T18:00:00"
     },
     {
       "data": "26/09",
@@ -394,7 +394,7 @@
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/09 17:30",
+      "manobra_rio_inicio": "25/09 18:00",
       "manobra_rio_fim": "26/09 08:00",
       "navio_multi": "MSC MADHU B",
       "manobra_multi_tipo": "S",
