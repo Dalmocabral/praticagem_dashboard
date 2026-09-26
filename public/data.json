@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/09/2026 09:25",
+  "ultima_atualizacao": "26/09/2026 13:38",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -17,7 +17,7 @@
       "imo": "9778088",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-26T13:00:00"
     },
@@ -33,7 +33,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-09-26T14:00:00"
     },
@@ -49,7 +49,7 @@
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-26T16:00:00"
     },
@@ -86,22 +86,6 @@
       "timestamp": "2026-09-26T21:00:00"
     },
     {
-      "data": "26/09",
-      "dia_semana": "sábado",
-      "hora": "23:00",
-      "navio": "MSC DAKAR X",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9605231",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-26T23:00:00"
-    },
-    {
       "data": "27/09",
       "dia_semana": "domingo",
       "hora": "03:00",
@@ -116,6 +100,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-27T03:00:00"
+    },
+    {
+      "data": "27/09",
+      "dia_semana": "domingo",
+      "hora": "04:30",
+      "navio": "MSC DAKAR X",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9605231",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-27T04:30:00"
     },
     {
       "data": "27/09",
@@ -428,18 +428,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "26/09 21:00",
       "manobra_rio_fim": "27/09 14:00",
-      "navio_multi": "MSC DAKAR X",
+      "navio_multi": "GRAND VEGA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/09 23:00"
+      "manobra_multi_data_hora": "27/09 03:00"
     },
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "26/09 21:00",
       "manobra_rio_fim": "27/09 14:00",
-      "navio_multi": "GRAND VEGA",
+      "navio_multi": "MSC DAKAR X",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/09 03:00"
+      "manobra_multi_data_hora": "27/09 04:30"
     },
     {
       "navio_rio": "MERCOSUL GUARUJA",
