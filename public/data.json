@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "26/09/2026 04:32",
+  "ultima_atualizacao": "26/09/2026 09:25",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "26/09",
-      "dia_semana": "sábado",
-      "hora": "04:30",
-      "navio": "GRAND VEGA",
-      "calado": "9,10",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9355252",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-26T04:30:00"
-    },
     {
       "data": "26/09",
       "dia_semana": "sábado",
@@ -33,7 +17,7 @@
       "imo": "9778088",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-09-26T13:00:00"
     },
