@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "25/09/2026 22:58",
+  "ultima_atualizacao": "26/09/2026 04:32",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "26/09",
-      "dia_semana": "sábado",
-      "hora": "01:00",
-      "navio": "MAERSK ACADIA",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9928188",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-09-26T01:00:00"
-    },
     {
       "data": "26/09",
       "dia_semana": "sábado",
@@ -33,7 +17,7 @@
       "imo": "9355252",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-09-26T04:30:00"
     },
@@ -455,33 +439,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK ACADIA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/09 01:00",
-      "manobra_rio_fim": "26/09 18:00",
-      "navio_multi": "GRAND VEGA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/09 04:30"
-    },
-    {
-      "navio_rio": "MAERSK ACADIA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/09 01:00",
-      "manobra_rio_fim": "26/09 18:00",
-      "navio_multi": "MSC MADHU B",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/09 13:00"
-    },
-    {
-      "navio_rio": "MAERSK ACADIA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/09 01:00",
-      "manobra_rio_fim": "26/09 18:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/09 16:00"
-    },
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "E",
