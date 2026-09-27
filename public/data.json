@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/09/2026 12:28",
+  "ultima_atualizacao": "27/09/2026 15:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -49,30 +49,30 @@
       "imo": "9355252",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-09-27T17:00:00"
     },
     {
       "data": "27/09",
       "dia_semana": "domingo",
-      "hora": "18:00",
+      "hora": "19:30",
       "navio": "SINAR SUMATERA",
-      "calado": "5,90",
+      "calado": "8,30",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
-      "timestamp": "2026-09-27T18:00:00"
+      "timestamp": "2026-09-27T19:30:00"
     },
     {
       "data": "27/09",
       "dia_semana": "domingo",
-      "hora": "20:00",
+      "hora": "21:30",
       "navio": "BRASILIA HIGHWAY",
       "calado": "10,00",
       "manobra": "E",
@@ -83,12 +83,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-27T20:00:00"
+      "timestamp": "2026-09-27T21:30:00"
     },
     {
       "data": "28/09",
       "dia_semana": "segunda",
-      "hora": "05:00",
+      "hora": "00:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "10,50",
       "manobra": "S",
@@ -99,39 +99,39 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-28T05:00:00"
+      "timestamp": "2026-09-28T00:00:00"
     },
     {
       "data": "28/09",
       "dia_semana": "segunda",
-      "hora": "06:00",
-      "navio": "BRASILIA HIGHWAY",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9519119",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-09-28T06:00:00"
-    },
-    {
-      "data": "28/09",
-      "dia_semana": "segunda",
-      "hora": "07:00",
+      "hora": "01:00",
       "navio": "MSC RAYSHMI",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
+      "calado": "14,00",
+      "manobra": "M",
+      "beco": "TECONT2 -> TECONT3",
       "status": "futuro",
       "imo": "9785457",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-28T07:00:00"
+      "timestamp": "2026-09-28T01:00:00"
+    },
+    {
+      "data": "28/09",
+      "dia_semana": "segunda",
+      "hora": "06:00",
+      "navio": "XIAMEN EXPRESS",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9630420",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-28T06:00:00"
     },
     {
       "data": "28/09",
@@ -152,18 +152,34 @@
     {
       "data": "28/09",
       "dia_semana": "segunda",
-      "hora": "10:00",
-      "navio": "XIAMEN EXPRESS",
-      "calado": "14,30",
-      "manobra": "E",
-      "beco": "TECONT2",
+      "hora": "16:00",
+      "navio": "BRASILIA HIGHWAY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
       "status": "futuro",
-      "imo": "9630420",
+      "imo": "9519119",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-28T16:00:00"
+    },
+    {
+      "data": "29/09",
+      "dia_semana": "terça",
+      "hora": "00:00",
+      "navio": "MSC RAYSHMI",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9785457",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-28T10:00:00"
+      "timestamp": "2026-09-29T00:00:00"
     },
     {
       "data": "29/09",
