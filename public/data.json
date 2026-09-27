@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/09/2026 15:54",
+  "ultima_atualizacao": "27/09/2026 16:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -40,7 +40,7 @@
     {
       "data": "27/09",
       "dia_semana": "domingo",
-      "hora": "17:00",
+      "hora": "18:30",
       "navio": "GRAND VEGA",
       "calado": "8,50",
       "manobra": "S",
@@ -51,7 +51,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-09-27T17:00:00"
+      "timestamp": "2026-09-27T18:30:00"
     },
     {
       "data": "27/09",
