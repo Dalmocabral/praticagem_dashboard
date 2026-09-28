@@ -1,57 +1,41 @@
 {
-  "ultima_atualizacao": "28/09/2026 11:31",
+  "ultima_atualizacao": "28/09/2026 17:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
     {
-      "data": "28/09",
-      "dia_semana": "segunda",
-      "hora": "13:00",
-      "navio": "BOCHEM BRISBANE",
-      "calado": "9,95",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9973315",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-09-28T13:00:00"
-    },
-    {
-      "data": "28/09",
-      "dia_semana": "segunda",
-      "hora": "19:00",
+      "data": "29/09",
+      "dia_semana": "terça",
+      "hora": "02:00",
       "navio": "BRASILIA HIGHWAY",
       "calado": "9,00",
       "manobra": "S",
       "beco": "TECONT5",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9519119",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-28T19:00:00"
+      "timestamp": "2026-09-29T02:00:00"
     },
     {
-      "data": "28/09",
-      "dia_semana": "segunda",
-      "hora": "21:00",
+      "data": "29/09",
+      "dia_semana": "terça",
+      "hora": "04:00",
       "navio": "GRANDE GUINEA",
       "calado": "8,90",
       "manobra": "E",
       "beco": "TECONT5",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9437919",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-28T21:00:00"
+      "timestamp": "2026-09-29T04:00:00"
     },
     {
       "data": "29/09",
@@ -88,9 +72,9 @@
     {
       "data": "29/09",
       "dia_semana": "terça",
-      "hora": "11:00",
+      "hora": "10:00",
       "navio": "XIAMEN EXPRESS",
-      "calado": "13,40",
+      "calado": "13,34",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -99,20 +83,20 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-29T11:00:00"
+      "timestamp": "2026-09-29T10:00:00"
     },
     {
       "data": "29/09",
       "dia_semana": "terça",
       "hora": "12:00",
-      "navio": "GRANDE GUINEA",
-      "calado": "8,80",
-      "manobra": "S",
-      "beco": "TECONT5",
+      "navio": "MAERSK CHAMBAL",
+      "calado": "13,20",
+      "manobra": "E",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9437919",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9525376",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-09-29T12:00:00"
@@ -137,12 +121,12 @@
       "data": "29/09",
       "dia_semana": "terça",
       "hora": "16:00",
-      "navio": "MSC MARIA MARILYN X",
-      "calado": "15,30",
+      "navio": "MSC AJACCIO",
+      "calado": "13,70",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
-      "imo": "1031173",
+      "imo": "9605267",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -166,6 +150,38 @@
       "timestamp": "2026-09-29T18:00:00"
     },
     {
+      "data": "29/09",
+      "dia_semana": "terça",
+      "hora": "19:00",
+      "navio": "GRANDE GUINEA",
+      "calado": "8,80",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9437919",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-29T19:00:00"
+    },
+    {
+      "data": "30/09",
+      "dia_semana": "quarta",
+      "hora": "06:00",
+      "navio": "MAERSK CHAMBAL",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9525376",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-30T06:00:00"
+    },
+    {
       "data": "30/09",
       "dia_semana": "quarta",
       "hora": "08:00",
@@ -185,8 +201,40 @@
       "data": "30/09",
       "dia_semana": "quarta",
       "hora": "09:00",
+      "navio": "MSC AJACCIO",
+      "calado": "13,70",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9605267",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-30T09:00:00"
+    },
+    {
+      "data": "30/09",
+      "dia_semana": "quarta",
+      "hora": "15:30",
       "navio": "MSC MARIA MARILYN X",
-      "calado": "12,60",
+      "calado": "15,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1031173",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-09-30T15:30:00"
+    },
+    {
+      "data": "01/10",
+      "dia_semana": "quinta",
+      "hora": "13:00",
+      "navio": "MSC MARIA MARILYN X",
+      "calado": "15,00",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -195,7 +243,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-09-30T09:00:00"
+      "timestamp": "2026-10-01T13:00:00"
     },
     {
       "data": "02/10",
@@ -232,7 +280,7 @@
     {
       "data": "03/10",
       "dia_semana": "sábado",
-      "hora": "09:00",
+      "hora": "06:30",
       "navio": "COSCO SHIPPING ARGENTINA",
       "calado": "14,20",
       "manobra": "E",
@@ -243,7 +291,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-03T09:00:00"
+      "timestamp": "2026-10-03T06:30:00"
     },
     {
       "data": "04/10",
@@ -334,15 +382,15 @@
       "manobra_rio_fim": "29/09 18:00",
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/09 11:00"
+      "manobra_multi_data_hora": "29/09 10:00"
     },
     {
       "navio_rio": "STEPHANIE C",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "29/09 06:00",
       "manobra_rio_fim": "29/09 18:00",
-      "navio_multi": "GRANDE GUINEA",
-      "manobra_multi_tipo": "S",
+      "navio_multi": "MAERSK CHAMBAL",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "29/09 12:00"
     },
     {
@@ -359,7 +407,7 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "29/09 06:00",
       "manobra_rio_fim": "29/09 18:00",
-      "navio_multi": "MSC MARIA MARILYN X",
+      "navio_multi": "MSC AJACCIO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "29/09 16:00"
     },
@@ -370,15 +418,15 @@
       "manobra_rio_fim": "30/09 08:00",
       "navio_multi": "XIAMEN EXPRESS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/09 11:00"
+      "manobra_multi_data_hora": "29/09 10:00"
     },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "29/09 08:00",
       "manobra_rio_fim": "30/09 08:00",
-      "navio_multi": "GRANDE GUINEA",
-      "manobra_multi_tipo": "S",
+      "navio_multi": "MAERSK CHAMBAL",
+      "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "29/09 12:00"
     },
     {
@@ -395,9 +443,27 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "29/09 08:00",
       "manobra_rio_fim": "30/09 08:00",
-      "navio_multi": "MSC MARIA MARILYN X",
+      "navio_multi": "MSC AJACCIO",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "29/09 16:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "29/09 08:00",
+      "manobra_rio_fim": "30/09 08:00",
+      "navio_multi": "GRANDE GUINEA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "29/09 19:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING CHILE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "29/09 08:00",
+      "manobra_rio_fim": "30/09 08:00",
+      "navio_multi": "MAERSK CHAMBAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "30/09 06:00"
     }
   ]
 }
