@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/09/2026 15:36",
+  "ultima_atualizacao": "29/09/2026 19:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -8,41 +8,9 @@
     {
       "data": "29/09",
       "dia_semana": "terça",
-      "hora": "14:00",
-      "navio": "MSC RAYSHMI",
-      "calado": "15,20",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9785457",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-09-29T14:00:00"
-    },
-    {
-      "data": "29/09",
-      "dia_semana": "terça",
-      "hora": "16:00",
-      "navio": "MSC AJACCIO",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9605267",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-29T16:00:00"
-    },
-    {
-      "data": "29/09",
-      "dia_semana": "terça",
       "hora": "18:00",
       "navio": "BRASILIA HIGHWAY",
-      "calado": "9,00",
+      "calado": "8,40",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
@@ -56,39 +24,23 @@
     {
       "data": "29/09",
       "dia_semana": "terça",
-      "hora": "19:00",
+      "hora": "20:00",
       "navio": "STEPHANIE C",
-      "calado": "11,80",
+      "calado": "11,70",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9694531",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-09-29T19:00:00"
+      "timestamp": "2026-09-29T20:00:00"
     },
     {
       "data": "29/09",
       "dia_semana": "terça",
-      "hora": "21:00",
-      "navio": "NAVIOS VERMILION",
-      "calado": "10,78",
-      "manobra": "M",
-      "beco": "WPT 61 -> TECONT1",
-      "status": "hoje",
-      "imo": "9324837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-09-29T21:00:00"
-    },
-    {
-      "data": "29/09",
-      "dia_semana": "terça",
-      "hora": "23:00",
+      "hora": "22:00",
       "navio": "GRANDE GUINEA",
       "calado": "8,90",
       "manobra": "E",
@@ -97,9 +49,25 @@
       "imo": "9437919",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
-      "timestamp": "2026-09-29T23:00:00"
+      "timestamp": "2026-09-29T22:00:00"
+    },
+    {
+      "data": "30/09",
+      "dia_semana": "quarta",
+      "hora": "00:00",
+      "navio": "NAVIOS VERMILION",
+      "calado": "10,78",
+      "manobra": "M",
+      "beco": "WPT 61 -> TECONT1",
+      "status": "futuro",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-09-30T00:00:00"
     },
     {
       "data": "30/09",
@@ -265,22 +233,6 @@
       "data": "02/10",
       "dia_semana": "sexta",
       "hora": "09:00",
-      "navio": "MSC CAROLINA",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9295397",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-02T09:00:00"
-    },
-    {
-      "data": "02/10",
-      "dia_semana": "sexta",
-      "hora": "09:00",
       "navio": "VALOR",
       "calado": "12,50",
       "manobra": "S",
@@ -308,22 +260,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-02T10:00:00"
-    },
-    {
-      "data": "02/10",
-      "dia_semana": "sexta",
-      "hora": "12:00",
-      "navio": "NC BRAVO",
-      "calado": "8,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9612791",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-02T12:00:00"
     },
     {
       "data": "02/10",
@@ -360,22 +296,6 @@
     {
       "data": "03/10",
       "dia_semana": "sábado",
-      "hora": "04:00",
-      "navio": "NC BRAVO",
-      "calado": "8,20",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9612791",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-03T04:00:00"
-    },
-    {
-      "data": "03/10",
-      "dia_semana": "sábado",
       "hora": "06:30",
       "navio": "COSCO SHIPPING ARGENTINA",
       "calado": "14,20",
@@ -388,6 +308,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-03T06:30:00"
+    },
+    {
+      "data": "03/10",
+      "dia_semana": "sábado",
+      "hora": "08:30",
+      "navio": "MSC CAROLINA",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9295397",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-03T08:30:00"
     },
     {
       "data": "03/10",
@@ -520,22 +456,13 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "NC BRAVO",
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/10 12:00",
-      "manobra_rio_fim": "03/10 04:00",
-      "navio_multi": "MSC SOFIA PAZ",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/10 14:00"
-    },
-    {
-      "navio_rio": "NC BRAVO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/10 12:00",
-      "manobra_rio_fim": "03/10 04:00",
+      "manobra_rio_inicio": "03/10 06:30",
+      "manobra_rio_fim": "04/10 10:00",
       "navio_multi": "MSC CAROLINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/10 16:00"
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/10 08:30"
     },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
