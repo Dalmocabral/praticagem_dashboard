@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "30/09/2026 16:23",
+  "ultima_atualizacao": "30/09/2026 20:08",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "30/09",
-      "dia_semana": "quarta",
-      "hora": "15:30",
-      "navio": "MSC MARIA MARILYN X",
-      "calado": "15,30",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1031173",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-09-30T15:30:00"
-    },
     {
       "data": "01/10",
       "dia_semana": "quinta",
@@ -52,6 +36,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-01T07:00:00"
+    },
+    {
+      "data": "01/10",
+      "dia_semana": "quinta",
+      "hora": "09:00",
+      "navio": "NAVIOS VERMILION",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-01T09:00:00"
     },
     {
       "data": "01/10",
@@ -308,6 +308,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-05T07:00:00"
+    },
+    {
+      "data": "06/10",
+      "dia_semana": "terça",
+      "hora": "17:00",
+      "navio": "NC BREDA",
+      "calado": "8,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9612765",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-06T17:00:00"
+    },
+    {
+      "data": "07/10",
+      "dia_semana": "quarta",
+      "hora": "07:00",
+      "navio": "NC BREDA",
+      "calado": "8,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9612765",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-07T07:00:00"
     },
     {
       "data": "07/10",
