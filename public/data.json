@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "30/09/2026 23:09",
+  "ultima_atualizacao": "01/10/2026 05:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -10,14 +10,14 @@
       "dia_semana": "quinta",
       "hora": "05:00",
       "navio": "BBC TALLINN",
-      "calado": "6,70",
+      "calado": "6,71",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "1056288",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-01T05:00:00"
     },
@@ -33,25 +33,9 @@
       "imo": "9437385",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-10-01T07:00:00"
-    },
-    {
-      "data": "01/10",
-      "dia_semana": "quinta",
-      "hora": "09:00",
-      "navio": "NAVIOS VERMILION",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9324837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-01T09:00:00"
     },
     {
       "data": "01/10",
@@ -68,6 +52,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-01T10:00:00"
+    },
+    {
+      "data": "01/10",
+      "dia_semana": "quinta",
+      "hora": "11:00",
+      "navio": "NAVIOS VERMILION",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9324837",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-01T11:00:00"
     },
     {
       "data": "01/10",
@@ -106,7 +106,7 @@
       "dia_semana": "quinta",
       "hora": "16:30",
       "navio": "VALOR",
-      "calado": "11,60",
+      "calado": "10,50",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
