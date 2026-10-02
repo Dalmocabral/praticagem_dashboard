@@ -1,74 +1,10 @@
 {
-  "ultima_atualizacao": "01/10/2026 21:47",
+  "ultima_atualizacao": "02/10/2026 03:20",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "01/10",
-      "dia_semana": "quinta",
-      "hora": "22:00",
-      "navio": "VALOR",
-      "calado": "10,50",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "passado",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-01T22:00:00"
-    },
-    {
-      "data": "01/10",
-      "dia_semana": "quinta",
-      "hora": "23:30",
-      "navio": "MSC SOFIA PAZ",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "9695028",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-01T23:30:00"
-    },
-    {
-      "data": "02/10",
-      "dia_semana": "sexta",
-      "hora": "01:30",
-      "navio": "BBC TALLINN",
-      "calado": "6,80",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "1056288",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-02T01:30:00"
-    },
-    {
-      "data": "02/10",
-      "dia_semana": "sexta",
-      "hora": "02:30",
-      "navio": "LONCOMILLA",
-      "calado": "12,40",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9437385",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-02T02:30:00"
-    },
     {
       "data": "02/10",
       "dia_semana": "sexta",
@@ -106,7 +42,7 @@
       "dia_semana": "sexta",
       "hora": "13:00",
       "navio": "MSC SOFIA PAZ",
-      "calado": "12,00",
+      "calado": "12,05",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -168,7 +104,7 @@
     {
       "data": "03/10",
       "dia_semana": "sábado",
-      "hora": "00:00",
+      "hora": "02:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "E",
@@ -179,7 +115,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-03T00:00:00"
+      "timestamp": "2026-10-03T02:00:00"
     },
     {
       "data": "03/10",
@@ -594,7 +530,7 @@
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "03/10 00:00",
+      "manobra_rio_inicio": "03/10 02:00",
       "manobra_rio_fim": "03/10 13:30",
       "navio_multi": "MSC CAROLINA",
       "manobra_multi_tipo": "S",
@@ -603,7 +539,7 @@
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "03/10 00:00",
+      "manobra_rio_inicio": "03/10 02:00",
       "manobra_rio_fim": "03/10 13:30",
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "S",
