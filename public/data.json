@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/10/2026 03:20",
+  "ultima_atualizacao": "02/10/2026 09:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -10,80 +10,16 @@
       "dia_semana": "sexta",
       "hora": "10:00",
       "navio": "MALIAKOS",
-      "calado": "12,00",
+      "calado": "11,05",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9464247",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-10-02T10:00:00"
-    },
-    {
-      "data": "02/10",
-      "dia_semana": "sexta",
-      "hora": "12:00",
-      "navio": "VALOR",
-      "calado": "10,45",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-02T12:00:00"
-    },
-    {
-      "data": "02/10",
-      "dia_semana": "sexta",
-      "hora": "13:00",
-      "navio": "MSC SOFIA PAZ",
-      "calado": "12,05",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9695028",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-02T13:00:00"
-    },
-    {
-      "data": "02/10",
-      "dia_semana": "sexta",
-      "hora": "15:00",
-      "navio": "MSC BIANCA",
-      "calado": "13,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9770749",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-02T15:00:00"
-    },
-    {
-      "data": "02/10",
-      "dia_semana": "sexta",
-      "hora": "16:30",
-      "navio": "MSC CAROLINA",
-      "calado": "9,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9295397",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-02T16:30:00"
     },
     {
       "data": "02/10",
@@ -100,6 +36,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-02T18:30:00"
+    },
+    {
+      "data": "02/10",
+      "dia_semana": "sexta",
+      "hora": "22:00",
+      "navio": "MSC SOFIA PAZ",
+      "calado": "12,05",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9695028",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-02T22:00:00"
+    },
+    {
+      "data": "03/10",
+      "dia_semana": "sábado",
+      "hora": "00:00",
+      "navio": "VALOR",
+      "calado": "10,45",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9628154",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-03T00:00:00"
     },
     {
       "data": "03/10",
@@ -120,34 +88,50 @@
     {
       "data": "03/10",
       "dia_semana": "sábado",
-      "hora": "08:30",
-      "navio": "MSC CAROLINA",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT2",
+      "hora": "04:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9295397",
+      "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-03T08:30:00"
+      "timestamp": "2026-10-03T04:00:00"
     },
     {
       "data": "03/10",
       "dia_semana": "sábado",
-      "hora": "09:30",
+      "hora": "06:00",
       "navio": "MSC BIANCA",
-      "calado": "13,00",
-      "manobra": "S",
-      "beco": "TECONT3",
+      "calado": "13,20",
+      "manobra": "E",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9770749",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-03T09:30:00"
+      "timestamp": "2026-10-03T06:00:00"
+    },
+    {
+      "data": "03/10",
+      "dia_semana": "sábado",
+      "hora": "08:00",
+      "navio": "GRANDE HOUSTON",
+      "calado": "8,50",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9782699",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-03T08:00:00"
     },
     {
       "data": "03/10",
@@ -232,6 +216,38 @@
     {
       "data": "04/10",
       "dia_semana": "domingo",
+      "hora": "06:30",
+      "navio": "MSC BIANCA",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9770749",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-04T06:30:00"
+    },
+    {
+      "data": "04/10",
+      "dia_semana": "domingo",
+      "hora": "07:30",
+      "navio": "GRANDE HOUSTON",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9782699",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-04T07:30:00"
+    },
+    {
+      "data": "04/10",
+      "dia_semana": "domingo",
       "hora": "10:30",
       "navio": "CMA CGM PUCCINI",
       "calado": "12,50",
@@ -276,6 +292,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-04T15:30:00"
+    },
+    {
+      "data": "05/10",
+      "dia_semana": "segunda",
+      "hora": "06:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-05T06:30:00"
     },
     {
       "data": "05/10",
@@ -460,45 +492,27 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "02/10 10:00",
       "manobra_rio_fim": "03/10 11:30",
-      "navio_multi": "VALOR",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/10 12:00"
-    },
-    {
-      "navio_rio": "MALIAKOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/10 10:00",
-      "manobra_rio_fim": "03/10 11:30",
       "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "02/10 13:00"
-    },
-    {
-      "navio_rio": "MALIAKOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/10 10:00",
-      "manobra_rio_fim": "03/10 11:30",
-      "navio_multi": "MSC BIANCA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/10 15:00"
-    },
-    {
-      "navio_rio": "MALIAKOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/10 10:00",
-      "manobra_rio_fim": "03/10 11:30",
-      "navio_multi": "MSC CAROLINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/10 16:30"
+      "manobra_multi_data_hora": "02/10 22:00"
     },
     {
       "navio_rio": "MALIAKOS",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "02/10 10:00",
       "manobra_rio_fim": "03/10 11:30",
-      "navio_multi": "MSC CAROLINA",
+      "navio_multi": "VALOR",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/10 08:30"
+      "manobra_multi_data_hora": "03/10 00:00"
+    },
+    {
+      "navio_rio": "MALIAKOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/10 10:00",
+      "manobra_rio_fim": "03/10 11:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/10 04:00"
     },
     {
       "navio_rio": "MALIAKOS",
@@ -506,17 +520,44 @@
       "manobra_rio_inicio": "02/10 10:00",
       "manobra_rio_fim": "03/10 11:30",
       "navio_multi": "MSC BIANCA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/10 06:00"
+    },
+    {
+      "navio_rio": "MALIAKOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/10 10:00",
+      "manobra_rio_fim": "03/10 11:30",
+      "navio_multi": "GRANDE HOUSTON",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/10 08:00"
+    },
+    {
+      "navio_rio": "NC BRAVO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/10 18:30",
+      "manobra_rio_fim": "03/10 10:30",
+      "navio_multi": "MSC SOFIA PAZ",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/10 09:30"
+      "manobra_multi_data_hora": "02/10 22:00"
+    },
+    {
+      "navio_rio": "NC BRAVO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/10 18:30",
+      "manobra_rio_fim": "03/10 10:30",
+      "navio_multi": "VALOR",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "03/10 00:00"
     },
     {
       "navio_rio": "NC BRAVO",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "02/10 18:30",
       "manobra_rio_fim": "03/10 10:30",
-      "navio_multi": "MSC CAROLINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/10 08:30"
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/10 04:00"
     },
     {
       "navio_rio": "NC BRAVO",
@@ -524,26 +565,89 @@
       "manobra_rio_inicio": "02/10 18:30",
       "manobra_rio_fim": "03/10 10:30",
       "navio_multi": "MSC BIANCA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/10 09:30"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/10 06:00"
+    },
+    {
+      "navio_rio": "NC BRAVO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "02/10 18:30",
+      "manobra_rio_fim": "03/10 10:30",
+      "navio_multi": "GRANDE HOUSTON",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/10 08:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "03/10 02:00",
       "manobra_rio_fim": "03/10 13:30",
-      "navio_multi": "MSC CAROLINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/10 08:30"
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/10 04:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
+      "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "03/10 02:00",
       "manobra_rio_fim": "03/10 13:30",
       "navio_multi": "MSC BIANCA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/10 06:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "03/10 02:00",
+      "manobra_rio_fim": "03/10 13:30",
+      "navio_multi": "GRANDE HOUSTON",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "03/10 08:00"
+    },
+    {
+      "navio_rio": "CMA CGM PUCCINI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "03/10 15:30",
+      "manobra_rio_fim": "04/10 10:30",
+      "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "03/10 09:30"
+      "manobra_multi_data_hora": "04/10 06:30"
+    },
+    {
+      "navio_rio": "CMA CGM PUCCINI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "03/10 15:30",
+      "manobra_rio_fim": "04/10 10:30",
+      "navio_multi": "GRANDE HOUSTON",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "04/10 07:30"
+    },
+    {
+      "navio_rio": "TOKYO EXPRESS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "03/10 17:30",
+      "manobra_rio_fim": "04/10 11:30",
+      "navio_multi": "MSC BIANCA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "04/10 06:30"
+    },
+    {
+      "navio_rio": "TOKYO EXPRESS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "03/10 17:30",
+      "manobra_rio_fim": "04/10 11:30",
+      "navio_multi": "GRANDE HOUSTON",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "04/10 07:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "04/10 15:30",
+      "manobra_rio_fim": "05/10 13:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/10 06:30"
     }
   ]
 }
