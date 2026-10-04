@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/10/2026 03:26",
+  "ultima_atualizacao": "04/10/2026 09:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -8,66 +8,34 @@
     {
       "data": "04/10",
       "dia_semana": "domingo",
-      "hora": "08:00",
-      "navio": "CMA CGM PUCCINI",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9280627",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-04T08:00:00"
-    },
-    {
-      "data": "04/10",
-      "dia_semana": "domingo",
       "hora": "10:00",
       "navio": "GOODWOOD",
-      "calado": "9,45",
+      "calado": "9,35",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9701140",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-04T10:00:00"
     },
     {
       "data": "04/10",
       "dia_semana": "domingo",
-      "hora": "12:00",
+      "hora": "11:30",
       "navio": "CMA CGM SANTOS",
-      "calado": "10,50",
+      "calado": "10,60",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9649835",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
-      "timestamp": "2026-10-04T12:00:00"
-    },
-    {
-      "data": "04/10",
-      "dia_semana": "domingo",
-      "hora": "16:00",
-      "navio": "MSC BIANCA",
-      "calado": "13,20",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9770749",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-04T16:00:00"
+      "timestamp": "2026-10-04T11:30:00"
     },
     {
       "data": "04/10",
@@ -100,22 +68,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-05T01:00:00"
-    },
-    {
-      "data": "05/10",
-      "dia_semana": "segunda",
-      "hora": "04:00",
-      "navio": "ITHACA",
-      "calado": "8,00",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "futuro",
-      "imo": "9968449",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-05T04:00:00"
     },
     {
       "data": "05/10",
@@ -180,6 +132,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-05T11:30:00"
+    },
+    {
+      "data": "05/10",
+      "dia_semana": "segunda",
+      "hora": "12:30",
+      "navio": "MSC BIANCA",
+      "calado": "13,20",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9770749",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-05T12:30:00"
+    },
+    {
+      "data": "05/10",
+      "dia_semana": "segunda",
+      "hora": "14:30",
+      "navio": "ITHACA",
+      "calado": "8,00",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9968449",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-05T14:30:00"
     },
     {
       "data": "05/10",
@@ -377,84 +361,75 @@
   "conflitos": [
     {
       "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "04/10 12:00",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "04/10 11:30",
       "manobra_rio_fim": "05/10 11:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/10 06:30"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "04/10 11:30",
+      "manobra_rio_fim": "05/10 11:30",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/10 07:30"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "04/10 11:30",
+      "manobra_rio_fim": "05/10 11:30",
+      "navio_multi": "GLOVIS CRYSTAL",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "05/10 09:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/10 01:00",
+      "manobra_rio_fim": "05/10 16:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/10 06:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/10 01:00",
+      "manobra_rio_fim": "05/10 16:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/10 07:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "05/10 01:00",
+      "manobra_rio_fim": "05/10 16:00",
+      "navio_multi": "GLOVIS CRYSTAL",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "05/10 09:30"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING ARGENTINA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "05/10 01:00",
+      "manobra_rio_fim": "05/10 16:00",
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "04/10 16:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/10 12:00",
-      "manobra_rio_fim": "05/10 11:30",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/10 04:00"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/10 12:00",
-      "manobra_rio_fim": "05/10 11:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/10 06:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/10 12:00",
-      "manobra_rio_fim": "05/10 11:30",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/10 07:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/10 12:00",
-      "manobra_rio_fim": "05/10 11:30",
-      "navio_multi": "GLOVIS CRYSTAL",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/10 09:30"
+      "manobra_multi_data_hora": "05/10 12:30"
     },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "05/10 01:00",
       "manobra_rio_fim": "05/10 16:00",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/10 04:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING ARGENTINA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/10 01:00",
-      "manobra_rio_fim": "05/10 16:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/10 06:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING ARGENTINA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/10 01:00",
-      "manobra_rio_fim": "05/10 16:00",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/10 07:30"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING ARGENTINA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/10 01:00",
-      "manobra_rio_fim": "05/10 16:00",
-      "navio_multi": "GLOVIS CRYSTAL",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/10 09:30"
+      "manobra_multi_data_hora": "05/10 14:30"
     },
     {
       "navio_rio": "EVER LEADER",
