@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "04/10/2026 09:48",
+  "ultima_atualizacao": "04/10/2026 14:07",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "04/10",
-      "dia_semana": "domingo",
-      "hora": "10:00",
-      "navio": "GOODWOOD",
-      "calado": "9,35",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9701140",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-04T10:00:00"
-    },
     {
       "data": "04/10",
       "dia_semana": "domingo",
@@ -40,7 +24,7 @@
     {
       "data": "04/10",
       "dia_semana": "domingo",
-      "hora": "17:30",
+      "hora": "23:00",
       "navio": "TOKYO EXPRESS",
       "calado": "9,00",
       "manobra": "S",
@@ -51,14 +35,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-04T17:30:00"
+      "timestamp": "2026-10-04T23:00:00"
     },
     {
       "data": "05/10",
       "dia_semana": "segunda",
-      "hora": "01:00",
+      "hora": "02:00",
       "navio": "COSCO SHIPPING ARGENTINA",
-      "calado": "12,60",
+      "calado": "14,30",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
@@ -67,7 +51,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-05T01:00:00"
+      "timestamp": "2026-10-05T02:00:00"
+    },
+    {
+      "data": "05/10",
+      "dia_semana": "segunda",
+      "hora": "04:30",
+      "navio": "OCEAN MERMAID",
+      "calado": "6,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9742443",
+      "tipo_navio": "RESEARCH SURVEY VESSEL",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-05T04:30:00"
     },
     {
       "data": "05/10",
@@ -212,6 +212,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-06T06:30:00"
+    },
+    {
+      "data": "06/10",
+      "dia_semana": "terça",
+      "hora": "07:30",
+      "navio": "OCEAN MERMAID",
+      "calado": "6,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9742443",
+      "tipo_navio": "RESEARCH SURVEY VESSEL",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-06T07:30:00"
     },
     {
       "data": "06/10",
@@ -389,7 +405,7 @@
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/10 01:00",
+      "manobra_rio_inicio": "05/10 02:00",
       "manobra_rio_fim": "05/10 16:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
@@ -398,7 +414,7 @@
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/10 01:00",
+      "manobra_rio_inicio": "05/10 02:00",
       "manobra_rio_fim": "05/10 16:00",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "S",
@@ -407,7 +423,7 @@
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/10 01:00",
+      "manobra_rio_inicio": "05/10 02:00",
       "manobra_rio_fim": "05/10 16:00",
       "navio_multi": "GLOVIS CRYSTAL",
       "manobra_multi_tipo": "E",
@@ -416,7 +432,7 @@
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/10 01:00",
+      "manobra_rio_inicio": "05/10 02:00",
       "manobra_rio_fim": "05/10 16:00",
       "navio_multi": "MSC BIANCA",
       "manobra_multi_tipo": "S",
@@ -425,11 +441,65 @@
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/10 01:00",
+      "manobra_rio_inicio": "05/10 02:00",
       "manobra_rio_fim": "05/10 16:00",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "05/10 14:30"
+    },
+    {
+      "navio_rio": "OCEAN MERMAID",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/10 04:30",
+      "manobra_rio_fim": "06/10 07:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/10 06:30"
+    },
+    {
+      "navio_rio": "OCEAN MERMAID",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/10 04:30",
+      "manobra_rio_fim": "06/10 07:30",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/10 07:30"
+    },
+    {
+      "navio_rio": "OCEAN MERMAID",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/10 04:30",
+      "manobra_rio_fim": "06/10 07:30",
+      "navio_multi": "GLOVIS CRYSTAL",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "05/10 09:30"
+    },
+    {
+      "navio_rio": "OCEAN MERMAID",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/10 04:30",
+      "manobra_rio_fim": "06/10 07:30",
+      "navio_multi": "MSC BIANCA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/10 12:30"
+    },
+    {
+      "navio_rio": "OCEAN MERMAID",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "05/10 04:30",
+      "manobra_rio_fim": "06/10 07:30",
+      "navio_multi": "ITHACA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "05/10 14:30"
+    },
+    {
+      "navio_rio": "OCEAN MERMAID",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "05/10 04:30",
+      "manobra_rio_fim": "06/10 07:30",
+      "navio_multi": "GLOVIS CRYSTAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "06/10 06:30"
     },
     {
       "navio_rio": "EVER LEADER",
