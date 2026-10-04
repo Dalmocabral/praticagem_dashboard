@@ -1,41 +1,25 @@
 {
-  "ultima_atualizacao": "04/10/2026 14:07",
+  "ultima_atualizacao": "04/10/2026 17:10",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
     {
-      "data": "04/10",
-      "dia_semana": "domingo",
-      "hora": "11:30",
-      "navio": "CMA CGM SANTOS",
-      "calado": "10,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-04T11:30:00"
-    },
-    {
-      "data": "04/10",
-      "dia_semana": "domingo",
-      "hora": "23:00",
+      "data": "05/10",
+      "dia_semana": "segunda",
+      "hora": "00:00",
       "navio": "TOKYO EXPRESS",
       "calado": "9,00",
       "manobra": "S",
       "beco": "TECONT1",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9193290",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-04T23:00:00"
+      "timestamp": "2026-10-05T00:00:00"
     },
     {
       "data": "05/10",
@@ -375,33 +359,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/10 11:30",
-      "manobra_rio_fim": "05/10 11:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/10 06:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/10 11:30",
-      "manobra_rio_fim": "05/10 11:30",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/10 07:30"
-    },
-    {
-      "navio_rio": "CMA CGM SANTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "04/10 11:30",
-      "manobra_rio_fim": "05/10 11:30",
-      "navio_multi": "GLOVIS CRYSTAL",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/10 09:30"
-    },
     {
       "navio_rio": "COSCO SHIPPING ARGENTINA",
       "manobra_rio_afetada": "E",
