@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "06/10/2026 09:42",
+  "ultima_atualizacao": "06/10/2026 10:32",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "06/10",
-      "dia_semana": "terça",
-      "hora": "07:30",
-      "navio": "EVER FAR",
-      "calado": "14,70",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9850862",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-06T07:30:00"
-    },
     {
       "data": "06/10",
       "dia_semana": "terça",
@@ -33,14 +17,14 @@
       "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-10-06T13:00:00"
     },
     {
       "data": "06/10",
       "dia_semana": "terça",
-      "hora": "15:00",
+      "hora": "18:00",
       "navio": "MAERSK FORTALEZA",
       "calado": "12,20",
       "manobra": "S",
@@ -51,12 +35,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-06T15:00:00"
+      "timestamp": "2026-10-06T18:00:00"
     },
     {
       "data": "06/10",
       "dia_semana": "terça",
-      "hora": "17:00",
+      "hora": "20:00",
       "navio": "NC BREDA",
       "calado": "8,00",
       "manobra": "E",
@@ -67,7 +51,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-06T17:00:00"
+      "timestamp": "2026-10-06T20:00:00"
     },
     {
       "data": "06/10",
@@ -166,6 +150,54 @@
       "timestamp": "2026-10-07T12:00:00"
     },
     {
+      "data": "07/10",
+      "dia_semana": "quarta",
+      "hora": "14:00",
+      "navio": "MSC DAMLA",
+      "calado": "13,70",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9250983",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-07T14:00:00"
+    },
+    {
+      "data": "07/10",
+      "dia_semana": "quarta",
+      "hora": "21:00",
+      "navio": "MSC URSULA VI",
+      "calado": "9,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9168867",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-07T21:00:00"
+    },
+    {
+      "data": "08/10",
+      "dia_semana": "quinta",
+      "hora": "06:00",
+      "navio": "MSC DAMLA",
+      "calado": "13,70",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9250983",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-08T06:00:00"
+    },
+    {
       "data": "08/10",
       "dia_semana": "quinta",
       "hora": "11:30",
@@ -180,6 +212,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-08T11:30:00"
+    },
+    {
+      "data": "08/10",
+      "dia_semana": "quinta",
+      "hora": "13:00",
+      "navio": "MSC URSULA VI",
+      "calado": "9,30",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9168867",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-08T13:00:00"
     },
     {
       "data": "08/10",
@@ -280,31 +328,40 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "EVER FAR",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/10 07:30",
-      "manobra_rio_fim": "07/10 10:00",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/10 13:00"
-    },
-    {
-      "navio_rio": "EVER FAR",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "06/10 07:30",
-      "manobra_rio_fim": "07/10 10:00",
-      "navio_multi": "MSC CAROLINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/10 06:00"
-    },
-    {
       "navio_rio": "NC BREDA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "06/10 17:00",
+      "manobra_rio_inicio": "06/10 20:00",
       "manobra_rio_fim": "07/10 07:00",
       "navio_multi": "MSC CAROLINA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "07/10 06:00"
+    },
+    {
+      "navio_rio": "KOTA PAHLAWAN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/10 12:00",
+      "manobra_rio_fim": "08/10 11:30",
+      "navio_multi": "MSC DAMLA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "07/10 14:00"
+    },
+    {
+      "navio_rio": "KOTA PAHLAWAN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/10 12:00",
+      "manobra_rio_fim": "08/10 11:30",
+      "navio_multi": "MSC URSULA VI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "07/10 21:00"
+    },
+    {
+      "navio_rio": "KOTA PAHLAWAN",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "07/10 12:00",
+      "manobra_rio_fim": "08/10 11:30",
+      "navio_multi": "MSC DAMLA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "08/10 06:00"
     }
   ]
 }
