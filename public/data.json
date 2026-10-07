@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/10/2026 13:06",
+  "ultima_atualizacao": "07/10/2026 18:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -8,50 +8,18 @@
     {
       "data": "07/10",
       "dia_semana": "quarta",
-      "hora": "12:00",
-      "navio": "MSC DAMLA",
-      "calado": "13,60",
-      "manobra": "E",
-      "beco": "TECONT3",
+      "hora": "18:30",
+      "navio": "OCEAN MERMAID",
+      "calado": "6,10",
+      "manobra": "M",
+      "beco": "TECONT1 -> LARGO",
       "status": "hoje",
-      "imo": "9250983",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-07T12:00:00"
-    },
-    {
-      "data": "07/10",
-      "dia_semana": "quarta",
-      "hora": "14:00",
-      "navio": "EVER FAR",
-      "calado": "13,60",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9850862",
-      "tipo_navio": "CONTAINER SHIP",
+      "imo": "9742443",
+      "tipo_navio": "RESEARCH SURVEY VESSEL",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-10-07T14:00:00"
-    },
-    {
-      "data": "07/10",
-      "dia_semana": "quarta",
-      "hora": "16:30",
-      "navio": "MSC URSULA VI",
-      "calado": "9,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9168867",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
-      "terminal": "multi",
-      "timestamp": "2026-10-07T16:30:00"
+      "timestamp": "2026-10-07T18:30:00"
     },
     {
       "data": "07/10",
@@ -90,7 +58,7 @@
       "dia_semana": "quinta",
       "hora": "07:30",
       "navio": "MSC DAMLA",
-      "calado": "13,70",
+      "calado": "14,40",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -200,6 +168,22 @@
     {
       "data": "09/10",
       "dia_semana": "sexta",
+      "hora": "05:30",
+      "navio": "SEATTLE BRIDGE",
+      "calado": "13,90",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9560352",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-09T05:30:00"
+    },
+    {
+      "data": "09/10",
+      "dia_semana": "sexta",
       "hora": "20:00",
       "navio": "MAERSK CALLAO",
       "calado": "7,30",
@@ -228,6 +212,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-10T06:00:00"
+    },
+    {
+      "data": "10/10",
+      "dia_semana": "sábado",
+      "hora": "08:30",
+      "navio": "SEATTLE BRIDGE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9560352",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-10T08:30:00"
     },
     {
       "data": "11/10",
@@ -353,6 +353,15 @@
       "navio_multi": "MSC STELLA M X",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "09/10 01:00"
+    },
+    {
+      "navio_rio": "MAERSK CALLAO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "08/10 20:00",
+      "manobra_rio_fim": "09/10 20:00",
+      "navio_multi": "SEATTLE BRIDGE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "09/10 05:30"
     }
   ]
 }
