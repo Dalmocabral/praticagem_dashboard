@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "07/10/2026 22:05",
+  "ultima_atualizacao": "08/10/2026 04:20",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "07/10",
-      "dia_semana": "quarta",
-      "hora": "23:00",
-      "navio": "KOTA PAHLAWAN",
-      "calado": "15,30",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9786712",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-07T23:00:00"
-    },
     {
       "data": "08/10",
       "dia_semana": "quinta",
@@ -33,7 +17,7 @@
       "imo": "9250983",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-10-08T07:30:00"
     },
@@ -311,15 +295,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "KOTA PAHLAWAN",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/10 23:00",
-      "manobra_rio_fim": "08/10 16:00",
-      "navio_multi": "MSC DAMLA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/10 07:30"
-    },
     {
       "navio_rio": "MAERSK CALLAO",
       "manobra_rio_afetada": "E",
