@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/10/2026 03:36",
+  "ultima_atualizacao": "09/10/2026 10:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -8,82 +8,18 @@
     {
       "data": "09/10",
       "dia_semana": "sexta",
-      "hora": "03:00",
-      "navio": "FELIXSTOWE",
-      "calado": "12,10",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9227039",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-09T03:00:00"
-    },
-    {
-      "data": "09/10",
-      "dia_semana": "sexta",
-      "hora": "05:30",
-      "navio": "GRANDE SAN PAOLO",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9253208",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-09T05:30:00"
-    },
-    {
-      "data": "09/10",
-      "dia_semana": "sexta",
-      "hora": "07:30",
-      "navio": "LAEM CHABANG EXPRESS",
-      "calado": "13,10",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9768007",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
-      "terminal": "multi",
-      "timestamp": "2026-10-09T07:30:00"
-    },
-    {
-      "data": "09/10",
-      "dia_semana": "sexta",
       "hora": "09:30",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
+      "calado": "8,70",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-10-09T09:30:00"
-    },
-    {
-      "data": "09/10",
-      "dia_semana": "sexta",
-      "hora": "16:00",
-      "navio": "SEATTLE BRIDGE",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9560352",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-09T16:00:00"
     },
     {
       "data": "09/10",
@@ -121,14 +57,14 @@
       "data": "09/10",
       "dia_semana": "sexta",
       "hora": "23:00",
-      "navio": "GRANDE SAN PAOLO",
-      "calado": "9,20",
+      "navio": "SEATTLE BRIDGE",
+      "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT5",
+      "beco": "TECONT2",
       "status": "hoje",
-      "imo": "9253208",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9560352",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-09T23:00:00"
@@ -164,6 +100,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-10T04:30:00"
+    },
+    {
+      "data": "10/10",
+      "dia_semana": "sábado",
+      "hora": "06:30",
+      "navio": "MSC STELLA M X",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1031185",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-10T06:30:00"
+    },
+    {
+      "data": "10/10",
+      "dia_semana": "sábado",
+      "hora": "08:30",
+      "navio": "GRANDE SAN PAOLO",
+      "calado": "9,20",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9253208",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-10T08:30:00"
     },
     {
       "data": "10/10",
@@ -228,6 +196,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-11T06:00:00"
+    },
+    {
+      "data": "11/10",
+      "dia_semana": "domingo",
+      "hora": "13:30",
+      "navio": "MSC STELLA M X",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1031185",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-11T13:30:00"
     },
     {
       "data": "11/10",
@@ -328,40 +312,40 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "FELIXSTOWE",
+      "navio_rio": "ALESSIA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/10 03:00",
-      "manobra_rio_fim": "09/10 17:00",
-      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_rio_inicio": "10/10 01:00",
+      "manobra_rio_fim": "10/10 15:30",
+      "navio_multi": "MSC STELLA M X",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "09/10 05:30"
+      "manobra_multi_data_hora": "10/10 06:30"
     },
     {
-      "navio_rio": "FELIXSTOWE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/10 03:00",
-      "manobra_rio_fim": "09/10 17:00",
-      "navio_multi": "LAEM CHABANG EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "09/10 07:30"
-    },
-    {
-      "navio_rio": "FELIXSTOWE",
+      "navio_rio": "ALESSIA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/10 03:00",
-      "manobra_rio_fim": "09/10 17:00",
-      "navio_multi": "SEATTLE BRIDGE",
+      "manobra_rio_inicio": "10/10 01:00",
+      "manobra_rio_fim": "10/10 15:30",
+      "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/10 16:00"
+      "manobra_multi_data_hora": "10/10 08:30"
     },
     {
-      "navio_rio": "LOG-IN PANTANAL",
+      "navio_rio": "MAERSK EVERGLADES",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/10 09:30",
-      "manobra_rio_fim": "09/10 21:00",
-      "navio_multi": "SEATTLE BRIDGE",
+      "manobra_rio_inicio": "10/10 04:30",
+      "manobra_rio_fim": "10/10 16:30",
+      "navio_multi": "MSC STELLA M X",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/10 06:30"
+    },
+    {
+      "navio_rio": "MAERSK EVERGLADES",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/10 04:30",
+      "manobra_rio_fim": "10/10 16:30",
+      "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "09/10 16:00"
+      "manobra_multi_data_hora": "10/10 08:30"
     }
   ]
 }
