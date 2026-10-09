@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/10/2026 16:04",
+  "ultima_atualizacao": "09/10/2026 20:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -8,39 +8,7 @@
     {
       "data": "09/10",
       "dia_semana": "sexta",
-      "hora": "17:00",
-      "navio": "FELIXSTOWE",
-      "calado": "12,20",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9227039",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-09T17:00:00"
-    },
-    {
-      "data": "09/10",
-      "dia_semana": "sexta",
-      "hora": "22:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,30",
-      "manobra": "M",
-      "beco": "TECONTPROLONG -> TECONT4",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-09T22:00:00"
-    },
-    {
-      "data": "09/10",
-      "dia_semana": "sexta",
-      "hora": "23:00",
+      "hora": "21:00",
       "navio": "SEATTLE BRIDGE",
       "calado": "11,90",
       "manobra": "S",
@@ -49,9 +17,9 @@
       "imo": "9560352",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-10-09T23:00:00"
+      "timestamp": "2026-10-09T21:00:00"
     },
     {
       "data": "10/10",
@@ -72,7 +40,23 @@
     {
       "data": "10/10",
       "dia_semana": "sábado",
-      "hora": "04:30",
+      "hora": "03:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,30",
+      "manobra": "M",
+      "beco": "TECONTPROLONG -> TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-10T03:00:00"
+    },
+    {
+      "data": "10/10",
+      "dia_semana": "sábado",
+      "hora": "05:00",
       "navio": "MAERSK EVERGLADES",
       "calado": "10,90",
       "manobra": "E",
@@ -83,12 +67,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-10T04:30:00"
+      "timestamp": "2026-10-10T05:00:00"
     },
     {
       "data": "10/10",
       "dia_semana": "sábado",
-      "hora": "06:30",
+      "hora": "07:00",
       "navio": "GRANDE SAN PAOLO",
       "calado": "9,20",
       "manobra": "S",
@@ -99,12 +83,12 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-10T06:30:00"
+      "timestamp": "2026-10-10T07:00:00"
     },
     {
       "data": "10/10",
       "dia_semana": "sábado",
-      "hora": "08:30",
+      "hora": "09:00",
       "navio": "ALESSIA",
       "calado": "13,60",
       "manobra": "E",
@@ -115,7 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-10T08:30:00"
+      "timestamp": "2026-10-10T09:00:00"
     },
     {
       "data": "10/10",
@@ -184,6 +168,22 @@
     {
       "data": "11/10",
       "dia_semana": "domingo",
+      "hora": "04:00",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-11T04:00:00"
+    },
+    {
+      "data": "11/10",
+      "dia_semana": "domingo",
       "hora": "06:00",
       "navio": "LAEM CHABANG EXPRESS",
       "calado": "14,75",
@@ -228,6 +228,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-11T10:00:00"
+    },
+    {
+      "data": "11/10",
+      "dia_semana": "domingo",
+      "hora": "16:00",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-11T16:00:00"
     },
     {
       "data": "11/10",
@@ -362,16 +378,16 @@
     {
       "navio_rio": "MAERSK EVERGLADES",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/10 04:30",
+      "manobra_rio_inicio": "10/10 05:00",
       "manobra_rio_fim": "10/10 16:30",
       "navio_multi": "GRANDE SAN PAOLO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/10 06:30"
+      "manobra_multi_data_hora": "10/10 07:00"
     },
     {
       "navio_rio": "ALESSIA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/10 08:30",
+      "manobra_rio_inicio": "10/10 09:00",
       "manobra_rio_fim": "10/10 21:30",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
@@ -400,6 +416,33 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "10/10 19:30",
       "manobra_rio_fim": "11/10 20:00",
+      "navio_multi": "MSC STELLA M X",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "11/10 10:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/10 04:00",
+      "manobra_rio_fim": "11/10 16:00",
+      "navio_multi": "LAEM CHABANG EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "11/10 06:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/10 04:00",
+      "manobra_rio_fim": "11/10 16:00",
+      "navio_multi": "MSC ALBANY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "11/10 08:00"
+    },
+    {
+      "navio_rio": "CMA CGM VERACRUZ",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/10 04:00",
+      "manobra_rio_fim": "11/10 16:00",
       "navio_multi": "MSC STELLA M X",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "11/10 10:00"
