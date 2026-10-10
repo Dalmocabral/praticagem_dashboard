@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "10/10/2026 05:51",
+  "ultima_atualizacao": "10/10/2026 11:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "10/10",
-      "dia_semana": "sábado",
-      "hora": "05:00",
-      "navio": "MAERSK EVERGLADES",
-      "calado": "10,95",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9928205",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-10T05:00:00"
-    },
     {
       "data": "10/10",
       "dia_semana": "sábado",
@@ -33,14 +17,30 @@
       "imo": "9225653",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-10-10T09:00:00"
     },
     {
       "data": "10/10",
       "dia_semana": "sábado",
-      "hora": "15:30",
+      "hora": "12:30",
+      "navio": "LAEM CHABANG EXPRESS",
+      "calado": "14,70",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9768007",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
+      "timestamp": "2026-10-10T12:30:00"
+    },
+    {
+      "data": "10/10",
+      "dia_semana": "sábado",
+      "hora": "13:30",
       "navio": "GRANDE SAN PAOLO",
       "calado": "9,20",
       "manobra": "S",
@@ -49,14 +49,30 @@
       "imo": "9253208",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
+      "timestamp": "2026-10-10T13:30:00"
+    },
+    {
+      "data": "10/10",
+      "dia_semana": "sábado",
+      "hora": "15:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "11,50",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-10-10T15:30:00"
     },
     {
       "data": "10/10",
       "dia_semana": "sábado",
-      "hora": "16:30",
+      "hora": "21:30",
       "navio": "MAERSK EVERGLADES",
       "calado": "11,20",
       "manobra": "S",
@@ -67,12 +83,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-10T16:30:00"
+      "timestamp": "2026-10-10T21:30:00"
     },
     {
       "data": "10/10",
       "dia_semana": "sábado",
-      "hora": "17:30",
+      "hora": "22:30",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,30",
       "manobra": "S",
@@ -83,71 +99,71 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-10T17:30:00"
+      "timestamp": "2026-10-10T22:30:00"
     },
     {
-      "data": "10/10",
-      "dia_semana": "sábado",
-      "hora": "19:30",
+      "data": "11/10",
+      "dia_semana": "domingo",
+      "hora": "00:30",
       "navio": "MAERSK CALLAO",
       "calado": "7,60",
       "manobra": "E",
       "beco": "TECONTPROLONG",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9786152",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-10T19:30:00"
+      "timestamp": "2026-10-11T00:30:00"
     },
     {
-      "data": "10/10",
-      "dia_semana": "sábado",
-      "hora": "21:30",
+      "data": "11/10",
+      "dia_semana": "domingo",
+      "hora": "04:00",
       "navio": "ALESSIA",
-      "calado": "10,40",
+      "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT1",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9225653",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-10T21:30:00"
+      "timestamp": "2026-10-11T04:00:00"
     },
     {
       "data": "11/10",
       "dia_semana": "domingo",
-      "hora": "06:00",
-      "navio": "LAEM CHABANG EXPRESS",
-      "calado": "14,75",
+      "hora": "05:00",
+      "navio": "MSC ALBANY",
+      "calado": "14,95",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9768007",
+      "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-11T06:00:00"
+      "timestamp": "2026-10-11T05:00:00"
     },
     {
       "data": "11/10",
       "dia_semana": "domingo",
-      "hora": "08:00",
-      "navio": "MSC STELLA M X",
-      "calado": "14,50",
+      "hora": "09:00",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "12,20",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "1031185",
+      "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-11T08:00:00"
+      "timestamp": "2026-10-11T09:00:00"
     },
     {
       "data": "11/10",
@@ -166,25 +182,9 @@
       "timestamp": "2026-10-11T12:00:00"
     },
     {
-      "data": "11/10",
-      "dia_semana": "domingo",
-      "hora": "14:00",
-      "navio": "MSC ALBANY",
-      "calado": "14,95",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9619438",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-11T14:00:00"
-    },
-    {
-      "data": "11/10",
-      "dia_semana": "domingo",
-      "hora": "20:00",
+      "data": "12/10",
+      "dia_semana": "segunda",
+      "hora": "01:00",
       "navio": "MAERSK CALLAO",
       "calado": "7,30",
       "manobra": "S",
@@ -195,7 +195,7 @@
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-11T20:00:00"
+      "timestamp": "2026-10-12T01:00:00"
     },
     {
       "data": "12/10",
@@ -216,6 +216,22 @@
     {
       "data": "12/10",
       "dia_semana": "segunda",
+      "hora": "05:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-12T05:00:00"
+    },
+    {
+      "data": "12/10",
+      "dia_semana": "segunda",
       "hora": "07:00",
       "navio": "EVER LEADER",
       "calado": "12,50",
@@ -232,10 +248,26 @@
     {
       "data": "12/10",
       "dia_semana": "segunda",
-      "hora": "15:30",
-      "navio": "MSC STELLA M X",
-      "calado": "14,00",
+      "hora": "09:00",
+      "navio": "BREMERHAVEN EXPRESS",
+      "calado": "12,00",
       "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9723253",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-12T09:00:00"
+    },
+    {
+      "data": "12/10",
+      "dia_semana": "segunda",
+      "hora": "11:00",
+      "navio": "MSC STELLA M X",
+      "calado": "14,50",
+      "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
       "imo": "1031185",
@@ -243,7 +275,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-12T15:30:00"
+      "timestamp": "2026-10-12T11:00:00"
     },
     {
       "data": "13/10",
@@ -260,6 +292,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-13T06:00:00"
+    },
+    {
+      "data": "13/10",
+      "dia_semana": "terça",
+      "hora": "16:00",
+      "navio": "MSC STELLA M X",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1031185",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-13T16:00:00"
     },
     {
       "data": "16/10",
@@ -328,67 +376,67 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "MAERSK EVERGLADES",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/10 05:00",
-      "manobra_rio_fim": "10/10 16:30",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/10 15:30"
-    },
-    {
       "navio_rio": "ALESSIA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/10 09:00",
-      "manobra_rio_fim": "10/10 21:30",
-      "navio_multi": "GRANDE SAN PAOLO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/10 15:30"
-    },
-    {
-      "navio_rio": "ALESSIA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/10 09:00",
-      "manobra_rio_fim": "10/10 21:30",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/10 17:30"
-    },
-    {
-      "navio_rio": "MAERSK CALLAO",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/10 19:30",
-      "manobra_rio_fim": "11/10 20:00",
+      "manobra_rio_inicio": "10/10 09:00",
+      "manobra_rio_fim": "11/10 04:00",
       "navio_multi": "LAEM CHABANG EXPRESS",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/10 06:00"
+      "manobra_multi_data_hora": "10/10 12:30"
     },
     {
-      "navio_rio": "MAERSK CALLAO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/10 19:30",
-      "manobra_rio_fim": "11/10 20:00",
-      "navio_multi": "MSC STELLA M X",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "11/10 08:00"
-    },
-    {
-      "navio_rio": "MAERSK CALLAO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "10/10 19:30",
-      "manobra_rio_fim": "11/10 20:00",
-      "navio_multi": "MSC ALBANY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/10 14:00"
-    },
-    {
-      "navio_rio": "CMA CGM VERACRUZ",
+      "navio_rio": "ALESSIA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "11/10 12:00",
-      "manobra_rio_fim": "12/10 02:00",
+      "manobra_rio_inicio": "10/10 09:00",
+      "manobra_rio_fim": "11/10 04:00",
+      "navio_multi": "GRANDE SAN PAOLO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/10 13:30"
+    },
+    {
+      "navio_rio": "ALESSIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "10/10 09:00",
+      "manobra_rio_fim": "11/10 04:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "10/10 15:30"
+    },
+    {
+      "navio_rio": "ALESSIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "10/10 09:00",
+      "manobra_rio_fim": "11/10 04:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/10 22:30"
+    },
+    {
+      "navio_rio": "MAERSK CALLAO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/10 00:30",
+      "manobra_rio_fim": "12/10 01:00",
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "11/10 14:00"
+      "manobra_multi_data_hora": "11/10 05:00"
+    },
+    {
+      "navio_rio": "MAERSK CALLAO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/10 00:30",
+      "manobra_rio_fim": "12/10 01:00",
+      "navio_multi": "BREMERHAVEN EXPRESS",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "11/10 09:00"
+    },
+    {
+      "navio_rio": "EVER LEADER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "12/10 07:00",
+      "manobra_rio_fim": "13/10 06:00",
+      "navio_multi": "BREMERHAVEN EXPRESS",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "12/10 09:00"
     },
     {
       "navio_rio": "EVER LEADER",
@@ -396,8 +444,8 @@
       "manobra_rio_inicio": "12/10 07:00",
       "manobra_rio_fim": "13/10 06:00",
       "navio_multi": "MSC STELLA M X",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "12/10 15:30"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "12/10 11:00"
     }
   ]
 }
