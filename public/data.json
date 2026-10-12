@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "11/10/2026 22:53",
+  "ultima_atualizacao": "12/10/2026 05:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "12/10",
-      "dia_semana": "segunda",
-      "hora": "03:00",
-      "navio": "MAERSK CALLAO",
-      "calado": "7,30",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9786152",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-12T03:00:00"
-    },
     {
       "data": "12/10",
       "dia_semana": "segunda",
@@ -33,7 +17,7 @@
       "imo": "9246592",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-12T05:00:00"
     },
@@ -49,7 +33,7 @@
       "imo": "9418377",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-10-12T07:00:00"
     },
@@ -65,7 +49,7 @@
       "imo": "9595503",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-10-12T09:00:00"
     },
