@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/10/2026 12:08",
+  "ultima_atualizacao": "13/10/2026 17:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -8,89 +8,41 @@
     {
       "data": "13/10",
       "dia_semana": "terça",
-      "hora": "13:00",
-      "navio": "EVER LEADER",
-      "calado": "11,80",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9595503",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-13T13:00:00"
-    },
-    {
-      "data": "13/10",
-      "dia_semana": "terça",
-      "hora": "14:00",
-      "navio": "MAERSK FRANKFURT",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9969065",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-13T14:00:00"
-    },
-    {
-      "data": "13/10",
-      "dia_semana": "terça",
-      "hora": "16:00",
-      "navio": "COSCO SHIPPING CHILE",
-      "calado": "11,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945887",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
-      "terminal": "rio",
-      "timestamp": "2026-10-13T16:00:00"
-    },
-    {
-      "data": "13/10",
-      "dia_semana": "terça",
       "hora": "18:00",
       "navio": "NYK RUMINA",
-      "calado": "12,60",
+      "calado": "12,40",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9416991",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-10-13T18:00:00"
     },
     {
-      "data": "13/10",
-      "dia_semana": "terça",
-      "hora": "23:00",
+      "data": "14/10",
+      "dia_semana": "quarta",
+      "hora": "01:00",
       "navio": "VIKING BRASILIA",
       "calado": "8,50",
       "manobra": "S",
       "beco": "TECONT5",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9368895",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-13T23:00:00"
+      "timestamp": "2026-10-14T01:00:00"
     },
     {
       "data": "14/10",
       "dia_semana": "quarta",
       "hora": "05:00",
       "navio": "MAERSK CHACHAI",
-      "calado": "14,10",
+      "calado": "14,20",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -328,58 +280,13 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/10 16:00",
-      "manobra_rio_fim": "14/10 16:30",
-      "navio_multi": "VIKING BRASILIA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/10 23:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/10 16:00",
-      "manobra_rio_fim": "14/10 16:30",
-      "navio_multi": "MAERSK CHACHAI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/10 05:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/10 16:00",
-      "manobra_rio_fim": "14/10 16:30",
-      "navio_multi": "MSC INGRID",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/10 07:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/10 16:00",
-      "manobra_rio_fim": "14/10 16:30",
-      "navio_multi": "MSC STELLA M X",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/10 11:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING CHILE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/10 16:00",
-      "manobra_rio_fim": "14/10 16:30",
-      "navio_multi": "MSC BUSAN VIII",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/10 14:00"
-    },
-    {
       "navio_rio": "NYK RUMINA",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "13/10 18:00",
       "manobra_rio_fim": "14/10 12:00",
       "navio_multi": "VIKING BRASILIA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "13/10 23:00"
+      "manobra_multi_data_hora": "14/10 01:00"
     },
     {
       "navio_rio": "NYK RUMINA",
