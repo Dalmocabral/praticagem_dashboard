@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "13/10/2026 17:41",
+  "ultima_atualizacao": "13/10/2026 20:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "13/10",
-      "dia_semana": "terça",
-      "hora": "18:00",
-      "navio": "NYK RUMINA",
-      "calado": "12,40",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9416991",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-13T18:00:00"
-    },
     {
       "data": "14/10",
       "dia_semana": "quarta",
@@ -52,22 +36,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-14T05:00:00"
-    },
-    {
-      "data": "14/10",
-      "dia_semana": "quarta",
-      "hora": "07:00",
-      "navio": "MSC INGRID",
-      "calado": "9,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9181651",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-14T07:00:00"
     },
     {
       "data": "14/10",
@@ -150,6 +118,22 @@
       "timestamp": "2026-10-14T18:30:00"
     },
     {
+      "data": "14/10",
+      "dia_semana": "quarta",
+      "hora": "20:30",
+      "navio": "MSC LETIZIA",
+      "calado": "10,80",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9702065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-14T20:30:00"
+    },
+    {
       "data": "15/10",
       "dia_semana": "quinta",
       "hora": "00:00",
@@ -214,6 +198,70 @@
       "timestamp": "2026-10-15T22:00:00"
     },
     {
+      "data": "16/10",
+      "dia_semana": "sexta",
+      "hora": "05:00",
+      "navio": "MSC LETIZIA",
+      "calado": "11,20",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9702065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-16T05:00:00"
+    },
+    {
+      "data": "16/10",
+      "dia_semana": "sexta",
+      "hora": "06:00",
+      "navio": "MSC BUSAN VIII",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9289087",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-16T06:00:00"
+    },
+    {
+      "data": "16/10",
+      "dia_semana": "sexta",
+      "hora": "08:00",
+      "navio": "MSC INGRID",
+      "calado": "9,30",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9181651",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-16T08:00:00"
+    },
+    {
+      "data": "17/10",
+      "dia_semana": "sábado",
+      "hora": "06:00",
+      "navio": "MSC INGRID",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9181651",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-17T06:00:00"
+    },
+    {
       "data": "18/10",
       "dia_semana": "domingo",
       "hora": "06:00",
@@ -228,38 +276,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-18T06:00:00"
-    },
-    {
-      "data": "18/10",
-      "dia_semana": "domingo",
-      "hora": "08:00",
-      "navio": "MSC INGRID",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9181651",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-18T08:00:00"
-    },
-    {
-      "data": "18/10",
-      "dia_semana": "domingo",
-      "hora": "09:00",
-      "navio": "MSC BUSAN VIII",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9289087",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-18T09:00:00"
     },
     {
       "data": "19/10",
@@ -280,40 +296,13 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "NYK RUMINA",
+      "navio_rio": "SPYROS V",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "13/10 18:00",
-      "manobra_rio_fim": "14/10 12:00",
-      "navio_multi": "VIKING BRASILIA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/10 01:00"
-    },
-    {
-      "navio_rio": "NYK RUMINA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/10 18:00",
-      "manobra_rio_fim": "14/10 12:00",
-      "navio_multi": "MAERSK CHACHAI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/10 05:00"
-    },
-    {
-      "navio_rio": "NYK RUMINA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/10 18:00",
-      "manobra_rio_fim": "14/10 12:00",
-      "navio_multi": "MSC INGRID",
+      "manobra_rio_inicio": "14/10 18:30",
+      "manobra_rio_fim": "15/10 06:00",
+      "navio_multi": "MSC LETIZIA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "14/10 07:00"
-    },
-    {
-      "navio_rio": "NYK RUMINA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "13/10 18:00",
-      "manobra_rio_fim": "14/10 12:00",
-      "navio_multi": "MSC STELLA M X",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/10 11:00"
+      "manobra_multi_data_hora": "14/10 20:30"
     },
     {
       "navio_rio": "SPYROS V",
@@ -323,24 +312,6 @@
       "navio_multi": "INDUSTRIAL MERCHANT",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/10 00:00"
-    },
-    {
-      "navio_rio": "EVER FIT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/10 06:00",
-      "manobra_rio_fim": "19/10 07:00",
-      "navio_multi": "MSC INGRID",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/10 08:00"
-    },
-    {
-      "navio_rio": "EVER FIT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/10 06:00",
-      "manobra_rio_fim": "19/10 07:00",
-      "navio_multi": "MSC BUSAN VIII",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/10 09:00"
     }
   ]
 }
