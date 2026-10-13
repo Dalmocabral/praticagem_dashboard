@@ -1,58 +1,10 @@
 {
-  "ultima_atualizacao": "12/10/2026 21:50",
+  "ultima_atualizacao": "13/10/2026 04:15",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "12/10",
-      "dia_semana": "segunda",
-      "hora": "21:00",
-      "navio": "MAERSK FRANKFURT",
-      "calado": "12,35",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9969065",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-12T21:00:00"
-    },
-    {
-      "data": "12/10",
-      "dia_semana": "segunda",
-      "hora": "22:30",
-      "navio": "INDUSTRIAL MERCHANT",
-      "calado": "5,30",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "passado",
-      "imo": "9534470",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-12T22:30:00"
-    },
-    {
-      "data": "13/10",
-      "dia_semana": "terça",
-      "hora": "00:00",
-      "navio": "VIKING BRASILIA",
-      "calado": "8,40",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9368895",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-13T00:00:00"
-    },
     {
       "data": "13/10",
       "dia_semana": "terça",
@@ -65,7 +17,7 @@
       "imo": "9525388",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-13T05:30:00"
     },
@@ -327,33 +279,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK FRANKFURT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/10 21:00",
-      "manobra_rio_fim": "13/10 11:00",
-      "navio_multi": "INDUSTRIAL MERCHANT",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "12/10 22:30"
-    },
-    {
-      "navio_rio": "MAERSK FRANKFURT",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "12/10 21:00",
-      "manobra_rio_fim": "13/10 11:00",
-      "navio_multi": "VIKING BRASILIA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/10 00:00"
-    },
-    {
-      "navio_rio": "MAERSK FRANKFURT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "12/10 21:00",
-      "manobra_rio_fim": "13/10 11:00",
-      "navio_multi": "MAERSK CHACHAI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "13/10 05:30"
-    },
     {
       "navio_rio": "COSCO SHIPPING CHILE",
       "manobra_rio_afetada": "E",
