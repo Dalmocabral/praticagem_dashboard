@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "14/10/2026 15:57",
+  "ultima_atualizacao": "14/10/2026 19:12",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "14/10",
-      "dia_semana": "quarta",
-      "hora": "12:30",
-      "navio": "MSC BUSAN VIII",
-      "calado": "12,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9289087",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-14T12:30:00"
-    },
-    {
-      "data": "14/10",
-      "dia_semana": "quarta",
-      "hora": "14:00",
-      "navio": "MSC LETIZIA",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9702065",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-14T14:00:00"
-    },
     {
       "data": "14/10",
       "dia_semana": "quarta",
@@ -65,7 +33,7 @@
       "imo": "9945887",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-10-14T20:30:00"
     },
@@ -100,6 +68,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-15T08:00:00"
+    },
+    {
+      "data": "15/10",
+      "dia_semana": "quinta",
+      "hora": "12:00",
+      "navio": "MSC BUSAN VIII",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9289087",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-15T12:00:00"
+    },
+    {
+      "data": "15/10",
+      "dia_semana": "quinta",
+      "hora": "14:00",
+      "navio": "MSC INGRID",
+      "calado": "9,30",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9181651",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-15T14:00:00"
     },
     {
       "data": "15/10",
@@ -152,27 +152,11 @@
     {
       "data": "16/10",
       "dia_semana": "sexta",
-      "hora": "06:00",
-      "navio": "MSC BUSAN VIII",
+      "hora": "08:00",
+      "navio": "MSC INGRID",
       "calado": "12,50",
       "manobra": "S",
       "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9289087",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-16T06:00:00"
-    },
-    {
-      "data": "16/10",
-      "dia_semana": "sexta",
-      "hora": "08:00",
-      "navio": "MSC INGRID",
-      "calado": "9,30",
-      "manobra": "E",
-      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9181651",
       "tipo_navio": "CONTAINER SHIP",
@@ -180,22 +164,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-16T08:00:00"
-    },
-    {
-      "data": "17/10",
-      "dia_semana": "sábado",
-      "hora": "06:00",
-      "navio": "MSC INGRID",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9181651",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-17T06:00:00"
     },
     {
       "data": "18/10",
@@ -231,6 +199,24 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "NC BRISA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/10 08:00",
+      "manobra_rio_fim": "15/10 22:00",
+      "navio_multi": "MSC BUSAN VIII",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/10 12:00"
+    },
+    {
+      "navio_rio": "NC BRISA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/10 08:00",
+      "manobra_rio_fim": "15/10 22:00",
+      "navio_multi": "MSC INGRID",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "15/10 14:00"
+    },
     {
       "navio_rio": "NC BRISA",
       "manobra_rio_afetada": "S",
