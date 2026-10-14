@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "14/10/2026 11:42",
+  "ultima_atualizacao": "14/10/2026 14:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "14/10",
-      "dia_semana": "quarta",
-      "hora": "10:30",
-      "navio": "MSC STELLA M X",
-      "calado": "13,40",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1031185",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-10-14T10:30:00"
-    },
     {
       "data": "14/10",
       "dia_semana": "quarta",
@@ -88,7 +72,7 @@
     {
       "data": "15/10",
       "dia_semana": "quinta",
-      "hora": "00:00",
+      "hora": "05:00",
       "navio": "INDUSTRIAL MERCHANT",
       "calado": "5,00",
       "manobra": "S",
@@ -99,7 +83,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-15T00:00:00"
+      "timestamp": "2026-10-15T05:00:00"
     },
     {
       "data": "15/10",
@@ -249,12 +233,12 @@
   "conflitos": [
     {
       "navio_rio": "SPYROS V",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "14/10 18:30",
       "manobra_rio_fim": "15/10 06:00",
       "navio_multi": "INDUSTRIAL MERCHANT",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/10 00:00"
+      "manobra_multi_data_hora": "15/10 05:00"
     }
   ]
 }
