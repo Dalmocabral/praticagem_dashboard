@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/10/2026 11:50",
+  "ultima_atualizacao": "15/10/2026 15:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -38,20 +38,20 @@
       "timestamp": "2026-10-15T14:00:00"
     },
     {
-      "data": "15/10",
-      "dia_semana": "quinta",
-      "hora": "16:00",
+      "data": "16/10",
+      "dia_semana": "sexta",
+      "hora": "01:00",
       "navio": "INDUSTRIAL MERCHANT",
       "calado": "5,00",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
+      "manobra": "M",
+      "beco": "TECONT4 -> TERMTRIGO",
+      "status": "futuro",
       "imo": "9534470",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-15T16:00:00"
+      "timestamp": "2026-10-16T01:00:00"
     },
     {
       "data": "16/10",
@@ -89,12 +89,12 @@
       "data": "16/10",
       "dia_semana": "sexta",
       "hora": "08:00",
-      "navio": "MSC INGRID",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT3",
+      "navio": "MSC DAKAR X",
+      "calado": "13,40",
+      "manobra": "E",
+      "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9181651",
+      "imo": "9605231",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -120,7 +120,55 @@
     {
       "data": "16/10",
       "dia_semana": "sexta",
-      "hora": "20:30",
+      "hora": "15:00",
+      "navio": "MSC INGRID",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9181651",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-16T15:00:00"
+    },
+    {
+      "data": "16/10",
+      "dia_semana": "sexta",
+      "hora": "17:00",
+      "navio": "SEATTLE BRIDGE",
+      "calado": "13,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9560352",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-16T17:00:00"
+    },
+    {
+      "data": "16/10",
+      "dia_semana": "sexta",
+      "hora": "19:00",
+      "navio": "GRANDE GUINEA",
+      "calado": "9,30",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9437919",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-16T19:00:00"
+    },
+    {
+      "data": "16/10",
+      "dia_semana": "sexta",
+      "hora": "21:00",
       "navio": "SEASPAN EMPIRE",
       "calado": "10,00",
       "manobra": "E",
@@ -131,23 +179,55 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-16T20:30:00"
+      "timestamp": "2026-10-16T21:00:00"
     },
     {
       "data": "16/10",
       "dia_semana": "sexta",
-      "hora": "22:30",
+      "hora": "23:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "8,50",
-      "manobra": "S",
-      "beco": "TECONT1",
+      "manobra": "M",
+      "beco": "TECONT1 -> TECONT4",
       "status": "futuro",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-16T22:30:00"
+      "timestamp": "2026-10-16T23:00:00"
+    },
+    {
+      "data": "17/10",
+      "dia_semana": "sábado",
+      "hora": "05:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,70",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-17T05:00:00"
+    },
+    {
+      "data": "17/10",
+      "dia_semana": "sábado",
+      "hora": "06:00",
+      "navio": "MSC DAKAR X",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9605231",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-17T06:00:00"
     },
     {
       "data": "17/10",
@@ -166,9 +246,41 @@
       "timestamp": "2026-10-17T08:00:00"
     },
     {
+      "data": "17/10",
+      "dia_semana": "sábado",
+      "hora": "13:00",
+      "navio": "GRANDE GUINEA",
+      "calado": "9,10",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9437919",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-17T13:00:00"
+    },
+    {
+      "data": "17/10",
+      "dia_semana": "sábado",
+      "hora": "20:00",
+      "navio": "SEATTLE BRIDGE",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9560352",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-17T20:00:00"
+    },
+    {
       "data": "18/10",
       "dia_semana": "domingo",
-      "hora": "06:00",
+      "hora": "07:00",
       "navio": "EVER FIT",
       "calado": "14,40",
       "manobra": "E",
@@ -179,7 +291,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-18T06:00:00"
+      "timestamp": "2026-10-18T07:00:00"
     },
     {
       "data": "19/10",
@@ -198,5 +310,51 @@
       "timestamp": "2026-10-19T10:00:00"
     }
   ],
-  "conflitos": []
+  "conflitos": [
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/10 13:00",
+      "manobra_rio_fim": "16/10 23:00",
+      "navio_multi": "MSC INGRID",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/10 15:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/10 13:00",
+      "manobra_rio_fim": "16/10 23:00",
+      "navio_multi": "SEATTLE BRIDGE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/10 17:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "16/10 13:00",
+      "manobra_rio_fim": "16/10 23:00",
+      "navio_multi": "GRANDE GUINEA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/10 19:00"
+    },
+    {
+      "navio_rio": "SEASPAN EMPIRE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/10 21:00",
+      "manobra_rio_fim": "17/10 08:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/10 05:00"
+    },
+    {
+      "navio_rio": "SEASPAN EMPIRE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/10 21:00",
+      "manobra_rio_fim": "17/10 08:00",
+      "navio_multi": "MSC DAKAR X",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/10 06:00"
+    }
+  ]
 }
