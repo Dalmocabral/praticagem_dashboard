@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "15/10/2026 15:49",
+  "ultima_atualizacao": "15/10/2026 18:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
-    {
-      "data": "15/10",
-      "dia_semana": "quinta",
-      "hora": "12:00",
-      "navio": "MSC BUSAN VIII",
-      "calado": "12,10",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9289087",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-10-15T12:00:00"
-    },
-    {
-      "data": "15/10",
-      "dia_semana": "quinta",
-      "hora": "14:00",
-      "navio": "MSC INGRID",
-      "calado": "9,30",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9181651",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-15T14:00:00"
-    },
     {
       "data": "16/10",
       "dia_semana": "sexta",
@@ -122,7 +90,7 @@
       "dia_semana": "sexta",
       "hora": "15:00",
       "navio": "MSC INGRID",
-      "calado": "12,50",
+      "calado": "9,80",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -138,7 +106,7 @@
       "dia_semana": "sexta",
       "hora": "17:00",
       "navio": "SEATTLE BRIDGE",
-      "calado": "13,00",
+      "calado": "10,30",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "futuro",
