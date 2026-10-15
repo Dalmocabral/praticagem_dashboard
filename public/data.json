@@ -1,39 +1,23 @@
 {
-  "ultima_atualizacao": "14/10/2026 21:33",
+  "ultima_atualizacao": "15/10/2026 02:09",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
   },
   "navios": [
     {
-      "data": "14/10",
-      "dia_semana": "quarta",
-      "hora": "20:30",
-      "navio": "COSCO SHIPPING CHILE",
-      "calado": "11,40",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9945887",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-14T20:30:00"
-    },
-    {
       "data": "15/10",
       "dia_semana": "quinta",
       "hora": "06:00",
       "navio": "SPYROS V",
-      "calado": "12,60",
+      "calado": "12,50",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9453365",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-10-15T06:00:00"
     },
@@ -120,7 +104,7 @@
     {
       "data": "16/10",
       "dia_semana": "sexta",
-      "hora": "05:00",
+      "hora": "06:00",
       "navio": "MSC LETIZIA",
       "calado": "11,20",
       "manobra": "S",
@@ -131,7 +115,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-16T05:00:00"
+      "timestamp": "2026-10-16T06:00:00"
     },
     {
       "data": "16/10",
