@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/10/2026 06:56",
+  "ultima_atualizacao": "15/10/2026 11:50",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -8,48 +8,16 @@
     {
       "data": "15/10",
       "dia_semana": "quinta",
-      "hora": "06:00",
-      "navio": "SPYROS V",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9453365",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-15T06:00:00"
-    },
-    {
-      "data": "15/10",
-      "dia_semana": "quinta",
-      "hora": "08:00",
-      "navio": "NC BRISA",
-      "calado": "9,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9612789",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-15T08:00:00"
-    },
-    {
-      "data": "15/10",
-      "dia_semana": "quinta",
       "hora": "12:00",
       "navio": "MSC BUSAN VIII",
-      "calado": "12,50",
+      "calado": "12,10",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9289087",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-10-15T12:00:00"
     },
@@ -65,7 +33,7 @@
       "imo": "9181651",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-15T14:00:00"
     },
@@ -86,20 +54,20 @@
       "timestamp": "2026-10-15T16:00:00"
     },
     {
-      "data": "15/10",
-      "dia_semana": "quinta",
-      "hora": "22:00",
+      "data": "16/10",
+      "dia_semana": "sexta",
+      "hora": "05:00",
       "navio": "NC BRISA",
       "calado": "10,00",
       "manobra": "S",
       "beco": "TECONTPROLONG",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9612789",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-15T22:00:00"
+      "timestamp": "2026-10-16T05:00:00"
     },
     {
       "data": "16/10",
@@ -134,6 +102,70 @@
       "timestamp": "2026-10-16T08:00:00"
     },
     {
+      "data": "16/10",
+      "dia_semana": "sexta",
+      "hora": "13:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-16T13:00:00"
+    },
+    {
+      "data": "16/10",
+      "dia_semana": "sexta",
+      "hora": "20:30",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "10,00",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9407160",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-16T20:30:00"
+    },
+    {
+      "data": "16/10",
+      "dia_semana": "sexta",
+      "hora": "22:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-16T22:30:00"
+    },
+    {
+      "data": "17/10",
+      "dia_semana": "sábado",
+      "hora": "08:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "10,95",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9407160",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-17T08:00:00"
+    },
+    {
       "data": "18/10",
       "dia_semana": "domingo",
       "hora": "06:00",
@@ -166,33 +198,5 @@
       "timestamp": "2026-10-19T10:00:00"
     }
   ],
-  "conflitos": [
-    {
-      "navio_rio": "NC BRISA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/10 08:00",
-      "manobra_rio_fim": "15/10 22:00",
-      "navio_multi": "MSC BUSAN VIII",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/10 12:00"
-    },
-    {
-      "navio_rio": "NC BRISA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/10 08:00",
-      "manobra_rio_fim": "15/10 22:00",
-      "navio_multi": "MSC INGRID",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/10 14:00"
-    },
-    {
-      "navio_rio": "NC BRISA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/10 08:00",
-      "manobra_rio_fim": "15/10 22:00",
-      "navio_multi": "INDUSTRIAL MERCHANT",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/10 16:00"
-    }
-  ]
+  "conflitos": []
 }
