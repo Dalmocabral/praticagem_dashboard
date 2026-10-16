@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "16/10/2026 17:56",
+  "ultima_atualizacao": "16/10/2026 20:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -8,32 +8,16 @@
     {
       "data": "16/10",
       "dia_semana": "sexta",
-      "hora": "17:00",
-      "navio": "SEATTLE BRIDGE",
-      "calado": "10,30",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9560352",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-16T17:00:00"
-    },
-    {
-      "data": "16/10",
-      "dia_semana": "sexta",
       "hora": "21:00",
       "navio": "SEASPAN EMPIRE",
-      "calado": "10,00",
+      "calado": "9,80",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9407160",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-10-16T21:00:00"
     },
@@ -49,7 +33,7 @@
       "imo": "9437919",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-16T23:00:00"
     },
@@ -120,22 +104,6 @@
     {
       "data": "17/10",
       "dia_semana": "sábado",
-      "hora": "13:00",
-      "navio": "GRANDE GUINEA",
-      "calado": "9,10",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9437919",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-17T13:00:00"
-    },
-    {
-      "data": "17/10",
-      "dia_semana": "sábado",
       "hora": "14:00",
       "navio": "SEASPAN EMPIRE",
       "calado": "10,95",
@@ -164,6 +132,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-17T16:00:00"
+    },
+    {
+      "data": "17/10",
+      "dia_semana": "sábado",
+      "hora": "18:00",
+      "navio": "GRANDE GUINEA",
+      "calado": "9,10",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9437919",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-17T18:00:00"
     },
     {
       "data": "17/10",
@@ -348,13 +332,13 @@
       "manobra_multi_data_hora": "17/10 12:00"
     },
     {
-      "navio_rio": "SEASPAN EMPIRE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/10 21:00",
-      "manobra_rio_fim": "17/10 14:00",
+      "navio_rio": "XIN WEI HAI",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "17/10 16:00",
+      "manobra_rio_fim": "18/10 04:00",
       "navio_multi": "GRANDE GUINEA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/10 13:00"
+      "manobra_multi_data_hora": "17/10 18:00"
     },
     {
       "navio_rio": "XIN WEI HAI",
