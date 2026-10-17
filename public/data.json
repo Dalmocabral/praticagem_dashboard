@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/10/2026 13:58",
+  "ultima_atualizacao": "17/10/2026 16:14",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -8,50 +8,18 @@
     {
       "data": "17/10",
       "dia_semana": "sábado",
-      "hora": "14:00",
-      "navio": "XIN WEI HAI",
-      "calado": "11,20",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9312573",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-17T14:00:00"
-    },
-    {
-      "data": "17/10",
-      "dia_semana": "sábado",
       "hora": "17:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,70",
+      "calado": "8,10",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-10-17T17:00:00"
-    },
-    {
-      "data": "17/10",
-      "dia_semana": "sábado",
-      "hora": "19:00",
-      "navio": "SEASPAN EMPIRE",
-      "calado": "10,95",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9407160",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-17T19:00:00"
     },
     {
       "data": "17/10",
@@ -68,6 +36,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-17T21:00:00"
+    },
+    {
+      "data": "17/10",
+      "dia_semana": "sábado",
+      "hora": "23:00",
+      "navio": "SEASPAN EMPIRE",
+      "calado": "10,95",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9407160",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-17T23:00:00"
     },
     {
       "data": "18/10",
@@ -247,42 +231,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "XIN WEI HAI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/10 14:00",
-      "manobra_rio_fim": "18/10 04:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/10 17:00"
-    },
-    {
-      "navio_rio": "XIN WEI HAI",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/10 14:00",
-      "manobra_rio_fim": "18/10 04:00",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/10 21:00"
-    },
-    {
-      "navio_rio": "XIN WEI HAI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/10 14:00",
-      "manobra_rio_fim": "18/10 04:00",
-      "navio_multi": "SEATTLE BRIDGE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/10 00:00"
-    },
-    {
-      "navio_rio": "XIN WEI HAI",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/10 14:00",
-      "manobra_rio_fim": "18/10 04:00",
-      "navio_multi": "MSC GIULIA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "18/10 02:00"
-    },
     {
       "navio_rio": "EVER FIT",
       "manobra_rio_afetada": "E",
