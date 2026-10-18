@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/10/2026 16:39",
+  "ultima_atualizacao": "18/10/2026 18:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -8,25 +8,9 @@
     {
       "data": "18/10",
       "dia_semana": "domingo",
-      "hora": "16:00",
-      "navio": "SEVEN RIO",
-      "calado": "6,50",
-      "manobra": "M",
-      "beco": "A10 -> TECONT1",
-      "status": "hoje",
-      "imo": "9710878",
-      "tipo_navio": "PIPE LAYER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-18T16:00:00"
-    },
-    {
-      "data": "18/10",
-      "dia_semana": "domingo",
       "hora": "19:00",
       "navio": "ITHACA",
-      "calado": "9,50",
+      "calado": "7,00",
       "manobra": "S",
       "beco": "TECONT4",
       "status": "hoje",
@@ -230,51 +214,5 @@
       "timestamp": "2026-10-22T07:00:00"
     }
   ],
-  "conflitos": [
-    {
-      "navio_rio": "SEVEN RIO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/10 16:00",
-      "manobra_rio_fim": "19/10 17:30",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/10 19:00"
-    },
-    {
-      "navio_rio": "SEVEN RIO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/10 16:00",
-      "manobra_rio_fim": "19/10 17:30",
-      "navio_multi": "MSC GIULIA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/10 05:00"
-    },
-    {
-      "navio_rio": "SEVEN RIO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/10 16:00",
-      "manobra_rio_fim": "19/10 17:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "19/10 07:00"
-    },
-    {
-      "navio_rio": "SEVEN RIO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/10 16:00",
-      "manobra_rio_fim": "19/10 17:30",
-      "navio_multi": "VALOR",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/10 12:00"
-    },
-    {
-      "navio_rio": "SEVEN RIO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "18/10 16:00",
-      "manobra_rio_fim": "19/10 17:30",
-      "navio_multi": "COPIAPO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/10 14:00"
-    }
-  ]
+  "conflitos": []
 }
