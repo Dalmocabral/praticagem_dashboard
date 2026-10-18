@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/10/2026 11:45",
+  "ultima_atualizacao": "18/10/2026 14:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 25/09/2026 13:03"
@@ -8,18 +8,18 @@
     {
       "data": "18/10",
       "dia_semana": "domingo",
-      "hora": "12:00",
-      "navio": "GRANDE GUINEA",
-      "calado": "9,70",
-      "manobra": "S",
-      "beco": "TECONT5",
+      "hora": "16:00",
+      "navio": "SEVEN RIO",
+      "calado": "6,50",
+      "manobra": "M",
+      "beco": "A10 -> TECONT1",
       "status": "hoje",
-      "imo": "9437919",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "imo": "9710878",
+      "tipo_navio": "PIPE LAYER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-10-18T12:00:00"
+      "terminal": "rio",
+      "timestamp": "2026-10-18T16:00:00"
     },
     {
       "data": "18/10",
@@ -74,7 +74,7 @@
       "dia_semana": "segunda",
       "hora": "10:00",
       "navio": "EVER FIT",
-      "calado": "14,40",
+      "calado": "13,50",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -132,6 +132,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-19T15:30:00"
+    },
+    {
+      "data": "19/10",
+      "dia_semana": "segunda",
+      "hora": "17:30",
+      "navio": "SEVEN RIO",
+      "calado": "7,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9710878",
+      "tipo_navio": "PIPE LAYER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-19T17:30:00"
     },
     {
       "data": "20/10",
@@ -214,5 +230,51 @@
       "timestamp": "2026-10-22T07:00:00"
     }
   ],
-  "conflitos": []
+  "conflitos": [
+    {
+      "navio_rio": "SEVEN RIO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/10 16:00",
+      "manobra_rio_fim": "19/10 17:30",
+      "navio_multi": "ITHACA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/10 19:00"
+    },
+    {
+      "navio_rio": "SEVEN RIO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/10 16:00",
+      "manobra_rio_fim": "19/10 17:30",
+      "navio_multi": "MSC GIULIA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/10 05:00"
+    },
+    {
+      "navio_rio": "SEVEN RIO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/10 16:00",
+      "manobra_rio_fim": "19/10 17:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/10 07:00"
+    },
+    {
+      "navio_rio": "SEVEN RIO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/10 16:00",
+      "manobra_rio_fim": "19/10 17:30",
+      "navio_multi": "VALOR",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/10 12:00"
+    },
+    {
+      "navio_rio": "SEVEN RIO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/10 16:00",
+      "manobra_rio_fim": "19/10 17:30",
+      "navio_multi": "COPIAPO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/10 14:00"
+    }
+  ]
 }
