@@ -1,62 +1,14 @@
 {
-  "ultima_atualizacao": "19/10/2026 14:01",
+  "ultima_atualizacao": "19/10/2026 18:27",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 18/10/2026 21:11 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
     {
-      "data": "19/10",
-      "dia_semana": "segunda",
-      "hora": "13:00",
-      "navio": "COPIAPO",
-      "calado": "9,70",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9687526",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-19T13:00:00"
-    },
-    {
-      "data": "19/10",
-      "dia_semana": "segunda",
-      "hora": "15:00",
-      "navio": "MERCOSUL FORTALEZA",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9784661",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-19T15:00:00"
-    },
-    {
-      "data": "19/10",
-      "dia_semana": "segunda",
-      "hora": "19:30",
-      "navio": "SEVEN RIO",
-      "calado": "7,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9710878",
-      "tipo_navio": "PIPE LAYER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-19T19:30:00"
-    },
-    {
       "data": "20/10",
       "dia_semana": "terça",
-      "hora": "04:00",
+      "hora": "03:00",
       "navio": "MERCOSUL FORTALEZA",
       "calado": "10,70",
       "manobra": "S",
@@ -67,7 +19,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-20T04:00:00"
+      "timestamp": "2026-10-20T03:00:00"
     },
     {
       "data": "20/10",
@@ -84,6 +36,38 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-20T05:00:00"
+    },
+    {
+      "data": "20/10",
+      "dia_semana": "terça",
+      "hora": "06:00",
+      "navio": "SEVEN RIO",
+      "calado": "7,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9710878",
+      "tipo_navio": "PIPE LAYER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-20T06:00:00"
+    },
+    {
+      "data": "20/10",
+      "dia_semana": "terça",
+      "hora": "08:00",
+      "navio": "WINDEA CURIE",
+      "calado": "5,10",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "1025124",
+      "tipo_navio": "COMMISSIONING SERVICE OPERATION VESSEL",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-20T08:00:00"
     },
     {
       "data": "20/10",
