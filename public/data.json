@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "19/10/2026 07:14",
+  "ultima_atualizacao": "19/10/2026 09:07",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 18/10/2026 21:11 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies."
@@ -10,7 +10,7 @@
       "dia_semana": "segunda",
       "hora": "09:00",
       "navio": "MSC GIULIA",
-      "calado": "10,10",
+      "calado": "10,00",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -40,7 +40,7 @@
     {
       "data": "19/10",
       "dia_semana": "segunda",
-      "hora": "12:00",
+      "hora": "11:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,40",
       "manobra": "S",
@@ -49,14 +49,14 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-10-19T12:00:00"
+      "timestamp": "2026-10-19T11:00:00"
     },
     {
       "data": "19/10",
       "dia_semana": "segunda",
-      "hora": "14:00",
+      "hora": "13:00",
       "navio": "COPIAPO",
       "calado": "9,70",
       "manobra": "E",
@@ -65,9 +65,9 @@
       "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
-      "timestamp": "2026-10-19T14:00:00"
+      "timestamp": "2026-10-19T13:00:00"
     },
     {
       "data": "19/10",
@@ -84,22 +84,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-19T15:30:00"
-    },
-    {
-      "data": "19/10",
-      "dia_semana": "segunda",
-      "hora": "17:00",
-      "navio": "VALOR",
-      "calado": "14,10",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-19T17:00:00"
     },
     {
       "data": "19/10",
@@ -136,22 +120,6 @@
     {
       "data": "20/10",
       "dia_semana": "terça",
-      "hora": "05:30",
-      "navio": "VALOR",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-20T05:30:00"
-    },
-    {
-      "data": "20/10",
-      "dia_semana": "terça",
       "hora": "07:00",
       "navio": "COPIAPO",
       "calado": "10,00",
@@ -164,6 +132,54 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-20T07:00:00"
+    },
+    {
+      "data": "20/10",
+      "dia_semana": "terça",
+      "hora": "13:00",
+      "navio": "VALOR",
+      "calado": "14,10",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9628154",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-20T13:00:00"
+    },
+    {
+      "data": "20/10",
+      "dia_semana": "terça",
+      "hora": "15:00",
+      "navio": "MSC CAROLE",
+      "calado": "14,10",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9785445",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-20T15:00:00"
+    },
+    {
+      "data": "21/10",
+      "dia_semana": "quarta",
+      "hora": "05:00",
+      "navio": "VALOR",
+      "calado": "14,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9628154",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-21T05:00:00"
     },
     {
       "data": "21/10",
@@ -198,15 +214,5 @@
       "timestamp": "2026-10-22T07:00:00"
     }
   ],
-  "conflitos": [
-    {
-      "navio_rio": "MERCOSUL FORTALEZA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "19/10 15:30",
-      "manobra_rio_fim": "20/10 04:00",
-      "navio_multi": "VALOR",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/10 17:00"
-    }
-  ]
+  "conflitos": []
 }
