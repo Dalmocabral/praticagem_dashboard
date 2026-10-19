@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "19/10/2026 11:25",
+  "ultima_atualizacao": "19/10/2026 14:01",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 18/10/2026 21:11 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "19/10",
-      "dia_semana": "segunda",
-      "hora": "11:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,40",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-10-19T11:00:00"
-    },
     {
       "data": "19/10",
       "dia_semana": "segunda",
@@ -42,14 +26,14 @@
       "dia_semana": "segunda",
       "hora": "15:00",
       "navio": "MERCOSUL FORTALEZA",
-      "calado": "10,70",
+      "calado": "10,80",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9784661",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-10-19T15:00:00"
     },
@@ -228,6 +212,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-28T12:00:00"
+    },
+    {
+      "data": "08/11",
+      "dia_semana": "domingo",
+      "hora": "05:30",
+      "navio": "EVER FAITH",
+      "calado": "14,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850525",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-08T05:30:00"
+    },
+    {
+      "data": "09/11",
+      "dia_semana": "segunda",
+      "hora": "08:00",
+      "navio": "EVER FAITH",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850525",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-09T08:00:00"
     }
   ],
   "conflitos": [
