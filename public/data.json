@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "19/10/2026 09:07",
+  "ultima_atualizacao": "19/10/2026 11:25",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 18/10/2026 21:11 Canal Varrido fechado. Embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "19/10",
-      "dia_semana": "segunda",
-      "hora": "09:00",
-      "navio": "MSC GIULIA",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9770737",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-10-19T09:00:00"
-    },
-    {
-      "data": "19/10",
-      "dia_semana": "segunda",
-      "hora": "10:00",
-      "navio": "EVER FIT",
-      "calado": "13,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9850795",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-19T10:00:00"
-    },
     {
       "data": "19/10",
       "dia_semana": "segunda",
@@ -65,14 +33,14 @@
       "imo": "9687526",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-19T13:00:00"
     },
     {
       "data": "19/10",
       "dia_semana": "segunda",
-      "hora": "15:30",
+      "hora": "15:00",
       "navio": "MERCOSUL FORTALEZA",
       "calado": "10,70",
       "manobra": "E",
@@ -81,9 +49,9 @@
       "imo": "9784661",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
-      "timestamp": "2026-10-19T15:30:00"
+      "timestamp": "2026-10-19T15:00:00"
     },
     {
       "data": "19/10",
@@ -120,9 +88,9 @@
     {
       "data": "20/10",
       "dia_semana": "terça",
-      "hora": "07:00",
+      "hora": "05:00",
       "navio": "COPIAPO",
-      "calado": "10,00",
+      "calado": "9,60",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -131,7 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-20T07:00:00"
+      "timestamp": "2026-10-20T05:00:00"
     },
     {
       "data": "20/10",
@@ -156,7 +124,7 @@
       "navio": "MSC CAROLE",
       "calado": "14,10",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9785445",
       "tipo_navio": "CONTAINER SHIP",
@@ -186,7 +154,7 @@
       "dia_semana": "quarta",
       "hora": "07:00",
       "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "13,50",
+      "calado": "14,10",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -196,6 +164,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-21T07:00:00"
+    },
+    {
+      "data": "21/10",
+      "dia_semana": "quarta",
+      "hora": "09:00",
+      "navio": "MSC CAROLE",
+      "calado": "14,10",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9785445",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-21T09:00:00"
     },
     {
       "data": "22/10",
@@ -212,7 +196,49 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-22T07:00:00"
+    },
+    {
+      "data": "27/10",
+      "dia_semana": "terça",
+      "hora": "08:00",
+      "navio": "CMA CGM KRYPTON",
+      "calado": "14,10",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996733",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-27T08:00:00"
+    },
+    {
+      "data": "28/10",
+      "dia_semana": "quarta",
+      "hora": "12:00",
+      "navio": "CMA CGM KRYPTON",
+      "calado": "14,10",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996733",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-28T12:00:00"
     }
   ],
-  "conflitos": []
+  "conflitos": [
+    {
+      "navio_rio": "COSCO SHIPPING BRAZIL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/10 07:00",
+      "manobra_rio_fim": "22/10 07:00",
+      "navio_multi": "MSC CAROLE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/10 09:00"
+    }
+  ]
 }
