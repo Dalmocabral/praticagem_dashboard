@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "20/10/2026 16:16",
+  "ultima_atualizacao": "20/10/2026 19:25",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/10/2026 08:12 Canal Varrido noturno fechado. Embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "20/10",
-      "dia_semana": "terça",
-      "hora": "13:00",
-      "navio": "VALOR",
-      "calado": "14,10",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-20T13:00:00"
-    },
-    {
-      "data": "20/10",
-      "dia_semana": "terça",
-      "hora": "16:00",
-      "navio": "MSC CAROLE",
-      "calado": "14,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9785445",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-20T16:00:00"
-    },
     {
       "data": "21/10",
       "dia_semana": "quarta",
