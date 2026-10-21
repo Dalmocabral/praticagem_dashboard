@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "21/10/2026 07:30",
+  "ultima_atualizacao": "21/10/2026 12:34",
   "barra_info": {
-    "restrita": true,
-    "mensagem": "BARRA RESTRITA DESDE 20/10/2026 08:12 Canal Varrido noturno fechado. Embarque e desembarque em águas abrigadas para navios e supplies."
+    "restrita": false,
+    "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
   },
   "navios": [
-    {
-      "data": "21/10",
-      "dia_semana": "quarta",
-      "hora": "07:00",
-      "navio": "COSCO SHIPPING BRAZIL",
-      "calado": "14,10",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945837",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-21T07:00:00"
-    },
     {
       "data": "21/10",
       "dia_semana": "quarta",
@@ -49,14 +33,14 @@
       "imo": "9252541",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-21T11:00:00"
     },
     {
       "data": "21/10",
       "dia_semana": "quarta",
-      "hora": "14:00",
+      "hora": "13:30",
       "navio": "MSC CAROLE",
       "calado": "15,15",
       "manobra": "S",
@@ -65,46 +49,30 @@
       "imo": "9785445",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-10-21T14:00:00"
+      "timestamp": "2026-10-21T13:30:00"
     },
     {
       "data": "21/10",
       "dia_semana": "quarta",
-      "hora": "16:00",
+      "hora": "15:30",
       "navio": "MSC AMALFI",
-      "calado": "14,50",
+      "calado": "14,30",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
-      "timestamp": "2026-10-21T16:00:00"
+      "timestamp": "2026-10-21T15:30:00"
     },
     {
       "data": "21/10",
       "dia_semana": "quarta",
-      "hora": "18:00",
-      "navio": "MSC BASEL V",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9360764",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-21T18:00:00"
-    },
-    {
-      "data": "21/10",
-      "dia_semana": "quarta",
-      "hora": "20:00",
+      "hora": "21:00",
       "navio": "SEVEN WAVES",
       "calado": "6,90",
       "manobra": "E",
@@ -115,28 +83,28 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-21T20:00:00"
+      "timestamp": "2026-10-21T21:00:00"
     },
     {
       "data": "22/10",
       "dia_semana": "quinta",
-      "hora": "06:00",
-      "navio": "MSC AMALFI",
-      "calado": "14,50",
+      "hora": "00:00",
+      "navio": "MSC BASEL V",
+      "calado": "9,00",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT4",
       "status": "futuro",
-      "imo": "9605279",
+      "imo": "9360764",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-22T06:00:00"
+      "timestamp": "2026-10-22T00:00:00"
     },
     {
       "data": "22/10",
       "dia_semana": "quinta",
-      "hora": "07:00",
+      "hora": "05:00",
       "navio": "COSCO SHIPPING BRAZIL",
       "calado": "13,50",
       "manobra": "S",
@@ -147,12 +115,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-22T07:00:00"
+      "timestamp": "2026-10-22T05:00:00"
     },
     {
       "data": "22/10",
       "dia_semana": "quinta",
-      "hora": "08:30",
+      "hora": "08:00",
       "navio": "MSC MAGNUM VII",
       "calado": "14,80",
       "manobra": "S",
@@ -163,7 +131,55 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-22T08:30:00"
+      "timestamp": "2026-10-22T08:00:00"
+    },
+    {
+      "data": "22/10",
+      "dia_semana": "quinta",
+      "hora": "12:30",
+      "navio": "MSC AMALFI",
+      "calado": "14,90",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9605279",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-22T12:30:00"
+    },
+    {
+      "data": "22/10",
+      "dia_semana": "quinta",
+      "hora": "14:30",
+      "navio": "BOCHEM WALVIS BAY",
+      "calado": "9,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9725859",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-22T14:30:00"
+    },
+    {
+      "data": "22/10",
+      "dia_semana": "quinta",
+      "hora": "20:00",
+      "navio": "SEVEN WAVES",
+      "calado": "6,90",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9649029",
+      "tipo_navio": "PIPE LAYER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-22T20:00:00"
     },
     {
       "data": "23/10",
@@ -198,6 +214,54 @@
       "timestamp": "2026-10-24T07:00:00"
     },
     {
+      "data": "24/10",
+      "dia_semana": "sábado",
+      "hora": "18:00",
+      "navio": "BOCHEM WALVIS BAY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9725859",
+      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
+      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-24T18:00:00"
+    },
+    {
+      "data": "26/10",
+      "dia_semana": "segunda",
+      "hora": "05:00",
+      "navio": "NC BRAVO",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9612791",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-26T05:00:00"
+    },
+    {
+      "data": "26/10",
+      "dia_semana": "segunda",
+      "hora": "21:00",
+      "navio": "NC BRAVO",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9612791",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-26T21:00:00"
+    },
+    {
       "data": "27/10",
       "dia_semana": "terça",
       "hora": "08:00",
@@ -228,6 +292,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-28T12:00:00"
+    },
+    {
+      "data": "28/10",
+      "dia_semana": "quarta",
+      "hora": "14:00",
+      "navio": "HYUNDAI TOKYO",
+      "calado": "13,35",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9305673",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-28T14:00:00"
+    },
+    {
+      "data": "29/10",
+      "dia_semana": "quinta",
+      "hora": "10:00",
+      "navio": "HYUNDAI TOKYO",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9305673",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-29T10:00:00"
     },
     {
       "data": "04/11",
@@ -328,58 +424,49 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
+      "navio_rio": "SEVEN WAVES",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/10 07:00",
-      "manobra_rio_fim": "22/10 07:00",
-      "navio_multi": "VALOR",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/10 09:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/10 07:00",
-      "manobra_rio_fim": "22/10 07:00",
-      "navio_multi": "MSC MAGNUM VII",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/10 11:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/10 07:00",
-      "manobra_rio_fim": "22/10 07:00",
-      "navio_multi": "MSC CAROLE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/10 14:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/10 07:00",
-      "manobra_rio_fim": "22/10 07:00",
-      "navio_multi": "MSC AMALFI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/10 16:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "21/10 07:00",
-      "manobra_rio_fim": "22/10 07:00",
+      "manobra_rio_inicio": "21/10 21:00",
+      "manobra_rio_fim": "22/10 20:00",
       "navio_multi": "MSC BASEL V",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/10 18:00"
+      "manobra_multi_data_hora": "22/10 00:00"
     },
     {
-      "navio_rio": "COSCO SHIPPING BRAZIL",
+      "navio_rio": "SEVEN WAVES",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/10 21:00",
+      "manobra_rio_fim": "22/10 20:00",
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/10 08:00"
+    },
+    {
+      "navio_rio": "SEVEN WAVES",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "21/10 07:00",
-      "manobra_rio_fim": "22/10 07:00",
+      "manobra_rio_inicio": "21/10 21:00",
+      "manobra_rio_fim": "22/10 20:00",
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/10 06:00"
+      "manobra_multi_data_hora": "22/10 12:30"
+    },
+    {
+      "navio_rio": "BOCHEM WALVIS BAY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/10 14:30",
+      "manobra_rio_fim": "24/10 18:00",
+      "navio_multi": "CONTI CONQUEST",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/10 10:00"
+    },
+    {
+      "navio_rio": "BOCHEM WALVIS BAY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/10 14:30",
+      "manobra_rio_fim": "24/10 18:00",
+      "navio_multi": "CONTI CONQUEST",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/10 07:00"
     }
   ]
 }
