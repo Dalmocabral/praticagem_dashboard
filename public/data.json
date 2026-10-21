@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "20/10/2026 21:48",
+  "ultima_atualizacao": "21/10/2026 02:26",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 20/10/2026 08:12 Canal Varrido noturno fechado. Embarque e desembarque em águas abrigadas para navios e supplies."
   },
   "navios": [
-    {
-      "data": "21/10",
-      "dia_semana": "quarta",
-      "hora": "00:00",
-      "navio": "MSC BASEL V",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9360764",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-21T00:00:00"
-    },
     {
       "data": "21/10",
       "dia_semana": "quarta",
@@ -56,23 +40,7 @@
     {
       "data": "21/10",
       "dia_semana": "quarta",
-      "hora": "10:00",
-      "navio": "MSC CAROLE",
-      "calado": "15,15",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9785445",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-21T10:00:00"
-    },
-    {
-      "data": "21/10",
-      "dia_semana": "quarta",
-      "hora": "12:00",
+      "hora": "11:00",
       "navio": "MSC MAGNUM VII",
       "calado": "13,40",
       "manobra": "E",
@@ -83,23 +51,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-21T12:00:00"
+      "timestamp": "2026-10-21T11:00:00"
     },
     {
       "data": "21/10",
       "dia_semana": "quarta",
-      "hora": "14:30",
-      "navio": "SEVEN WAVES",
-      "calado": "6,90",
-      "manobra": "E",
-      "beco": "TECONT1",
+      "hora": "14:00",
+      "navio": "MSC CAROLE",
+      "calado": "15,15",
+      "manobra": "S",
+      "beco": "TECONT2",
       "status": "hoje",
-      "imo": "9649029",
-      "tipo_navio": "PIPE LAYER",
+      "imo": "9785445",
+      "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-21T14:30:00"
+      "terminal": "multi",
+      "timestamp": "2026-10-21T14:00:00"
     },
     {
       "data": "21/10",
@@ -132,6 +100,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-21T18:00:00"
+    },
+    {
+      "data": "21/10",
+      "dia_semana": "quarta",
+      "hora": "20:00",
+      "navio": "SEVEN WAVES",
+      "calado": "6,90",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9649029",
+      "tipo_navio": "PIPE LAYER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-21T20:00:00"
     },
     {
       "data": "22/10",
@@ -357,18 +341,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "21/10 07:00",
       "manobra_rio_fim": "22/10 07:00",
-      "navio_multi": "MSC CAROLE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "21/10 10:00"
+      "navio_multi": "MSC MAGNUM VII",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/10 11:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "21/10 07:00",
       "manobra_rio_fim": "22/10 07:00",
-      "navio_multi": "MSC MAGNUM VII",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "21/10 12:00"
+      "navio_multi": "MSC CAROLE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/10 14:00"
     },
     {
       "navio_rio": "COSCO SHIPPING BRAZIL",
