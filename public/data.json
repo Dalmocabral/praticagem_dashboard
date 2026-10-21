@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "21/10/2026 16:35",
+  "ultima_atualizacao": "21/10/2026 19:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
@@ -40,22 +40,6 @@
     {
       "data": "21/10",
       "dia_semana": "quarta",
-      "hora": "15:30",
-      "navio": "MSC AMALFI",
-      "calado": "14,30",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9605279",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-21T15:30:00"
-    },
-    {
-      "data": "21/10",
-      "dia_semana": "quarta",
       "hora": "21:00",
       "navio": "SEVEN WAVES",
       "calado": "6,90",
@@ -65,14 +49,14 @@
       "imo": "9649029",
       "tipo_navio": "PIPE LAYER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-10-21T21:00:00"
     },
     {
       "data": "22/10",
       "dia_semana": "quinta",
-      "hora": "00:00",
+      "hora": "01:00",
       "navio": "MSC BASEL V",
       "calado": "9,00",
       "manobra": "S",
@@ -83,7 +67,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-22T00:00:00"
+      "timestamp": "2026-10-22T01:00:00"
     },
     {
       "data": "22/10",
@@ -510,7 +494,7 @@
       "manobra_rio_fim": "22/10 20:00",
       "navio_multi": "MSC BASEL V",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/10 00:00"
+      "manobra_multi_data_hora": "22/10 01:00"
     },
     {
       "navio_rio": "SEVEN WAVES",
