@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "21/10/2026 12:34",
+  "ultima_atualizacao": "21/10/2026 16:35",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
   },
   "navios": [
-    {
-      "data": "21/10",
-      "dia_semana": "quarta",
-      "hora": "09:00",
-      "navio": "VALOR",
-      "calado": "15,10",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9628154",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-10-21T09:00:00"
-    },
     {
       "data": "21/10",
       "dia_semana": "quarta",
@@ -120,7 +104,7 @@
     {
       "data": "22/10",
       "dia_semana": "quinta",
-      "hora": "08:00",
+      "hora": "08:30",
       "navio": "MSC MAGNUM VII",
       "calado": "14,80",
       "manobra": "S",
@@ -131,7 +115,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-22T08:00:00"
+      "timestamp": "2026-10-22T08:30:00"
     },
     {
       "data": "22/10",
@@ -184,6 +168,22 @@
     {
       "data": "23/10",
       "dia_semana": "sexta",
+      "hora": "06:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-23T06:30:00"
+    },
+    {
+      "data": "23/10",
+      "dia_semana": "sexta",
       "hora": "10:00",
       "navio": "CONTI CONQUEST",
       "calado": "13,80",
@@ -230,6 +230,38 @@
       "timestamp": "2026-10-24T18:00:00"
     },
     {
+      "data": "25/10",
+      "dia_semana": "domingo",
+      "hora": "08:00",
+      "navio": "MSC MARIA LAURA",
+      "calado": "11,80",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1031159",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-25T08:00:00"
+    },
+    {
+      "data": "25/10",
+      "dia_semana": "domingo",
+      "hora": "19:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-25T19:00:00"
+    },
+    {
       "data": "26/10",
       "dia_semana": "segunda",
       "hora": "05:00",
@@ -244,6 +276,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-26T05:00:00"
+    },
+    {
+      "data": "26/10",
+      "dia_semana": "segunda",
+      "hora": "07:00",
+      "navio": "MSC MARIA LAURA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1031159",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-26T07:00:00"
     },
     {
       "data": "26/10",
@@ -326,9 +374,41 @@
       "timestamp": "2026-10-29T10:00:00"
     },
     {
+      "data": "03/11",
+      "dia_semana": "terça",
+      "hora": "05:30",
+      "navio": "CMA CGM COBALT",
+      "calado": "14,40",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996680",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-03T05:30:00"
+    },
+    {
       "data": "04/11",
       "dia_semana": "quarta",
-      "hora": "06:30",
+      "hora": "05:30",
+      "navio": "CMA CGM COBALT",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996680",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-04T05:30:00"
+    },
+    {
+      "data": "04/11",
+      "dia_semana": "quarta",
+      "hora": "07:30",
       "navio": "EVER FAIR",
       "calado": "14,80",
       "manobra": "E",
@@ -339,7 +419,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-04T06:30:00"
+      "timestamp": "2026-11-04T07:30:00"
     },
     {
       "data": "05/11",
@@ -434,12 +514,12 @@
     },
     {
       "navio_rio": "SEVEN WAVES",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "21/10 21:00",
       "manobra_rio_fim": "22/10 20:00",
       "navio_multi": "MSC MAGNUM VII",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "22/10 08:00"
+      "manobra_multi_data_hora": "22/10 08:30"
     },
     {
       "navio_rio": "SEVEN WAVES",
@@ -449,6 +529,15 @@
       "navio_multi": "MSC AMALFI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "22/10 12:30"
+    },
+    {
+      "navio_rio": "BOCHEM WALVIS BAY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/10 14:30",
+      "manobra_rio_fim": "24/10 18:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/10 06:30"
     },
     {
       "navio_rio": "BOCHEM WALVIS BAY",
@@ -467,6 +556,15 @@
       "navio_multi": "CONTI CONQUEST",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/10 07:00"
+    },
+    {
+      "navio_rio": "NC BRAVO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/10 05:00",
+      "manobra_rio_fim": "26/10 21:00",
+      "navio_multi": "MSC MARIA LAURA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "26/10 07:00"
     }
   ]
 }
