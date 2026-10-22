@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "22/10/2026 13:03",
+  "ultima_atualizacao": "22/10/2026 17:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
   },
   "navios": [
-    {
-      "data": "22/10",
-      "dia_semana": "quinta",
-      "hora": "12:30",
-      "navio": "MSC AMALFI",
-      "calado": "14,85",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9605279",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-10-22T12:30:00"
-    },
-    {
-      "data": "22/10",
-      "dia_semana": "quinta",
-      "hora": "14:30",
-      "navio": "BOCHEM WALVIS BAY",
-      "calado": "9,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9725859",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-22T14:30:00"
-    },
     {
       "data": "22/10",
       "dia_semana": "quinta",
@@ -49,9 +17,25 @@
       "imo": "9649029",
       "tipo_navio": "PIPE LAYER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-10-22T20:00:00"
+    },
+    {
+      "data": "22/10",
+      "dia_semana": "quinta",
+      "hora": "21:00",
+      "navio": "WINDEA CURIE",
+      "calado": "5,10",
+      "manobra": "M",
+      "beco": "TECONT1 -> BNIC-AMRJ",
+      "status": "hoje",
+      "imo": "1025124",
+      "tipo_navio": "COMMISSIONING SERVICE OPERATION VESSEL",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
+      "terminal": "rio",
+      "timestamp": "2026-10-22T21:00:00"
     },
     {
       "data": "23/10",
@@ -136,6 +120,22 @@
     {
       "data": "24/10",
       "dia_semana": "sábado",
+      "hora": "10:30",
+      "navio": "DUSSELDORF EXPRESS",
+      "calado": "9,30",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9143556",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-24T10:30:00"
+    },
+    {
+      "data": "24/10",
+      "dia_semana": "sábado",
       "hora": "14:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,50",
@@ -180,6 +180,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-24T17:00:00"
+    },
+    {
+      "data": "24/10",
+      "dia_semana": "sábado",
+      "hora": "20:00",
+      "navio": "DUSSELDORF EXPRESS",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9143556",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-24T20:00:00"
     },
     {
       "data": "25/10",
@@ -472,37 +488,10 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "BOCHEM WALVIS BAY",
+      "navio_rio": "DUSSELDORF EXPRESS",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "22/10 14:30",
-      "manobra_rio_fim": "24/10 15:00",
-      "navio_multi": "CONTI CONQUEST",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/10 08:30"
-    },
-    {
-      "navio_rio": "BOCHEM WALVIS BAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/10 14:30",
-      "manobra_rio_fim": "24/10 15:00",
-      "navio_multi": "CONTI CONQUEST",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/10 07:00"
-    },
-    {
-      "navio_rio": "BOCHEM WALVIS BAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/10 14:30",
-      "manobra_rio_fim": "24/10 15:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "24/10 09:00"
-    },
-    {
-      "navio_rio": "BOCHEM WALVIS BAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "22/10 14:30",
-      "manobra_rio_fim": "24/10 15:00",
+      "manobra_rio_inicio": "24/10 10:30",
+      "manobra_rio_fim": "24/10 20:00",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/10 14:00"
