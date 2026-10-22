@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/10/2026 17:02",
+  "ultima_atualizacao": "22/10/2026 20:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
@@ -22,20 +22,20 @@
       "timestamp": "2026-10-22T20:00:00"
     },
     {
-      "data": "22/10",
-      "dia_semana": "quinta",
-      "hora": "21:00",
+      "data": "23/10",
+      "dia_semana": "sexta",
+      "hora": "01:00",
       "navio": "WINDEA CURIE",
       "calado": "5,10",
       "manobra": "M",
       "beco": "TECONT1 -> BNIC-AMRJ",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "1025124",
       "tipo_navio": "COMMISSIONING SERVICE OPERATION VESSEL",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-22T21:00:00"
+      "timestamp": "2026-10-23T01:00:00"
     },
     {
       "data": "23/10",
