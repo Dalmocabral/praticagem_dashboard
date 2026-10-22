@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/10/2026 03:00",
+  "ultima_atualizacao": "22/10/2026 08:41",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
@@ -33,7 +33,7 @@
       "imo": "9252541",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-10-22T08:30:00"
     },
@@ -49,7 +49,7 @@
       "imo": "9605279",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-10-22T12:30:00"
     },
@@ -118,6 +118,38 @@
       "timestamp": "2026-10-23T10:00:00"
     },
     {
+      "data": "23/10",
+      "dia_semana": "sexta",
+      "hora": "19:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-23T19:00:00"
+    },
+    {
+      "data": "24/10",
+      "dia_semana": "sábado",
+      "hora": "05:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "M",
+      "beco": "TECONT1 -> TECONT2",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-24T05:00:00"
+    },
+    {
       "data": "24/10",
       "dia_semana": "sábado",
       "hora": "07:00",
@@ -132,6 +164,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-24T07:00:00"
+    },
+    {
+      "data": "24/10",
+      "dia_semana": "sábado",
+      "hora": "17:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-24T17:00:00"
     },
     {
       "data": "24/10",
@@ -449,6 +497,15 @@
       "navio_multi": "CONTI CONQUEST",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/10 07:00"
+    },
+    {
+      "navio_rio": "BOCHEM WALVIS BAY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/10 14:30",
+      "manobra_rio_fim": "24/10 18:00",
+      "navio_multi": "LOG-IN PANTANAL",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "24/10 17:00"
     },
     {
       "navio_rio": "NC BRAVO",
