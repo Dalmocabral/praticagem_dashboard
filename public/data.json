@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "23/10/2026 13:59",
+  "ultima_atualizacao": "23/10/2026 17:20",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
   },
   "navios": [
-    {
-      "data": "23/10",
-      "dia_semana": "sexta",
-      "hora": "08:30",
-      "navio": "CONTI CONQUEST",
-      "calado": "13,45",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9293818",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-23T08:30:00"
-    },
     {
       "data": "24/10",
       "dia_semana": "sábado",
@@ -90,7 +74,7 @@
       "dia_semana": "sábado",
       "hora": "09:00",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "11,00",
+      "calado": "11,50",
       "manobra": "E",
       "beco": "TECONT4",
       "status": "futuro",
@@ -328,6 +312,22 @@
     {
       "data": "26/10",
       "dia_semana": "segunda",
+      "hora": "15:00",
+      "navio": "CMA CGM KRYPTON",
+      "calado": "14,10",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996733",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-26T15:00:00"
+    },
+    {
+      "data": "26/10",
+      "dia_semana": "segunda",
       "hora": "21:00",
       "navio": "NC BRAVO",
       "calado": "11,00",
@@ -344,10 +344,10 @@
     {
       "data": "27/10",
       "dia_semana": "terça",
-      "hora": "08:00",
+      "hora": "14:00",
       "navio": "CMA CGM KRYPTON",
       "calado": "14,10",
-      "manobra": "E",
+      "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9996733",
@@ -355,14 +355,14 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-27T08:00:00"
+      "timestamp": "2026-10-27T14:00:00"
     },
     {
       "data": "27/10",
       "dia_semana": "terça",
       "hora": "15:00",
       "navio": "MSC CATERINA",
-      "calado": "12,90",
+      "calado": "12,50",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -404,22 +404,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-28T10:00:00"
-    },
-    {
-      "data": "28/10",
-      "dia_semana": "quarta",
-      "hora": "12:00",
-      "navio": "CMA CGM KRYPTON",
-      "calado": "14,10",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9996733",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-28T12:00:00"
     },
     {
       "data": "28/10",
@@ -681,33 +665,6 @@
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "26/10 09:00"
-    },
-    {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/10 08:00",
-      "manobra_rio_fim": "28/10 12:00",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/10 15:00"
-    },
-    {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "27/10 08:00",
-      "manobra_rio_fim": "28/10 12:00",
-      "navio_multi": "MSC STELLA M X",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/10 17:00"
-    },
-    {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "27/10 08:00",
-      "manobra_rio_fim": "28/10 12:00",
-      "navio_multi": "MSC STELLA M X",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "28/10 10:00"
     }
   ]
 }
