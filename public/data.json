@@ -1,41 +1,25 @@
 {
-  "ultima_atualizacao": "22/10/2026 20:17",
+  "ultima_atualizacao": "22/10/2026 22:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
   },
   "navios": [
     {
-      "data": "22/10",
-      "dia_semana": "quinta",
-      "hora": "20:00",
-      "navio": "SEVEN WAVES",
-      "calado": "6,90",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9649029",
-      "tipo_navio": "PIPE LAYER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-22T20:00:00"
-    },
-    {
       "data": "23/10",
       "dia_semana": "sexta",
-      "hora": "01:00",
+      "hora": "01:30",
       "navio": "WINDEA CURIE",
       "calado": "5,10",
       "manobra": "M",
       "beco": "TECONT1 -> BNIC-AMRJ",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "1025124",
       "tipo_navio": "COMMISSIONING SERVICE OPERATION VESSEL",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-10-23T01:00:00"
+      "timestamp": "2026-10-23T01:30:00"
     },
     {
       "data": "23/10",
@@ -45,7 +29,7 @@
       "calado": "13,80",
       "manobra": "E",
       "beco": "TECONT3",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9293818",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
@@ -61,7 +45,7 @@
       "calado": "9,00",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "futuro",
+      "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
