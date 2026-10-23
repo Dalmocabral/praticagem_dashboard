@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/10/2026 03:31",
+  "ultima_atualizacao": "23/10/2026 08:52",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
@@ -10,32 +10,64 @@
       "dia_semana": "sexta",
       "hora": "08:30",
       "navio": "CONTI CONQUEST",
-      "calado": "13,80",
+      "calado": "13,45",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9293818",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-23T08:30:00"
     },
     {
       "data": "23/10",
       "dia_semana": "sexta",
-      "hora": "19:00",
+      "hora": "14:00",
+      "navio": "DUSSELDORF EXPRESS",
+      "calado": "9,30",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9143556",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-23T14:00:00"
+    },
+    {
+      "data": "23/10",
+      "dia_semana": "sexta",
+      "hora": "22:00",
+      "navio": "DUSSELDORF EXPRESS",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9143556",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-23T22:00:00"
+    },
+    {
+      "data": "24/10",
+      "dia_semana": "sábado",
+      "hora": "00:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "E",
       "beco": "TECONT1",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-23T19:00:00"
+      "timestamp": "2026-10-24T00:00:00"
     },
     {
       "data": "24/10",
@@ -88,22 +120,6 @@
     {
       "data": "24/10",
       "dia_semana": "sábado",
-      "hora": "10:30",
-      "navio": "DUSSELDORF EXPRESS",
-      "calado": "9,30",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9143556",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-24T10:30:00"
-    },
-    {
-      "data": "24/10",
-      "dia_semana": "sábado",
       "hora": "14:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,50",
@@ -148,22 +164,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-24T17:00:00"
-    },
-    {
-      "data": "24/10",
-      "dia_semana": "sábado",
-      "hora": "20:00",
-      "navio": "DUSSELDORF EXPRESS",
-      "calado": "9,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9143556",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-24T20:00:00"
     },
     {
       "data": "25/10",
@@ -214,6 +214,22 @@
       "timestamp": "2026-10-25T19:00:00"
     },
     {
+      "data": "25/10",
+      "dia_semana": "domingo",
+      "hora": "21:00",
+      "navio": "NYK DIANA",
+      "calado": "10,80",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9337688",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-25T21:00:00"
+    },
+    {
       "data": "26/10",
       "dia_semana": "segunda",
       "hora": "05:00",
@@ -244,6 +260,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-26T07:00:00"
+    },
+    {
+      "data": "26/10",
+      "dia_semana": "segunda",
+      "hora": "13:00",
+      "navio": "NYK DIANA",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9337688",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-26T13:00:00"
     },
     {
       "data": "26/10",
@@ -456,13 +488,13 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "DUSSELDORF EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/10 10:30",
-      "manobra_rio_fim": "24/10 20:00",
-      "navio_multi": "LOG-IN PANTANAL",
+      "navio_rio": "NYK DIANA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/10 21:00",
+      "manobra_rio_fim": "26/10 13:00",
+      "navio_multi": "MSC MARIA LAURA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/10 14:00"
+      "manobra_multi_data_hora": "26/10 07:00"
     },
     {
       "navio_rio": "NC BRAVO",
