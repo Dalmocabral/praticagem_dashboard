@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/10/2026 10:45",
+  "ultima_atualizacao": "23/10/2026 13:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
@@ -43,8 +43,8 @@
       "hora": "03:00",
       "navio": "BOCHEM WALVIS BAY",
       "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "manobra": "M",
+      "beco": "TECONTPROLONG -> WPT 64",
       "status": "futuro",
       "imo": "9725859",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
@@ -296,6 +296,22 @@
     {
       "data": "26/10",
       "dia_semana": "segunda",
+      "hora": "09:00",
+      "navio": "MSC CATERINA",
+      "calado": "12,90",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-26T09:00:00"
+    },
+    {
+      "data": "26/10",
+      "dia_semana": "segunda",
       "hora": "13:00",
       "navio": "NYK DIANA",
       "calado": "10,50",
@@ -340,6 +356,54 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-27T08:00:00"
+    },
+    {
+      "data": "27/10",
+      "dia_semana": "terça",
+      "hora": "15:00",
+      "navio": "MSC CATERINA",
+      "calado": "12,90",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-27T15:00:00"
+    },
+    {
+      "data": "27/10",
+      "dia_semana": "terça",
+      "hora": "17:00",
+      "navio": "MSC STELLA M X",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1031185",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-27T17:00:00"
+    },
+    {
+      "data": "28/10",
+      "dia_semana": "quarta",
+      "hora": "10:00",
+      "navio": "MSC STELLA M X",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1031185",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-28T10:00:00"
     },
     {
       "data": "28/10",
@@ -592,6 +656,15 @@
       "manobra_multi_data_hora": "26/10 07:00"
     },
     {
+      "navio_rio": "NYK DIANA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "25/10 21:00",
+      "manobra_rio_fim": "26/10 13:00",
+      "navio_multi": "MSC CATERINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/10 09:00"
+    },
+    {
       "navio_rio": "NC BRAVO",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "26/10 05:00",
@@ -599,6 +672,42 @@
       "navio_multi": "MSC MARIA LAURA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "26/10 07:00"
+    },
+    {
+      "navio_rio": "NC BRAVO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/10 05:00",
+      "manobra_rio_fim": "26/10 21:00",
+      "navio_multi": "MSC CATERINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/10 09:00"
+    },
+    {
+      "navio_rio": "CMA CGM KRYPTON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "27/10 08:00",
+      "manobra_rio_fim": "28/10 12:00",
+      "navio_multi": "MSC CATERINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "27/10 15:00"
+    },
+    {
+      "navio_rio": "CMA CGM KRYPTON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "27/10 08:00",
+      "manobra_rio_fim": "28/10 12:00",
+      "navio_multi": "MSC STELLA M X",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "27/10 17:00"
+    },
+    {
+      "navio_rio": "CMA CGM KRYPTON",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "27/10 08:00",
+      "manobra_rio_fim": "28/10 12:00",
+      "navio_multi": "MSC STELLA M X",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/10 10:00"
     }
   ]
 }
