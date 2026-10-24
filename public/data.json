@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "24/10/2026 03:31",
+  "ultima_atualizacao": "24/10/2026 08:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
   },
   "navios": [
-    {
-      "data": "24/10",
-      "dia_semana": "sábado",
-      "hora": "03:00",
-      "navio": "BOCHEM WALVIS BAY",
-      "calado": "9,00",
-      "manobra": "M",
-      "beco": "TECONTPROLONG -> WPT 64",
-      "status": "hoje",
-      "imo": "9725859",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-24T03:00:00"
-    },
     {
       "data": "24/10",
       "dia_semana": "sábado",
@@ -42,14 +26,14 @@
       "dia_semana": "sábado",
       "hora": "07:00",
       "navio": "CONTI CONQUEST",
-      "calado": "13,45",
+      "calado": "13,40",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9293818",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-10-24T07:00:00"
     },
@@ -60,19 +44,19 @@
       "navio": "LOG-IN DISCOVERY",
       "calado": "11,50",
       "manobra": "E",
-      "beco": "TECONT4",
+      "beco": "TECONT3",
       "status": "hoje",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-24T09:00:00"
     },
     {
       "data": "24/10",
       "dia_semana": "sábado",
-      "hora": "15:00",
+      "hora": "11:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "M",
@@ -81,9 +65,9 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-10-24T15:00:00"
+      "timestamp": "2026-10-24T11:00:00"
     },
     {
       "data": "24/10",
@@ -104,7 +88,7 @@
     {
       "data": "24/10",
       "dia_semana": "sábado",
-      "hora": "20:00",
+      "hora": "19:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,50",
       "manobra": "S",
@@ -115,7 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-24T20:00:00"
+      "timestamp": "2026-10-24T19:00:00"
     },
     {
       "data": "24/10",
@@ -156,7 +140,7 @@
       "navio": "MSC MARIA LAURA",
       "calado": "11,80",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "1031159",
       "tipo_navio": "CONTAINER SHIP",
@@ -188,7 +172,7 @@
       "navio": "LOG-IN DISCOVERY",
       "calado": "11,50",
       "manobra": "S",
-      "beco": "TECONT4",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
@@ -252,7 +236,7 @@
       "navio": "MSC MARIA LAURA",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "1031159",
       "tipo_navio": "CONTAINER SHIP",
@@ -576,7 +560,7 @@
       "manobra_rio_fim": "24/10 21:00",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/10 20:00"
+      "manobra_multi_data_hora": "24/10 19:00"
     },
     {
       "navio_rio": "APL NEW JERSEY",
@@ -585,7 +569,7 @@
       "manobra_rio_fim": "25/10 06:00",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/10 20:00"
+      "manobra_multi_data_hora": "24/10 19:00"
     },
     {
       "navio_rio": "MERCOSUL GUARUJA",
