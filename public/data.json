@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "24/10/2026 11:52",
+  "ultima_atualizacao": "24/10/2026 14:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
   },
   "navios": [
-    {
-      "data": "24/10",
-      "dia_semana": "sábado",
-      "hora": "11:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,30",
-      "manobra": "M",
-      "beco": "TECONT1 -> TECONT2",
-      "status": "hoje",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-24T11:00:00"
-    },
     {
       "data": "24/10",
       "dia_semana": "sábado",
@@ -40,18 +24,18 @@
     {
       "data": "24/10",
       "dia_semana": "sábado",
-      "hora": "19:00",
+      "hora": "17:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,50",
+      "calado": "8,30",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-10-24T19:00:00"
+      "timestamp": "2026-10-24T17:00:00"
     },
     {
       "data": "24/10",
@@ -92,7 +76,7 @@
       "navio": "MERCOSUL GUARUJA",
       "calado": "11,00",
       "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
@@ -120,9 +104,25 @@
     {
       "data": "25/10",
       "dia_semana": "domingo",
+      "hora": "13:00",
+      "navio": "NYK DIANA",
+      "calado": "12,85",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9337688",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-25T13:00:00"
+    },
+    {
+      "data": "25/10",
+      "dia_semana": "domingo",
       "hora": "19:00",
       "navio": "LOG-IN DISCOVERY",
-      "calado": "11,50",
+      "calado": "8,40",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -134,29 +134,13 @@
       "timestamp": "2026-10-25T19:00:00"
     },
     {
-      "data": "25/10",
-      "dia_semana": "domingo",
-      "hora": "21:00",
-      "navio": "NYK DIANA",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9337688",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-25T21:00:00"
-    },
-    {
       "data": "26/10",
       "dia_semana": "segunda",
       "hora": "03:00",
       "navio": "MERCOSUL GUARUJA",
       "calado": "11,00",
       "manobra": "S",
-      "beco": "TECONTPROLONG",
+      "beco": "TECONT1",
       "status": "futuro",
       "imo": "9539494",
       "tipo_navio": "CONTAINER SHIP",
@@ -186,7 +170,7 @@
       "dia_semana": "segunda",
       "hora": "07:00",
       "navio": "MSC MARIA LAURA",
-      "calado": "12,60",
+      "calado": "10,70",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -218,9 +202,9 @@
       "dia_semana": "segunda",
       "hora": "13:00",
       "navio": "NYK DIANA",
-      "calado": "10,50",
+      "calado": "12,00",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
       "imo": "9337688",
       "tipo_navio": "CONTAINER SHIP",
@@ -494,7 +478,7 @@
       "manobra_rio_fim": "25/10 02:00",
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/10 19:00"
+      "manobra_multi_data_hora": "24/10 17:00"
     },
     {
       "navio_rio": "MERCOSUL GUARUJA",
@@ -516,8 +500,17 @@
     },
     {
       "navio_rio": "NYK DIANA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "25/10 13:00",
+      "manobra_rio_fim": "26/10 13:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "25/10 19:00"
+    },
+    {
+      "navio_rio": "NYK DIANA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/10 21:00",
+      "manobra_rio_inicio": "25/10 13:00",
       "manobra_rio_fim": "26/10 13:00",
       "navio_multi": "MSC MARIA LAURA",
       "manobra_multi_tipo": "S",
@@ -526,7 +519,7 @@
     {
       "navio_rio": "NYK DIANA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/10 21:00",
+      "manobra_rio_inicio": "25/10 13:00",
       "manobra_rio_fim": "26/10 13:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
