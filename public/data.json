@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/10/2026 14:49",
+  "ultima_atualizacao": "24/10/2026 16:59",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
@@ -8,25 +8,9 @@
     {
       "data": "24/10",
       "dia_semana": "sábado",
-      "hora": "13:00",
-      "navio": "APL NEW JERSEY",
-      "calado": "13,80",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9350020",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-24T13:00:00"
-    },
-    {
-      "data": "24/10",
-      "dia_semana": "sábado",
       "hora": "17:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "8,30",
+      "calado": "8,50",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "hoje",
@@ -40,7 +24,7 @@
     {
       "data": "24/10",
       "dia_semana": "sábado",
-      "hora": "21:00",
+      "hora": "19:00",
       "navio": "DUSSELDORF EXPRESS",
       "calado": "9,50",
       "manobra": "S",
@@ -49,9 +33,9 @@
       "imo": "9143556",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-10-24T21:00:00"
+      "timestamp": "2026-10-24T19:00:00"
     },
     {
       "data": "25/10",
@@ -471,15 +455,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "APL NEW JERSEY",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "24/10 13:00",
-      "manobra_rio_fim": "25/10 02:00",
-      "navio_multi": "LOG-IN PANTANAL",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "24/10 17:00"
-    },
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "E",
