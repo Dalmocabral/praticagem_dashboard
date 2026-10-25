@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/10/2026 11:03",
+  "ultima_atualizacao": "25/10/2026 14:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
@@ -24,7 +24,7 @@
     {
       "data": "25/10",
       "dia_semana": "domingo",
-      "hora": "16:00",
+      "hora": "16:30",
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,40",
       "manobra": "S",
@@ -33,9 +33,9 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-10-25T16:00:00"
+      "timestamp": "2026-10-25T16:30:00"
     },
     {
       "data": "25/10",
@@ -148,6 +148,70 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-26T15:30:00"
+    },
+    {
+      "data": "26/10",
+      "dia_semana": "segunda",
+      "hora": "17:30",
+      "navio": "MAERSK FREEPORT",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9991202",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-26T17:30:00"
+    },
+    {
+      "data": "26/10",
+      "dia_semana": "segunda",
+      "hora": "19:00",
+      "navio": "HEROIC ACE",
+      "calado": "8,50",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9252216",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-26T19:00:00"
+    },
+    {
+      "data": "27/10",
+      "dia_semana": "terça",
+      "hora": "05:00",
+      "navio": "HEROIC ACE",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9252216",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-27T05:00:00"
+    },
+    {
+      "data": "27/10",
+      "dia_semana": "terça",
+      "hora": "07:00",
+      "navio": "MAERSK FREEPORT",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9991202",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-27T07:00:00"
     },
     {
       "data": "27/10",
@@ -382,7 +446,7 @@
       "manobra_rio_fim": "26/10 06:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/10 16:00"
+      "manobra_multi_data_hora": "25/10 16:30"
     },
     {
       "navio_rio": "NC BRAVO",
@@ -401,6 +465,42 @@
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "26/10 09:00"
+    },
+    {
+      "navio_rio": "CMA CGM KRYPTON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/10 15:30",
+      "manobra_rio_fim": "27/10 14:00",
+      "navio_multi": "HEROIC ACE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/10 19:00"
+    },
+    {
+      "navio_rio": "CMA CGM KRYPTON",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "26/10 15:30",
+      "manobra_rio_fim": "27/10 14:00",
+      "navio_multi": "HEROIC ACE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "27/10 05:00"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/10 17:30",
+      "manobra_rio_fim": "27/10 07:00",
+      "navio_multi": "HEROIC ACE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "26/10 19:00"
+    },
+    {
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "26/10 17:30",
+      "manobra_rio_fim": "27/10 07:00",
+      "navio_multi": "HEROIC ACE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "27/10 05:00"
     }
   ]
 }
