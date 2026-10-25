@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/10/2026 06:50",
+  "ultima_atualizacao": "25/10/2026 11:03",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
@@ -8,39 +8,23 @@
     {
       "data": "25/10",
       "dia_semana": "domingo",
-      "hora": "08:00",
-      "navio": "MSC MARIA LAURA",
-      "calado": "11,80",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1031159",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-25T08:00:00"
-    },
-    {
-      "data": "25/10",
-      "dia_semana": "domingo",
       "hora": "13:00",
       "navio": "NYK DIANA",
-      "calado": "12,85",
+      "calado": "12,80",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9337688",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-10-25T13:00:00"
     },
     {
       "data": "25/10",
       "dia_semana": "domingo",
-      "hora": "19:00",
+      "hora": "16:00",
       "navio": "LOG-IN DISCOVERY",
       "calado": "8,40",
       "manobra": "S",
@@ -51,7 +35,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-25T19:00:00"
+      "timestamp": "2026-10-25T16:00:00"
     },
     {
       "data": "25/10",
@@ -398,7 +382,7 @@
       "manobra_rio_fim": "26/10 06:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/10 19:00"
+      "manobra_multi_data_hora": "25/10 16:00"
     },
     {
       "navio_rio": "NC BRAVO",
