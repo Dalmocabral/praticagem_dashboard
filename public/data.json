@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/10/2026 08:19",
+  "ultima_atualizacao": "26/10/2026 14:29",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
@@ -8,55 +8,55 @@
     {
       "data": "26/10",
       "dia_semana": "segunda",
-      "hora": "08:00",
-      "navio": "MSC CATERINA",
-      "calado": "12,90",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-26T08:00:00"
-    },
-    {
-      "data": "26/10",
-      "dia_semana": "segunda",
       "hora": "13:30",
       "navio": "NC BRAVO",
-      "calado": "11,00",
+      "calado": "9,00",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9612791",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-10-26T13:30:00"
     },
     {
       "data": "26/10",
       "dia_semana": "segunda",
-      "hora": "15:30",
+      "hora": "15:00",
       "navio": "CMA CGM KRYPTON",
-      "calado": "14,10",
+      "calado": "14,20",
       "manobra": "E",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9996733",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
-      "timestamp": "2026-10-26T15:30:00"
+      "timestamp": "2026-10-26T15:00:00"
     },
     {
       "data": "26/10",
       "dia_semana": "segunda",
-      "hora": "17:30",
+      "hora": "17:00",
+      "navio": "MSC CATERINA",
+      "calado": "12,90",
+      "manobra": "M",
+      "beco": "VISITA S -> TECONT3",
+      "status": "hoje",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
+      "timestamp": "2026-10-26T17:00:00"
+    },
+    {
+      "data": "26/10",
+      "dia_semana": "segunda",
+      "hora": "18:30",
       "navio": "HEROIC ACE",
       "calado": "8,50",
       "manobra": "E",
@@ -67,7 +67,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-26T17:30:00"
+      "timestamp": "2026-10-26T18:30:00"
     },
     {
       "data": "26/10",
@@ -120,22 +120,6 @@
     {
       "data": "27/10",
       "dia_semana": "terça",
-      "hora": "07:00",
-      "navio": "MAERSK FREEPORT",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9991202",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-27T07:00:00"
-    },
-    {
-      "data": "27/10",
-      "dia_semana": "terça",
       "hora": "09:00",
       "navio": "MAERSK PANGANI",
       "calado": "11,30",
@@ -152,23 +136,23 @@
     {
       "data": "27/10",
       "dia_semana": "terça",
-      "hora": "11:00",
-      "navio": "MSC CATERINA",
-      "calado": "11,50",
+      "hora": "13:00",
+      "navio": "MAERSK FREEPORT",
+      "calado": "12,90",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT1",
       "status": "futuro",
-      "imo": "9705005",
+      "imo": "9991202",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-27T11:00:00"
+      "terminal": "rio",
+      "timestamp": "2026-10-27T13:00:00"
     },
     {
       "data": "27/10",
       "dia_semana": "terça",
-      "hora": "14:00",
+      "hora": "16:00",
       "navio": "CMA CGM KRYPTON",
       "calado": "14,10",
       "manobra": "S",
@@ -179,7 +163,39 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-10-27T14:00:00"
+      "timestamp": "2026-10-27T16:00:00"
+    },
+    {
+      "data": "27/10",
+      "dia_semana": "terça",
+      "hora": "17:00",
+      "navio": "MSC CATERINA",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-27T17:00:00"
+    },
+    {
+      "data": "27/10",
+      "dia_semana": "terça",
+      "hora": "19:00",
+      "navio": "INDUSTRIAL CHARGER",
+      "calado": "6,10",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9213959",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-27T19:00:00"
     },
     {
       "data": "27/10",
@@ -196,6 +212,38 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-27T22:00:00"
+    },
+    {
+      "data": "28/10",
+      "dia_semana": "quarta",
+      "hora": "06:00",
+      "navio": "MAERSK PANGANI",
+      "calado": "11,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9786097",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-28T06:00:00"
+    },
+    {
+      "data": "28/10",
+      "dia_semana": "quarta",
+      "hora": "08:00",
+      "navio": "CMA CGM IRON",
+      "calado": "13,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996678",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-28T08:00:00"
     },
     {
       "data": "28/10",
@@ -220,7 +268,7 @@
       "navio": "HYUNDAI TOKYO",
       "calado": "13,35",
       "manobra": "E",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9305673",
       "tipo_navio": "CONTAINER SHIP",
@@ -230,13 +278,45 @@
       "timestamp": "2026-10-28T14:00:00"
     },
     {
+      "data": "28/10",
+      "dia_semana": "quarta",
+      "hora": "16:00",
+      "navio": "BBC AMBER",
+      "calado": "6,80",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9563706",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-28T16:00:00"
+    },
+    {
+      "data": "28/10",
+      "dia_semana": "quarta",
+      "hora": "19:00",
+      "navio": "INDUSTRIAL CHARGER",
+      "calado": "6,20",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9213959",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-28T19:00:00"
+    },
+    {
       "data": "29/10",
       "dia_semana": "quinta",
       "hora": "10:00",
       "navio": "HYUNDAI TOKYO",
       "calado": "12,60",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9305673",
       "tipo_navio": "CONTAINER SHIP",
@@ -244,6 +324,38 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-29T10:00:00"
+    },
+    {
+      "data": "29/10",
+      "dia_semana": "quinta",
+      "hora": "16:00",
+      "navio": "CMA CGM IRON",
+      "calado": "13,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996678",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-29T16:00:00"
+    },
+    {
+      "data": "01/11",
+      "dia_semana": "domingo",
+      "hora": "18:00",
+      "navio": "BBC AMBER",
+      "calado": "7,30",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9563706",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-01T18:00:00"
     },
     {
       "data": "03/11",
@@ -382,22 +494,22 @@
       "manobra_rio_fim": "26/10 21:00",
       "navio_multi": "HEROIC ACE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/10 17:30"
+      "manobra_multi_data_hora": "26/10 18:30"
     },
     {
       "navio_rio": "CMA CGM KRYPTON",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "26/10 15:30",
-      "manobra_rio_fim": "27/10 14:00",
+      "manobra_rio_inicio": "26/10 15:00",
+      "manobra_rio_fim": "27/10 16:00",
       "navio_multi": "HEROIC ACE",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/10 17:30"
+      "manobra_multi_data_hora": "26/10 18:30"
     },
     {
       "navio_rio": "CMA CGM KRYPTON",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/10 15:30",
-      "manobra_rio_fim": "27/10 14:00",
+      "manobra_rio_inicio": "26/10 15:00",
+      "manobra_rio_fim": "27/10 16:00",
       "navio_multi": "HEROIC ACE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "27/10 05:00"
@@ -405,29 +517,83 @@
     {
       "navio_rio": "CMA CGM KRYPTON",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/10 15:30",
-      "manobra_rio_fim": "27/10 14:00",
+      "manobra_rio_inicio": "26/10 15:00",
+      "manobra_rio_fim": "27/10 16:00",
       "navio_multi": "MAERSK PANGANI",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "27/10 09:00"
     },
     {
-      "navio_rio": "CMA CGM KRYPTON",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/10 15:30",
-      "manobra_rio_fim": "27/10 14:00",
-      "navio_multi": "MSC CATERINA",
+      "navio_rio": "MAERSK FREEPORT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "26/10 23:00",
+      "manobra_rio_fim": "27/10 13:00",
+      "navio_multi": "HEROIC ACE",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/10 11:00"
+      "manobra_multi_data_hora": "27/10 05:00"
     },
     {
       "navio_rio": "MAERSK FREEPORT",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "26/10 23:00",
-      "manobra_rio_fim": "27/10 07:00",
-      "navio_multi": "HEROIC ACE",
+      "manobra_rio_fim": "27/10 13:00",
+      "navio_multi": "MAERSK PANGANI",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "27/10 09:00"
+    },
+    {
+      "navio_rio": "CMA CGM IRON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/10 08:00",
+      "manobra_rio_fim": "29/10 16:00",
+      "navio_multi": "MSC STELLA M X",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/10 05:00"
+      "manobra_multi_data_hora": "28/10 12:00"
+    },
+    {
+      "navio_rio": "CMA CGM IRON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/10 08:00",
+      "manobra_rio_fim": "29/10 16:00",
+      "navio_multi": "HYUNDAI TOKYO",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "28/10 14:00"
+    },
+    {
+      "navio_rio": "CMA CGM IRON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/10 08:00",
+      "manobra_rio_fim": "29/10 16:00",
+      "navio_multi": "INDUSTRIAL CHARGER",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/10 19:00"
+    },
+    {
+      "navio_rio": "CMA CGM IRON",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "28/10 08:00",
+      "manobra_rio_fim": "29/10 16:00",
+      "navio_multi": "HYUNDAI TOKYO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "29/10 10:00"
+    },
+    {
+      "navio_rio": "BBC AMBER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/10 16:00",
+      "manobra_rio_fim": "01/11 18:00",
+      "navio_multi": "INDUSTRIAL CHARGER",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/10 19:00"
+    },
+    {
+      "navio_rio": "BBC AMBER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/10 16:00",
+      "manobra_rio_fim": "01/11 18:00",
+      "navio_multi": "HYUNDAI TOKYO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "29/10 10:00"
     }
   ]
 }
