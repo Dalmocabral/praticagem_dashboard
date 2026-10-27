@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "26/10/2026 21:59",
+  "ultima_atualizacao": "27/10/2026 03:10",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 21/10/2026 12:05"
   },
   "navios": [
-    {
-      "data": "26/10",
-      "dia_semana": "segunda",
-      "hora": "21:00",
-      "navio": "NC BRAVO",
-      "calado": "8,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9612791",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-26T21:00:00"
-    },
-    {
-      "data": "26/10",
-      "dia_semana": "segunda",
-      "hora": "23:00",
-      "navio": "MAERSK FREEPORT",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9991202",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-26T23:00:00"
-    },
     {
       "data": "27/10",
       "dia_semana": "terça",
@@ -423,24 +391,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/10 23:00",
-      "manobra_rio_fim": "27/10 15:00",
-      "navio_multi": "MAERSK PANGANI",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "27/10 09:00"
-    },
-    {
-      "navio_rio": "MAERSK FREEPORT",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "26/10 23:00",
-      "manobra_rio_fim": "27/10 15:00",
-      "navio_multi": "HEROIC ACE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "27/10 14:00"
-    },
     {
       "navio_rio": "CMA CGM IRON",
       "manobra_rio_afetada": "E",
