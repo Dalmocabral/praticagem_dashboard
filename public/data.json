@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "28/10/2026 10:48",
+  "ultima_atualizacao": "28/10/2026 11:08",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 27/10/2026 09:58 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande limitada a 11,50m."
   },
   "navios": [
-    {
-      "data": "28/10",
-      "dia_semana": "quarta",
-      "hora": "07:00",
-      "navio": "CMA CGM KRYPTON",
-      "calado": "12,70",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996733",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-28T07:00:00"
-    },
     {
       "data": "28/10",
       "dia_semana": "quarta",
@@ -65,7 +49,7 @@
       "imo": "9305673",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-28T14:00:00"
     },
@@ -296,6 +280,22 @@
     {
       "data": "30/10",
       "dia_semana": "sexta",
+      "hora": "16:00",
+      "navio": "GOODWOOD",
+      "calado": "9,40",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9701140",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-30T16:00:00"
+    },
+    {
+      "data": "30/10",
+      "dia_semana": "sexta",
       "hora": "18:00",
       "navio": "KOTA SINGA",
       "calado": "12,00",
@@ -340,6 +340,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-31T09:00:00"
+    },
+    {
+      "data": "31/10",
+      "dia_semana": "sábado",
+      "hora": "12:00",
+      "navio": "GOODWOOD",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9701140",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-31T12:00:00"
     },
     {
       "data": "31/10",
@@ -500,6 +516,38 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-12T12:00:00"
+    },
+    {
+      "data": "16/11",
+      "dia_semana": "segunda",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING MEXICO",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945863",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-16T08:00:00"
+    },
+    {
+      "data": "17/11",
+      "dia_semana": "terça",
+      "hora": "08:00",
+      "navio": "COSCO SHIPPING MEXICO",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9945863",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-17T08:00:00"
     }
   ],
   "conflitos": [
@@ -667,12 +715,30 @@
     },
     {
       "navio_rio": "BBC AMBER",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/10 18:00",
+      "manobra_rio_fim": "01/11 18:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "30/10 16:00"
+    },
+    {
+      "navio_rio": "BBC AMBER",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "28/10 18:00",
       "manobra_rio_fim": "01/11 18:00",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "30/10 20:00"
+    },
+    {
+      "navio_rio": "BBC AMBER",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "28/10 18:00",
+      "manobra_rio_fim": "01/11 18:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "31/10 12:00"
     },
     {
       "navio_rio": "BBC AMBER",
@@ -720,6 +786,15 @@
       "manobra_multi_data_hora": "30/10 14:00"
     },
     {
+      "navio_rio": "KOTA SINGA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "29/10 13:00",
+      "manobra_rio_fim": "30/10 18:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "30/10 16:00"
+    },
+    {
       "navio_rio": "BOCHEM WALVIS BAY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "30/10 09:00",
@@ -736,6 +811,15 @@
       "navio_multi": "MSC LETICIA X",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "30/10 14:00"
+    },
+    {
+      "navio_rio": "BOCHEM WALVIS BAY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "30/10 09:00",
+      "manobra_rio_fim": "31/10 09:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "30/10 16:00"
     },
     {
       "navio_rio": "BOCHEM WALVIS BAY",
