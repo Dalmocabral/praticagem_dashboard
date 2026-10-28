@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "27/10/2026 22:26",
+  "ultima_atualizacao": "28/10/2026 04:17",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 27/10/2026 09:58 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande limitada a 11,50m."
@@ -10,14 +10,14 @@
       "dia_semana": "quarta",
       "hora": "02:00",
       "navio": "MSC STELLA M X",
-      "calado": "10,70",
+      "calado": "10,40",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "1031185",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-28T02:00:00"
     },
@@ -33,7 +33,7 @@
       "imo": "9246607",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-28T04:00:00"
     },
@@ -41,22 +41,6 @@
       "data": "28/10",
       "dia_semana": "quarta",
       "hora": "07:00",
-      "navio": "MAERSK PANGANI",
-      "calado": "12,40",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9786097",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-28T07:00:00"
-    },
-    {
-      "data": "28/10",
-      "dia_semana": "quarta",
-      "hora": "08:00",
       "navio": "CMA CGM KRYPTON",
       "calado": "14,10",
       "manobra": "S",
@@ -65,8 +49,24 @@
       "imo": "9996733",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
+      "timestamp": "2026-10-28T07:00:00"
+    },
+    {
+      "data": "28/10",
+      "dia_semana": "quarta",
+      "hora": "08:00",
+      "navio": "MAERSK PANGANI",
+      "calado": "12,40",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9786097",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
+      "terminal": "multi",
       "timestamp": "2026-10-28T08:00:00"
     },
     {
