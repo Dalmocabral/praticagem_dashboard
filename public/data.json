@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "29/10/2026 18:01",
+  "ultima_atualizacao": "29/10/2026 20:57",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
@@ -26,14 +26,14 @@
       "dia_semana": "quinta",
       "hora": "22:30",
       "navio": "MSC INSA",
-      "calado": "14,00",
+      "calado": "13,90",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-29T22:30:00"
     },
