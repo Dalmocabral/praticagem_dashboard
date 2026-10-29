@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "28/10/2026 23:47",
+  "ultima_atualizacao": "29/10/2026 05:59",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 27/10/2026 09:58 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande limitada a 11,50m."
@@ -8,23 +8,23 @@
     {
       "data": "29/10",
       "dia_semana": "quinta",
-      "hora": "01:00",
-      "navio": "GRANDE AMBURGO",
-      "calado": "8,50",
-      "manobra": "S",
-      "beco": "TECONT5",
+      "hora": "06:30",
+      "navio": "MSC MARIA MARILYN X",
+      "calado": "14,40",
+      "manobra": "E",
+      "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9246607",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
+      "imo": "1031173",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_futura",
       "terminal": "multi",
-      "timestamp": "2026-10-29T01:00:00"
+      "timestamp": "2026-10-29T06:30:00"
     },
     {
       "data": "29/10",
       "dia_semana": "quinta",
-      "hora": "03:00",
+      "hora": "08:30",
       "navio": "INDUSTRIAL CHARGER",
       "calado": "6,20",
       "manobra": "S",
@@ -33,46 +33,14 @@
       "imo": "9213959",
       "tipo_navio": "GENERAL CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-10-29T03:00:00"
+      "timestamp": "2026-10-29T08:30:00"
     },
     {
       "data": "29/10",
       "dia_semana": "quinta",
-      "hora": "05:00",
-      "navio": "MICHIGAN HIGHWAY",
-      "calado": "8,90",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9339832",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-29T05:00:00"
-    },
-    {
-      "data": "29/10",
-      "dia_semana": "quinta",
-      "hora": "06:30",
-      "navio": "MSC MARIA MARILYN X",
-      "calado": "14,50",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1031173",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-29T06:30:00"
-    },
-    {
-      "data": "29/10",
-      "dia_semana": "quinta",
-      "hora": "10:00",
+      "hora": "11:00",
       "navio": "HYUNDAI TOKYO",
       "calado": "11,30",
       "manobra": "S",
@@ -83,7 +51,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-29T10:00:00"
+      "timestamp": "2026-10-29T11:00:00"
     },
     {
       "data": "29/10",
