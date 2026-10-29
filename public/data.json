@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "29/10/2026 13:01",
+  "ultima_atualizacao": "29/10/2026 18:01",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
   },
   "navios": [
-    {
-      "data": "29/10",
-      "dia_semana": "quinta",
-      "hora": "13:00",
-      "navio": "KOTA SINGA",
-      "calado": "9,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9681314",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-29T13:00:00"
-    },
-    {
-      "data": "29/10",
-      "dia_semana": "quinta",
-      "hora": "16:00",
-      "navio": "HYUNDAI TOKYO",
-      "calado": "11,30",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9305673",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-10-29T16:00:00"
-    },
     {
       "data": "29/10",
       "dia_semana": "quinta",
@@ -49,7 +17,7 @@
       "imo": "1015375",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-29T18:00:00"
     },
@@ -344,6 +312,22 @@
     {
       "data": "31/10",
       "dia_semana": "sábado",
+      "hora": "19:30",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-31T19:30:00"
+    },
+    {
+      "data": "31/10",
+      "dia_semana": "sábado",
       "hora": "22:30",
       "navio": "LORI",
       "calado": "11,50",
@@ -388,6 +372,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-01T18:00:00"
+    },
+    {
+      "data": "02/11",
+      "dia_semana": "segunda",
+      "hora": "16:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-02T16:00:00"
     },
     {
       "data": "02/11",
@@ -648,69 +648,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "KOTA SINGA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "29/10 13:00",
-      "manobra_rio_fim": "30/10 18:00",
-      "navio_multi": "HYUNDAI TOKYO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "29/10 16:00"
-    },
-    {
-      "navio_rio": "KOTA SINGA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "29/10 13:00",
-      "manobra_rio_fim": "30/10 18:00",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "29/10 18:00"
-    },
-    {
-      "navio_rio": "KOTA SINGA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "29/10 13:00",
-      "manobra_rio_fim": "30/10 18:00",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "29/10 22:30"
-    },
-    {
-      "navio_rio": "KOTA SINGA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/10 13:00",
-      "manobra_rio_fim": "30/10 18:00",
-      "navio_multi": "MSC MARIA MARILYN X",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/10 05:00"
-    },
-    {
-      "navio_rio": "KOTA SINGA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/10 13:00",
-      "manobra_rio_fim": "30/10 18:00",
-      "navio_multi": "MICHIGAN HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/10 11:00"
-    },
-    {
-      "navio_rio": "KOTA SINGA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/10 13:00",
-      "manobra_rio_fim": "30/10 18:00",
-      "navio_multi": "MSC LETICIA X",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/10 13:30"
-    },
-    {
-      "navio_rio": "KOTA SINGA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "29/10 13:00",
-      "manobra_rio_fim": "30/10 18:00",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/10 16:00"
-    },
-    {
       "navio_rio": "BOCHEM WALVIS BAY",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "30/10 07:00",
@@ -801,6 +738,15 @@
       "manobra_multi_data_hora": "31/10 17:30"
     },
     {
+      "navio_rio": "LORI",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "31/10 09:30",
+      "manobra_rio_fim": "31/10 22:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "31/10 19:30"
+    },
+    {
       "navio_rio": "CARDIFF",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "31/10 14:30",
@@ -817,6 +763,15 @@
       "navio_multi": "LOG-IN PANTANAL",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "31/10 17:30"
+    },
+    {
+      "navio_rio": "CARDIFF",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "31/10 14:30",
+      "manobra_rio_fim": "01/11 07:00",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "31/10 19:30"
     },
     {
       "navio_rio": "EVER FAIR",
