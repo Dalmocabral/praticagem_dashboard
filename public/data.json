@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "29/10/2026 21:52",
+  "ultima_atualizacao": "30/10/2026 03:47",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
   },
   "navios": [
-    {
-      "data": "29/10",
-      "dia_semana": "quinta",
-      "hora": "18:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "7,40",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "passado",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-29T18:00:00"
-    },
-    {
-      "data": "29/10",
-      "dia_semana": "quinta",
-      "hora": "22:30",
-      "navio": "MSC INSA",
-      "calado": "13,90",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "passado",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-29T22:30:00"
-    },
     {
       "data": "30/10",
       "dia_semana": "sexta",
@@ -49,7 +17,7 @@
       "imo": "9996678",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-10-30T03:00:00"
     },
@@ -58,14 +26,14 @@
       "dia_semana": "sexta",
       "hora": "05:00",
       "navio": "MSC MARIA MARILYN X",
-      "calado": "15,30",
+      "calado": "15,20",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "1031173",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-10-30T05:00:00"
     },
@@ -81,9 +49,25 @@
       "imo": "9725859",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-10-30T07:00:00"
+    },
+    {
+      "data": "30/10",
+      "dia_semana": "sexta",
+      "hora": "09:00",
+      "navio": "BBC AMBER",
+      "calado": "7,30",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9563706",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-30T09:00:00"
     },
     {
       "data": "30/10",
@@ -120,18 +104,18 @@
     {
       "data": "30/10",
       "dia_semana": "sexta",
-      "hora": "16:00",
-      "navio": "GOODWOOD",
-      "calado": "9,40",
+      "hora": "15:00",
+      "navio": "MSC INSA",
+      "calado": "13,90",
       "manobra": "E",
-      "beco": "TECONT5",
+      "beco": "TECONT2",
       "status": "hoje",
-      "imo": "9701140",
-      "tipo_navio": "VEHICLES CARRIER",
+      "imo": "1016666",
+      "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-30T16:00:00"
+      "timestamp": "2026-10-30T15:00:00"
     },
     {
       "data": "30/10",
@@ -182,20 +166,36 @@
       "timestamp": "2026-10-30T22:00:00"
     },
     {
-      "data": "30/10",
-      "dia_semana": "sexta",
-      "hora": "23:00",
+      "data": "31/10",
+      "dia_semana": "sábado",
+      "hora": "00:00",
+      "navio": "GOODWOOD",
+      "calado": "9,40",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9701140",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-31T00:00:00"
+    },
+    {
+      "data": "31/10",
+      "dia_semana": "sábado",
+      "hora": "05:00",
       "navio": "MSC INSA",
       "calado": "12,60",
       "manobra": "S",
       "beco": "TECONT2",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "1016666",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-10-30T23:00:00"
+      "timestamp": "2026-10-31T05:00:00"
     },
     {
       "data": "31/10",
@@ -356,22 +356,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-01T07:00:00"
-    },
-    {
-      "data": "01/11",
-      "dia_semana": "domingo",
-      "hora": "18:00",
-      "navio": "BBC AMBER",
-      "calado": "7,30",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9563706",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-11-01T18:00:00"
     },
     {
       "data": "02/11",
@@ -670,18 +654,27 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "30/10 07:00",
       "manobra_rio_fim": "31/10 11:30",
+      "navio_multi": "MSC INSA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "30/10 15:00"
+    },
+    {
+      "navio_rio": "BOCHEM WALVIS BAY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "30/10 07:00",
+      "manobra_rio_fim": "31/10 11:30",
+      "navio_multi": "SINAR SUMATERA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "30/10 22:00"
+    },
+    {
+      "navio_rio": "BOCHEM WALVIS BAY",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "30/10 07:00",
+      "manobra_rio_fim": "31/10 11:30",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/10 16:00"
-    },
-    {
-      "navio_rio": "BOCHEM WALVIS BAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/10 07:00",
-      "manobra_rio_fim": "31/10 11:30",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/10 22:00"
+      "manobra_multi_data_hora": "31/10 00:00"
     },
     {
       "navio_rio": "BOCHEM WALVIS BAY",
@@ -690,7 +683,7 @@
       "manobra_rio_fim": "31/10 11:30",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/10 23:00"
+      "manobra_multi_data_hora": "31/10 05:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
@@ -706,9 +699,18 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "30/10 20:00",
       "manobra_rio_fim": "31/10 07:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "31/10 00:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "30/10 20:00",
+      "manobra_rio_fim": "31/10 07:00",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/10 23:00"
+      "manobra_multi_data_hora": "31/10 05:00"
     },
     {
       "navio_rio": "LORI",
