@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "30/10/2026 15:53",
+  "ultima_atualizacao": "30/10/2026 19:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
@@ -8,48 +8,16 @@
     {
       "data": "30/10",
       "dia_semana": "sexta",
-      "hora": "13:30",
-      "navio": "MSC LETICIA X",
-      "calado": "15,00",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1031197",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-30T13:30:00"
-    },
-    {
-      "data": "30/10",
-      "dia_semana": "sexta",
-      "hora": "15:00",
-      "navio": "MSC INSA",
-      "calado": "13,90",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "1016666",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-10-30T15:00:00"
-    },
-    {
-      "data": "30/10",
-      "dia_semana": "sexta",
       "hora": "19:00",
       "navio": "MICHIGAN HIGHWAY",
-      "calado": "10,00",
+      "calado": "8,90",
       "manobra": "S",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9339832",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-10-30T19:00:00"
     },
@@ -65,7 +33,7 @@
       "imo": "9725859",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-10-30T21:00:00"
     },
@@ -81,7 +49,7 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-10-30T23:00:00"
     },
@@ -152,13 +120,29 @@
     {
       "data": "31/10",
       "dia_semana": "sábado",
-      "hora": "09:30",
+      "hora": "07:30",
       "navio": "LORI",
       "calado": "11,50",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "futuro",
       "imo": "9631125",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-10-31T07:30:00"
+    },
+    {
+      "data": "31/10",
+      "dia_semana": "sábado",
+      "hora": "09:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -232,22 +216,6 @@
     {
       "data": "31/10",
       "dia_semana": "sábado",
-      "hora": "18:30",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,50",
-      "manobra": "M",
-      "beco": "TECONTPROLONG -> TECONT3",
-      "status": "futuro",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-31T18:30:00"
-    },
-    {
-      "data": "31/10",
-      "dia_semana": "sábado",
       "hora": "20:30",
       "navio": "GOODWOOD",
       "calado": "10,00",
@@ -280,18 +248,34 @@
     {
       "data": "01/11",
       "dia_semana": "domingo",
-      "hora": "03:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT3",
+      "hora": "00:30",
+      "navio": "GRANDE FRANCIA",
+      "calado": "9,20",
+      "manobra": "E",
+      "beco": "TECONT5",
       "status": "futuro",
-      "imo": "9351799",
+      "imo": "9246592",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-01T00:30:00"
+    },
+    {
+      "data": "01/11",
+      "dia_semana": "domingo",
+      "hora": "05:00",
+      "navio": "CMA CGM SANTOS",
+      "calado": "10,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9649835",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-01T03:00:00"
+      "terminal": "rio",
+      "timestamp": "2026-11-01T05:00:00"
     },
     {
       "data": "01/11",
@@ -344,6 +328,22 @@
     {
       "data": "02/11",
       "dia_semana": "segunda",
+      "hora": "04:30",
+      "navio": "GRANDE FRANCIA",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9246592",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-02T04:30:00"
+    },
+    {
+      "data": "02/11",
+      "dia_semana": "segunda",
       "hora": "10:00",
       "navio": "ZIM WILMINGTON",
       "calado": "10,60",
@@ -356,6 +356,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-02T10:00:00"
+    },
+    {
+      "data": "02/11",
+      "dia_semana": "segunda",
+      "hora": "12:00",
+      "navio": "CMA CGM SANTOS",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9649835",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-02T12:00:00"
     },
     {
       "data": "02/11",
@@ -635,7 +651,7 @@
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "30/10 23:00",
-      "manobra_rio_fim": "31/10 18:30",
+      "manobra_rio_fim": "31/10 09:30",
       "navio_multi": "SINAR SUMATERA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "31/10 01:00"
@@ -644,51 +660,24 @@
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "30/10 23:00",
-      "manobra_rio_fim": "31/10 18:30",
+      "manobra_rio_fim": "31/10 09:30",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "31/10 04:00"
     },
     {
       "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "30/10 23:00",
-      "manobra_rio_fim": "31/10 18:30",
+      "manobra_rio_fim": "31/10 09:30",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "31/10 06:00"
     },
     {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "30/10 23:00",
-      "manobra_rio_fim": "31/10 18:30",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/10 11:30"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "30/10 23:00",
-      "manobra_rio_fim": "31/10 18:30",
-      "navio_multi": "MSC LETICIA X",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/10 12:30"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "30/10 23:00",
-      "manobra_rio_fim": "31/10 18:30",
-      "navio_multi": "ONE GEORGE WASHINGTON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/10 16:30"
-    },
-    {
       "navio_rio": "LORI",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/10 09:30",
+      "manobra_rio_inicio": "31/10 07:30",
       "manobra_rio_fim": "31/10 22:30",
       "navio_multi": "MSC INSA",
       "manobra_multi_tipo": "S",
@@ -697,7 +686,7 @@
     {
       "navio_rio": "LORI",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/10 09:30",
+      "manobra_rio_inicio": "31/10 07:30",
       "manobra_rio_fim": "31/10 22:30",
       "navio_multi": "MSC LETICIA X",
       "manobra_multi_tipo": "S",
@@ -706,7 +695,7 @@
     {
       "navio_rio": "LORI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "31/10 09:30",
+      "manobra_rio_inicio": "31/10 07:30",
       "manobra_rio_fim": "31/10 22:30",
       "navio_multi": "ONE GEORGE WASHINGTON",
       "manobra_multi_tipo": "E",
@@ -715,7 +704,7 @@
     {
       "navio_rio": "LORI",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "31/10 09:30",
+      "manobra_rio_inicio": "31/10 07:30",
       "manobra_rio_fim": "31/10 22:30",
       "navio_multi": "GOODWOOD",
       "manobra_multi_tipo": "S",
@@ -744,9 +733,27 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "31/10 14:30",
       "manobra_rio_fim": "01/11 07:00",
-      "navio_multi": "LOG-IN PANTANAL",
+      "navio_multi": "GRANDE FRANCIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "01/11 00:30"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/11 05:00",
+      "manobra_rio_fim": "02/11 12:00",
+      "navio_multi": "ONE GEORGE WASHINGTON",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "01/11 03:00"
+      "manobra_multi_data_hora": "01/11 16:00"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/11 05:00",
+      "manobra_rio_fim": "02/11 12:00",
+      "navio_multi": "GRANDE FRANCIA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/11 04:30"
     },
     {
       "navio_rio": "ZIM WILMINGTON",
@@ -756,6 +763,15 @@
       "navio_multi": "ONE GEORGE WASHINGTON",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "01/11 16:00"
+    },
+    {
+      "navio_rio": "ZIM WILMINGTON",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "01/11 09:00",
+      "manobra_rio_fim": "02/11 10:00",
+      "navio_multi": "GRANDE FRANCIA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "02/11 04:30"
     },
     {
       "navio_rio": "EVER FAIR",
