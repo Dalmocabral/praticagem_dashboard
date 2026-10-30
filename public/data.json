@@ -1,90 +1,10 @@
 {
-  "ultima_atualizacao": "30/10/2026 03:47",
+  "ultima_atualizacao": "30/10/2026 10:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
   },
   "navios": [
-    {
-      "data": "30/10",
-      "dia_semana": "sexta",
-      "hora": "03:00",
-      "navio": "CMA CGM IRON",
-      "calado": "14,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9996678",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-10-30T03:00:00"
-    },
-    {
-      "data": "30/10",
-      "dia_semana": "sexta",
-      "hora": "05:00",
-      "navio": "MSC MARIA MARILYN X",
-      "calado": "15,20",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1031173",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-10-30T05:00:00"
-    },
-    {
-      "data": "30/10",
-      "dia_semana": "sexta",
-      "hora": "07:00",
-      "navio": "BOCHEM WALVIS BAY",
-      "calado": "8,00",
-      "manobra": "M",
-      "beco": "WPT 61 -> TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9725859",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": "saida_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-30T07:00:00"
-    },
-    {
-      "data": "30/10",
-      "dia_semana": "sexta",
-      "hora": "09:00",
-      "navio": "BBC AMBER",
-      "calado": "7,30",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9563706",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-10-30T09:00:00"
-    },
-    {
-      "data": "30/10",
-      "dia_semana": "sexta",
-      "hora": "11:00",
-      "navio": "MICHIGAN HIGHWAY",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9339832",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-30T11:00:00"
-    },
     {
       "data": "30/10",
       "dia_semana": "sexta",
@@ -97,7 +17,7 @@
       "imo": "1031197",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-30T13:30:00"
     },
@@ -116,6 +36,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-10-30T15:00:00"
+    },
+    {
+      "data": "30/10",
+      "dia_semana": "sexta",
+      "hora": "17:00",
+      "navio": "MICHIGAN HIGHWAY",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9339832",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-10-30T17:00:00"
     },
     {
       "data": "30/10",
@@ -186,7 +122,7 @@
       "dia_semana": "sábado",
       "hora": "05:00",
       "navio": "MSC INSA",
-      "calado": "12,60",
+      "calado": "13,80",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -536,7 +472,7 @@
     {
       "data": "10/11",
       "dia_semana": "terça",
-      "hora": "12:00",
+      "hora": "06:30",
       "navio": "CMA CGM THORIUM",
       "calado": "14,60",
       "manobra": "E",
@@ -547,7 +483,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-10T12:00:00"
+      "timestamp": "2026-11-10T06:30:00"
     },
     {
       "data": "11/11",
@@ -631,60 +567,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "BOCHEM WALVIS BAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/10 07:00",
-      "manobra_rio_fim": "31/10 11:30",
-      "navio_multi": "MICHIGAN HIGHWAY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/10 11:00"
-    },
-    {
-      "navio_rio": "BOCHEM WALVIS BAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/10 07:00",
-      "manobra_rio_fim": "31/10 11:30",
-      "navio_multi": "MSC LETICIA X",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/10 13:30"
-    },
-    {
-      "navio_rio": "BOCHEM WALVIS BAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/10 07:00",
-      "manobra_rio_fim": "31/10 11:30",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "30/10 15:00"
-    },
-    {
-      "navio_rio": "BOCHEM WALVIS BAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/10 07:00",
-      "manobra_rio_fim": "31/10 11:30",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "30/10 22:00"
-    },
-    {
-      "navio_rio": "BOCHEM WALVIS BAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/10 07:00",
-      "manobra_rio_fim": "31/10 11:30",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/10 00:00"
-    },
-    {
-      "navio_rio": "BOCHEM WALVIS BAY",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/10 07:00",
-      "manobra_rio_fim": "31/10 11:30",
-      "navio_multi": "MSC INSA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/10 05:00"
-    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
