@@ -1,58 +1,10 @@
 {
-  "ultima_atualizacao": "30/10/2026 22:54",
+  "ultima_atualizacao": "31/10/2026 05:11",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
   },
   "navios": [
-    {
-      "data": "30/10",
-      "dia_semana": "sexta",
-      "hora": "23:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,90",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-30T23:00:00"
-    },
-    {
-      "data": "31/10",
-      "dia_semana": "sábado",
-      "hora": "01:00",
-      "navio": "SINAR SUMATERA",
-      "calado": "7,60",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-10-31T01:00:00"
-    },
-    {
-      "data": "31/10",
-      "dia_semana": "sábado",
-      "hora": "02:00",
-      "navio": "KOTA SINGA",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9681314",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-31T02:00:00"
-    },
     {
       "data": "31/10",
       "dia_semana": "sábado",
@@ -65,7 +17,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-31T04:00:00"
     },
@@ -81,7 +33,7 @@
       "imo": "9701140",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-10-31T06:00:00"
     },
@@ -90,14 +42,14 @@
       "dia_semana": "sábado",
       "hora": "07:30",
       "navio": "LORI",
-      "calado": "11,50",
+      "calado": "10,00",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9631125",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-10-31T07:30:00"
     },
@@ -615,33 +567,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "30/10 23:00",
-      "manobra_rio_fim": "31/10 09:30",
-      "navio_multi": "SINAR SUMATERA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/10 01:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "30/10 23:00",
-      "manobra_rio_fim": "31/10 09:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/10 04:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "30/10 23:00",
-      "manobra_rio_fim": "31/10 09:30",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "31/10 06:00"
-    },
     {
       "navio_rio": "LORI",
       "manobra_rio_afetada": "E",
