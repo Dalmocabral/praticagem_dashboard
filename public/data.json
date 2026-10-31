@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "31/10/2026 11:34",
+  "ultima_atualizacao": "31/10/2026 15:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
@@ -24,22 +24,6 @@
     {
       "data": "31/10",
       "dia_semana": "sábado",
-      "hora": "20:30",
-      "navio": "GOODWOOD",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9701140",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-10-31T20:30:00"
-    },
-    {
-      "data": "31/10",
-      "dia_semana": "sábado",
       "hora": "22:30",
       "navio": "LORI",
       "calado": "11,50",
@@ -52,22 +36,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-10-31T22:30:00"
-    },
-    {
-      "data": "01/11",
-      "dia_semana": "domingo",
-      "hora": "00:30",
-      "navio": "GRANDE FRANCIA",
-      "calado": "9,20",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9246592",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-01T00:30:00"
     },
     {
       "data": "01/11",
@@ -182,6 +150,38 @@
       "timestamp": "2026-11-01T16:00:00"
     },
     {
+      "data": "01/11",
+      "dia_semana": "domingo",
+      "hora": "18:00",
+      "navio": "GOODWOOD",
+      "calado": "10,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9701140",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-01T18:00:00"
+    },
+    {
+      "data": "01/11",
+      "dia_semana": "domingo",
+      "hora": "20:00",
+      "navio": "GRANDE FRANCIA",
+      "calado": "9,20",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9246592",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-01T20:00:00"
+    },
+    {
       "data": "02/11",
       "dia_semana": "segunda",
       "hora": "04:30",
@@ -266,7 +266,7 @@
       "dia_semana": "segunda",
       "hora": "14:00",
       "navio": "MSC ADELE",
-      "calado": "10,50",
+      "calado": "10,30",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -276,6 +276,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-11-02T14:00:00"
+    },
+    {
+      "data": "02/11",
+      "dia_semana": "segunda",
+      "hora": "16:00",
+      "navio": "EVER FAME",
+      "calado": "12,30",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850800",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-02T16:00:00"
     },
     {
       "data": "02/11",
@@ -297,12 +313,12 @@
       "data": "03/11",
       "dia_semana": "terça",
       "hora": "05:30",
-      "navio": "CMA CGM COBALT",
-      "calado": "14,40",
-      "manobra": "E",
+      "navio": "EVER FAME",
+      "calado": "12,30",
+      "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "9996680",
+      "imo": "9850800",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -312,7 +328,7 @@
     {
       "data": "03/11",
       "dia_semana": "terça",
-      "hora": "07:30",
+      "hora": "06:30",
       "navio": "NC BRUMA",
       "calado": "10,00",
       "manobra": "S",
@@ -323,7 +339,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-03T07:30:00"
+      "timestamp": "2026-11-03T06:30:00"
+    },
+    {
+      "data": "03/11",
+      "dia_semana": "terça",
+      "hora": "08:30",
+      "navio": "CMA CGM COBALT",
+      "calado": "14,40",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996680",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-03T08:30:00"
     },
     {
       "data": "04/11",
@@ -536,24 +568,6 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "CARDIFF",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "31/10 14:30",
-      "manobra_rio_fim": "01/11 07:00",
-      "navio_multi": "GOODWOOD",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "31/10 20:30"
-    },
-    {
-      "navio_rio": "CARDIFF",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "31/10 14:30",
-      "manobra_rio_fim": "01/11 07:00",
-      "navio_multi": "GRANDE FRANCIA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "01/11 00:30"
-    },
-    {
       "navio_rio": "CMA CGM SANTOS",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "01/11 05:00",
@@ -588,6 +602,24 @@
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/11 16:00"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/11 05:00",
+      "manobra_rio_fim": "02/11 12:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/11 18:00"
+    },
+    {
+      "navio_rio": "CMA CGM SANTOS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/11 05:00",
+      "manobra_rio_fim": "02/11 12:00",
+      "navio_multi": "GRANDE FRANCIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "01/11 20:00"
     },
     {
       "navio_rio": "CMA CGM SANTOS",
@@ -642,6 +674,24 @@
       "navio_multi": "MSC ADELE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "01/11 16:00"
+    },
+    {
+      "navio_rio": "ZIM WILMINGTON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/11 09:00",
+      "manobra_rio_fim": "02/11 10:00",
+      "navio_multi": "GOODWOOD",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "01/11 18:00"
+    },
+    {
+      "navio_rio": "ZIM WILMINGTON",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "01/11 09:00",
+      "manobra_rio_fim": "02/11 10:00",
+      "navio_multi": "GRANDE FRANCIA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "01/11 20:00"
     },
     {
       "navio_rio": "ZIM WILMINGTON",
