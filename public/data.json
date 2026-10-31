@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "31/10/2026 15:44",
+  "ultima_atualizacao": "31/10/2026 18:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
   },
   "navios": [
-    {
-      "data": "31/10",
-      "dia_semana": "sábado",
-      "hora": "14:30",
-      "navio": "CARDIFF",
-      "calado": "14,10",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9629457",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-10-31T14:30:00"
-    },
     {
       "data": "31/10",
       "dia_semana": "sábado",
@@ -33,7 +17,7 @@
       "imo": "9631125",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-10-31T22:30:00"
     },
@@ -58,7 +42,7 @@
       "dia_semana": "domingo",
       "hora": "07:00",
       "navio": "CARDIFF",
-      "calado": "14,10",
+      "calado": "14,20",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
