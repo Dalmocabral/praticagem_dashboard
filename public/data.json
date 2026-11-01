@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "01/11/2026 16:03",
+  "ultima_atualizacao": "01/11/2026 19:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
@@ -8,48 +8,16 @@
     {
       "data": "01/11",
       "dia_semana": "domingo",
-      "hora": "16:00",
-      "navio": "MSC ADELE",
-      "calado": "10,50",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-11-01T16:00:00"
-    },
-    {
-      "data": "01/11",
-      "dia_semana": "domingo",
-      "hora": "18:00",
-      "navio": "GOODWOOD",
-      "calado": "10,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9701140",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-01T18:00:00"
-    },
-    {
-      "data": "01/11",
-      "dia_semana": "domingo",
       "hora": "20:00",
       "navio": "GRANDE FRANCIA",
-      "calado": "9,20",
+      "calado": "9,90",
       "manobra": "E",
       "beco": "TECONT5",
       "status": "hoje",
       "imo": "9246592",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-11-01T20:00:00"
     },
@@ -65,7 +33,7 @@
       "imo": "9506394",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-11-01T22:00:00"
     },
@@ -120,7 +88,7 @@
     {
       "data": "02/11",
       "dia_semana": "segunda",
-      "hora": "15:00",
+      "hora": "15:30",
       "navio": "ZIM WILMINGTON",
       "calado": "10,60",
       "manobra": "S",
@@ -131,7 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-02T15:00:00"
+      "timestamp": "2026-11-02T15:30:00"
     },
     {
       "data": "02/11",
@@ -168,7 +136,7 @@
     {
       "data": "02/11",
       "dia_semana": "segunda",
-      "hora": "21:00",
+      "hora": "20:30",
       "navio": "ITHACA",
       "calado": "7,80",
       "manobra": "E",
@@ -179,12 +147,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-02T21:00:00"
+      "timestamp": "2026-11-02T20:30:00"
     },
     {
       "data": "02/11",
       "dia_semana": "segunda",
-      "hora": "23:00",
+      "hora": "22:00",
       "navio": "MSC MICHELA",
       "calado": "12,60",
       "manobra": "E",
@@ -195,7 +163,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-02T23:00:00"
+      "timestamp": "2026-11-02T22:00:00"
     },
     {
       "data": "03/11",
@@ -542,7 +510,7 @@
       "manobra_rio_fim": "03/11 15:00",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/11 21:00"
+      "manobra_multi_data_hora": "02/11 20:30"
     },
     {
       "navio_rio": "EVER FAME",
@@ -551,7 +519,7 @@
       "manobra_rio_fim": "03/11 15:00",
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/11 23:00"
+      "manobra_multi_data_hora": "02/11 22:00"
     },
     {
       "navio_rio": "EVER FAME",
@@ -587,7 +555,7 @@
       "manobra_rio_fim": "03/11 06:30",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/11 21:00"
+      "manobra_multi_data_hora": "02/11 20:30"
     },
     {
       "navio_rio": "NC BRUMA",
@@ -596,7 +564,7 @@
       "manobra_rio_fim": "03/11 06:30",
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/11 23:00"
+      "manobra_multi_data_hora": "02/11 22:00"
     },
     {
       "navio_rio": "NC BRUMA",
