@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "01/11/2026 22:54",
+  "ultima_atualizacao": "02/11/2026 06:05",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
   },
   "navios": [
-    {
-      "data": "01/11",
-      "dia_semana": "domingo",
-      "hora": "22:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,30",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "passado",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-01T22:00:00"
-    },
     {
       "data": "02/11",
       "dia_semana": "segunda",
@@ -36,22 +20,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-11-02T11:30:00"
-    },
-    {
-      "data": "02/11",
-      "dia_semana": "segunda",
-      "hora": "12:30",
-      "navio": "CMA CGM SANTOS",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9649835",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-11-02T12:30:00"
     },
     {
       "data": "02/11",
