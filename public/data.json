@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/11/2026 06:05",
+  "ultima_atualizacao": "02/11/2026 10:28",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
@@ -9,22 +9,6 @@
       "data": "02/11",
       "dia_semana": "segunda",
       "hora": "11:30",
-      "navio": "ONE GEORGE WASHINGTON",
-      "calado": "11,10",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9302073",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-02T11:30:00"
-    },
-    {
-      "data": "02/11",
-      "dia_semana": "segunda",
-      "hora": "14:00",
       "navio": "MSC ADELE",
       "calado": "10,40",
       "manobra": "S",
@@ -33,14 +17,14 @@
       "imo": "1016692",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-11-02T14:00:00"
+      "timestamp": "2026-11-02T11:30:00"
     },
     {
       "data": "02/11",
       "dia_semana": "segunda",
-      "hora": "15:30",
+      "hora": "13:00",
       "navio": "ZIM WILMINGTON",
       "calado": "10,60",
       "manobra": "S",
@@ -49,14 +33,30 @@
       "imo": "9699115",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-11-02T15:30:00"
+      "timestamp": "2026-11-02T13:00:00"
     },
     {
       "data": "02/11",
       "dia_semana": "segunda",
-      "hora": "17:30",
+      "hora": "14:00",
+      "navio": "ONE GEORGE WASHINGTON",
+      "calado": "11,10",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9302073",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
+      "terminal": "multi",
+      "timestamp": "2026-11-02T14:00:00"
+    },
+    {
+      "data": "02/11",
+      "dia_semana": "segunda",
+      "hora": "16:00",
       "navio": "EVER FAME",
       "calado": "12,30",
       "manobra": "E",
@@ -67,6 +67,22 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
+      "timestamp": "2026-11-02T16:00:00"
+    },
+    {
+      "data": "02/11",
+      "dia_semana": "segunda",
+      "hora": "17:30",
+      "navio": "MSC MICHELA",
+      "calado": "12,60",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "9720512",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
       "timestamp": "2026-11-02T17:30:00"
     },
     {
@@ -100,22 +116,6 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-11-02T20:30:00"
-    },
-    {
-      "data": "02/11",
-      "dia_semana": "segunda",
-      "hora": "22:00",
-      "navio": "MSC MICHELA",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9720512",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-02T22:00:00"
     },
     {
       "data": "03/11",
@@ -248,6 +248,22 @@
     {
       "data": "04/11",
       "dia_semana": "quarta",
+      "hora": "06:00",
+      "navio": "MSC SHANELLE V",
+      "calado": "9,30",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9292175",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-04T06:00:00"
+    },
+    {
+      "data": "04/11",
+      "dia_semana": "quarta",
       "hora": "12:00",
       "navio": "YM MOBILITY",
       "calado": "13,10",
@@ -324,6 +340,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-05T15:00:00"
+    },
+    {
+      "data": "05/11",
+      "dia_semana": "quinta",
+      "hora": "16:00",
+      "navio": "MSC SHANELLE V",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9292175",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-05T16:00:00"
     },
     {
       "data": "08/11",
@@ -458,7 +490,16 @@
     {
       "navio_rio": "EVER FAME",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/11 17:30",
+      "manobra_rio_inicio": "02/11 16:00",
+      "manobra_rio_fim": "03/11 15:00",
+      "navio_multi": "MSC MICHELA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "02/11 17:30"
+    },
+    {
+      "navio_rio": "EVER FAME",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "02/11 16:00",
       "manobra_rio_fim": "03/11 15:00",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "E",
@@ -467,16 +508,7 @@
     {
       "navio_rio": "EVER FAME",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/11 17:30",
-      "manobra_rio_fim": "03/11 15:00",
-      "navio_multi": "MSC MICHELA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/11 22:00"
-    },
-    {
-      "navio_rio": "EVER FAME",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/11 17:30",
+      "manobra_rio_inicio": "02/11 16:00",
       "manobra_rio_fim": "03/11 15:00",
       "navio_multi": "GRANDE FRANCIA",
       "manobra_multi_tipo": "S",
@@ -485,7 +517,7 @@
     {
       "navio_rio": "EVER FAME",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/11 17:30",
+      "manobra_rio_inicio": "02/11 16:00",
       "manobra_rio_fim": "03/11 15:00",
       "navio_multi": "BOSPORUS HIGHWAY",
       "manobra_multi_tipo": "E",
@@ -494,7 +526,7 @@
     {
       "navio_rio": "EVER FAME",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "02/11 17:30",
+      "manobra_rio_inicio": "02/11 16:00",
       "manobra_rio_fim": "03/11 15:00",
       "navio_multi": "MSC MICHELA",
       "manobra_multi_tipo": "S",
@@ -508,15 +540,6 @@
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "02/11 20:30"
-    },
-    {
-      "navio_rio": "NC BRUMA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "02/11 19:00",
-      "manobra_rio_fim": "03/11 06:30",
-      "navio_multi": "MSC MICHELA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "02/11 22:00"
     },
     {
       "navio_rio": "NC BRUMA",
@@ -553,6 +576,15 @@
       "navio_multi": "BOSPORUS HIGHWAY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "03/11 20:00"
+    },
+    {
+      "navio_rio": "CMA CGM COBALT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "03/11 17:00",
+      "manobra_rio_fim": "04/11 14:30",
+      "navio_multi": "MSC SHANELLE V",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "04/11 06:00"
     },
     {
       "navio_rio": "CMA CGM COBALT",
