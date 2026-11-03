@@ -1,55 +1,23 @@
 {
-  "ultima_atualizacao": "02/11/2026 22:45",
+  "ultima_atualizacao": "03/11/2026 05:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
   },
   "navios": [
     {
-      "data": "02/11",
-      "dia_semana": "segunda",
-      "hora": "22:30",
-      "navio": "GRANDE FRANCIA",
-      "calado": "9,75",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "passado",
-      "imo": "9246592",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-02T22:30:00"
-    },
-    {
-      "data": "03/11",
-      "dia_semana": "terça",
-      "hora": "03:30",
-      "navio": "BOSPORUS HIGHWAY",
-      "calado": "9,00",
-      "manobra": "E",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9519107",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-03T03:30:00"
-    },
-    {
       "data": "03/11",
       "dia_semana": "terça",
       "hora": "06:30",
       "navio": "NC BRUMA",
-      "calado": "10,00",
+      "calado": "8,20",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9612777",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-11-03T06:30:00"
     },
