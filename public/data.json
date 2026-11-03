@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "03/11/2026 11:16",
+  "ultima_atualizacao": "03/11/2026 11:18",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
@@ -230,9 +230,9 @@
       "timestamp": "2026-11-05T18:00:00"
     },
     {
-      "data": "07/11",
-      "dia_semana": "sábado",
-      "hora": "06:00",
+      "data": "06/11",
+      "dia_semana": "sexta",
+      "hora": "19:00",
       "navio": "FINCH ARROW",
       "calado": "11,00",
       "manobra": "S",
@@ -243,7 +243,7 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-07T06:00:00"
+      "timestamp": "2026-11-06T19:00:00"
     },
     {
       "data": "07/11",
@@ -449,7 +449,7 @@
       "navio_rio": "FINCH ARROW",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/11 05:30",
-      "manobra_rio_fim": "07/11 06:00",
+      "manobra_rio_fim": "06/11 19:00",
       "navio_multi": "YM MOBILITY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "05/11 13:00"
@@ -458,7 +458,7 @@
       "navio_rio": "FINCH ARROW",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/11 05:30",
-      "manobra_rio_fim": "07/11 06:00",
+      "manobra_rio_fim": "06/11 19:00",
       "navio_multi": "MSC SHANELLE V",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "05/11 16:00"
