@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "04/11/2026 13:01",
+  "ultima_atualizacao": "04/11/2026 14:26",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
   },
   "navios": [
-    {
-      "data": "04/11",
-      "dia_semana": "quarta",
-      "hora": "12:00",
-      "navio": "ITHACA",
-      "calado": "9,20",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9968449",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-04T12:00:00"
-    },
     {
       "data": "04/11",
       "dia_semana": "quarta",
@@ -65,7 +49,7 @@
       "imo": "9457737",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-11-04T17:30:00"
     },
