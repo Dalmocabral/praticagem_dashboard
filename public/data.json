@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "05/11/2026 03:51",
+  "ultima_atualizacao": "05/11/2026 06:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
   },
   "navios": [
-    {
-      "data": "05/11",
-      "dia_semana": "quinta",
-      "hora": "04:00",
-      "navio": "MSC SHANELLE V",
-      "calado": "11,50",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9292175",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-05T04:00:00"
-    },
     {
       "data": "05/11",
       "dia_semana": "quinta",
