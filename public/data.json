@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/11/2026 06:56",
+  "ultima_atualizacao": "05/11/2026 07:40",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
@@ -8,7 +8,7 @@
     {
       "data": "05/11",
       "dia_semana": "quinta",
-      "hora": "13:00",
+      "hora": "14:00",
       "navio": "YM MOBILITY",
       "calado": "12,00",
       "manobra": "S",
@@ -19,7 +19,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-05T13:00:00"
+      "timestamp": "2026-11-05T14:00:00"
     },
     {
       "data": "05/11",
