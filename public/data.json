@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "05/11/2026 17:27",
+  "ultima_atualizacao": "05/11/2026 20:43",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
   },
   "navios": [
-    {
-      "data": "05/11",
-      "dia_semana": "quinta",
-      "hora": "16:00",
-      "navio": "HYUNDAI TOKYO",
-      "calado": "11,30",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9305673",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-11-05T16:00:00"
-    },
-    {
-      "data": "05/11",
-      "dia_semana": "quinta",
-      "hora": "17:30",
-      "navio": "DALIAN EXPRESS",
-      "calado": "10,60",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9229829",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-11-05T17:30:00"
-    },
     {
       "data": "06/11",
       "dia_semana": "sexta",
@@ -123,8 +91,8 @@
       "hora": "02:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT1",
+      "manobra": "M",
+      "beco": "TECONT1 -> TECONT2",
       "status": "futuro",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
@@ -471,51 +439,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "DALIAN EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/11 17:30",
-      "manobra_rio_fim": "07/11 11:00",
-      "navio_multi": "HYUNDAI TOKYO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/11 14:00"
-    },
-    {
-      "navio_rio": "DALIAN EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/11 17:30",
-      "manobra_rio_fim": "07/11 11:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/11 16:00"
-    },
-    {
-      "navio_rio": "DALIAN EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/11 17:30",
-      "manobra_rio_fim": "07/11 11:00",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/11 21:00"
-    },
-    {
-      "navio_rio": "DALIAN EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/11 17:30",
-      "manobra_rio_fim": "07/11 11:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/11 04:00"
-    },
-    {
-      "navio_rio": "DALIAN EXPRESS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/11 17:30",
-      "manobra_rio_fim": "07/11 11:00",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/11 10:00"
-    },
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "E",
