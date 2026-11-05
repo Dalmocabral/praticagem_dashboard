@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/11/2026 13:24",
+  "ultima_atualizacao": "05/11/2026 15:17",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
@@ -42,9 +42,9 @@
       "dia_semana": "quinta",
       "hora": "16:00",
       "navio": "HYUNDAI TOKYO",
-      "calado": "11,45",
+      "calado": "11,30",
       "manobra": "E",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "hoje",
       "imo": "9305673",
       "tipo_navio": "CONTAINER SHIP",
@@ -65,41 +65,9 @@
       "imo": "9229829",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-11-05T17:30:00"
-    },
-    {
-      "data": "06/11",
-      "dia_semana": "sexta",
-      "hora": "10:00",
-      "navio": "MSC CATERINA",
-      "calado": "11,70",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-06T10:00:00"
-    },
-    {
-      "data": "06/11",
-      "dia_semana": "sexta",
-      "hora": "12:00",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,70",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-11-06T12:00:00"
     },
     {
       "data": "06/11",
@@ -108,7 +76,7 @@
       "navio": "HYUNDAI TOKYO",
       "calado": "13,45",
       "manobra": "S",
-      "beco": "TECONT2",
+      "beco": "TECONT3",
       "status": "futuro",
       "imo": "9305673",
       "tipo_navio": "CONTAINER SHIP",
@@ -136,7 +104,39 @@
     {
       "data": "06/11",
       "dia_semana": "sexta",
-      "hora": "19:00",
+      "hora": "18:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,70",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-06T18:00:00"
+    },
+    {
+      "data": "06/11",
+      "dia_semana": "sexta",
+      "hora": "21:00",
+      "navio": "MSC CATERINA",
+      "calado": "11,70",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-06T21:00:00"
+    },
+    {
+      "data": "06/11",
+      "dia_semana": "sexta",
+      "hora": "23:00",
       "navio": "FINCH ARROW",
       "calado": "11,00",
       "manobra": "S",
@@ -147,22 +147,6 @@
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-06T19:00:00"
-    },
-    {
-      "data": "06/11",
-      "dia_semana": "sexta",
-      "hora": "23:00",
-      "navio": "MSC CATERINA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
       "timestamp": "2026-11-06T23:00:00"
     },
     {
@@ -212,6 +196,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-07T06:00:00"
+    },
+    {
+      "data": "07/11",
+      "dia_semana": "sábado",
+      "hora": "10:00",
+      "navio": "MSC CATERINA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9705005",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-07T10:00:00"
     },
     {
       "data": "07/11",
@@ -476,15 +476,6 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "05/11 17:30",
       "manobra_rio_fim": "07/11 11:00",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/11 10:00"
-    },
-    {
-      "navio_rio": "DALIAN EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/11 17:30",
-      "manobra_rio_fim": "07/11 11:00",
       "navio_multi": "HYUNDAI TOKYO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "06/11 14:00"
@@ -504,8 +495,8 @@
       "manobra_rio_inicio": "05/11 17:30",
       "manobra_rio_fim": "07/11 11:00",
       "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/11 23:00"
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "06/11 21:00"
     },
     {
       "navio_rio": "DALIAN EXPRESS",
@@ -517,31 +508,31 @@
       "manobra_multi_data_hora": "07/11 04:00"
     },
     {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/11 12:00",
-      "manobra_rio_fim": "07/11 02:00",
-      "navio_multi": "HYUNDAI TOKYO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/11 14:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "06/11 12:00",
-      "manobra_rio_fim": "07/11 02:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/11 16:00"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
+      "navio_rio": "DALIAN EXPRESS",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "06/11 12:00",
-      "manobra_rio_fim": "07/11 02:00",
+      "manobra_rio_inicio": "05/11 17:30",
+      "manobra_rio_fim": "07/11 11:00",
       "navio_multi": "MSC CATERINA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/11 23:00"
+      "manobra_multi_data_hora": "07/11 10:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "06/11 18:00",
+      "manobra_rio_fim": "07/11 02:00",
+      "navio_multi": "MSC CATERINA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "06/11 21:00"
+    },
+    {
+      "navio_rio": "MAERSK REDWOOD",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "07/11 06:00",
+      "manobra_rio_fim": "07/11 16:30",
+      "navio_multi": "MSC CATERINA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "07/11 10:00"
     },
     {
       "navio_rio": "MAERSK REDWOOD",
