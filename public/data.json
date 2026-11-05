@@ -1,55 +1,23 @@
 {
-  "ultima_atualizacao": "04/11/2026 23:56",
+  "ultima_atualizacao": "05/11/2026 03:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
   },
   "navios": [
     {
-      "data": "04/11",
-      "dia_semana": "quarta",
-      "hora": "23:30",
-      "navio": "SEVEN SUN",
-      "calado": "6,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9710969",
-      "tipo_navio": "PIPE LAYER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-11-04T23:30:00"
-    },
-    {
-      "data": "05/11",
-      "dia_semana": "quinta",
-      "hora": "01:30",
-      "navio": "FINCH ARROW",
-      "calado": "11,50",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9574860",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-11-05T01:30:00"
-    },
-    {
       "data": "05/11",
       "dia_semana": "quinta",
       "hora": "04:00",
       "navio": "MSC SHANELLE V",
-      "calado": "9,50",
+      "calado": "11,50",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9292175",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-11-05T04:00:00"
     },
@@ -391,51 +359,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "FINCH ARROW",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/11 01:30",
-      "manobra_rio_fim": "06/11 19:00",
-      "navio_multi": "MSC SHANELLE V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/11 04:00"
-    },
-    {
-      "navio_rio": "FINCH ARROW",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/11 01:30",
-      "manobra_rio_fim": "06/11 19:00",
-      "navio_multi": "YM MOBILITY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "05/11 13:00"
-    },
-    {
-      "navio_rio": "FINCH ARROW",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "05/11 01:30",
-      "manobra_rio_fim": "06/11 19:00",
-      "navio_multi": "HYUNDAI TOKYO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "05/11 17:00"
-    },
-    {
-      "navio_rio": "FINCH ARROW",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/11 01:30",
-      "manobra_rio_fim": "06/11 19:00",
-      "navio_multi": "HYUNDAI TOKYO",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "06/11 14:00"
-    },
-    {
-      "navio_rio": "FINCH ARROW",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "05/11 01:30",
-      "manobra_rio_fim": "06/11 19:00",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "06/11 16:00"
-    },
     {
       "navio_rio": "DALIAN EXPRESS",
       "manobra_rio_afetada": "E",
