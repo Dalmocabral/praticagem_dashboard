@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "06/11/2026 08:36",
+  "ultima_atualizacao": "06/11/2026 11:58",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
@@ -8,25 +8,25 @@
     {
       "data": "06/11",
       "dia_semana": "sexta",
-      "hora": "14:00",
+      "hora": "12:00",
       "navio": "HYUNDAI TOKYO",
-      "calado": "13,55",
+      "calado": "13,45",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9305673",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-11-06T14:00:00"
+      "timestamp": "2026-11-06T12:00:00"
     },
     {
       "data": "06/11",
       "dia_semana": "sexta",
       "hora": "16:00",
       "navio": "BREMERHAVEN EXPRESS",
-      "calado": "13,70",
+      "calado": "13,80",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
@@ -104,18 +104,18 @@
     {
       "data": "07/11",
       "dia_semana": "sábado",
-      "hora": "08:00",
-      "navio": "MSC CATERINA",
-      "calado": "11,70",
+      "hora": "07:30",
+      "navio": "MSC JEONGMIN",
+      "calado": "14,20",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
-      "imo": "9705005",
+      "imo": "9720471",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-07T08:00:00"
+      "timestamp": "2026-11-07T07:30:00"
     },
     {
       "data": "07/11",
@@ -201,22 +201,6 @@
       "data": "07/11",
       "dia_semana": "sábado",
       "hora": "18:30",
-      "navio": "MSC JEONGMIN",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "9720471",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-07T18:30:00"
-    },
-    {
-      "data": "07/11",
-      "dia_semana": "sábado",
-      "hora": "20:30",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,00",
       "manobra": "E",
@@ -227,7 +211,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-07T20:30:00"
+      "timestamp": "2026-11-07T18:30:00"
     },
     {
       "data": "07/11",
@@ -265,33 +249,17 @@
       "data": "08/11",
       "dia_semana": "domingo",
       "hora": "07:00",
-      "navio": "MSC CATERINA",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-08T07:00:00"
-    },
-    {
-      "data": "08/11",
-      "dia_semana": "domingo",
-      "hora": "10:00",
       "navio": "MSC JEONGMIN",
       "calado": "14,00",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONT2",
       "status": "futuro",
       "imo": "9720471",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-08T10:00:00"
+      "timestamp": "2026-11-08T07:00:00"
     },
     {
       "data": "09/11",
@@ -460,9 +428,9 @@
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "07/11 06:00",
       "manobra_rio_fim": "07/11 16:30",
-      "navio_multi": "MSC CATERINA",
+      "navio_multi": "MSC JEONGMIN",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/11 08:00"
+      "manobra_multi_data_hora": "07/11 07:30"
     },
     {
       "navio_rio": "MAERSK REDWOOD",
@@ -496,36 +464,18 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "07/11 13:30",
       "manobra_rio_fim": "07/11 23:00",
-      "navio_multi": "MSC JEONGMIN",
+      "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "07/11 18:30"
     },
     {
-      "navio_rio": "SWANSEA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/11 13:30",
-      "manobra_rio_fim": "07/11 23:00",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/11 20:30"
-    },
-    {
-      "navio_rio": "CMA CGM VERACRUZ",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "08/11 05:00",
-      "manobra_rio_fim": "09/11 14:00",
-      "navio_multi": "MSC CATERINA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/11 07:00"
-    },
-    {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "08/11 05:00",
       "manobra_rio_fim": "09/11 14:00",
       "navio_multi": "MSC JEONGMIN",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/11 10:00"
+      "manobra_multi_data_hora": "08/11 07:00"
     },
     {
       "navio_rio": "CMA CGM VERACRUZ",
