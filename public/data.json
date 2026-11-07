@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "07/11/2026 17:24",
+  "ultima_atualizacao": "07/11/2026 20:49",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
   },
   "navios": [
-    {
-      "data": "07/11",
-      "dia_semana": "sábado",
-      "hora": "17:30",
-      "navio": "SWANSEA",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9629469",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-11-07T17:30:00"
-    },
     {
       "data": "07/11",
       "dia_semana": "sábado",
@@ -36,22 +20,6 @@
       "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-11-07T19:30:00"
-    },
-    {
-      "data": "07/11",
-      "dia_semana": "sábado",
-      "hora": "23:30",
-      "navio": "MAERSK RUBICON",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9632480",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-07T23:30:00"
     },
     {
       "data": "08/11",
@@ -90,7 +58,7 @@
       "dia_semana": "domingo",
       "hora": "07:00",
       "navio": "MSC JEONGMIN",
-      "calado": "13,20",
+      "calado": "13,40",
       "manobra": "S",
       "beco": "TECONT2",
       "status": "futuro",
@@ -154,7 +122,7 @@
       "dia_semana": "domingo",
       "hora": "14:00",
       "navio": "MAERSK RUBICON",
-      "calado": "14,00",
+      "calado": "14,10",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "futuro",
@@ -487,33 +455,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "SWANSEA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/11 17:30",
-      "manobra_rio_fim": "08/11 08:00",
-      "navio_multi": "MAERSK RUBICON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/11 23:30"
-    },
-    {
-      "navio_rio": "SWANSEA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/11 17:30",
-      "manobra_rio_fim": "08/11 08:00",
-      "navio_multi": "MSC JEONGMIN",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "08/11 07:00"
-    },
-    {
-      "navio_rio": "MAERSK REDWOOD",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/11 19:30",
-      "manobra_rio_fim": "08/11 06:00",
-      "navio_multi": "MAERSK RUBICON",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/11 23:30"
-    },
     {
       "navio_rio": "CMA CGM VERACRUZ",
       "manobra_rio_afetada": "E",
