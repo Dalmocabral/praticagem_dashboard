@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "07/11/2026 00:06",
+  "ultima_atualizacao": "07/11/2026 06:48",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
@@ -8,50 +8,18 @@
     {
       "data": "07/11",
       "dia_semana": "sábado",
-      "hora": "03:00",
-      "navio": "FINCH ARROW",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9574860",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-11-07T03:00:00"
-    },
-    {
-      "data": "07/11",
-      "dia_semana": "sábado",
       "hora": "04:00",
       "navio": "LOG-IN PANTANAL",
-      "calado": "9,00",
+      "calado": "8,90",
       "manobra": "M",
-      "beco": "TECONT2 -> TECONT1",
+      "beco": "TECONT2 -> TECONT5",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
-      "terminal": "rio",
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
       "timestamp": "2026-11-07T04:00:00"
-    },
-    {
-      "data": "07/11",
-      "dia_semana": "sábado",
-      "hora": "06:00",
-      "navio": "MAERSK REDWOOD",
-      "calado": "9,40",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9943085",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-11-07T06:00:00"
     },
     {
       "data": "07/11",
@@ -65,7 +33,7 @@
       "imo": "9720471",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-11-07T07:30:00"
     },
@@ -74,14 +42,14 @@
       "dia_semana": "sábado",
       "hora": "09:30",
       "navio": "BREMERHAVEN EXPRESS",
-      "calado": "13,00",
+      "calado": "13,90",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9723253",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-11-07T09:30:00"
     },
@@ -97,7 +65,7 @@
       "imo": "9229829",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-11-07T10:30:00"
     },
@@ -108,13 +76,13 @@
       "navio": "LOG-IN PANTANAL",
       "calado": "9,20",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONT5",
       "status": "hoje",
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "rio",
+      "terminal": "multi",
       "timestamp": "2026-11-07T11:30:00"
     },
     {
@@ -154,8 +122,8 @@
       "dia_semana": "sábado",
       "hora": "17:30",
       "navio": "MAERSK REDWOOD",
-      "calado": "9,60",
-      "manobra": "S",
+      "calado": "9,40",
+      "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9943085",
@@ -196,6 +164,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-07T23:00:00"
+    },
+    {
+      "data": "08/11",
+      "dia_semana": "domingo",
+      "hora": "00:00",
+      "navio": "MAERSK REDWOOD",
+      "calado": "9,60",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9943085",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-08T00:00:00"
     },
     {
       "data": "08/11",
@@ -439,51 +423,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/11 04:00",
-      "manobra_rio_fim": "07/11 11:30",
-      "navio_multi": "MSC JEONGMIN",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/11 07:30"
-    },
-    {
-      "navio_rio": "LOG-IN PANTANAL",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/11 04:00",
-      "manobra_rio_fim": "07/11 11:30",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/11 09:30"
-    },
-    {
-      "navio_rio": "MAERSK REDWOOD",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/11 06:00",
-      "manobra_rio_fim": "07/11 17:30",
-      "navio_multi": "MSC JEONGMIN",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/11 07:30"
-    },
-    {
-      "navio_rio": "MAERSK REDWOOD",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "07/11 06:00",
-      "manobra_rio_fim": "07/11 17:30",
-      "navio_multi": "BREMERHAVEN EXPRESS",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "07/11 09:30"
-    },
-    {
-      "navio_rio": "MAERSK REDWOOD",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "07/11 06:00",
-      "manobra_rio_fim": "07/11 17:30",
-      "navio_multi": "LOG-IN DISCOVERY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "07/11 15:30"
-    },
     {
       "navio_rio": "SWANSEA",
       "manobra_rio_afetada": "E",
