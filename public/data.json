@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "08/11/2026 13:47",
+  "ultima_atualizacao": "08/11/2026 17:36",
   "barra_info": {
-    "restrita": false,
-    "mensagem": "BARRA ABERTA DESDE 29/10/2026 07:39"
+    "restrita": true,
+    "mensagem": "BARRA RESTRITA DESDE 08/11/2026 16:17 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande limitada a 11,50m."
   },
   "navios": [
-    {
-      "data": "08/11",
-      "dia_semana": "domingo",
-      "hora": "13:00",
-      "navio": "MAERSK RUBICON",
-      "calado": "13,70",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9632480",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-11-08T13:00:00"
-    },
     {
       "data": "08/11",
       "dia_semana": "domingo",
@@ -166,6 +150,22 @@
       "timestamp": "2026-11-09T16:00:00"
     },
     {
+      "data": "09/11",
+      "dia_semana": "segunda",
+      "hora": "20:00",
+      "navio": "MAERSK MONTE ALEGRE",
+      "calado": "12,40",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9348065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-09T20:00:00"
+    },
+    {
       "data": "10/11",
       "dia_semana": "terça",
       "hora": "08:30",
@@ -180,6 +180,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-11-10T08:30:00"
+    },
+    {
+      "data": "10/11",
+      "dia_semana": "terça",
+      "hora": "09:30",
+      "navio": "MAERSK MONTE ALEGRE",
+      "calado": "12,40",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9348065",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-10T09:30:00"
     },
     {
       "data": "10/11",
@@ -382,6 +398,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "09/11 10:00",
       "manobra_rio_fim": "10/11 11:00",
+      "navio_multi": "MSC AJACCIO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "10/11 08:30"
+    },
+    {
+      "navio_rio": "MAERSK MONTE ALEGRE",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "09/11 20:00",
+      "manobra_rio_fim": "10/11 09:30",
       "navio_multi": "MSC AJACCIO",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/11 08:30"
