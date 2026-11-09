@@ -1,58 +1,10 @@
 {
-  "ultima_atualizacao": "09/11/2026 03:40",
+  "ultima_atualizacao": "09/11/2026 10:21",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 08/11/2026 16:17 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande limitada a 11,50m."
   },
   "navios": [
-    {
-      "data": "09/11",
-      "dia_semana": "segunda",
-      "hora": "03:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,20",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-09T03:00:00"
-    },
-    {
-      "data": "09/11",
-      "dia_semana": "segunda",
-      "hora": "05:00",
-      "navio": "MSC CATERINA",
-      "calado": "11,90",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9705005",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-09T05:00:00"
-    },
-    {
-      "data": "09/11",
-      "dia_semana": "segunda",
-      "hora": "06:00",
-      "navio": "MAERSK RUBICON",
-      "calado": "14,10",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9632480",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-09T06:00:00"
-    },
     {
       "data": "09/11",
       "dia_semana": "segunda",
@@ -65,7 +17,7 @@
       "imo": "9289087",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-11-09T08:00:00"
     },
@@ -73,6 +25,54 @@
       "data": "09/11",
       "dia_semana": "segunda",
       "hora": "10:00",
+      "navio": "XIN CHONG QING",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "hoje",
+      "imo": "9262118",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_atrasada",
+      "terminal": "rio",
+      "timestamp": "2026-11-09T10:00:00"
+    },
+    {
+      "data": "09/11",
+      "dia_semana": "segunda",
+      "hora": "12:00",
+      "navio": "MSC AJACCIO",
+      "calado": "11,00",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9605267",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "entrada_futura",
+      "terminal": "multi",
+      "timestamp": "2026-11-09T12:00:00"
+    },
+    {
+      "data": "09/11",
+      "dia_semana": "segunda",
+      "hora": "14:00",
+      "navio": "CMA CGM VERACRUZ",
+      "calado": "11,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9418377",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": "saida_futura",
+      "terminal": "rio",
+      "timestamp": "2026-11-09T14:00:00"
+    },
+    {
+      "data": "09/11",
+      "dia_semana": "segunda",
+      "hora": "16:00",
       "navio": "PATMOS EXPRESS",
       "calado": "10,00",
       "manobra": "E",
@@ -83,55 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-09T10:00:00"
-    },
-    {
-      "data": "09/11",
-      "dia_semana": "segunda",
-      "hora": "11:30",
-      "navio": "MSC AJACCIO",
-      "calado": "11,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9605267",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-09T11:30:00"
-    },
-    {
-      "data": "09/11",
-      "dia_semana": "segunda",
-      "hora": "13:30",
-      "navio": "CMA CGM VERACRUZ",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9418377",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-11-09T13:30:00"
-    },
-    {
-      "data": "09/11",
-      "dia_semana": "segunda",
-      "hora": "15:00",
-      "navio": "XIN CHONG QING",
-      "calado": "12,00",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9262118",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-11-09T15:00:00"
+      "timestamp": "2026-11-09T16:00:00"
     },
     {
       "data": "09/11",
@@ -326,6 +278,38 @@
       "timestamp": "2026-11-11T16:00:00"
     },
     {
+      "data": "11/11",
+      "dia_semana": "quarta",
+      "hora": "17:30",
+      "navio": "HMM BANGKOK",
+      "calado": "13,80",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9323510",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-11T17:30:00"
+    },
+    {
+      "data": "12/11",
+      "dia_semana": "quinta",
+      "hora": "13:00",
+      "navio": "HMM BANGKOK",
+      "calado": "11,20",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9323510",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-12T13:00:00"
+    },
+    {
       "data": "12/11",
       "dia_semana": "quinta",
       "hora": "14:00",
@@ -425,17 +409,8 @@
   "conflitos": [
     {
       "navio_rio": "PATMOS EXPRESS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "09/11 10:00",
-      "manobra_rio_fim": "10/11 11:00",
-      "navio_multi": "MSC AJACCIO",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "09/11 11:30"
-    },
-    {
-      "navio_rio": "PATMOS EXPRESS",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "09/11 10:00",
+      "manobra_rio_inicio": "09/11 16:00",
       "manobra_rio_fim": "10/11 11:00",
       "navio_multi": "MSC AJACCIO",
       "manobra_multi_tipo": "S",
@@ -458,6 +433,42 @@
       "navio_multi": "MSC BUSAN VIII",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "10/11 15:00"
+    },
+    {
+      "navio_rio": "TINOS EXPRESS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/11 12:00",
+      "manobra_rio_fim": "13/11 16:00",
+      "navio_multi": "HMM BANGKOK",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "11/11 17:30"
+    },
+    {
+      "navio_rio": "TINOS EXPRESS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/11 12:00",
+      "manobra_rio_fim": "13/11 16:00",
+      "navio_multi": "HMM BANGKOK",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "12/11 13:00"
+    },
+    {
+      "navio_rio": "EVER FAITH",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "11/11 16:00",
+      "manobra_rio_fim": "12/11 14:00",
+      "navio_multi": "HMM BANGKOK",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "11/11 17:30"
+    },
+    {
+      "navio_rio": "EVER FAITH",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "11/11 16:00",
+      "manobra_rio_fim": "12/11 14:00",
+      "navio_multi": "HMM BANGKOK",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "12/11 13:00"
     }
   ]
 }
