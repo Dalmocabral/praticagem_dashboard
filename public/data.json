@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "09/11/2026 23:06",
+  "ultima_atualizacao": "10/11/2026 04:43",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 08/11/2026 16:17 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande limitada a 11,50m."
@@ -10,32 +10,16 @@
       "dia_semana": "terça",
       "hora": "06:30",
       "navio": "MAERSK MONTE ALEGRE",
-      "calado": "12,40",
+      "calado": "12,30",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9348065",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
       "timestamp": "2026-11-10T06:30:00"
-    },
-    {
-      "data": "10/11",
-      "dia_semana": "terça",
-      "hora": "08:30",
-      "navio": "MSC AJACCIO",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9605267",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-10T08:30:00"
     },
     {
       "data": "10/11",
@@ -56,22 +40,6 @@
     {
       "data": "10/11",
       "dia_semana": "terça",
-      "hora": "15:00",
-      "navio": "MSC BUSAN VIII",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9289087",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-10T15:00:00"
-    },
-    {
-      "data": "10/11",
-      "dia_semana": "terça",
       "hora": "17:00",
       "navio": "CMA CGM THORIUM",
       "calado": "14,60",
@@ -84,6 +52,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-10T17:00:00"
+    },
+    {
+      "data": "11/11",
+      "dia_semana": "quarta",
+      "hora": "00:00",
+      "navio": "MSC AJACCIO",
+      "calado": "10,30",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9605267",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-11T00:00:00"
     },
     {
       "data": "11/11",
@@ -116,6 +100,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-11T07:00:00"
+    },
+    {
+      "data": "11/11",
+      "dia_semana": "quarta",
+      "hora": "10:00",
+      "navio": "MSC BUSAN VIII",
+      "calado": "14,40",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9289087",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-11T10:00:00"
     },
     {
       "data": "11/11",
@@ -297,21 +297,30 @@
   "conflitos": [
     {
       "navio_rio": "MAERSK MONTE ALEGRE",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "10/11 06:30",
       "manobra_rio_fim": "11/11 05:00",
       "navio_multi": "MSC AJACCIO",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/11 08:30"
+      "manobra_multi_data_hora": "11/11 00:00"
     },
     {
-      "navio_rio": "MAERSK MONTE ALEGRE",
+      "navio_rio": "CMA CGM THORIUM",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "10/11 06:30",
-      "manobra_rio_fim": "11/11 05:00",
+      "manobra_rio_inicio": "10/11 17:00",
+      "manobra_rio_fim": "11/11 14:00",
+      "navio_multi": "MSC AJACCIO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "11/11 00:00"
+    },
+    {
+      "navio_rio": "CMA CGM THORIUM",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "10/11 17:00",
+      "manobra_rio_fim": "11/11 14:00",
       "navio_multi": "MSC BUSAN VIII",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "10/11 15:00"
+      "manobra_multi_data_hora": "11/11 10:00"
     },
     {
       "navio_rio": "TINOS EXPRESS",
