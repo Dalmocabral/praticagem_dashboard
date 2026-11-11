@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "11/11/2026 05:17",
+  "ultima_atualizacao": "11/11/2026 07:15",
   "barra_info": {
     "restrita": true,
     "mensagem": "BARRA RESTRITA DESDE 08/11/2026 16:17 Embarque e desembarque em águas abrigadas para navios e supplies. Barra grande limitada a 11,50m."
@@ -8,23 +8,7 @@
     {
       "data": "11/11",
       "dia_semana": "quarta",
-      "hora": "04:30",
-      "navio": "MSC AJACCIO",
-      "calado": "10,40",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9605267",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-11T04:30:00"
-    },
-    {
-      "data": "11/11",
-      "dia_semana": "quarta",
-      "hora": "09:00",
+      "hora": "10:00",
       "navio": "MAERSK MONTE ALEGRE",
       "calado": "12,94",
       "manobra": "S",
@@ -33,9 +17,9 @@
       "imo": "9348065",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-11-11T09:00:00"
+      "timestamp": "2026-11-11T10:00:00"
     },
     {
       "data": "11/11",
