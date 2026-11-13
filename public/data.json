@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/11/2026 09:32",
+  "ultima_atualizacao": "13/11/2026 12:34",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/11/2026 11:54"
@@ -10,7 +10,7 @@
       "dia_semana": "sexta",
       "hora": "11:30",
       "navio": "SINAR SUMATERA",
-      "calado": "8,70",
+      "calado": "8,50",
       "manobra": "M",
       "beco": "TECONT4 -> FEITICEIRA - 2F03",
       "status": "hoje",
@@ -33,41 +33,9 @@
       "imo": "9785471",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-11-13T16:30:00"
-    },
-    {
-      "data": "13/11",
-      "dia_semana": "sexta",
-      "hora": "20:00",
-      "navio": "INTEGRADOR",
-      "calado": "6,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9079212",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-13T20:00:00"
-    },
-    {
-      "data": "13/11",
-      "dia_semana": "sexta",
-      "hora": "22:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,50",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-13T22:00:00"
     },
     {
       "data": "13/11",
@@ -84,6 +52,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-11-13T23:30:00"
+    },
+    {
+      "data": "14/11",
+      "dia_semana": "sábado",
+      "hora": "01:00",
+      "navio": "LOG-IN DISCOVERY",
+      "calado": "9,50",
+      "manobra": "E",
+      "beco": "TECONT4",
+      "status": "futuro",
+      "imo": "9506394",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-14T01:00:00"
     },
     {
       "data": "14/11",
@@ -180,6 +164,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-14T12:00:00"
+    },
+    {
+      "data": "14/11",
+      "dia_semana": "sábado",
+      "hora": "14:00",
+      "navio": "INTEGRADOR",
+      "calado": "6,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9079212",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-14T14:00:00"
     },
     {
       "data": "14/11",
@@ -455,6 +455,24 @@
     }
   ],
   "conflitos": [
+    {
+      "navio_rio": "MAERSK ACADIA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/11 08:00",
+      "manobra_rio_fim": "14/11 15:00",
+      "navio_multi": "INTEGRADOR",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/11 14:00"
+    },
+    {
+      "navio_rio": "PALENA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/11 12:00",
+      "manobra_rio_fim": "15/11 13:00",
+      "navio_multi": "INTEGRADOR",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/11 14:00"
+    },
     {
       "navio_rio": "PALENA",
       "manobra_rio_afetada": "E",
