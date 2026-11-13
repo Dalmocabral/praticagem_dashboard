@@ -1,26 +1,10 @@
 {
-  "ultima_atualizacao": "13/11/2026 15:04",
+  "ultima_atualizacao": "13/11/2026 17:44",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/11/2026 11:54"
   },
   "navios": [
-    {
-      "data": "13/11",
-      "dia_semana": "sexta",
-      "hora": "11:30",
-      "navio": "SINAR SUMATERA",
-      "calado": "8,50",
-      "manobra": "M",
-      "beco": "TECONT4 -> FEITICEIRA - 2F03",
-      "status": "hoje",
-      "imo": "1015375",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-13T11:30:00"
-    },
     {
       "data": "13/11",
       "dia_semana": "sexta",
@@ -42,21 +26,69 @@
       "dia_semana": "sexta",
       "hora": "18:30",
       "navio": "MSC YAMUNA VI",
-      "calado": "11,65",
+      "calado": "11,50",
       "manobra": "E",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9288409",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-11-13T18:30:00"
     },
     {
+      "data": "13/11",
+      "dia_semana": "sexta",
+      "hora": "20:30",
+      "navio": "FRIO MARATHON",
+      "calado": "6,70",
+      "manobra": "M",
+      "beco": "TECONT1 -> LARGO",
+      "status": "hoje",
+      "imo": "8916229",
+      "tipo_navio": "REFRIGERATED CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": "saida_atrasada",
+      "terminal": "rio",
+      "timestamp": "2026-11-13T20:30:00"
+    },
+    {
       "data": "14/11",
       "dia_semana": "sábado",
-      "hora": "01:00",
+      "hora": "03:00",
+      "navio": "DEEP ORIENT",
+      "calado": "6,50",
+      "manobra": "M",
+      "beco": "TECONT1 -> WPT 92",
+      "status": "futuro",
+      "imo": "9644330",
+      "tipo_navio": "OFFSHORE SUPPORT VESSEL",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-14T03:00:00"
+    },
+    {
+      "data": "14/11",
+      "dia_semana": "sábado",
+      "hora": "05:00",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "8,50",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9351799",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-14T05:00:00"
+    },
+    {
+      "data": "14/11",
+      "dia_semana": "sábado",
+      "hora": "06:30",
       "navio": "LOG-IN DISCOVERY",
       "calado": "9,50",
       "manobra": "E",
@@ -67,55 +99,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-14T01:00:00"
-    },
-    {
-      "data": "14/11",
-      "dia_semana": "sábado",
-      "hora": "03:00",
-      "navio": "MSC BREMEN",
-      "calado": "10,50",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "9369734",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-14T03:00:00"
-    },
-    {
-      "data": "14/11",
-      "dia_semana": "sábado",
-      "hora": "04:00",
-      "navio": "FRIO MARATHON",
-      "calado": "7,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "8916229",
-      "tipo_navio": "REFRIGERATED CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-11-14T04:00:00"
-    },
-    {
-      "data": "14/11",
-      "dia_semana": "sábado",
-      "hora": "06:00",
-      "navio": "MSC MARIA LAURA",
-      "calado": "12,60",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "futuro",
-      "imo": "1031159",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-14T06:00:00"
+      "timestamp": "2026-11-14T06:30:00"
     },
     {
       "data": "14/11",
@@ -137,6 +121,22 @@
       "data": "14/11",
       "dia_semana": "sábado",
       "hora": "10:00",
+      "navio": "MSC BREMEN",
+      "calado": "10,50",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9369734",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-14T10:00:00"
+    },
+    {
+      "data": "14/11",
+      "dia_semana": "sábado",
+      "hora": "11:00",
       "navio": "TINOS EXPRESS",
       "calado": "11,00",
       "manobra": "S",
@@ -147,12 +147,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-14T10:00:00"
+      "timestamp": "2026-11-14T11:00:00"
     },
     {
       "data": "14/11",
       "dia_semana": "sábado",
-      "hora": "12:00",
+      "hora": "13:00",
       "navio": "PALENA",
       "calado": "10,70",
       "manobra": "E",
@@ -163,23 +163,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-14T12:00:00"
-    },
-    {
-      "data": "14/11",
-      "dia_semana": "sábado",
-      "hora": "14:00",
-      "navio": "INTEGRADOR",
-      "calado": "6,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9079212",
-      "tipo_navio": "VEHICLES CARRIER",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-14T14:00:00"
+      "timestamp": "2026-11-14T13:00:00"
     },
     {
       "data": "14/11",
@@ -200,10 +184,10 @@
     {
       "data": "14/11",
       "dia_semana": "sábado",
-      "hora": "16:30",
+      "hora": "15:00",
       "navio": "MSC MARIA LAURA",
       "calado": "12,60",
-      "manobra": "S",
+      "manobra": "E",
       "beco": "TECONT2",
       "status": "futuro",
       "imo": "1031159",
@@ -211,7 +195,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-14T16:30:00"
+      "timestamp": "2026-11-14T15:00:00"
     },
     {
       "data": "14/11",
@@ -232,18 +216,34 @@
     {
       "data": "14/11",
       "dia_semana": "sábado",
-      "hora": "22:30",
-      "navio": "DANUBE",
-      "calado": "11,00",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
+      "hora": "20:30",
+      "navio": "LOG-IN PANTANAL",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT1",
       "status": "futuro",
-      "imo": "9954151",
+      "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-14T22:30:00"
+      "timestamp": "2026-11-14T20:30:00"
+    },
+    {
+      "data": "14/11",
+      "dia_semana": "sábado",
+      "hora": "21:30",
+      "navio": "INTEGRADOR",
+      "calado": "6,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9079212",
+      "tipo_navio": "VEHICLES CARRIER",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-14T21:30:00"
     },
     {
       "data": "15/11",
@@ -296,6 +296,22 @@
     {
       "data": "15/11",
       "dia_semana": "domingo",
+      "hora": "10:00",
+      "navio": "MSC MARIA LAURA",
+      "calado": "12,60",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "1031159",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-15T10:00:00"
+    },
+    {
+      "data": "15/11",
+      "dia_semana": "domingo",
       "hora": "13:00",
       "navio": "PALENA",
       "calado": "11,00",
@@ -308,22 +324,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-15T13:00:00"
-    },
-    {
-      "data": "15/11",
-      "dia_semana": "domingo",
-      "hora": "15:00",
-      "navio": "DANUBE",
-      "calado": "11,20",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9954151",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-11-15T15:00:00"
     },
     {
       "data": "15/11",
@@ -456,49 +456,94 @@
   ],
   "conflitos": [
     {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/11 05:00",
+      "manobra_rio_fim": "14/11 20:30",
+      "navio_multi": "LOG-IN DISCOVERY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/11 06:30"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/11 05:00",
+      "manobra_rio_fim": "14/11 20:30",
+      "navio_multi": "MSC BREMEN",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/11 10:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/11 05:00",
+      "manobra_rio_fim": "14/11 20:30",
+      "navio_multi": "MSC MARIA LAURA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/11 15:00"
+    },
+    {
+      "navio_rio": "MAERSK ACADIA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/11 08:00",
+      "manobra_rio_fim": "14/11 15:00",
+      "navio_multi": "MSC BREMEN",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "14/11 10:00"
+    },
+    {
       "navio_rio": "MAERSK ACADIA",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "14/11 08:00",
       "manobra_rio_fim": "14/11 15:00",
-      "navio_multi": "INTEGRADOR",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/11 14:00"
+      "navio_multi": "MSC MARIA LAURA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/11 15:00"
     },
     {
       "navio_rio": "PALENA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/11 12:00",
+      "manobra_rio_inicio": "14/11 13:00",
+      "manobra_rio_fim": "15/11 13:00",
+      "navio_multi": "MSC MARIA LAURA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "14/11 15:00"
+    },
+    {
+      "navio_rio": "PALENA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/11 13:00",
       "manobra_rio_fim": "15/11 13:00",
       "navio_multi": "INTEGRADOR",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/11 14:00"
+      "manobra_multi_data_hora": "14/11 21:30"
     },
     {
       "navio_rio": "PALENA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "14/11 12:00",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/11 13:00",
+      "manobra_rio_fim": "15/11 13:00",
+      "navio_multi": "MSC YAMUNA VI",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/11 09:00"
+    },
+    {
+      "navio_rio": "PALENA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "14/11 13:00",
       "manobra_rio_fim": "15/11 13:00",
       "navio_multi": "MSC MARIA LAURA",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "14/11 16:30"
+      "manobra_multi_data_hora": "15/11 10:00"
     },
     {
-      "navio_rio": "PALENA",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/11 12:00",
-      "manobra_rio_fim": "15/11 13:00",
-      "navio_multi": "MSC YAMUNA VI",
+      "navio_rio": "CMA CGM XIAMEN",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "14/11 18:30",
+      "manobra_rio_fim": "15/11 05:00",
+      "navio_multi": "INTEGRADOR",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/11 09:00"
-    },
-    {
-      "navio_rio": "DANUBE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "14/11 22:30",
-      "manobra_rio_fim": "15/11 15:00",
-      "navio_multi": "MSC YAMUNA VI",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/11 09:00"
+      "manobra_multi_data_hora": "14/11 21:30"
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
@@ -508,6 +553,15 @@
       "navio_multi": "MSC YAMUNA VI",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "15/11 09:00"
+    },
+    {
+      "navio_rio": "MERCOSUL FORTALEZA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "15/11 07:00",
+      "manobra_rio_fim": "16/11 05:00",
+      "navio_multi": "MSC MARIA LAURA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "15/11 10:00"
     },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
