@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/11/2026 12:34",
+  "ultima_atualizacao": "13/11/2026 15:04",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/11/2026 11:54"
@@ -26,21 +26,21 @@
       "dia_semana": "sexta",
       "hora": "16:30",
       "navio": "MSC CASSANDRE",
-      "calado": "14,00",
+      "calado": "13,00",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
       "imo": "9785471",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-11-13T16:30:00"
     },
     {
       "data": "13/11",
       "dia_semana": "sexta",
-      "hora": "23:30",
+      "hora": "18:30",
       "navio": "MSC YAMUNA VI",
       "calado": "11,65",
       "manobra": "E",
@@ -49,9 +49,9 @@
       "imo": "9288409",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
-      "timestamp": "2026-11-13T23:30:00"
+      "timestamp": "2026-11-13T18:30:00"
     },
     {
       "data": "14/11",
