@@ -1,74 +1,10 @@
 {
-  "ultima_atualizacao": "15/11/2026 00:12",
+  "ultima_atualizacao": "15/11/2026 08:10",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/11/2026 11:54"
   },
   "navios": [
-    {
-      "data": "14/11",
-      "dia_semana": "sábado",
-      "hora": "23:30",
-      "navio": "LOG-IN PANTANAL",
-      "calado": "8,60",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "passado",
-      "imo": "9351799",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-11-14T23:30:00"
-    },
-    {
-      "data": "15/11",
-      "dia_semana": "domingo",
-      "hora": "00:30",
-      "navio": "MSC YAMUNA VI",
-      "calado": "14,20",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9288409",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-15T00:30:00"
-    },
-    {
-      "data": "15/11",
-      "dia_semana": "domingo",
-      "hora": "02:30",
-      "navio": "DANUBE",
-      "calado": "10,80",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9954151",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-11-15T02:30:00"
-    },
-    {
-      "data": "15/11",
-      "dia_semana": "domingo",
-      "hora": "04:00",
-      "navio": "YM MOBILITY",
-      "calado": "11,70",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9457737",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
-      "terminal": "multi",
-      "timestamp": "2026-11-15T04:00:00"
-    },
     {
       "data": "15/11",
       "dia_semana": "domingo",
@@ -81,7 +17,7 @@
       "imo": "1031159",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-11-15T10:00:00"
     },
@@ -97,7 +33,7 @@
       "imo": "9400069",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-11-15T11:00:00"
     },
@@ -343,33 +279,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "DANUBE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/11 02:30",
-      "manobra_rio_fim": "15/11 18:00",
-      "navio_multi": "YM MOBILITY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/11 04:00"
-    },
-    {
-      "navio_rio": "DANUBE",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/11 02:30",
-      "manobra_rio_fim": "15/11 18:00",
-      "navio_multi": "MSC MARIA LAURA",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "15/11 10:00"
-    },
-    {
-      "navio_rio": "DANUBE",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/11 02:30",
-      "manobra_rio_fim": "15/11 18:00",
-      "navio_multi": "CONTI CONQUEST",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "15/11 16:00"
-    },
     {
       "navio_rio": "MERCOSUL FORTALEZA",
       "manobra_rio_afetada": "E",
