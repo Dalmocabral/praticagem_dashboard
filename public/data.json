@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/11/2026 14:45",
+  "ultima_atualizacao": "15/11/2026 19:06",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/11/2026 11:54"
@@ -8,23 +8,7 @@
     {
       "data": "15/11",
       "dia_semana": "domingo",
-      "hora": "16:00",
-      "navio": "CONTI CONQUEST",
-      "calado": "14,05",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9293818",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-11-15T16:00:00"
-    },
-    {
-      "data": "15/11",
-      "dia_semana": "domingo",
-      "hora": "18:00",
+      "hora": "19:00",
       "navio": "DANUBE",
       "calado": "11,20",
       "manobra": "S",
@@ -33,25 +17,25 @@
       "imo": "9954151",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_futura",
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-11-15T18:00:00"
+      "timestamp": "2026-11-15T19:00:00"
     },
     {
       "data": "15/11",
       "dia_semana": "domingo",
-      "hora": "20:00",
+      "hora": "21:00",
       "navio": "XIN CHANG SHA",
-      "calado": "12,00",
+      "calado": "12,30",
       "manobra": "E",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9312559",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "rio",
-      "timestamp": "2026-11-15T20:00:00"
+      "timestamp": "2026-11-15T21:00:00"
     },
     {
       "data": "16/11",
@@ -68,6 +52,38 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-11-16T03:00:00"
+    },
+    {
+      "data": "16/11",
+      "dia_semana": "segunda",
+      "hora": "06:00",
+      "navio": "FRIO MARATHON",
+      "calado": "6,70",
+      "manobra": "M",
+      "beco": "LARGO -> TECONT1",
+      "status": "futuro",
+      "imo": "8916229",
+      "tipo_navio": "REFRIGERATED CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-16T06:00:00"
+    },
+    {
+      "data": "16/11",
+      "dia_semana": "segunda",
+      "hora": "08:00",
+      "navio": "MERCOSUL FORTALEZA",
+      "calado": "10,10",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9784661",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-16T08:00:00"
     },
     {
       "data": "16/11",
@@ -121,22 +137,6 @@
       "data": "16/11",
       "dia_semana": "segunda",
       "hora": "14:00",
-      "navio": "MERCOSUL FORTALEZA",
-      "calado": "10,10",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9784661",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-11-16T14:00:00"
-    },
-    {
-      "data": "16/11",
-      "dia_semana": "segunda",
-      "hora": "15:00",
       "navio": "XIN CHANG SHA",
       "calado": "11,50",
       "manobra": "S",
@@ -147,12 +147,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-16T15:00:00"
+      "timestamp": "2026-11-16T14:00:00"
     },
     {
       "data": "16/11",
       "dia_semana": "segunda",
-      "hora": "17:00",
+      "hora": "16:00",
       "navio": "KOTA ELOK",
       "calado": "12,60",
       "manobra": "E",
@@ -163,7 +163,39 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-16T17:00:00"
+      "timestamp": "2026-11-16T16:00:00"
+    },
+    {
+      "data": "16/11",
+      "dia_semana": "segunda",
+      "hora": "18:00",
+      "navio": "STEPHANIE C",
+      "calado": "12,10",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9694531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-16T18:00:00"
+    },
+    {
+      "data": "17/11",
+      "dia_semana": "terça",
+      "hora": "09:00",
+      "navio": "STEPHANIE C",
+      "calado": "12,00",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "9694531",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-17T09:00:00"
     },
     {
       "data": "17/11",
@@ -246,6 +278,22 @@
       "timestamp": "2026-11-18T17:00:00"
     },
     {
+      "data": "18/11",
+      "dia_semana": "quarta",
+      "hora": "19:00",
+      "navio": "FRIO MARATHON",
+      "calado": "6,70",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "8916229",
+      "tipo_navio": "REFRIGERATED CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-18T19:00:00"
+    },
+    {
       "data": "20/11",
       "dia_semana": "sexta",
       "hora": "08:00",
@@ -266,8 +314,8 @@
     {
       "navio_rio": "XIN CHANG SHA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "15/11 20:00",
-      "manobra_rio_fim": "16/11 15:00",
+      "manobra_rio_inicio": "15/11 21:00",
+      "manobra_rio_fim": "16/11 14:00",
       "navio_multi": "LOG-IN DISCOVERY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/11 03:00"
@@ -275,8 +323,8 @@
     {
       "navio_rio": "XIN CHANG SHA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/11 20:00",
-      "manobra_rio_fim": "16/11 15:00",
+      "manobra_rio_inicio": "15/11 21:00",
+      "manobra_rio_fim": "16/11 14:00",
       "navio_multi": "CONTI CONQUEST",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/11 09:00"
@@ -284,8 +332,8 @@
     {
       "navio_rio": "XIN CHANG SHA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/11 20:00",
-      "manobra_rio_fim": "16/11 15:00",
+      "manobra_rio_inicio": "15/11 21:00",
+      "manobra_rio_fim": "16/11 14:00",
       "navio_multi": "YM MOBILITY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "16/11 10:00"
@@ -293,16 +341,52 @@
     {
       "navio_rio": "XIN CHANG SHA",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "15/11 20:00",
-      "manobra_rio_fim": "16/11 15:00",
+      "manobra_rio_inicio": "15/11 21:00",
+      "manobra_rio_fim": "16/11 14:00",
       "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "16/11 12:00"
     },
     {
+      "navio_rio": "FRIO MARATHON",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/11 06:00",
+      "manobra_rio_fim": "18/11 19:00",
+      "navio_multi": "CONTI CONQUEST",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/11 09:00"
+    },
+    {
+      "navio_rio": "FRIO MARATHON",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/11 06:00",
+      "manobra_rio_fim": "18/11 19:00",
+      "navio_multi": "YM MOBILITY",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "16/11 10:00"
+    },
+    {
+      "navio_rio": "FRIO MARATHON",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/11 06:00",
+      "manobra_rio_fim": "18/11 19:00",
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "16/11 12:00"
+    },
+    {
+      "navio_rio": "FRIO MARATHON",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "16/11 06:00",
+      "manobra_rio_fim": "18/11 19:00",
+      "navio_multi": "MSC MELINE",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "17/11 10:00"
+    },
+    {
       "navio_rio": "KOTA ELOK",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/11 17:00",
+      "manobra_rio_inicio": "16/11 16:00",
       "manobra_rio_fim": "17/11 14:00",
       "navio_multi": "MSC MELINE",
       "manobra_multi_tipo": "S",
