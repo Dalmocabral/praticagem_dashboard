@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "17/11/2026 10:45",
+  "ultima_atualizacao": "17/11/2026 16:54",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/11/2026 11:54"
   },
   "navios": [
-    {
-      "data": "17/11",
-      "dia_semana": "terça",
-      "hora": "08:00",
-      "navio": "KOTA ELOK",
-      "calado": "11,60",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "1081831",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-11-17T08:00:00"
-    },
-    {
-      "data": "17/11",
-      "dia_semana": "terça",
-      "hora": "11:00",
-      "navio": "MSC MELINE",
-      "calado": "11,50",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9702077",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-17T11:00:00"
-    },
     {
       "data": "17/11",
       "dia_semana": "terça",
@@ -56,39 +24,23 @@
     {
       "data": "17/11",
       "dia_semana": "terça",
-      "hora": "14:30",
-      "navio": "COSCO SHIPPING MEXICO",
-      "calado": "14,10",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9945863",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
-      "terminal": "rio",
-      "timestamp": "2026-11-17T14:30:00"
-    },
-    {
-      "data": "17/11",
-      "dia_semana": "terça",
       "hora": "16:30",
       "navio": "STEPHANIE C",
-      "calado": "12,00",
+      "calado": "12,20",
       "manobra": "S",
       "beco": "TECONT1",
       "status": "hoje",
       "imo": "9694531",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-11-17T16:30:00"
     },
     {
       "data": "17/11",
       "dia_semana": "terça",
-      "hora": "20:00",
+      "hora": "22:00",
       "navio": "MAERSK KARUN",
       "calado": "13,50",
       "manobra": "M",
@@ -99,23 +51,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-17T20:00:00"
+      "timestamp": "2026-11-17T22:00:00"
     },
     {
-      "data": "17/11",
-      "dia_semana": "terça",
-      "hora": "22:00",
+      "data": "18/11",
+      "dia_semana": "quarta",
+      "hora": "00:00",
       "navio": "ONE GEORGE WASHINGTON",
       "calado": "9,90",
       "manobra": "E",
       "beco": "TECONT2",
-      "status": "hoje",
+      "status": "futuro",
       "imo": "9302073",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-17T22:00:00"
+      "timestamp": "2026-11-18T00:00:00"
     },
     {
       "data": "18/11",
@@ -138,7 +90,7 @@
       "dia_semana": "quarta",
       "hora": "13:00",
       "navio": "COSCO SHIPPING MEXICO",
-      "calado": "12,00",
+      "calado": "13,20",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "futuro",
@@ -169,12 +121,12 @@
       "data": "18/11",
       "dia_semana": "quarta",
       "hora": "17:00",
-      "navio": "ONE GEORGE WASHINGTON",
-      "calado": "9,00",
-      "manobra": "S",
-      "beco": "TECONT2",
+      "navio": "MSC RIKKU",
+      "calado": "13,30",
+      "manobra": "E",
+      "beco": "TECONT3",
       "status": "futuro",
-      "imo": "9302073",
+      "imo": "9393319",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
@@ -200,6 +152,22 @@
     {
       "data": "18/11",
       "dia_semana": "quarta",
+      "hora": "22:00",
+      "navio": "ONE GEORGE WASHINGTON",
+      "calado": "10,90",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9302073",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-18T22:00:00"
+    },
+    {
+      "data": "18/11",
+      "dia_semana": "quarta",
       "hora": "23:00",
       "navio": "ITHACA",
       "calado": "6,50",
@@ -216,6 +184,22 @@
     {
       "data": "19/11",
       "dia_semana": "quinta",
+      "hora": "05:30",
+      "navio": "HMM JAKARTA",
+      "calado": "13,70",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9323522",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-19T05:30:00"
+    },
+    {
+      "data": "19/11",
+      "dia_semana": "quinta",
       "hora": "09:30",
       "navio": "NC BREDA",
       "calado": "8,50",
@@ -228,6 +212,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-19T09:30:00"
+    },
+    {
+      "data": "19/11",
+      "dia_semana": "quinta",
+      "hora": "12:00",
+      "navio": "MSC RIKKU",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "9393319",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-19T12:00:00"
     },
     {
       "data": "19/11",
@@ -280,6 +280,22 @@
     {
       "data": "20/11",
       "dia_semana": "sexta",
+      "hora": "05:00",
+      "navio": "HMM JAKARTA",
+      "calado": "13,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9323522",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-20T05:00:00"
+    },
+    {
+      "data": "20/11",
+      "dia_semana": "sexta",
       "hora": "23:00",
       "navio": "PALENA",
       "calado": "11,00",
@@ -296,22 +312,13 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "COSCO SHIPPING MEXICO",
+      "navio_rio": "CMA CGM COBALT",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/11 14:30",
-      "manobra_rio_fim": "18/11 13:00",
-      "navio_multi": "ONE GEORGE WASHINGTON",
+      "manobra_rio_inicio": "18/11 15:00",
+      "manobra_rio_fim": "19/11 15:00",
+      "navio_multi": "MSC RIKKU",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/11 22:00"
-    },
-    {
-      "navio_rio": "COSCO SHIPPING MEXICO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/11 14:30",
-      "manobra_rio_fim": "18/11 13:00",
-      "navio_multi": "LE HAVRE",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/11 12:00"
+      "manobra_multi_data_hora": "18/11 17:00"
     },
     {
       "navio_rio": "CMA CGM COBALT",
@@ -320,7 +327,7 @@
       "manobra_rio_fim": "19/11 15:00",
       "navio_multi": "ONE GEORGE WASHINGTON",
       "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "18/11 17:00"
+      "manobra_multi_data_hora": "18/11 22:00"
     },
     {
       "navio_rio": "CMA CGM COBALT",
@@ -330,6 +337,33 @@
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "18/11 23:00"
+    },
+    {
+      "navio_rio": "CMA CGM COBALT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/11 15:00",
+      "manobra_rio_fim": "19/11 15:00",
+      "navio_multi": "HMM JAKARTA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/11 05:30"
+    },
+    {
+      "navio_rio": "CMA CGM COBALT",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/11 15:00",
+      "manobra_rio_fim": "19/11 15:00",
+      "navio_multi": "MSC RIKKU",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "19/11 12:00"
+    },
+    {
+      "navio_rio": "NC BREDA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/11 20:00",
+      "manobra_rio_fim": "19/11 09:30",
+      "navio_multi": "ONE GEORGE WASHINGTON",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/11 22:00"
     },
     {
       "navio_rio": "NC BREDA",
@@ -339,6 +373,24 @@
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "18/11 23:00"
+    },
+    {
+      "navio_rio": "NC BREDA",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "18/11 20:00",
+      "manobra_rio_fim": "19/11 09:30",
+      "navio_multi": "HMM JAKARTA",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "19/11 05:30"
+    },
+    {
+      "navio_rio": "PALENA",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "19/11 17:00",
+      "manobra_rio_fim": "20/11 23:00",
+      "navio_multi": "HMM JAKARTA",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "20/11 05:00"
     }
   ]
 }
