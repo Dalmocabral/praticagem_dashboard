@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/11/2026 09:51",
+  "ultima_atualizacao": "17/11/2026 10:45",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/11/2026 11:54"
@@ -26,7 +26,7 @@
       "dia_semana": "terça",
       "hora": "11:00",
       "navio": "MSC MELINE",
-      "calado": "12,60",
+      "calado": "11,50",
       "manobra": "S",
       "beco": "TECONT3",
       "status": "hoje",
@@ -49,7 +49,7 @@
       "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-11-17T13:00:00"
     },
@@ -65,7 +65,7 @@
       "imo": "9945863",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-11-17T14:30:00"
     },
@@ -88,18 +88,18 @@
     {
       "data": "17/11",
       "dia_semana": "terça",
-      "hora": "18:00",
+      "hora": "20:00",
       "navio": "MAERSK KARUN",
-      "calado": "12,60",
-      "manobra": "S",
-      "beco": "TECONT2",
+      "calado": "13,50",
+      "manobra": "M",
+      "beco": "TECONT2 -> VISITA N",
       "status": "hoje",
       "imo": "9624299",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-17T18:00:00"
+      "timestamp": "2026-11-17T20:00:00"
     },
     {
       "data": "17/11",
@@ -184,23 +184,7 @@
     {
       "data": "18/11",
       "dia_semana": "quarta",
-      "hora": "19:00",
-      "navio": "FRIO MARATHON",
-      "calado": "6,70",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "8916229",
-      "tipo_navio": "REFRIGERATED CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-11-18T19:00:00"
-    },
-    {
-      "data": "18/11",
-      "dia_semana": "quarta",
-      "hora": "21:00",
+      "hora": "20:00",
       "navio": "NC BREDA",
       "calado": "8,40",
       "manobra": "E",
@@ -211,7 +195,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-18T21:00:00"
+      "timestamp": "2026-11-18T20:00:00"
     },
     {
       "data": "18/11",
@@ -278,6 +262,22 @@
       "timestamp": "2026-11-19T17:00:00"
     },
     {
+      "data": "19/11",
+      "dia_semana": "quinta",
+      "hora": "23:00",
+      "navio": "FRIO MARATHON",
+      "calado": "6,70",
+      "manobra": "S",
+      "beco": "TECONT1",
+      "status": "futuro",
+      "imo": "8916229",
+      "tipo_navio": "REFRIGERATED CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-19T23:00:00"
+    },
+    {
       "data": "20/11",
       "dia_semana": "sexta",
       "hora": "23:00",
@@ -295,15 +295,6 @@
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "COSCO SHIPPING MEXICO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/11 14:30",
-      "manobra_rio_fim": "18/11 13:00",
-      "navio_multi": "MAERSK KARUN",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "17/11 18:00"
-    },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "E",
@@ -343,7 +334,7 @@
     {
       "navio_rio": "NC BREDA",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "18/11 21:00",
+      "manobra_rio_inicio": "18/11 20:00",
       "manobra_rio_fim": "19/11 09:30",
       "navio_multi": "ITHACA",
       "manobra_multi_tipo": "S",
