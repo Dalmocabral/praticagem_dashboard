@@ -1,78 +1,30 @@
 {
-  "ultima_atualizacao": "16/11/2026 23:42",
+  "ultima_atualizacao": "17/11/2026 08:13",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/11/2026 11:54"
   },
   "navios": [
     {
-      "data": "16/11",
-      "dia_semana": "segunda",
-      "hora": "16:00",
+      "data": "17/11",
+      "dia_semana": "terça",
+      "hora": "08:00",
       "navio": "KOTA ELOK",
-      "calado": "12,40",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "passado",
-      "imo": "1081831",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "rio",
-      "timestamp": "2026-11-16T16:00:00"
-    },
-    {
-      "data": "17/11",
-      "dia_semana": "terça",
-      "hora": "04:30",
-      "navio": "ITHACA",
-      "calado": "6,70",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9968449",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-17T04:30:00"
-    },
-    {
-      "data": "17/11",
-      "dia_semana": "terça",
-      "hora": "06:00",
-      "navio": "MAERSK KARUN",
-      "calado": "13,50",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9624299",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-17T06:00:00"
-    },
-    {
-      "data": "17/11",
-      "dia_semana": "terça",
-      "hora": "09:00",
-      "navio": "KOTA ELOK",
-      "calado": "11,30",
+      "calado": "11,60",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "1081831",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
-      "timestamp": "2026-11-17T09:00:00"
+      "timestamp": "2026-11-17T08:00:00"
     },
     {
       "data": "17/11",
       "dia_semana": "terça",
-      "hora": "10:00",
+      "hora": "11:00",
       "navio": "MSC MELINE",
       "calado": "12,60",
       "manobra": "S",
@@ -81,14 +33,14 @@
       "imo": "9702077",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-11-17T10:00:00"
+      "timestamp": "2026-11-17T11:00:00"
     },
     {
       "data": "17/11",
       "dia_semana": "terça",
-      "hora": "12:00",
+      "hora": "13:00",
       "navio": "LE HAVRE",
       "calado": "13,50",
       "manobra": "E",
@@ -99,12 +51,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-17T12:00:00"
+      "timestamp": "2026-11-17T13:00:00"
     },
     {
       "data": "17/11",
       "dia_semana": "terça",
-      "hora": "14:00",
+      "hora": "14:30",
       "navio": "COSCO SHIPPING MEXICO",
       "calado": "14,10",
       "manobra": "E",
@@ -115,12 +67,12 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-17T14:00:00"
+      "timestamp": "2026-11-17T14:30:00"
     },
     {
       "data": "17/11",
       "dia_semana": "terça",
-      "hora": "16:00",
+      "hora": "16:30",
       "navio": "STEPHANIE C",
       "calado": "12,00",
       "manobra": "S",
@@ -131,7 +83,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-17T16:00:00"
+      "timestamp": "2026-11-17T16:30:00"
     },
     {
       "data": "17/11",
@@ -312,27 +264,9 @@
   ],
   "conflitos": [
     {
-      "navio_rio": "KOTA ELOK",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/11 16:00",
-      "manobra_rio_fim": "17/11 09:00",
-      "navio_multi": "ITHACA",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/11 04:30"
-    },
-    {
-      "navio_rio": "KOTA ELOK",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "16/11 16:00",
-      "manobra_rio_fim": "17/11 09:00",
-      "navio_multi": "MAERSK KARUN",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "17/11 06:00"
-    },
-    {
       "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "17/11 14:00",
+      "manobra_rio_inicio": "17/11 14:30",
       "manobra_rio_fim": "18/11 13:00",
       "navio_multi": "MAERSK KARUN",
       "manobra_multi_tipo": "S",
@@ -341,7 +275,7 @@
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "17/11 14:00",
+      "manobra_rio_inicio": "17/11 14:30",
       "manobra_rio_fim": "18/11 13:00",
       "navio_multi": "LE HAVRE",
       "manobra_multi_tipo": "S",
