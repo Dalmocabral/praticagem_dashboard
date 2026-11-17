@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "17/11/2026 08:13",
+  "ultima_atualizacao": "17/11/2026 09:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/11/2026 11:54"
@@ -49,7 +49,7 @@
       "imo": "9307243",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-11-17T13:00:00"
     },
@@ -102,6 +102,22 @@
       "timestamp": "2026-11-17T18:00:00"
     },
     {
+      "data": "17/11",
+      "dia_semana": "terça",
+      "hora": "22:00",
+      "navio": "ONE GEORGE WASHINGTON",
+      "calado": "9,90",
+      "manobra": "E",
+      "beco": "TECONT2",
+      "status": "hoje",
+      "imo": "9302073",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-17T22:00:00"
+    },
+    {
       "data": "18/11",
       "dia_semana": "quarta",
       "hora": "12:00",
@@ -148,6 +164,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-18T15:00:00"
+    },
+    {
+      "data": "18/11",
+      "dia_semana": "quarta",
+      "hora": "17:00",
+      "navio": "ONE GEORGE WASHINGTON",
+      "calado": "9,00",
+      "manobra": "S",
+      "beco": "TECONT2",
+      "status": "futuro",
+      "imo": "9302073",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-18T17:00:00"
     },
     {
       "data": "18/11",
@@ -274,12 +306,30 @@
     },
     {
       "navio_rio": "COSCO SHIPPING MEXICO",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "17/11 14:30",
+      "manobra_rio_fim": "18/11 13:00",
+      "navio_multi": "ONE GEORGE WASHINGTON",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "17/11 22:00"
+    },
+    {
+      "navio_rio": "COSCO SHIPPING MEXICO",
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "17/11 14:30",
       "manobra_rio_fim": "18/11 13:00",
       "navio_multi": "LE HAVRE",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "18/11 12:00"
+    },
+    {
+      "navio_rio": "CMA CGM COBALT",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "18/11 15:00",
+      "manobra_rio_fim": "19/11 15:00",
+      "navio_multi": "ONE GEORGE WASHINGTON",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "18/11 17:00"
     },
     {
       "navio_rio": "CMA CGM COBALT",
