@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "17/11/2026 23:14",
+  "ultima_atualizacao": "18/11/2026 07:19",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/11/2026 11:54"
   },
   "navios": [
-    {
-      "data": "17/11",
-      "dia_semana": "terça",
-      "hora": "22:00",
-      "navio": "MAERSK KARUN",
-      "calado": "13,30",
-      "manobra": "M",
-      "beco": "TECONT2 -> VISITA N",
-      "status": "passado",
-      "imo": "9624299",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-17T22:00:00"
-    },
-    {
-      "data": "18/11",
-      "dia_semana": "quarta",
-      "hora": "00:00",
-      "navio": "ONE GEORGE WASHINGTON",
-      "calado": "9,90",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9302073",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-11-18T00:00:00"
-    },
     {
       "data": "18/11",
       "dia_semana": "quarta",
