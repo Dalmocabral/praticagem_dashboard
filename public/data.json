@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "18/11/2026 12:01",
+  "ultima_atualizacao": "18/11/2026 15:56",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 11/11/2026 11:54"
@@ -120,7 +120,7 @@
     {
       "data": "19/11",
       "dia_semana": "quinta",
-      "hora": "11:30",
+      "hora": "08:30",
       "navio": "MSC RIKKU",
       "calado": "12,30",
       "manobra": "E",
@@ -131,7 +131,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-19T11:30:00"
+      "timestamp": "2026-11-19T08:30:00"
     },
     {
       "data": "19/11",
@@ -340,6 +340,102 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-11-21T20:00:00"
+    },
+    {
+      "data": "29/11",
+      "dia_semana": "domingo",
+      "hora": "08:00",
+      "navio": "EVER FINE",
+      "calado": "14,30",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850812",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-29T08:00:00"
+    },
+    {
+      "data": "30/11",
+      "dia_semana": "segunda",
+      "hora": "08:00",
+      "navio": "EVER FINE",
+      "calado": "14,00",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9850812",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-30T08:00:00"
+    },
+    {
+      "data": "30/11",
+      "dia_semana": "segunda",
+      "hora": "17:00",
+      "navio": "CMA CGM SILVER",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996769",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-30T17:00:00"
+    },
+    {
+      "data": "01/12",
+      "dia_semana": "terça",
+      "hora": "14:00",
+      "navio": "CMA CGM SILVER",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996769",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-12-01T14:00:00"
+    },
+    {
+      "data": "01/12",
+      "dia_semana": "terça",
+      "hora": "16:00",
+      "navio": "CMA CGM LISA MARIE",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9729099",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-12-01T16:00:00"
+    },
+    {
+      "data": "02/12",
+      "dia_semana": "quarta",
+      "hora": "17:00",
+      "navio": "CMA CGM LISA MARIE",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9729099",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-12-02T17:00:00"
     }
   ],
   "conflitos": [
@@ -386,7 +482,7 @@
       "manobra_rio_fim": "19/11 15:00",
       "navio_multi": "MSC RIKKU",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/11 11:30"
+      "manobra_multi_data_hora": "19/11 08:30"
     },
     {
       "navio_rio": "NC BREDA",
@@ -431,7 +527,7 @@
       "manobra_rio_fim": "19/11 13:30",
       "navio_multi": "MSC RIKKU",
       "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "19/11 11:30"
+      "manobra_multi_data_hora": "19/11 08:30"
     },
     {
       "navio_rio": "PALENA",
