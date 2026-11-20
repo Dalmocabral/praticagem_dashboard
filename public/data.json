@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "20/11/2026 19:22",
+  "ultima_atualizacao": "20/11/2026 19:51",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 19/11/2026 10:13"
@@ -52,6 +52,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-11-21T05:00:00"
+    },
+    {
+      "data": "21/11",
+      "dia_semana": "sábado",
+      "hora": "06:00",
+      "navio": "CMA CGM RABELAIS",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "VISITA S",
+      "status": "futuro",
+      "imo": "9406635",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "visita",
+      "timestamp": "2026-11-21T06:00:00"
     },
     {
       "data": "21/11",
@@ -171,8 +187,8 @@
       "hora": "07:30",
       "navio": "CMA CGM RABELAIS",
       "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT1",
+      "manobra": "M",
+      "beco": "VISITA S -> TECONT1",
       "status": "futuro",
       "imo": "9406635",
       "tipo_navio": "CONTAINER SHIP",
@@ -470,7 +486,7 @@
     },
     {
       "navio_rio": "CMA CGM RABELAIS",
-      "manobra_rio_afetada": "E",
+      "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "22/11 07:30",
       "manobra_rio_fim": "22/11 23:00",
       "navio_multi": "HMM BANGKOK",
