@@ -1,42 +1,10 @@
 {
-  "ultima_atualizacao": "20/11/2026 12:42",
+  "ultima_atualizacao": "20/11/2026 19:22",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 19/11/2026 10:13"
   },
   "navios": [
-    {
-      "data": "20/11",
-      "dia_semana": "sexta",
-      "hora": "13:00",
-      "navio": "CZECH",
-      "calado": "13,00",
-      "manobra": "E",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9723241",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_futura",
-      "terminal": "multi",
-      "timestamp": "2026-11-20T13:00:00"
-    },
-    {
-      "data": "20/11",
-      "dia_semana": "sexta",
-      "hora": "16:00",
-      "navio": "GRANDE AMBURGO",
-      "calado": "9,50",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9246607",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_futura",
-      "terminal": "multi",
-      "timestamp": "2026-11-20T16:00:00"
-    },
     {
       "data": "20/11",
       "dia_semana": "sexta",
@@ -49,9 +17,25 @@
       "imo": "9351799",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "rio",
       "timestamp": "2026-11-20T23:00:00"
+    },
+    {
+      "data": "21/11",
+      "dia_semana": "sábado",
+      "hora": "04:00",
+      "navio": "GRANDE AMBURGO",
+      "calado": "9,50",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9246607",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-21T04:00:00"
     },
     {
       "data": "21/11",
@@ -116,6 +100,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-21T11:00:00"
+    },
+    {
+      "data": "21/11",
+      "dia_semana": "sábado",
+      "hora": "13:00",
+      "navio": "BBC NAPLES",
+      "calado": "5,15",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9484223",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-21T13:00:00"
     },
     {
       "data": "21/11",
@@ -228,6 +228,22 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-22T12:30:00"
+    },
+    {
+      "data": "22/11",
+      "dia_semana": "domingo",
+      "hora": "15:30",
+      "navio": "BBC NAPLES",
+      "calado": "5,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9484223",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-22T15:30:00"
     },
     {
       "data": "22/11",
@@ -412,6 +428,15 @@
       "manobra_rio_afetada": "S",
       "manobra_rio_inicio": "20/11 23:00",
       "manobra_rio_fim": "21/11 09:00",
+      "navio_multi": "GRANDE AMBURGO",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "21/11 04:00"
+    },
+    {
+      "navio_rio": "LOG-IN PANTANAL",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "20/11 23:00",
+      "manobra_rio_fim": "21/11 09:00",
       "navio_multi": "CZECH",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "21/11 05:00"
@@ -424,6 +449,15 @@
       "navio_multi": "HMM BANGKOK",
       "manobra_multi_tipo": "E",
       "manobra_multi_data_hora": "21/11 07:00"
+    },
+    {
+      "navio_rio": "SEASPAN EMISSARY",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "21/11 11:00",
+      "manobra_rio_fim": "22/11 03:00",
+      "navio_multi": "BBC NAPLES",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "21/11 13:00"
     },
     {
       "navio_rio": "SEASPAN EMISSARY",
@@ -442,6 +476,24 @@
       "navio_multi": "HMM BANGKOK",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "22/11 09:30"
+    },
+    {
+      "navio_rio": "CMA CGM RABELAIS",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/11 07:30",
+      "manobra_rio_fim": "22/11 23:00",
+      "navio_multi": "BBC NAPLES",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/11 15:30"
+    },
+    {
+      "navio_rio": "TINOS EXPRESS",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "22/11 12:30",
+      "manobra_rio_fim": "24/11 07:00",
+      "navio_multi": "BBC NAPLES",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "22/11 15:30"
     }
   ]
 }
