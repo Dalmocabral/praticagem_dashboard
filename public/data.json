@@ -1,90 +1,10 @@
 {
-  "ultima_atualizacao": "20/11/2026 03:26",
+  "ultima_atualizacao": "20/11/2026 11:23",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 19/11/2026 10:13"
   },
   "navios": [
-    {
-      "data": "20/11",
-      "dia_semana": "sexta",
-      "hora": "03:00",
-      "navio": "MSC RIKKU",
-      "calado": "11,60",
-      "manobra": "S",
-      "beco": "TECONT2",
-      "status": "hoje",
-      "imo": "9393319",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-20T03:00:00"
-    },
-    {
-      "data": "20/11",
-      "dia_semana": "sexta",
-      "hora": "04:00",
-      "navio": "NC BREDA",
-      "calado": "11,00",
-      "manobra": "S",
-      "beco": "TECONT1",
-      "status": "hoje",
-      "imo": "9612765",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-11-20T04:00:00"
-    },
-    {
-      "data": "20/11",
-      "dia_semana": "sexta",
-      "hora": "05:00",
-      "navio": "HMM JAKARTA",
-      "calado": "12,95",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9323522",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-20T05:00:00"
-    },
-    {
-      "data": "20/11",
-      "dia_semana": "sexta",
-      "hora": "07:00",
-      "navio": "MSC ODESSA V",
-      "calado": "9,30",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9456965",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "entrada_antecipada",
-      "terminal": "multi",
-      "timestamp": "2026-11-20T07:00:00"
-    },
-    {
-      "data": "20/11",
-      "dia_semana": "sexta",
-      "hora": "09:00",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "9,60",
-      "manobra": "E",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-20T09:00:00"
-    },
     {
       "data": "20/11",
       "dia_semana": "sexta",
@@ -97,7 +17,7 @@
       "imo": "9723241",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-11-20T13:00:00"
     },
@@ -113,7 +33,7 @@
       "imo": "8916229",
       "tipo_navio": "REFRIGERATED CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "rio",
       "timestamp": "2026-11-20T15:00:00"
     },
@@ -136,7 +56,7 @@
     {
       "data": "20/11",
       "dia_semana": "sexta",
-      "hora": "21:00",
+      "hora": "23:00",
       "navio": "LOG-IN PANTANAL",
       "calado": "9,00",
       "manobra": "E",
@@ -147,7 +67,7 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-20T21:00:00"
+      "timestamp": "2026-11-20T23:00:00"
     },
     {
       "data": "21/11",
@@ -490,7 +410,7 @@
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "20/11 21:00",
+      "manobra_rio_inicio": "20/11 23:00",
       "manobra_rio_fim": "21/11 09:00",
       "navio_multi": "CZECH",
       "manobra_multi_tipo": "S",
@@ -499,7 +419,7 @@
     {
       "navio_rio": "LOG-IN PANTANAL",
       "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "20/11 21:00",
+      "manobra_rio_inicio": "20/11 23:00",
       "manobra_rio_fim": "21/11 09:00",
       "navio_multi": "HMM BANGKOK",
       "manobra_multi_tipo": "E",
