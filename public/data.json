@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/11/2026 10:08",
+  "ultima_atualizacao": "22/11/2026 11:39",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 19/11/2026 10:13"
@@ -8,25 +8,9 @@
     {
       "data": "22/11",
       "dia_semana": "domingo",
-      "hora": "09:30",
-      "navio": "LOG-IN DISCOVERY",
-      "calado": "10,20",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9506394",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "multi",
-      "timestamp": "2026-11-22T09:30:00"
-    },
-    {
-      "data": "22/11",
-      "dia_semana": "domingo",
       "hora": "11:30",
       "navio": "BBC EMERALD",
-      "calado": "8,00",
+      "calado": "6,90",
       "manobra": "E",
       "beco": "TECONT4",
       "status": "hoje",
@@ -40,6 +24,22 @@
     {
       "data": "22/11",
       "dia_semana": "domingo",
+      "hora": "14:00",
+      "navio": "BBC NAPLES",
+      "calado": "5,00",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "hoje",
+      "imo": "9484223",
+      "tipo_navio": "GENERAL CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": "saida_atrasada",
+      "terminal": "multi",
+      "timestamp": "2026-11-22T14:00:00"
+    },
+    {
+      "data": "22/11",
+      "dia_semana": "domingo",
       "hora": "15:30",
       "navio": "HMM BANGKOK",
       "calado": "11,90",
@@ -49,7 +49,7 @@
       "imo": "9323510",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_futura",
       "terminal": "multi",
       "timestamp": "2026-11-22T15:30:00"
     },
@@ -72,6 +72,22 @@
     {
       "data": "22/11",
       "dia_semana": "domingo",
+      "hora": "18:30",
+      "navio": "NAVIOS DOMINO",
+      "calado": "11,80",
+      "manobra": "E",
+      "beco": "TECONT1",
+      "status": "hoje",
+      "imo": "9478494",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-22T18:30:00"
+    },
+    {
+      "data": "22/11",
+      "dia_semana": "domingo",
       "hora": "21:30",
       "navio": "PALENA",
       "calado": "11,00",
@@ -84,22 +100,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-22T21:30:00"
-    },
-    {
-      "data": "22/11",
-      "dia_semana": "domingo",
-      "hora": "22:30",
-      "navio": "BBC NAPLES",
-      "calado": "5,00",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "hoje",
-      "imo": "9484223",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-22T22:30:00"
     },
     {
       "data": "23/11",
@@ -196,22 +196,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-23T16:30:00"
-    },
-    {
-      "data": "23/11",
-      "dia_semana": "segunda",
-      "hora": "18:30",
-      "navio": "NAVIOS DOMINO",
-      "calado": "11,80",
-      "manobra": "E",
-      "beco": "TECONT1",
-      "status": "futuro",
-      "imo": "9478494",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-11-23T18:30:00"
     },
     {
       "data": "23/11",
@@ -392,6 +376,15 @@
   ],
   "conflitos": [
     {
+      "navio_rio": "NAVIOS DOMINO",
+      "manobra_rio_afetada": "S",
+      "manobra_rio_inicio": "22/11 18:30",
+      "manobra_rio_fim": "23/11 06:00",
+      "navio_multi": "MSC ALBANY",
+      "manobra_multi_tipo": "E",
+      "manobra_multi_data_hora": "23/11 02:00"
+    },
+    {
       "navio_rio": "TINOS EXPRESS",
       "manobra_rio_afetada": "E",
       "manobra_rio_inicio": "23/11 00:30",
@@ -426,24 +419,6 @@
       "navio_multi": "MSC ALBANY",
       "manobra_multi_tipo": "S",
       "manobra_multi_data_hora": "24/11 06:00"
-    },
-    {
-      "navio_rio": "NAVIOS DOMINO",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "23/11 06:00",
-      "manobra_rio_fim": "23/11 18:30",
-      "navio_multi": "POLARIS LEADER",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "23/11 08:00"
-    },
-    {
-      "navio_rio": "NAVIOS DOMINO",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/11 06:00",
-      "manobra_rio_fim": "23/11 18:30",
-      "navio_multi": "BBC EMERALD",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/11 15:00"
     },
     {
       "navio_rio": "MERCOSUL GUARUJA",
