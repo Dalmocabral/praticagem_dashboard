@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "23/11/2026 10:11",
+  "ultima_atualizacao": "23/11/2026 15:02",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 19/11/2026 10:13"
@@ -8,34 +8,18 @@
     {
       "data": "23/11",
       "dia_semana": "segunda",
-      "hora": "10:00",
-      "navio": "NAVIOS DOMINO",
-      "calado": "12,30",
+      "hora": "17:00",
+      "navio": "MSC ALBANY",
+      "calado": "11,20",
       "manobra": "S",
-      "beco": "TECONT1",
+      "beco": "TECONT3",
       "status": "hoje",
-      "imo": "9478494",
+      "imo": "9619438",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-11-23T10:00:00"
-    },
-    {
-      "data": "23/11",
-      "dia_semana": "segunda",
-      "hora": "11:00",
-      "navio": "BBC EMERALD",
-      "calado": "6,80",
-      "manobra": "S",
-      "beco": "TECONT4",
-      "status": "hoje",
-      "imo": "9504750",
-      "tipo_navio": "GENERAL CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": "saida_atrasada",
       "terminal": "multi",
-      "timestamp": "2026-11-23T11:00:00"
+      "timestamp": "2026-11-23T17:00:00"
     },
     {
       "data": "23/11",
@@ -52,22 +36,6 @@
       "alerta": null,
       "terminal": "rio",
       "timestamp": "2026-11-23T20:00:00"
-    },
-    {
-      "data": "23/11",
-      "dia_semana": "segunda",
-      "hora": "22:00",
-      "navio": "MSC ALBANY",
-      "calado": "11,20",
-      "manobra": "S",
-      "beco": "TECONT3",
-      "status": "hoje",
-      "imo": "9619438",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-23T22:00:00"
     },
     {
       "data": "24/11",
@@ -422,9 +390,9 @@
       "timestamp": "2026-11-30T08:00:00"
     },
     {
-      "data": "30/11",
-      "dia_semana": "segunda",
-      "hora": "17:00",
+      "data": "01/12",
+      "dia_semana": "terça",
+      "hora": "09:30",
       "navio": "CMA CGM SILVER",
       "calado": "12,50",
       "manobra": "E",
@@ -435,44 +403,44 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-11-30T17:00:00"
-    },
-    {
-      "data": "01/12",
-      "dia_semana": "terça",
-      "hora": "14:00",
-      "navio": "CMA CGM SILVER",
-      "calado": "12,50",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9996769",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-12-01T14:00:00"
-    },
-    {
-      "data": "01/12",
-      "dia_semana": "terça",
-      "hora": "16:00",
-      "navio": "CMA CGM LISA MARIE",
-      "calado": "12,50",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "futuro",
-      "imo": "9729099",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-12-01T16:00:00"
+      "timestamp": "2026-12-01T09:30:00"
     },
     {
       "data": "02/12",
       "dia_semana": "quarta",
-      "hora": "17:00",
+      "hora": "10:00",
+      "navio": "CMA CGM SILVER",
+      "calado": "12,50",
+      "manobra": "S",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9996769",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-12-02T10:00:00"
+    },
+    {
+      "data": "02/12",
+      "dia_semana": "quarta",
+      "hora": "12:00",
+      "navio": "CMA CGM LISA MARIE",
+      "calado": "12,50",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9729099",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-12-02T12:00:00"
+    },
+    {
+      "data": "03/12",
+      "dia_semana": "quinta",
+      "hora": "16:00",
       "navio": "CMA CGM LISA MARIE",
       "calado": "12,50",
       "manobra": "S",
@@ -483,19 +451,10 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "rio",
-      "timestamp": "2026-12-02T17:00:00"
+      "timestamp": "2026-12-03T16:00:00"
     }
   ],
   "conflitos": [
-    {
-      "navio_rio": "MERCOSUL GUARUJA",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "23/11 20:00",
-      "manobra_rio_fim": "24/11 12:00",
-      "navio_multi": "MSC ALBANY",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "23/11 22:00"
-    },
     {
       "navio_rio": "MERCOSUL GUARUJA",
       "manobra_rio_afetada": "S",
