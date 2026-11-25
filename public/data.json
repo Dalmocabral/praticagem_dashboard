@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "25/11/2026 02:41",
+  "ultima_atualizacao": "25/11/2026 08:37",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 19/11/2026 10:13"
@@ -8,48 +8,16 @@
     {
       "data": "25/11",
       "dia_semana": "quarta",
-      "hora": "05:00",
-      "navio": "MAERSK FORTALEZA",
-      "calado": "12,40",
-      "manobra": "S",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9979278",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": "saida_atrasada",
-      "terminal": "rio",
-      "timestamp": "2026-11-25T05:00:00"
-    },
-    {
-      "data": "25/11",
-      "dia_semana": "quarta",
-      "hora": "07:00",
-      "navio": "ARCTOS",
-      "calado": "6,20",
-      "manobra": "E",
-      "beco": "TECONTPROLONG",
-      "status": "hoje",
-      "imo": "9829409",
-      "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
-      "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
-      "terminal": "rio",
-      "timestamp": "2026-11-25T07:00:00"
-    },
-    {
-      "data": "25/11",
-      "dia_semana": "quarta",
       "hora": "11:00",
       "navio": "YM MODERATION",
-      "calado": "13,50",
+      "calado": "13,60",
       "manobra": "E",
       "beco": "TECONT2",
       "status": "hoje",
       "imo": "9664897",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "entrada_futura",
       "terminal": "multi",
       "timestamp": "2026-11-25T11:00:00"
     },
@@ -152,6 +120,22 @@
     {
       "data": "26/11",
       "dia_semana": "quinta",
+      "hora": "16:00",
+      "navio": "GRANDE GUINEA",
+      "calado": "9,30",
+      "manobra": "E",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9437919",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-26T16:00:00"
+    },
+    {
+      "data": "26/11",
+      "dia_semana": "quinta",
       "hora": "17:30",
       "navio": "HMM JAKARTA",
       "calado": "11,45",
@@ -212,6 +196,22 @@
       "alerta": null,
       "terminal": "multi",
       "timestamp": "2026-11-27T13:00:00"
+    },
+    {
+      "data": "27/11",
+      "dia_semana": "sexta",
+      "hora": "16:30",
+      "navio": "GRANDE GUINEA",
+      "calado": "9,10",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9437919",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-27T16:30:00"
     },
     {
       "data": "29/11",
@@ -406,51 +406,5 @@
       "timestamp": "2026-12-12T07:00:00"
     }
   ],
-  "conflitos": [
-    {
-      "navio_rio": "ARCTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/11 07:00",
-      "manobra_rio_fim": "26/11 13:00",
-      "navio_multi": "YM MODERATION",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "25/11 11:00"
-    },
-    {
-      "navio_rio": "ARCTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/11 07:00",
-      "manobra_rio_fim": "26/11 13:00",
-      "navio_multi": "BOSPORUS HIGHWAY",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "25/11 13:00"
-    },
-    {
-      "navio_rio": "ARCTOS",
-      "manobra_rio_afetada": "E",
-      "manobra_rio_inicio": "25/11 07:00",
-      "manobra_rio_fim": "26/11 13:00",
-      "navio_multi": "MSC INIYA V",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "25/11 17:00"
-    },
-    {
-      "navio_rio": "ARCTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/11 07:00",
-      "manobra_rio_fim": "26/11 13:00",
-      "navio_multi": "YM MODERATION",
-      "manobra_multi_tipo": "S",
-      "manobra_multi_data_hora": "26/11 07:00"
-    },
-    {
-      "navio_rio": "ARCTOS",
-      "manobra_rio_afetada": "S",
-      "manobra_rio_inicio": "25/11 07:00",
-      "manobra_rio_fim": "26/11 13:00",
-      "navio_multi": "MSC ADELE",
-      "manobra_multi_tipo": "E",
-      "manobra_multi_data_hora": "26/11 09:00"
-    }
-  ]
+  "conflitos": []
 }
