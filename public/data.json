@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "26/11/2026 08:05",
+  "ultima_atualizacao": "26/11/2026 12:46",
   "barra_info": {
     "restrita": false,
     "mensagem": "BARRA ABERTA DESDE 19/11/2026 10:13"
@@ -10,7 +10,7 @@
       "dia_semana": "quinta",
       "hora": "11:00",
       "navio": "SINAR SUMATERA",
-      "calado": "7,50",
+      "calado": "7,20",
       "manobra": "E",
       "beco": "TECONT4",
       "status": "hoje",
@@ -26,14 +26,14 @@
       "dia_semana": "quinta",
       "hora": "13:00",
       "navio": "ARCTOS",
-      "calado": "7,50",
+      "calado": "7,40",
       "manobra": "S",
       "beco": "TECONTPROLONG",
       "status": "hoje",
       "imo": "9829409",
       "tipo_navio": "CHEMICAL/PRODUCTS TANKER",
       "icone": "https://i.ibb.co/T315cM3/TANKER.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "rio",
       "timestamp": "2026-11-26T13:00:00"
     },
@@ -49,7 +49,7 @@
       "imo": "9519107",
       "tipo_navio": "VEHICLES CARRIER",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
+      "alerta": "saida_atrasada",
       "terminal": "multi",
       "timestamp": "2026-11-26T14:00:00"
     },
@@ -65,9 +65,25 @@
       "imo": "9437919",
       "tipo_navio": "RO-RO CARGO SHIP",
       "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
+      "alerta": "entrada_antecipada",
       "terminal": "multi",
       "timestamp": "2026-11-26T16:00:00"
+    },
+    {
+      "data": "26/11",
+      "dia_semana": "quinta",
+      "hora": "17:30",
+      "navio": "MSC ADELE",
+      "calado": "13,50",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "hoje",
+      "imo": "1016692",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-26T17:30:00"
     },
     {
       "data": "26/11",
@@ -105,38 +121,6 @@
       "data": "27/11",
       "dia_semana": "sexta",
       "hora": "11:00",
-      "navio": "MSC LETICIA X",
-      "calado": "14,20",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "1031197",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-27T11:00:00"
-    },
-    {
-      "data": "27/11",
-      "dia_semana": "sexta",
-      "hora": "16:30",
-      "navio": "GRANDE GUINEA",
-      "calado": "9,10",
-      "manobra": "S",
-      "beco": "TECONT5",
-      "status": "futuro",
-      "imo": "9437919",
-      "tipo_navio": "RO-RO CARGO SHIP",
-      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-27T16:30:00"
-    },
-    {
-      "data": "27/11",
-      "dia_semana": "sexta",
-      "hora": "18:30",
       "navio": "SINAR SUMATERA",
       "calado": "7,70",
       "manobra": "S",
@@ -147,7 +131,55 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-27T18:30:00"
+      "timestamp": "2026-11-27T11:00:00"
+    },
+    {
+      "data": "27/11",
+      "dia_semana": "sexta",
+      "hora": "15:00",
+      "navio": "MSC ADELE",
+      "calado": "14,30",
+      "manobra": "S",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1016692",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-27T15:00:00"
+    },
+    {
+      "data": "27/11",
+      "dia_semana": "sexta",
+      "hora": "17:00",
+      "navio": "MSC LETICIA X",
+      "calado": "14,20",
+      "manobra": "E",
+      "beco": "TECONT3",
+      "status": "futuro",
+      "imo": "1031197",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-27T17:00:00"
+    },
+    {
+      "data": "27/11",
+      "dia_semana": "sexta",
+      "hora": "19:30",
+      "navio": "GRANDE GUINEA",
+      "calado": "9,10",
+      "manobra": "S",
+      "beco": "TECONT5",
+      "status": "futuro",
+      "imo": "9437919",
+      "tipo_navio": "RO-RO CARGO SHIP",
+      "icone": "https://i.ibb.co/ymWQg66b/offshoer.png",
+      "alerta": null,
+      "terminal": "multi",
+      "timestamp": "2026-11-27T19:30:00"
     },
     {
       "data": "28/11",
@@ -168,7 +200,23 @@
     {
       "data": "28/11",
       "dia_semana": "sábado",
-      "hora": "06:00",
+      "hora": "12:00",
+      "navio": "MAERSK EVERGLADES",
+      "calado": "11,60",
+      "manobra": "E",
+      "beco": "TECONTPROLONG",
+      "status": "futuro",
+      "imo": "9928205",
+      "tipo_navio": "CONTAINER SHIP",
+      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
+      "alerta": null,
+      "terminal": "rio",
+      "timestamp": "2026-11-28T12:00:00"
+    },
+    {
+      "data": "28/11",
+      "dia_semana": "sábado",
+      "hora": "16:30",
       "navio": "MSC LETICIA X",
       "calado": "12,60",
       "manobra": "S",
@@ -179,39 +227,23 @@
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
       "terminal": "multi",
-      "timestamp": "2026-11-28T06:00:00"
-    },
-    {
-      "data": "28/11",
-      "dia_semana": "sábado",
-      "hora": "08:00",
-      "navio": "MSC ADELE",
-      "calado": "14,00",
-      "manobra": "E",
-      "beco": "TECONT3",
-      "status": "futuro",
-      "imo": "1016692",
-      "tipo_navio": "CONTAINER SHIP",
-      "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
-      "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-28T08:00:00"
+      "timestamp": "2026-11-28T16:30:00"
     },
     {
       "data": "29/11",
       "dia_semana": "domingo",
-      "hora": "06:00",
-      "navio": "MSC ADELE",
-      "calado": "14,30",
+      "hora": "00:00",
+      "navio": "MAERSK EVERGLADES",
+      "calado": "12,50",
       "manobra": "S",
-      "beco": "TECONT3",
+      "beco": "TECONTPROLONG",
       "status": "futuro",
-      "imo": "1016692",
+      "imo": "9928205",
       "tipo_navio": "CONTAINER SHIP",
       "icone": "https://i.ibb.co/cX1DXDhW/icon-container.png",
       "alerta": null,
-      "terminal": "multi",
-      "timestamp": "2026-11-29T06:00:00"
+      "terminal": "rio",
+      "timestamp": "2026-11-29T00:00:00"
     },
     {
       "data": "29/11",
@@ -406,5 +438,15 @@
       "timestamp": "2026-12-12T07:00:00"
     }
   ],
-  "conflitos": []
+  "conflitos": [
+    {
+      "navio_rio": "MAERSK EVERGLADES",
+      "manobra_rio_afetada": "E",
+      "manobra_rio_inicio": "28/11 12:00",
+      "manobra_rio_fim": "29/11 00:00",
+      "navio_multi": "MSC LETICIA X",
+      "manobra_multi_tipo": "S",
+      "manobra_multi_data_hora": "28/11 16:30"
+    }
+  ]
 }
