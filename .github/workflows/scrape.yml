@@ -1,12 +1,9 @@
 name: Scrape and Deploy
 
+# O deploy e o scraping agora são gerenciados diretamente pelo Render (Web Service).
+# O workflow abaixo fica apenas com acionamento manual (workflow_dispatch) caso necessário.
 on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes
-  workflow_dispatch:      # Allows manual run
+  workflow_dispatch:      # Permite execução manual se desejado
 
 # Permissions required for committing data and deploying to pages
 permissions:

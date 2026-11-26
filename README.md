@@ -60,6 +60,33 @@ praticagem_dashboard/
 
 ---
 
+## 🚀 Hospedagem no Render (Web Service Gratuito)
+
+Este projeto está configurado para rodar no **Render** em um único Web Service gratuito (FastAPI + React), com o scraper executando em segundo plano.
+
+### 1. Como fazer o deploy no Render
+1. Acesse [render.com](https://render.com) e conecte sua conta do GitHub.
+2. Clique em **New +** > **Web Service**.
+3. Selecione o repositório `praticagem_dashboard`.
+4. Preencha as configurações:
+   - **Language:** `Python`
+   - **Build Command:** `npm install && npm run build && pip install -r requirements.txt`
+   - **Start Command:** `uvicorn server:app --host 0.0.0.0 --port $PORT`
+   - **Plan:** `Free`
+5. Clique em **Deploy Web Service**.
+
+### 2. Configurar o UptimeRobot (Robô para manter acordado sem custo)
+Para o serviço não dormir após 15 minutos e continuar dentro das 750 horas grátis:
+1. Crie uma conta gratuita em [uptimerobot.com](https://uptimerobot.com).
+2. Clique em **Add New Monitor**:
+   - **Monitor Type:** `HTTP(s)`
+   - **Friendly Name:** `Praticagem Dashboard`
+   - **URL:** `https://seu-app.onrender.com/healthz` (ou a URL principal)
+   - **Monitoring Interval:** `14 minutes` (ou 10 minutos)
+3. Salve o monitor. O robô manterá seu serviço sempre ativo e os dados atualizados a cada 5 minutos!
+
+---
+
 ## 🛠️ Como Executar Localmente (No seu PC)
 
 Se precisar mexer no código ou testar mudanças antes de subir:

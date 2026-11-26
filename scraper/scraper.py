@@ -217,7 +217,7 @@ def detectar_conflitos(navios_rio_manobras, navios_multi_manobras):
                     })
     return conflitos
 
-def main():
+def scrape_data():
     print("Obtendo manobras...")
     all_navios_raw = get_all_navios_manobras()
     
@@ -257,7 +257,11 @@ def main():
         print("Dados salvos em public/data.json com sucesso.")
     except Exception as e:
         print(f"Erro ao salvar JSON: {e}", file=sys.stderr)
-        sys.exit(1)
+        
+    return output_data
+
+def main():
+    scrape_data()
 
 if __name__ == "__main__":
     main()
