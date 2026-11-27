@@ -70,7 +70,7 @@ Este projeto está configurado para rodar no **Render** em um único Web Service
 3. Selecione o repositório `praticagem_dashboard`.
 4. Preencha as configurações:
    - **Language:** `Python`
-   - **Build Command:** `npm install && npm run build && pip install -r requirements.txt`
+   - **Build Command:** `npm install && chmod -R +x node_modules/.bin && npm run build && pip install -r requirements.txt`
    - **Start Command:** `uvicorn server:app --host 0.0.0.0 --port $PORT`
    - **Plan:** `Free`
 5. Clique em **Deploy Web Service**.
